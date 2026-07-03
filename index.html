@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Amulet — Tarot Journal</title>
+<meta name="description" content="A tarot journal for readers with a deck. You pull the cards. This keeps them.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300;0,400;1,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --noir: #0B0908; --surface: #141110; --hairline: #26211D;
+    --bone: #F4EEE2; --dim: #8E877B; --faint: #4A453E;
+    --vermilion: #FF4B2E; --lemon: #FFD43A; --cobalt: #2E5BFF;
+    --rose: #FF7AC0; --leaf: #29A35C;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: var(--noir); color: var(--bone);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    min-height: 100svh; display: flex; flex-direction: column;
+    align-items: center; justify-content: center; padding: 48px 24px;
+  }
+  .eyebrow {
+    font-size: 11px; letter-spacing: 3px; color: var(--dim);
+    text-transform: uppercase; margin-bottom: 28px;
+  }
+  h1 {
+    font-family: "Cormorant", serif; font-weight: 300;
+    font-size: clamp(56px, 12vw, 96px); letter-spacing: 10px;
+    text-indent: 10px; margin-bottom: 18px;
+  }
+  .tagline {
+    font-family: "Cormorant", serif; font-style: italic; font-weight: 400;
+    font-size: 22px; color: var(--dim); text-align: center; line-height: 1.5;
+    margin-bottom: 40px;
+  }
+  .dots { display: flex; gap: 10px; margin-bottom: 40px; }
+  .dots span { width: 6px; height: 6px; border-radius: 50%; }
+  .soon {
+    font-size: 12px; letter-spacing: 2.5px; color: var(--faint);
+    text-transform: uppercase; margin-bottom: 64px;
+  }
+  footer {
+    display: flex; gap: 24px; font-size: 12px; letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+  footer a { color: var(--faint); text-decoration: none; }
+  footer a:hover { color: var(--dim); }
+</style>
+</head>
+<body>
+  <p class="eyebrow">A Tarot Journal</p>
+  <h1>AMULET</h1>
+  <p class="tagline">You pull the cards.<br>This keeps them.</p>
+  <div class="dots" aria-hidden="true">
+    <span style="background:var(--vermilion)"></span>
+    <span style="background:var(--lemon)"></span>
+    <span style="background:var(--cobalt)"></span>
+    <span style="background:var(--rose)"></span>
+    <span style="background:var(--leaf)"></span>
+  </div>
+  <p class="soon">Coming soon to the App Store</p>
+  <footer>
+    <a href="/privacy/">Privacy</a>
+    <a href="/terms/">Terms</a>
+    <a href="mailto:estherpsarasua@gmail.com">Contact</a>
+  </footer>
+</body>
+</html>
