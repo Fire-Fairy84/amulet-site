@@ -3,69 +3,1058 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Amulet — Tarot Journal</title>
-<meta name="description" content="A tarot journal for readers with a deck. You pull the cards. This keeps them.">
+<meta name="theme-color" content="#0b0908">
+<title>Amulet - A private tarot journal for your own deck</title>
+<meta name="description" content="Amulet is a private tarot journal for readers with a physical deck. Log spreads, notice patterns, and keep every reading on your iPhone and iCloud.">
+<link rel="icon" href="/assets/app-icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300;0,400;1,400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300;0,400;1,400&amp;family=Hanken+Grotesk:wght@300;400;500&amp;display=swap" rel="stylesheet">
 <style>
   :root {
-    --noir: #0B0908; --surface: #141110; --hairline: #26211D;
-    --bone: #F4EEE2; --dim: #8E877B; --faint: #4A453E;
-    --vermilion: #FF4B2E; --lemon: #FFD43A; --cobalt: #2E5BFF;
-    --rose: #FF7AC0; --leaf: #29A35C;
+    --noir: #0b0908;
+    --surface: #12100f;
+    --surface-raised: #171412;
+    --hairline: #2a2521;
+    --bone: #f4eee2;
+    --dim: #9a9185;
+    --faint: #5a524a;
+    --vermilion: #ff4b2e;
+    --lemon: #ffd43a;
+    --cobalt: #3563ff;
+    --rose: #ff7ac0;
+    --leaf: #29a35c;
+    --silver: #bbc0c8;
+    --max: 1240px;
   }
-  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  * { box-sizing: border-box; }
+
+  html {
+    scroll-behavior: smooth;
+    background: var(--noir);
+  }
+
   body {
-    background: var(--noir); color: var(--bone);
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-    min-height: 100svh; display: flex; flex-direction: column;
-    align-items: center; justify-content: center; padding: 48px 24px;
+    margin: 0;
+    background: var(--noir);
+    color: var(--bone);
+    font-family: "Hanken Grotesk", sans-serif;
+    font-weight: 300;
+    line-height: 1.5;
+    overflow-x: hidden;
   }
+
+  img { display: block; max-width: 100%; }
+  a { color: inherit; }
+
+  .skip-link {
+    position: fixed;
+    z-index: 100;
+    top: 12px;
+    left: 12px;
+    transform: translateY(-160%);
+    padding: 10px 14px;
+    background: var(--bone);
+    color: var(--noir);
+    text-decoration: none;
+    border-radius: 4px;
+  }
+
+  .skip-link:focus { transform: translateY(0); }
+
+  .site-header {
+    position: absolute;
+    z-index: 20;
+    top: 0;
+    left: 50%;
+    width: min(calc(100% - 48px), var(--max));
+    height: 88px;
+    transform: translateX(-50%);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid rgba(244, 238, 226, 0.12);
+  }
+
+  .brand {
+    font-family: "Cormorant", serif;
+    font-size: 24px;
+    font-weight: 400;
+    text-decoration: none;
+  }
+
+  .nav {
+    display: flex;
+    align-items: center;
+    gap: 28px;
+    font-size: 13px;
+  }
+
+  .nav a {
+    color: var(--dim);
+    text-decoration: none;
+    transition: color 180ms ease;
+  }
+
+  .nav a:hover,
+  .nav a:focus-visible { color: var(--bone); }
+
+  .launch-status {
+    display: inline-flex;
+    align-items: center;
+    gap: 9px;
+    color: var(--bone);
+  }
+
+  .launch-status::before {
+    content: "";
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--vermilion);
+  }
+
+  .hero {
+    position: relative;
+    height: 92svh;
+    min-height: 720px;
+    max-height: 900px;
+    overflow: hidden;
+    border-bottom: 1px solid var(--hairline);
+  }
+
+  .hero-inner {
+    position: relative;
+    width: min(calc(100% - 48px), var(--max));
+    height: 100%;
+    margin: 0 auto;
+  }
+
+  .hero-copy {
+    position: relative;
+    z-index: 4;
+    width: min(56%, 670px);
+    padding-top: 168px;
+  }
+
   .eyebrow {
-    font-size: 11px; letter-spacing: 3px; color: var(--dim);
-    text-transform: uppercase; margin-bottom: 28px;
-  }
-  h1 {
-    font-family: "Cormorant", serif; font-weight: 300;
-    font-size: clamp(56px, 12vw, 96px); letter-spacing: 10px;
-    text-indent: 10px; margin-bottom: 18px;
-  }
-  .tagline {
-    font-family: "Cormorant", serif; font-style: italic; font-weight: 400;
-    font-size: 22px; color: var(--dim); text-align: center; line-height: 1.5;
-    margin-bottom: 40px;
-  }
-  .dots { display: flex; gap: 10px; margin-bottom: 40px; }
-  .dots span { width: 6px; height: 6px; border-radius: 50%; }
-  .soon {
-    font-size: 12px; letter-spacing: 2.5px; color: var(--faint);
-    text-transform: uppercase; margin-bottom: 64px;
-  }
-  footer {
-    display: flex; gap: 24px; font-size: 12px; letter-spacing: 2px;
+    margin: 0 0 26px;
+    color: var(--dim);
+    font-size: 12px;
+    font-weight: 400;
     text-transform: uppercase;
   }
-  footer a { color: var(--faint); text-decoration: none; }
-  footer a:hover { color: var(--dim); }
+
+  .hero h1 {
+    margin: 0;
+    font-family: "Cormorant", serif;
+    font-size: 112px;
+    font-weight: 300;
+    line-height: 0.86;
+  }
+
+  .hero-line {
+    margin: 30px 0 0;
+    font-family: "Cormorant", serif;
+    font-size: 45px;
+    font-weight: 300;
+    line-height: 1.05;
+  }
+
+  .hero-line em {
+    color: var(--dim);
+    font-weight: 400;
+  }
+
+  .hero-intro {
+    width: min(100%, 510px);
+    margin: 32px 0 0;
+    color: var(--dim);
+    font-size: 17px;
+    line-height: 1.65;
+  }
+
+  .text-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    margin-top: 34px;
+    padding-bottom: 7px;
+    border-bottom: 1px solid var(--faint);
+    color: var(--bone);
+    font-size: 14px;
+    text-decoration: none;
+    transition: border-color 180ms ease, gap 180ms ease;
+  }
+
+  .text-link:hover,
+  .text-link:focus-visible {
+    gap: 17px;
+    border-color: var(--bone);
+  }
+
+  .hero-screen {
+    position: absolute;
+    z-index: 2;
+    top: 180px;
+    right: 46px;
+    width: min(27vw, 340px);
+    aspect-ratio: 1320 / 2868;
+    margin: 0;
+    border: 1px solid rgba(244, 238, 226, 0.18);
+    border-radius: 40px;
+    overflow: hidden;
+    background: #000;
+    box-shadow: 0 34px 90px rgba(0, 0, 0, 0.52);
+  }
+
+  .hero-screen img,
+  .gallery-window img,
+  .screen-frame img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: top center;
+  }
+
+  .hero-screen::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    border: 7px solid rgba(11, 9, 8, 0.68);
+    border-radius: inherit;
+    pointer-events: none;
+  }
+
+  .pigment-index {
+    position: absolute;
+    z-index: 3;
+    right: min(30vw, 402px);
+    bottom: 54px;
+    display: grid;
+    gap: 10px;
+  }
+
+  .pigment-index span {
+    display: block;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+  }
+
+  .principles {
+    border-bottom: 1px solid var(--hairline);
+  }
+
+  .principles-inner {
+    width: min(calc(100% - 48px), var(--max));
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .principle {
+    min-height: 150px;
+    padding: 38px 42px;
+    border-right: 1px solid var(--hairline);
+  }
+
+  .principle:first-child { padding-left: 0; }
+  .principle:last-child { border-right: 0; }
+
+  .principle strong {
+    display: block;
+    margin-bottom: 8px;
+    font-family: "Cormorant", serif;
+    font-size: 25px;
+    font-weight: 400;
+  }
+
+  .principle span {
+    color: var(--dim);
+    font-size: 15px;
+  }
+
+  .section {
+    width: min(calc(100% - 48px), var(--max));
+    margin: 0 auto;
+    padding: 150px 0;
+  }
+
+  .section-header {
+    display: grid;
+    grid-template-columns: minmax(0, 1.25fr) minmax(280px, 0.75fr);
+    gap: 80px;
+    align-items: end;
+    margin-bottom: 74px;
+  }
+
+  .section-kicker {
+    display: block;
+    margin-bottom: 20px;
+    color: var(--faint);
+    font-size: 12px;
+    font-weight: 400;
+    text-transform: uppercase;
+  }
+
+  .section h2,
+  .privacy h2,
+  .closing h2 {
+    margin: 0;
+    font-family: "Cormorant", serif;
+    font-size: 68px;
+    font-weight: 300;
+    line-height: 0.98;
+  }
+
+  .section-description {
+    margin: 0;
+    color: var(--dim);
+    font-size: 17px;
+    line-height: 1.7;
+  }
+
+  .gallery-window {
+    position: relative;
+    width: min(100%, 300px);
+    aspect-ratio: 1320 / 2868;
+    overflow: hidden;
+    border: 1px solid rgba(244, 238, 226, 0.15);
+    border-radius: 42px;
+    background: #000;
+    box-shadow: 0 28px 72px rgba(0, 0, 0, 0.34);
+  }
+
+  .gallery-window img {
+    transform: none;
+  }
+
+  .gallery-caption {
+    width: min(100%, 300px);
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 32px;
+    margin: 0 auto;
+    padding-top: 18px;
+    color: var(--faint);
+    font-size: 12px;
+  }
+
+  .feature-band {
+    border-bottom: 1px solid var(--hairline);
+    background: var(--surface);
+  }
+
+  .section + .feature-band {
+    border-top: 1px solid var(--hairline);
+  }
+
+  .feature-band-inner {
+    width: min(calc(100% - 48px), var(--max));
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: minmax(420px, 1.28fr) minmax(300px, 0.72fr);
+    gap: 78px;
+    align-items: center;
+    padding: 110px 0;
+  }
+
+  .screen-frame {
+    position: relative;
+    width: min(100%, 340px);
+    aspect-ratio: 1320 / 2868;
+    justify-self: center;
+    border: 1px solid rgba(244, 238, 226, 0.15);
+    border-radius: 45px;
+    overflow: hidden;
+    background: #000;
+    box-shadow: 0 28px 72px rgba(0, 0, 0, 0.36);
+  }
+
+  .deck-showcase {
+    position: relative;
+    min-height: 720px;
+    display: grid;
+    grid-template-columns: minmax(300px, 0.78fr) minmax(520px, 1.22fr);
+    align-items: center;
+    gap: 110px;
+    padding: 0;
+  }
+
+  .deck-visual {
+    justify-self: center;
+    align-self: center;
+  }
+
+  .deck-content {
+    align-self: center;
+  }
+
+  .deck-content .section-description {
+    width: min(100%, 560px);
+    margin-top: 32px;
+  }
+
+  .deck-context {
+    max-width: 520px;
+    margin-top: 72px;
+  }
+
+  .deck-context h3 {
+    margin: 0;
+    font-family: "Cormorant", serif;
+    font-size: 38px;
+    font-weight: 300;
+    line-height: 1.08;
+  }
+
+  .deck-context p {
+    margin: 24px 0 0;
+    color: var(--dim);
+    font-size: 16px;
+    line-height: 1.7;
+  }
+
+  .deck-points {
+    margin: 42px 0 0;
+    padding: 0;
+    list-style: none;
+    border-top: 1px solid var(--hairline);
+  }
+
+  .deck-points li {
+    display: grid;
+    grid-template-columns: 72px 1fr;
+    gap: 22px;
+    padding: 18px 0;
+    border-bottom: 1px solid var(--hairline);
+  }
+
+  .deck-points span {
+    color: var(--faint);
+    font-size: 12px;
+    text-transform: uppercase;
+  }
+
+  .deck-points strong {
+    color: var(--bone);
+    font-size: 15px;
+    font-weight: 400;
+  }
+
+  .screen-frame::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    border: 6px solid rgba(11, 9, 8, 0.72);
+    border-radius: inherit;
+    pointer-events: none;
+  }
+
+  .feature-copy .section-kicker { margin-bottom: 30px; }
+
+  .feature-copy h2 {
+    margin: 0;
+    font-family: "Cormorant", serif;
+    font-size: 74px;
+    font-weight: 300;
+    line-height: 0.98;
+  }
+
+  .feature-copy > p:not(.eyebrow) {
+    width: min(100%, 520px);
+    margin: 32px 0 0;
+    color: var(--dim);
+    font-size: 17px;
+    line-height: 1.7;
+  }
+
+  .feature-notes {
+    margin: 44px 0 0;
+    padding: 0;
+    list-style: none;
+    border-top: 1px solid var(--hairline);
+  }
+
+  .feature-notes li {
+    display: grid;
+    grid-template-columns: 18px 1fr;
+    gap: 14px;
+    padding: 15px 0;
+    border-bottom: 1px solid var(--hairline);
+    color: var(--bone);
+    font-size: 14px;
+  }
+
+  .feature-notes i {
+    width: 6px;
+    height: 6px;
+    margin-top: 8px;
+    border-radius: 50%;
+    background: var(--cobalt);
+  }
+
+  .feature-band.media-left .feature-band-inner {
+    grid-template-columns: minmax(300px, 0.72fr) minmax(420px, 1.28fr);
+  }
+
+  .feature-band.media-right .screen-frame {
+    justify-self: center;
+  }
+
+  .quote {
+    margin: 42px 0 0;
+    padding-left: 22px;
+    border-left: 1px solid var(--cobalt);
+    font-family: "Cormorant", serif;
+    font-size: 29px;
+    font-style: italic;
+    line-height: 1.25;
+  }
+
+  .quote cite {
+    display: block;
+    margin-top: 12px;
+    color: var(--faint);
+    font-family: "Hanken Grotesk", sans-serif;
+    font-size: 12px;
+    font-style: normal;
+  }
+
+  .privacy {
+    width: min(calc(100% - 48px), var(--max));
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: minmax(360px, 0.92fr) minmax(500px, 1.08fr);
+    gap: 72px;
+    align-items: center;
+    padding: 132px 0;
+  }
+
+  .privacy-heading {
+    margin: 0;
+  }
+
+  .privacy-heading p {
+    margin: 28px 0 0;
+    color: var(--dim);
+    font-size: 17px;
+    line-height: 1.7;
+  }
+
+  .privacy-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    border-top: 1px solid var(--hairline);
+    border-bottom: 1px solid var(--hairline);
+  }
+
+  .privacy-item {
+    min-height: 190px;
+    padding: 26px 26px;
+    border-right: 1px solid var(--hairline);
+  }
+
+  .privacy-item:first-child { padding-left: 0; }
+  .privacy-item:nth-child(2),
+  .privacy-item:last-child { border-right: 0; }
+
+  .privacy-item:nth-child(-n+2) {
+    border-bottom: 1px solid var(--hairline);
+  }
+
+  .privacy-item:nth-child(3) {
+    padding-left: 0;
+  }
+
+  .privacy-item .mark {
+    display: block;
+    width: 12px;
+    height: 12px;
+    margin-bottom: 54px;
+    border: 2px solid currentColor;
+    border-radius: 50%;
+  }
+
+  .privacy-item h3 {
+    margin: 0 0 10px;
+    font-family: "Cormorant", serif;
+    font-size: 24px;
+    font-weight: 400;
+  }
+
+  .privacy-item p {
+    margin: 0;
+    color: var(--dim);
+    font-size: 13px;
+    line-height: 1.65;
+  }
+
+  .closing {
+    position: relative;
+    min-height: 590px;
+    display: grid;
+    place-items: center;
+    overflow: hidden;
+    border-top: 1px solid var(--hairline);
+    background: var(--surface-raised);
+    text-align: center;
+  }
+
+  .closing-inner {
+    position: relative;
+    z-index: 2;
+    width: min(calc(100% - 48px), 760px);
+    padding: 110px 0;
+  }
+
+  .closing h2 { font-size: 82px; }
+
+  .closing p {
+    margin: 26px auto 0;
+    color: var(--dim);
+    font-size: 17px;
+  }
+
+  .color-line {
+    width: min(420px, 72vw);
+    height: 1px;
+    margin: 48px auto 0;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+  }
+
+  .color-line span:nth-child(1) { background: var(--vermilion); }
+  .color-line span:nth-child(2) { background: var(--lemon); }
+  .color-line span:nth-child(3) { background: var(--cobalt); }
+  .color-line span:nth-child(4) { background: var(--rose); }
+  .color-line span:nth-child(5) { background: var(--leaf); }
+
+  .site-footer {
+    width: min(calc(100% - 48px), var(--max));
+    min-height: 130px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 32px;
+    color: var(--faint);
+    font-size: 12px;
+  }
+
+  .footer-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+  }
+
+  .footer-links a {
+    text-decoration: none;
+    transition: color 180ms ease;
+  }
+
+  .footer-links a:hover,
+  .footer-links a:focus-visible { color: var(--bone); }
+
+  .hero-copy {
+    animation: intro-in 800ms 100ms both ease-out;
+  }
+
+  .hero-screen {
+    animation: screen-in 1000ms 180ms both cubic-bezier(.2, .75, .2, 1);
+  }
+
+  @keyframes intro-in {
+    from { opacity: 0; transform: translateY(18px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  @keyframes screen-in {
+    from { opacity: 0; transform: translateY(54px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  @media (max-width: 980px) {
+    .nav a:not(.launch-status) { display: none; }
+
+    .hero-copy { width: 58%; }
+    .hero h1 { font-size: 92px; }
+    .hero-line { font-size: 38px; }
+
+    .hero-screen {
+      right: -8px;
+      width: 300px;
+    }
+
+    .pigment-index { display: none; }
+
+    .section-header {
+      grid-template-columns: 1fr;
+      gap: 28px;
+    }
+
+    .feature-band-inner,
+    .feature-band.media-left .feature-band-inner {
+      grid-template-columns: minmax(280px, 0.78fr) minmax(340px, 1.22fr);
+      gap: 56px;
+    }
+
+    .feature-copy h2 { font-size: 60px; }
+
+    .privacy {
+      grid-template-columns: 1fr;
+      gap: 58px;
+    }
+
+    .deck-showcase {
+      grid-template-columns: minmax(260px, 0.75fr) minmax(420px, 1.25fr);
+      gap: 48px;
+      min-height: 640px;
+    }
+  }
+
+  @media (max-width: 720px) {
+    .site-header {
+      width: calc(100% - 32px);
+      height: 72px;
+    }
+
+    .nav { font-size: 12px; }
+
+    .hero {
+      height: 94svh;
+      min-height: 770px;
+      max-height: 880px;
+    }
+
+    .hero-inner { width: calc(100% - 32px); }
+
+    .hero-copy {
+      width: 100%;
+      padding-top: 116px;
+    }
+
+    .eyebrow,
+    .section-kicker { margin-bottom: 18px; }
+    .hero h1 { font-size: 72px; }
+
+    .hero-line {
+      margin-top: 18px;
+      font-size: 35px;
+    }
+
+    .hero-intro {
+      width: 86%;
+      margin-top: 20px;
+      font-size: 15px;
+      line-height: 1.55;
+    }
+
+    .text-link { margin-top: 22px; }
+
+    .hero .text-link { display: none; }
+
+    .hero-screen {
+      top: 390px;
+      right: 4px;
+      width: min(58vw, 220px);
+      border-radius: 30px;
+    }
+
+    .hero-screen::after { border-width: 5px; }
+
+    .principles-inner {
+      width: calc(100% - 32px);
+      grid-template-columns: 1fr;
+    }
+
+    .principle,
+    .principle:first-child {
+      min-height: 0;
+      padding: 27px 0;
+      border-right: 0;
+      border-bottom: 1px solid var(--hairline);
+    }
+
+    .principle:last-child { border-bottom: 0; }
+
+    .section,
+    .privacy {
+      width: calc(100% - 32px);
+      padding: 96px 0;
+    }
+
+    .section-header { margin-bottom: 44px; }
+
+    .section h2,
+    .privacy h2,
+    .closing h2 { font-size: 48px; }
+
+    .section-description,
+    .privacy-heading p { font-size: 15px; }
+
+    .deck-showcase {
+      min-height: 0;
+      grid-template-columns: 1fr;
+      gap: 38px;
+      padding: 40px 0;
+    }
+
+    .deck-visual {
+      order: 2;
+      justify-self: center;
+    }
+
+    .deck-content { order: 1; }
+    .deck-content .section-description { margin-top: 22px; }
+    .deck-context { margin-top: 46px; }
+    .deck-context h3 { font-size: 32px; }
+    .deck-context p { font-size: 15px; }
+    .deck-points { margin-top: 30px; }
+    .deck-points li { grid-template-columns: 64px 1fr; }
+
+    .gallery-window {
+      width: min(72vw, 270px);
+      border-radius: 37px;
+    }
+
+    .gallery-window img {
+      transform: none;
+    }
+
+    .gallery-caption { display: none; }
+
+    .feature-band-inner,
+    .feature-band.media-left .feature-band-inner {
+      width: calc(100% - 32px);
+      grid-template-columns: 1fr;
+      gap: 58px;
+      padding: 92px 0;
+    }
+
+    .screen-frame,
+    .feature-band.media-right .screen-frame {
+      width: min(82vw, 330px);
+      justify-self: center;
+      border-radius: 37px;
+    }
+
+    .feature-copy h2 { font-size: 52px; }
+    .feature-copy > p:not(.eyebrow) { font-size: 15px; }
+
+    .privacy-heading { margin-bottom: 0; }
+    .privacy-grid { grid-template-columns: 1fr; }
+
+    .privacy-item,
+    .privacy-item:first-child,
+    .privacy-item:nth-child(3) {
+      min-height: 0;
+      padding: 28px 0;
+      border-right: 0;
+      border-bottom: 1px solid var(--hairline);
+    }
+
+    .privacy-item:last-child { border-bottom: 0; }
+    .privacy-item .mark { margin-bottom: 26px; }
+
+    .closing { min-height: 510px; }
+    .closing-inner { padding: 84px 0; }
+
+    .site-footer {
+      width: calc(100% - 32px);
+      min-height: 160px;
+      flex-direction: column;
+      align-items: flex-start;
+      justify-content: center;
+      gap: 18px;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html { scroll-behavior: auto; }
+    *, *::before, *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
 </style>
 </head>
 <body>
-  <p class="eyebrow">A Tarot Journal</p>
-  <h1>AMULET</h1>
-  <p class="tagline">You pull the cards.<br>This keeps them.</p>
-  <div class="dots" aria-hidden="true">
-    <span style="background:var(--vermilion)"></span>
-    <span style="background:var(--lemon)"></span>
-    <span style="background:var(--cobalt)"></span>
-    <span style="background:var(--rose)"></span>
-    <span style="background:var(--leaf)"></span>
-  </div>
-  <p class="soon">Coming soon to the App Store</p>
-  <footer>
+<a class="skip-link" href="#main">Skip to content</a>
+
+<header class="site-header" aria-label="Main navigation">
+  <a class="brand" href="#top" aria-label="Amulet home">AMULET</a>
+  <nav class="nav" aria-label="Primary">
+    <a href="#practice">Practice</a>
+    <a href="#patterns">Patterns</a>
+    <a href="#privacy">Privacy</a>
+    <a class="launch-status" href="#launch">Coming soon</a>
+  </nav>
+</header>
+
+<main id="main">
+  <section class="hero" id="top" aria-labelledby="hero-title">
+    <div class="hero-inner">
+      <div class="hero-copy">
+        <p class="eyebrow">A tarot journal for readers with a deck</p>
+        <h1 id="hero-title">AMULET</h1>
+        <p class="hero-line">You pull the cards.<br><em>This keeps them.</em></p>
+        <p class="hero-intro">Log the cards on your table, keep the question that brought them there, and notice what returns. No digital deck between you and your practice.</p>
+        <a class="text-link" href="#practice">See how it works <span aria-hidden="true">&#8595;</span></a>
+      </div>
+
+      <figure class="hero-screen" aria-label="Amulet Today screen showing The Star as card of the day">
+        <img src="/assets/screens/01-today.webp" width="1320" height="2868" alt="Amulet Today screen with The Star, a four-day streak, and recent tarot spreads">
+      </figure>
+
+      <div class="pigment-index" aria-hidden="true">
+        <span style="background:var(--vermilion)"></span>
+        <span style="background:var(--lemon)"></span>
+        <span style="background:var(--cobalt)"></span>
+        <span style="background:var(--rose)"></span>
+        <span style="background:var(--leaf)"></span>
+      </div>
+    </div>
+  </section>
+
+  <section class="principles" aria-label="Amulet principles">
+    <div class="principles-inner">
+      <div class="principle">
+        <strong>Your physical deck</strong>
+        <span>The cards stay in your hands. Amulet records what you actually pull.</span>
+      </div>
+      <div class="principle">
+        <strong>Your private journal</strong>
+        <span>Questions, notes, photos, and readings stay on your devices and iCloud.</span>
+      </div>
+      <div class="principle">
+        <strong>Your patterns over time</strong>
+        <span>See the cards, suits, and reversals that keep finding their way back.</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="section deck-section" id="practice" aria-labelledby="practice-title">
+    <div class="deck-showcase reveal">
+      <div class="deck-visual">
+        <div class="gallery-window">
+          <img src="/assets/screens/04-card-library.webp" width="1320" height="2868" alt="Amulet card library showing the Major Arcana as a colorful editorial grid">
+        </div>
+        <div class="gallery-caption">
+          <span>THE 22 MAJORS / ALL 56 MINORS</span>
+          <span>UPRIGHT AND REVERSED MEANINGS</span>
+        </div>
+      </div>
+
+      <div class="deck-content">
+        <span class="section-kicker">01 / The Deck</span>
+        <h2 id="practice-title">The pictures stay<br>on your table.</h2>
+        <p class="section-description">Browse all 78 cards for structure and meaning, then record the cards you actually pulled from the deck in your hands.</p>
+
+        <div class="deck-context">
+          <h3>Meanings for reference. Your deck for the reading.</h3>
+          <p>The card library is there for reference, not replacement. Meanings, suits, numbers, and reversals stay close enough to check while the card stays on your table.</p>
+          <ul class="deck-points" aria-label="Deck structure details">
+            <li><span>78 cards</span><strong>Major and Minor Arcana in one indexed library.</strong></li>
+            <li><span>Both ways</span><strong>Upright and reversed meanings beside each card.</strong></li>
+            <li><span>Your deck</span><strong>Record the physical card you pulled, not a generated draw.</strong></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="feature-band media-right" id="patterns" aria-labelledby="patterns-title">
+    <div class="feature-band-inner">
+      <div class="feature-copy reveal">
+        <span class="section-kicker">02 / Patterns</span>
+        <h2 id="patterns-title">Your deck has<br>a memory now.</h2>
+        <p>A single reading can feel vivid. A month of readings starts to reveal a language: the card that returned, the suit that took over, the reversals that would not resolve.</p>
+        <ul class="feature-notes" aria-label="Pattern features">
+          <li><i aria-hidden="true"></i><span>Monthly cards, suits, majors, and reversals</span></li>
+          <li><i aria-hidden="true" style="background:var(--lemon)"></i><span>First appearances and recurring cards</span></li>
+          <li><i aria-hidden="true" style="background:var(--vermilion)"></i><span>A shareable portrait of your month</span></li>
+        </ul>
+      </div>
+
+      <figure class="screen-frame reveal">
+        <img src="/assets/screens/03-patterns.webp" width="1320" height="2868" alt="Amulet Patterns screen showing The Star as the recurring card of the month">
+      </figure>
+    </div>
+  </section>
+
+  <section class="feature-band media-left meaning-band" aria-labelledby="meaning-title">
+    <div class="feature-band-inner">
+      <figure class="screen-frame reveal">
+        <img src="/assets/screens/05-card-detail.webp" width="1320" height="2868" alt="The Star card detail in Amulet with meanings and four appearances in the reader's practice">
+      </figure>
+
+      <div class="feature-copy reveal">
+        <span class="section-kicker">03 / Meanings</span>
+        <h2 id="meaning-title">No guidebook knows<br>your history.</h2>
+        <p>Every card holds its upright and reversed meaning beside the one thing a printed guide cannot contain: when it last crossed your table, and what you were asking.</p>
+        <blockquote class="quote">
+          Quiet repair after the storm; water poured back.
+          <cite>THE STAR / UPRIGHT</cite>
+        </blockquote>
+      </div>
+    </div>
+  </section>
+
+  <section class="privacy" id="privacy" aria-labelledby="privacy-title">
+    <div class="privacy-heading reveal">
+      <div>
+        <span class="section-kicker">04 / Privacy</span>
+        <h2 id="privacy-title">A private place<br>for private questions.</h2>
+      </div>
+      <p>Your tarot journal should not become someone else's dataset. Amulet is built around local storage, your private iCloud, and on-device intelligence.</p>
+    </div>
+
+    <div class="privacy-grid reveal">
+      <article class="privacy-item" style="color:var(--vermilion)">
+        <span class="mark" aria-hidden="true"></span>
+        <h3 style="color:var(--bone)">No account</h3>
+        <p>No profile to create and no email address to hand over.</p>
+      </article>
+      <article class="privacy-item" style="color:var(--lemon)">
+        <span class="mark" aria-hidden="true"></span>
+        <h3 style="color:var(--bone)">Private iCloud</h3>
+        <p>Your journal syncs through the Apple account you already trust.</p>
+      </article>
+      <article class="privacy-item" style="color:var(--cobalt)">
+        <span class="mark" aria-hidden="true"></span>
+        <h3 style="color:var(--bone)">On-device intelligence</h3>
+        <p>Apple Intelligence can weave a reading without sending it away.</p>
+      </article>
+      <article class="privacy-item" style="color:var(--leaf)">
+        <span class="mark" aria-hidden="true"></span>
+        <h3 style="color:var(--bone)">One purchase</h3>
+        <p>No subscription and no advertising inside your practice.</p>
+      </article>
+    </div>
+  </section>
+
+  <section class="closing" id="launch" aria-labelledby="launch-title">
+    <div class="closing-inner reveal">
+      <span class="section-kicker">05 / Coming Soon</span>
+      <h2 id="launch-title">Bring your deck.<br>Keep what it says.</h2>
+      <p>Amulet is being prepared for iPhone.</p>
+      <div class="color-line" aria-hidden="true"><span></span><span></span><span></span><span></span><span></span></div>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <span>AMULET / TAROT JOURNAL</span>
+  <div class="footer-links">
     <a href="/privacy/">Privacy</a>
     <a href="/terms/">Terms</a>
     <a href="mailto:esthersarasua.dev@gmail.com">Contact</a>
-  </footer>
+  </div>
+</footer>
+
 </body>
 </html>
