@@ -18,7 +18,7 @@
     --hairline: #2a2521;
     --bone: #f4eee2;
     --dim: #9a9185;
-    --faint: #5a524a;
+    --faint: #827a71;
     --vermilion: #ff4b2e;
     --lemon: #ffd43a;
     --cobalt: #3563ff;
@@ -92,6 +92,9 @@
   }
 
   .nav a {
+    min-height: 44px;
+    display: inline-flex;
+    align-items: center;
     color: var(--dim);
     text-decoration: none;
     transition: color 180ms ease;
@@ -180,7 +183,8 @@
     align-items: center;
     gap: 12px;
     margin-top: 34px;
-    padding-bottom: 7px;
+    min-height: 44px;
+    padding: 8px 0;
     border-bottom: 1px solid var(--faint);
     color: var(--bone);
     font-size: 14px;
@@ -384,11 +388,15 @@
   }
 
   .deck-visual {
+    grid-column: 1;
+    grid-row: 1 / span 2;
     justify-self: center;
     align-self: center;
   }
 
   .deck-content {
+    grid-column: 2;
+    grid-row: 1;
     align-self: center;
   }
 
@@ -398,8 +406,10 @@
   }
 
   .deck-context {
+    grid-column: 2;
+    grid-row: 2;
     max-width: 520px;
-    margin-top: 72px;
+    margin-top: 18px;
   }
 
   .deck-context h3 {
@@ -651,6 +661,9 @@
   }
 
   .footer-links a {
+    min-height: 44px;
+    display: inline-flex;
+    align-items: center;
     text-decoration: none;
     transition: color 180ms ease;
   }
@@ -716,6 +729,8 @@
   }
 
   @media (max-width: 720px) {
+    :root { --mobile-phone-width: min(82vw, 320px); }
+
     .site-header {
       width: calc(100% - 32px);
       height: 72px;
@@ -723,13 +738,23 @@
 
     .nav { font-size: 12px; }
 
-    .hero {
-      height: 94svh;
-      min-height: 770px;
-      max-height: 880px;
+    .brand {
+      min-height: 44px;
+      display: inline-flex;
+      align-items: center;
     }
 
-    .hero-inner { width: calc(100% - 32px); }
+    .hero {
+      height: auto;
+      min-height: 0;
+      max-height: none;
+    }
+
+    .hero-inner {
+      width: calc(100% - 32px);
+      height: auto;
+      padding-bottom: 72px;
+    }
 
     .hero-copy {
       width: 100%;
@@ -738,29 +763,29 @@
 
     .eyebrow,
     .section-kicker { margin-bottom: 18px; }
-    .hero h1 { font-size: 72px; }
+    .hero h1 { font-size: clamp(64px, 19vw, 72px); }
 
     .hero-line {
       margin-top: 18px;
-      font-size: 35px;
+      font-size: clamp(32px, 9vw, 35px);
     }
 
     .hero-intro {
-      width: 86%;
+      width: 100%;
       margin-top: 20px;
       font-size: 15px;
       line-height: 1.55;
     }
 
-    .text-link { margin-top: 22px; }
-
-    .hero .text-link { display: none; }
+    .text-link { margin-top: 18px; }
 
     .hero-screen {
-      top: 390px;
-      right: 4px;
-      width: min(58vw, 220px);
-      border-radius: 30px;
+      position: relative;
+      top: auto;
+      right: auto;
+      width: var(--mobile-phone-width);
+      margin: 42px auto 0;
+      border-radius: 38px;
     }
 
     .hero-screen::after { border-width: 5px; }
@@ -783,14 +808,14 @@
     .section,
     .privacy {
       width: calc(100% - 32px);
-      padding: 96px 0;
+      padding: 78px 0;
     }
 
-    .section-header { margin-bottom: 44px; }
+    .section-header { margin-bottom: 36px; }
 
     .section h2,
     .privacy h2,
-    .closing h2 { font-size: 48px; }
+    .closing h2 { font-size: clamp(43px, 12vw, 48px); }
 
     .section-description,
     .privacy-heading p { font-size: 15px; }
@@ -798,26 +823,39 @@
     .deck-showcase {
       min-height: 0;
       grid-template-columns: 1fr;
-      gap: 38px;
-      padding: 40px 0;
+      gap: 34px;
+      padding: 0;
     }
 
     .deck-visual {
+      grid-column: 1;
+      grid-row: 2;
       order: 2;
       justify-self: center;
     }
 
-    .deck-content { order: 1; }
+    .deck-content {
+      grid-column: 1;
+      grid-row: 1;
+      order: 1;
+    }
+
+    .deck-context {
+      grid-column: 1;
+      grid-row: 3;
+      order: 3;
+      margin-top: 8px;
+    }
+
     .deck-content .section-description { margin-top: 22px; }
-    .deck-context { margin-top: 46px; }
     .deck-context h3 { font-size: 32px; }
     .deck-context p { font-size: 15px; }
     .deck-points { margin-top: 30px; }
     .deck-points li { grid-template-columns: 64px 1fr; }
 
     .gallery-window {
-      width: min(72vw, 270px);
-      border-radius: 37px;
+      width: var(--mobile-phone-width);
+      border-radius: 38px;
     }
 
     .gallery-window img {
@@ -830,37 +868,48 @@
     .feature-band.media-left .feature-band-inner {
       width: calc(100% - 32px);
       grid-template-columns: 1fr;
-      gap: 58px;
-      padding: 92px 0;
+      gap: 42px;
+      padding: 78px 0;
     }
 
     .screen-frame,
     .feature-band.media-right .screen-frame {
-      width: min(82vw, 330px);
+      width: var(--mobile-phone-width);
       justify-self: center;
-      border-radius: 37px;
+      border-radius: 38px;
     }
 
-    .feature-copy h2 { font-size: 52px; }
+    .feature-copy h2 { font-size: clamp(44px, 12vw, 48px); }
     .feature-copy > p:not(.eyebrow) { font-size: 15px; }
 
+    .feature-copy > p:not(.eyebrow) { margin-top: 24px; }
+    .feature-notes { margin-top: 34px; }
+    .quote { margin-top: 32px; }
+
     .privacy-heading { margin-bottom: 0; }
-    .privacy-grid { grid-template-columns: 1fr; }
+    .privacy-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 
     .privacy-item,
     .privacy-item:first-child,
     .privacy-item:nth-child(3) {
-      min-height: 0;
-      padding: 28px 0;
-      border-right: 0;
-      border-bottom: 1px solid var(--hairline);
+      min-height: 190px;
+      padding: 24px 14px;
+      border-right: 1px solid var(--hairline);
     }
 
-    .privacy-item:last-child { border-bottom: 0; }
-    .privacy-item .mark { margin-bottom: 26px; }
+    .privacy-item:nth-child(odd) { padding-left: 0; }
+    .privacy-item:nth-child(even) {
+      padding-right: 0;
+      border-right: 0;
+    }
 
-    .closing { min-height: 510px; }
-    .closing-inner { padding: 84px 0; }
+    .privacy-item:nth-child(-n+2) { border-bottom: 1px solid var(--hairline); }
+    .privacy-item:nth-child(n+3) { border-bottom: 0; }
+    .privacy-item .mark { margin-bottom: 36px; }
+    .privacy-item h3 { font-size: 22px; }
+
+    .closing { min-height: 470px; }
+    .closing-inner { padding: 74px 0; }
 
     .site-footer {
       width: calc(100% - 32px);
@@ -954,15 +1003,16 @@
         <h2 id="practice-title">The pictures stay<br>on your table.</h2>
         <p class="section-description">Browse all 78 cards for structure and meaning, then record the cards you actually pulled from the deck in your hands.</p>
 
-        <div class="deck-context">
-          <h3>Meanings for reference. Your deck for the reading.</h3>
-          <p>The card library is there for reference, not replacement. Meanings, suits, numbers, and reversals stay close enough to check while the card stays on your table.</p>
-          <ul class="deck-points" aria-label="Deck structure details">
-            <li><span>78 cards</span><strong>Major and Minor Arcana in one indexed library.</strong></li>
-            <li><span>Both ways</span><strong>Upright and reversed meanings beside each card.</strong></li>
-            <li><span>Your deck</span><strong>Record the physical card you pulled, not a generated draw.</strong></li>
-          </ul>
-        </div>
+      </div>
+
+      <div class="deck-context">
+        <h3>Meanings for reference. Your deck for the reading.</h3>
+        <p>The card library is there for reference, not replacement. Meanings, suits, numbers, and reversals stay close enough to check while the card stays on your table.</p>
+        <ul class="deck-points" aria-label="Deck structure details">
+          <li><span>78 cards</span><strong>Major and Minor Arcana in one indexed library.</strong></li>
+          <li><span>Both ways</span><strong>Upright and reversed meanings beside each card.</strong></li>
+          <li><span>Your deck</span><strong>Record the physical card you pulled, not a generated draw.</strong></li>
+        </ul>
       </div>
     </div>
   </section>
