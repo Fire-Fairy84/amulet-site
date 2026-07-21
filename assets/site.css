@@ -933,5 +933,7 @@
 .store-badge img{height:48px}
 .hero-actions{display:flex;align-items:center;gap:24px;flex-wrap:wrap;margin-top:32px}
 .hero-actions .text-link{margin-top:0}
-.hero-cta{display:inline-flex;align-items:center;gap:10px;padding:13px 22px;border:1px solid var(--faint);border-radius:8px;color:var(--bone);font-size:14px;text-decoration:none;transition:border-color 180ms ease,background 180ms ease,color 180ms ease}
-.hero-cta:hover,.hero-cta:focus-visible{border-color:var(--bone);background:var(--bone);color:var(--noir)}
+.hero-cta{display:inline-flex;align-items:center;gap:11px;padding:6px 0;color:var(--bone);font-size:15px;text-decoration:none;border-bottom:1px solid var(--bone);transition:gap 180ms ease}
+.hero-cta::before{content:"";width:7px;height:7px;border-radius:50%;background:var(--vermilion);flex:none}
+.hero-cta:hover,.hero-cta:focus-visible{gap:16px}
+.hero-actions .text-link{border-color:var(--faint)}
