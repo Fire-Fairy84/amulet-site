@@ -25,7 +25,7 @@
     <a href="#patterns">Patterns</a>
     <a href="#privacy">Privacy</a>
     <a class="launch-status" href="#launch">Coming soon</a>
-    <span class="lang-pill"><b>EN</b><a href="/es/" hreflang="es">ES</a></span>
+    <a class="lang-toggle" href="/es/" hreflang="es">Español</a>
   </nav>
 </header>
 
@@ -195,7 +195,7 @@
 <script>
 (function(){try{if(localStorage.getItem('lang-choice'))return;
 if((navigator.language||'').toLowerCase().indexOf('es')===0){location.replace('https://amulet.cards/es/');}}catch(e){}})();
-document.querySelector('.lang-pill a')&&document.querySelector('.lang-pill a').addEventListener('click',function(){try{localStorage.setItem('lang-choice','1');}catch(e){}});
+document.querySelector('.lang-toggle')&&document.querySelector('.lang-toggle').addEventListener('click',function(){try{localStorage.setItem('lang-choice','1');}catch(e){}});
 </script>
 </body>
 </html>
