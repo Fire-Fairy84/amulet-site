@@ -931,6 +931,7 @@
 .store-caption{margin:12px 0 0;color:var(--faint);font-size:12px}
 
 .store-badge img{height:48px}
-.hero-badge{display:block;width:max-content;margin:30px 0 0}
-.hero-badge img{height:50px}
-.hero-copy .text-link{margin-top:20px}
+.hero-actions{display:flex;align-items:center;gap:24px;flex-wrap:wrap;margin-top:32px}
+.hero-actions .text-link{margin-top:0}
+.hero-cta{display:inline-flex;align-items:center;gap:10px;padding:13px 22px;border:1px solid var(--faint);border-radius:8px;color:var(--bone);font-size:14px;text-decoration:none;transition:border-color 180ms ease,background 180ms ease,color 180ms ease}
+.hero-cta:hover,.hero-cta:focus-visible{border-color:var(--bone);background:var(--bone);color:var(--noir)}
