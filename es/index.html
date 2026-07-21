@@ -26,7 +26,7 @@
     <a href="#patterns">Patrones</a>
     <a href="#privacy">Privacidad</a>
     <a class="launch-status" href="#launch">Próximamente</a>
-    <a class="lang-toggle" href="/" hreflang="en">English</a>
+    <span class="lang-pill"><a href="/" hreflang="en">EN</a><b>ES</b></span>
   </nav>
 </header>
 
@@ -177,6 +177,7 @@
       <span class="section-kicker">05 / Próximamente</span>
       <h2 id="launch-title">Trae tu mazo.<br>Guarda lo que dice.</h2>
       <p>Amulet se está preparando para iPhone.</p>
+      <a class="store-badge muted" href="#" aria-label="Descargar en el App Store — próximamente"><img src="/assets/app-store-badge.svg" alt="Descargar en el App Store" width="120" height="40"></a>
       <div class="color-line" aria-hidden="true"><span></span><span></span><span></span><span></span><span></span></div>
     </div>
   </section>
@@ -194,7 +195,7 @@
 <script>
 (function(){try{if(localStorage.getItem('lang-choice'))return;
 if((navigator.language||'').toLowerCase().indexOf('es')!==0){location.replace('https://amulet.cards/');}}catch(e){}})();
-document.querySelector('.lang-toggle')&&document.querySelector('.lang-toggle').addEventListener('click',function(){try{localStorage.setItem('lang-choice','1');}catch(e){}});
+document.querySelector('.lang-pill a')&&document.querySelector('.lang-pill a').addEventListener('click',function(){try{localStorage.setItem('lang-choice','1');}catch(e){}});
 </script>
 </body>
 </html>

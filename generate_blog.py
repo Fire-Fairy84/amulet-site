@@ -98,8 +98,11 @@ a{color:inherit}
 .wrap{width:min(calc(100% - 48px),var(--max));margin:0 auto}
 .site-header{display:flex;align-items:center;justify-content:space-between;height:74px;border-bottom:1px solid var(--hairline)}
 .brand{font-family:"Cormorant",serif;font-size:24px;text-decoration:none}
-.lang{font-size:13px;color:var(--dim);text-decoration:none;border-bottom:1px solid var(--hairline);padding-bottom:2px}
-.lang:hover{color:var(--bone)}
+.lang-pill{display:inline-flex;align-items:center;gap:9px;font-size:12px;letter-spacing:.06em;border:1px solid var(--hairline);border-radius:6px;padding:6px 11px}
+.lang-pill b{color:var(--bone);font-weight:500}
+.lang-pill a{color:var(--faint);text-decoration:none}.lang-pill a:hover{color:var(--bone)}
+.store-badge{display:inline-block;margin-top:6px}.store-badge img{height:46px;width:auto;display:block}
+.store-badge.muted{opacity:.45;pointer-events:none}.cta .soon{margin-top:14px;color:var(--faint);font-size:13px}
 .crumbs{margin:34px 0 0;font-size:12px;text-transform:uppercase;letter-spacing:.04em;color:var(--faint)}
 .crumbs a{text-decoration:none}.crumbs a:hover{color:var(--bone)}
 h1.card{margin:.15em 0 0;font-family:"Cormorant",serif;font-weight:300;font-size:clamp(64px,15vw,116px);line-height:.9}
@@ -151,8 +154,11 @@ def page(lang, num, name, slug, other_url, data):
     kw = up.get("keywords", [""])[0]
     desc = esc(lede)[:155]
 
-    cta_link = (f'<a href="{APP_STORE_URL}">{t["get"]}</a>' if APP_STORE_URL
-                else f'<p class="soon">{t["soon"]}</p>')
+    badge = f'<img src="/assets/app-store-badge.svg" alt="{t["get"]}" width="120" height="40">'
+    cta_link = (f'<a class="store-badge" href="{APP_STORE_URL}">{badge}</a>' if APP_STORE_URL
+                else f'<a class="store-badge muted" href="#">{badge}</a><p class="soon">{t["soon"]}</p>')
+    toggle = (f'<span class="lang-pill"><a href="{other_url}">EN</a><b>ES</b></span>' if lang == "es"
+              else f'<span class="lang-pill"><b>EN</b><a href="{other_url}">ES</a></span>')
 
     return f"""<!DOCTYPE html>
 <html lang="{lang}">
@@ -176,7 +182,7 @@ def page(lang, num, name, slug, other_url, data):
 <div class="wrap">
   <header class="site-header">
     <a class="brand" href="/">AMULET</a>
-    <a class="lang" href="{other_url}" hreflang="{'en' if lang=='es' else 'es'}">{t['other']}</a>
+    {toggle}
   </header>
 
   <p class="crumbs"><a href="{back_url}">{t['back']}</a> · {t['kicker']}</p>

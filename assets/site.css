@@ -923,3 +923,13 @@
 .lang-toggle{color:var(--dim);border:1px solid var(--hairline);border-radius:4px;padding:7px 11px;min-height:auto;text-decoration:none;transition:color 180ms ease,border-color 180ms ease}
 .lang-toggle:hover,.lang-toggle:focus-visible{color:var(--bone);border-color:var(--faint)}
 @media(max-width:980px){.nav a.lang-toggle{display:inline-flex}}
+
+/* language pill + store badge */
+.lang-pill{display:inline-flex;align-items:center;gap:9px;font-size:12px;letter-spacing:.06em;border:1px solid var(--hairline);border-radius:6px;padding:6px 11px}
+.lang-pill b{color:var(--bone);font-weight:500}
+.lang-pill a{color:var(--faint);text-decoration:none;transition:color 180ms ease}
+.lang-pill a:hover,.lang-pill a:focus-visible{color:var(--bone)}
+.store-badge{display:inline-block;margin-top:30px}
+.store-badge img{height:46px;width:auto;display:block}
+.store-badge.muted{opacity:.45;pointer-events:none}
+.store-caption{margin:12px 0 0;color:var(--faint);font-size:12px}
