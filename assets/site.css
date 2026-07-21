@@ -931,6 +931,6 @@
 .store-caption{margin:12px 0 0;color:var(--faint);font-size:12px}
 
 .store-badge img{height:48px}
-.hero-actions{display:flex;flex-direction:column;align-items:flex-start;gap:20px;margin-top:34px}
+.hero-actions{display:flex;align-items:center;gap:26px;flex-wrap:wrap;margin-top:34px}
 .hero-actions .text-link{margin-top:0;border-color:var(--faint)}
 .hero-badge img{height:44px}
