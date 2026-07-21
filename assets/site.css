@@ -929,3 +929,7 @@
 .store-badge img{height:46px;width:auto;display:block}
 .store-badge.muted{opacity:.45;pointer-events:none}
 .store-caption{margin:12px 0 0;color:var(--faint);font-size:12px}
+
+.store-badge img{height:48px}
+.hero-badge{margin-top:26px}
+.hero-badge img{height:52px}

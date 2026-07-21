@@ -155,7 +155,7 @@ def page(lang, num, name, slug, other_url, data):
 
     badge = f'<img src="/assets/app-store-badge.svg" alt="{t["get"]}" width="120" height="40">'
     cta_link = (f'<a class="store-badge" href="{APP_STORE_URL}">{badge}</a>' if APP_STORE_URL
-                else f'<a class="store-badge muted" href="#">{badge}</a><p class="soon">{t["soon"]}</p>')
+                else f'<a class="store-badge" href="/proximamente/">{badge}</a>')
 
     return f"""<!DOCTYPE html>
 <html lang="{lang}">
