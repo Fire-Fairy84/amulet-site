@@ -23,7 +23,7 @@ APP_STORE_URL = os.environ.get("APP_STORE_URL", "")  # vacío = estado "próxima
 MAJORS = {
     0: ("el-loco", "the-fool"), 1: ("el-mago", "the-magician"),
     2: ("la-sacerdotisa", "the-high-priestess"), 3: ("la-emperatriz", "the-empress"),
-    4: ("el-emperador", "the-emperor"), 5: ("el-hierofante", "the-hierophant"),
+    4: ("el-emperador", "the-emperor"), 5: ("el-sumo-sacerdote", "the-hierophant"),
     6: ("los-enamorados", "the-lovers"), 7: ("el-carro", "the-chariot"),
     8: ("la-fuerza", "strength"), 9: ("el-ermitano", "the-hermit"),
     10: ("la-rueda-de-la-fortuna", "wheel-of-fortune"), 11: ("la-justicia", "justice"),
