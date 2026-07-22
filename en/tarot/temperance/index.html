@@ -30,8 +30,8 @@ a{color:inherit}
 .store-badge.muted{opacity:.45;pointer-events:none}.cta .soon{margin-top:14px;color:var(--faint);font-size:13px}
 .crumbs{margin:34px 0 0;font-size:12px;text-transform:uppercase;letter-spacing:.04em;color:var(--faint)}
 .crumbs a{text-decoration:none}.crumbs a:hover{color:var(--bone)}
-h1.card{margin:.15em 0 0;font-family:"Cormorant",serif;font-weight:300;font-size:clamp(64px,15vw,116px);line-height:.9}
-.num{font-family:"Cormorant",serif;color:var(--faint);font-size:22px}
+h1.card{margin:.15em 0 0;font-family:"Cormorant",serif;font-weight:300;font-size:clamp(56px,13vw,108px);line-height:.9}
+.num{font-family:"Cormorant",serif;color:var(--accent);font-size:15px;text-transform:uppercase;letter-spacing:.16em}
 .lede{margin:26px 0 0;font-size:20px;line-height:1.5;color:var(--bone)}
 .image-note{margin:26px 0 0;padding-left:20px;border-left:1px solid var(--accent);font-family:"Cormorant",serif;font-style:italic;font-size:22px;line-height:1.4;color:var(--dim)}
 .kw{margin:20px 0 0;color:var(--faint);font-size:14px}
@@ -49,15 +49,20 @@ section.block{padding:52px 0;border-top:1px solid var(--hairline)}
 .cta a{display:inline-block;margin-top:26px;padding:13px 22px;border:1px solid var(--bone);border-radius:6px;text-decoration:none;font-size:14px}
 .cta a:hover{background:var(--bone);color:var(--noir)}
 .cta .soon{margin-top:26px;color:var(--faint);font-size:13px}
+.prevnext{display:flex;justify-content:space-between;gap:16px;margin:0 0 8px;font-size:13px;color:var(--faint)}
+.prevnext a{text-decoration:none;color:var(--dim)}.prevnext a:hover{color:var(--bone)}
 .site-footer{border-top:1px solid var(--hairline);padding:28px 0 60px;color:var(--faint);font-size:12px;display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}
 .site-footer a{text-decoration:none}
-.index-grid{margin:40px 0 60px;display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:1px;background:var(--hairline);border:1px solid var(--hairline)}
+.grp{margin:52px 0 0;display:flex;align-items:baseline;gap:14px}
+.grp h2{margin:0;font-family:"Cormorant",serif;font-weight:300;font-size:34px}
+.grp .grp-note{font-size:12px;text-transform:uppercase;letter-spacing:.08em;color:var(--faint)}
+.index-grid{margin:22px 0 0;display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:1px;background:var(--hairline);border:1px solid var(--hairline)}
 .index-grid a{background:var(--noir);padding:20px;text-decoration:none;display:flex;flex-direction:column;gap:6px}
 .index-grid a:hover{background:var(--surface)}
-.index-grid .n{color:var(--faint);font-size:12px}
-.index-grid .nm{font-family:"Cormorant",serif;font-size:26px}
+.index-grid .n{color:var(--faint);font-size:12px;text-transform:uppercase;letter-spacing:.1em}
+.index-grid .nm{font-family:"Cormorant",serif;font-size:24px;line-height:1.05}
 @media(max-width:600px){.facets{grid-template-columns:1fr}.cta{padding:30px 22px}}
-:root{--accent:var(--leaf)}</style>
+:root{--accent:var(--cobalt)}</style>
 </head>
 <body>
 <div class="wrap">
@@ -103,6 +108,7 @@ section.block{padding:52px 0;border-top:1px solid var(--hairline)}
     <a class="store-badge" href="/proximamente/"><img src="/assets/app-store-badge.svg" alt="Download on the App Store" width="120" height="40"></a>
   </div>
 
+  <nav class="prevnext"><a href="/en/tarot/death/">← Death</a><a href="/en/tarot/the-devil/">The Devil →</a></nav>
   <footer class="site-footer">
     <span>AMULET / TAROT JOURNAL</span>
     <span><a href="/privacy/">Privacy</a> · <a href="/terms/">Terms</a> · <a href="mailto:esthersarasua.dev@gmail.com">Contact</a></span>
