@@ -286,9 +286,9 @@ def index(lang, groups):
                       f'<div class="index-grid">{items}</div>')
     other = "/en/tarot/" if lang == "es" else "/tarot/"
     h = "Significados del tarot" if lang == "es" else "Tarot meanings"
-    sub = ("Los 78 arcanos, del derecho y del revés — la carta, lo que pide, y qué anotar cuando aparece."
+    sub = ("Los 78 arcanos, del derecho y del revés — la carta, lo que dice, y qué anotar cuando aparece."
            if lang == "es" else
-           "All 78 arcana, upright and reversed — the card, what it asks, and what to note when it shows up.")
+           "All 78 arcana, upright and reversed — the card, what it says, and what to note when it shows up.")
     return f"""<!DOCTYPE html>
 <html lang="{lang}">
 <head>
