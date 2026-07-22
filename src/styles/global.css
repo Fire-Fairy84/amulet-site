@@ -82,8 +82,8 @@ a { color: inherit; text-decoration-thickness: 1px; text-underline-offset: .2em;
 .index-intro p { max-width: 58ch; margin: 28px 0 0; color: var(--dim); font-size: 18px; }
 .card-group { margin-top: 58px; }
 .card-group > h2 { margin: 0 0 22px; font-family: "Cormorant", serif; font-size: 40px; font-weight: 300; }
-.card-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(145px, 1fr)); gap: 1px; padding: 1px; background: var(--hairline); list-style: none; }
-.card-grid li { min-width: 0; background: var(--noir); }
+.card-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(145px, 1fr)); margin: 0; padding: 0; border-top: 1px solid var(--hairline); border-left: 1px solid var(--hairline); background: transparent; list-style: none; }
+.card-grid li { min-width: 0; border-right: 1px solid var(--hairline); border-bottom: 1px solid var(--hairline); background: var(--noir); }
 .card-grid a { display: flex; height: 100%; flex-direction: column; padding: 16px; text-decoration: none; }
 .card-grid a:hover { background: var(--surface); }
 .card-grid img { display: block; width: 100%; aspect-ratio: 210 / 363; object-fit: contain; }
