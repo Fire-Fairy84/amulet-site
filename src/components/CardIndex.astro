@@ -1,0 +1,54 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import Breadcrumbs from './Breadcrumbs.astro';
+import LanguageSwitcher from './LanguageSwitcher.astro';
+import IndexLayout from '../layouts/IndexLayout.astro';
+import { absolute, cardIndexPath, cardPath, homePath, labels, type Language } from '../lib/i18n';
+
+type Card = CollectionEntry<'cards'>['data'];
+interface Props { cards: Card[]; language: Language }
+const { cards, language } = Astro.props;
+const t = labels[language];
+const otherLanguage: Language = language === 'en' ? 'es' : 'en';
+const currentPath = cardIndexPath(language);
+const alternatePath = cardIndexPath(otherLanguage);
+const ordered = [...cards].sort((a, b) => a.order - b.order);
+const groups = [
+  { id: 'major', title: t.major, cards: ordered.filter((card) => card.arcana === 'major') },
+  ...(['cups', 'pentacles', 'swords', 'wands'] as const).map((suit) => ({ id: suit, title: t[suit], cards: ordered.filter((card) => card.suit === suit) })),
+].filter((group) => group.cards.length > 0);
+const title = language === 'en' ? 'Tarot Card Meanings: All Cards Upright and Reversed | AMULET' : 'Significado de las cartas del tarot: derecho e invertido | AMULET';
+const description = language === 'en'
+  ? `Explore the meanings of all ${cards.length} tarot cards in Amulet, upright and reversed, with reflections for work, love and personal insight.`
+  : `Consulta el significado de las ${cards.length} cartas del tarot de Amulet, al derecho e invertidas, con reflexiones sobre trabajo, amor y exploración personal.`;
+const itemList = {
+  '@context': 'https://schema.org', '@type': 'CollectionPage', name: title, description,
+  inLanguage: language, url: absolute(currentPath),
+  mainEntity: { '@type': 'ItemList', numberOfItems: cards.length, itemListElement: ordered.map((card, index) => ({
+    '@type': 'ListItem', position: index + 1, name: card.translations[language].name,
+    url: absolute(cardPath(language, card.translations[language].slug)),
+  })) },
+};
+---
+<IndexLayout language={language} title={title} description={description} canonicalPath={currentPath} alternates={[{ language, path: currentPath }, { language: otherLanguage, path: alternatePath }]} jsonLd={itemList}>
+  <a class="skip-link" href="#main">{t.skip}</a>
+  <header class="content-header wrap">
+    <a class="brand" href={homePath(language)} aria-label={`AMULET — ${t.home}`}>AMULET</a>
+    <LanguageSwitcher language={language} currentPath={currentPath} alternatePath={alternatePath} />
+  </header>
+  <main id="main" class="wrap index-main">
+    <Breadcrumbs language={language} items={[{ label: t.home, href: homePath(language) }, { label: t.cardIndex }]} />
+    <header class="index-intro"><h1>{t.cardIndex}</h1><p>{description}</p></header>
+    {groups.map((group) => <section class="card-group" aria-labelledby={`group-${group.id}`}>
+      <h2 id={`group-${group.id}`}>{group.title}</h2>
+      <ul class="card-grid">{group.cards.map((card) => {
+        const item = card.translations[language];
+        return <li><a href={cardPath(language, item.slug)}>
+          <img src={card.image} width={card.imageWidth} height={card.imageHeight} alt="" loading="lazy" decoding="async" />
+          <small>{card.arcana === 'major' ? `${t.number} ${card.number}` : group.title}</small><strong>{item.name}</strong>
+        </a></li>;
+      })}</ul>
+    </section>)}
+  </main>
+  <footer class="content-footer wrap"><span>AMULET / {language === 'en' ? 'TAROT JOURNAL' : 'DIARIO DE TAROT'}</span><span><a href="/privacy/">{t.privacy}</a> · <a href="/terms/">{t.terms}</a> · <a href="mailto:esthersarasua.dev@gmail.com">{t.contact}</a></span></footer>
+</IndexLayout>

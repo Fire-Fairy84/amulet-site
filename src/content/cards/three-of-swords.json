@@ -1,0 +1,128 @@
+{
+  "id": "three-of-swords",
+  "number": 3,
+  "order": 52,
+  "arcana": "minor",
+  "suit": "swords",
+  "rank": 3,
+  "image": "/assets/cards/three-of-swords.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "swords-03.en.md",
+    "es": "swords-03.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "three-of-swords",
+      "name": "Three of Swords",
+      "seoTitle": "Three of Swords Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "Heartbreak, named as heartbreak — the betrayal, the ending, the sentence that went through. No silver lining supplied and none needed yet: pain this clean…",
+      "summary": "Heartbreak, named as heartbreak — the betrayal, the ending, the sentence that went through. No silver lining supplied and none needed yet: pain this clean is at least accurate. The rain is not the punishment. It is the washing.",
+      "imageDescription": "A red heart floats against a gray sky, pierced clean through by three swords. Rain falls hard; storm clouds bank behind. There are no people in the card, no landscape, no story — just the wound itself, diagrammed, presented without anesthesia or decoration. It is the deck's least ambiguous image, and its honesty is the entire gift.",
+      "upright": {
+        "keywords": [
+          "the pierced heart, heartbreak in plain terms, the truth that wounds, grief with geometry, rain doing its work, pain that is at least accurate"
+        ],
+        "essay": [
+          "Some cards require interpretation; this one requires acknowledgment. The Three of Swords is the deck's plainest statement — a heart, pierced, raining — and its refusal to decorate is its medicine. Whatever happened, happened: the sentence was said, the message was found, the person left or lied or died, the thing you feared with reason turned out to deserve the fear. When this card arrives, its first function is the one nobody thanks it for and everybody needs: it ends the argument about whether it hurts. It hurts. Three swords' worth, through the middle. Begin there.",
+          "The card's strange comfort is its geometry. Notice that the swords pierce cleanly — no jagged tearing, no ambiguity about entry points, the wound drawn with almost surgical draftsmanship. This is the specific signature of hurts that arrive by truth: the discovered fact, the honest ending, the words that could not be unsaid because they were accurate. Pain of this kind has an odd property that the card wants you to notice early: it is clean. It does not fester the way ambiguity festers. The maybe, the mixed signal, the almost — those wound raggedly and heal badly. A clear loss, fully seen, pierces worse and heals better. If you can say exactly what went through you and when, you are — brutal as it sounds — in the good version of this suit's pain.",
+          "And the rain: read it exactly. It does not fall to add misery to injury; rain in this card is the system working. Grief's tears are functional — they are how the event moves from emergency to history, how the nervous system files what it can no longer dispute. The card places the storm around the heart to say: this weather is part of the piercing, not an optional response to it. Crying, retelling, the week of the fog, the appetite gone strange — all of it is the rain, and the rain has a schedule of its own that argument does not shorten. The people who do this part badly are not the ones who feel it too much; they are the ones who reroute it — into work, into irony, into the next relationship at speed — and meet it again, years later, with interest accrued.",
+          "What the card does not say matters as much: no figure in the image is dying. The heart, pierced, is whole — the card's quiet anatomical claim is that hearts survive accurate wounds; it is the inaccurate ones, the denied and displaced ones, that do structural damage. So its counsel is short: do not argue with the swords, do not flee the rain, and do not yet ask what it all means. Meaning is a dry-weather activity. It will keep. The storm, allowed to be a storm, is already the beginning of the only route out — through."
+        ],
+        "work": [
+          "The honest failure, the credit betrayed, the door closed with your name on it — it hurts, three swords' worth. File it as fact, not debate. Post-mortems wait for dry weather."
+        ],
+        "love": [
+          "Heartbreak without decoration — the ending, the discovery, the accurate sentence. Clean loss heals better than ragged maybe. Let the rain keep its schedule."
+        ],
+        "self": [
+          "The argument about whether it hurts is over. Crying, retelling, the strange week — that's the system filing what it can't dispute. Rerouted grief returns with interest."
+        ],
+        "note": [
+          "Not punishment and not fatal — the pierced heart is whole; hearts survive accurate wounds. And not yet the meaning stage: meaning is a dry-weather activity."
+        ]
+      },
+      "reversed": {
+        "summary": "The recovery phase — swords coming out, weather easing, the wound becoming scar and the scar becoming information. Extraction hurts differently than piercing; keep going. Or the shadow: pain kept on retainer, grief as the last thread to what's gone. Check whose hand is on the hilt.",
+        "keywords": [
+          "the swords withdrawing, pain past its peak, the slow extraction, forgiveness beginning, grief retained past function, the storm that won't be allowed to end"
+        ],
+        "essay": [
+          "Reversed, the Three of Swords is the same heart later — and everything depends on the direction of the swords' travel. They are coming out, or they are being held in.",
+          "Coming out is the expected mercy, and it deserves more precision than \"healing.\" Extraction is its own event with its own pain: the sword leaving reopens the wound briefly, which is why recovery so often feels like relapse — the good week followed by the ambush at the grocery store, the calm month broken by a song. The reversed card normalizes this rhythm: withdrawal happens sword by sword, not all at once, and each one out is permanent progress even when the exit stings like entry. Its practical counsel is to cooperate with the extraction rather than audit it — say yes to the things that pull outward (the new routine, the trip, the people who talk about the future) and ration the things that push back in (the archived messages, the anniversary mathematics, the rehearsal of the last conversation with revised dialogue). You cannot schedule the last sword. You can stop reinserting the first two.",
+          "Held in is the reading that requires more courage to receive. There is a stage — every honest griever knows its threshold — where the pain stops being what happened and becomes what remains: the last object with their fingerprints, the final form of the connection, the proof it mattered. To heal would be to lose them twice; so the hand steadies the hilt, the anniversary is kept like a treaty obligation, the wound is shown — to friends, to new partners, to the mirror — as credentials. The reversed Three does not mock this; it was love, and this is love's residue behaving exactly as residue does. But it tells the truth about the arrangement: a kept wound does not preserve the person. It preserves the piercing. The relationship's actual contents — what was learned, how you were changed, what was genuinely good — survive extraction completely; they are, in fact, only fully available after it. The sword is not them. It never was. It is just the last thing they touched, and they are not in it.",
+          "Either way, the reversed card marks the season where meaning-making becomes legal again. The storm has passed its peak; the dry-weather work — what this taught, what it revealed, what the scar now knows that the unpierced heart did not — is finally on the calendar. Scars, this card's last word: they are not records of damage. They are records of repair. The heart that carries them is not the heart that was pierced. It is the heart that closed."
+        ],
+        "work": [
+          "The failure's sting easing — cooperate with extraction: the new project pulls outward; the revised-dialogue rehearsal pushes back in. Post-mortem is now legal."
+        ],
+        "love": [
+          "The ambush weeks after the calm — extraction reopens briefly; it's exit, not relapse. And check the hilt: a kept wound preserves the piercing, not the person."
+        ],
+        "self": [
+          "Grief as the last thread to what's gone — healing feels like losing them twice. It isn't. What was real survives extraction; it's only fully available after."
+        ],
+        "note": [
+          "Not relapse when it stings on the way out. And the scar is not damage's record — it's repair's. The closed heart is the stronger edition."
+        ]
+      }
+    },
+    "es": {
+      "slug": "tres-de-espadas",
+      "name": "Tres de Espadas",
+      "seoTitle": "Tres de Espadas en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "El desamor llamado por su nombre: la traición, el final o la frase que hirió. No hace falta buscarle ahora un lado positivo. Al menos el dolor es claro.…",
+      "summary": "El desamor llamado por su nombre: la traición, el final o la frase que hirió. No hace falta buscarle ahora un lado positivo. Al menos el dolor es claro. La lluvia no es castigo: es el duelo haciendo su trabajo.",
+      "imageDescription": "Un corazón rojo flota contra un cielo gris, atravesado de lado a lado por tres espadas. Llueve fuerte; las nubes de tormenta se amontonan detrás. No hay gente en la carta, ni paisaje, ni historia — solo la herida misma, diagramada, presentada sin anestesia ni decoración. Es la imagen menos ambigua de la baraja, y su honestidad es el regalo entero.",
+      "upright": {
+        "keywords": [
+          "el corazón atravesado, el desamor en términos llanos, la verdad que hiere, duelo con geometría, la lluvia haciendo su trabajo, dolor que al menos es preciso"
+        ],
+        "essay": [
+          "Algunas cartas piden interpretación; esta pide reconocimiento. El Tres de Espadas es la declaración más llana de la baraja — un corazón, atravesado, lloviendo — y su negativa a decorar es su medicina. Lo que pasó, pasó: la frase se dijo, el mensaje se encontró, la persona se fue o mintió o murió, la cosa que temías con razón resultó merecer el miedo. Cuando esta carta llega, su primera función es la que nadie le agradece y todos necesitan: termina la discusión sobre si duele. Duele. Tres espadas de dolor, por el centro. Empieza ahí.",
+          "El extraño consuelo de la carta es su geometría. Fíjate en que las espadas atraviesan limpio — sin desgarros dentados, sin ambigüedad en los puntos de entrada, la herida dibujada con trazo casi quirúrgico. Esta es la firma específica de los dolores que llegan por la verdad: el hecho descubierto, el final honesto, las palabras que no pudieron des-decirse porque eran precisas. El dolor de esta clase tiene una propiedad rara que la carta quiere que notes pronto: es limpio. No supura como supura la ambigüedad. El quizá, la señal mixta, el casi — esos hieren con desgarro y sanan mal. Una pérdida clara, vista del todo, atraviesa peor y sana mejor. Si puedes decir exactamente qué te atravesó y cuándo, estás — por brutal que suene — en la versión buena del dolor de este palo.",
+          "Y la lluvia: léela con exactitud. No cae para añadir miseria a la lesión; la lluvia en esta carta es el sistema funcionando. Las lágrimas del duelo son funcionales — son la manera en que el acontecimiento pasa de emergencia a historia, en que el sistema nervioso archiva lo que ya no puede disputar. La carta coloca la tormenta alrededor del corazón para decir: este clima es parte del atravesamiento, no una respuesta opcional a él. Llorar, recontar, la semana de niebla, el apetito vuelto extraño — todo eso es la lluvia, y la lluvia tiene un calendario propio que la argumentación no acorta. Quienes hacen mal esta parte no son los que la sienten demasiado; son los que la desvían — al trabajo, a la ironía, a la siguiente relación a toda velocidad — y se la encuentran otra vez, años después, con los intereses acumulados.",
+          "Lo que la carta no dice importa igual: ninguna figura de la imagen se está muriendo. El corazón, atravesado, está entero — la afirmación anatómica silenciosa de la carta es que los corazones sobreviven a las heridas precisas; son las imprecisas, las negadas y desplazadas, las que hacen daño estructural. Así que su consejo es corto: no discutas con las espadas, no huyas de la lluvia, y no preguntes todavía qué significa todo. El significado es una actividad de tiempo seco. Por ahora, resiste. La tormenta, cuando se la deja ser tormenta, ya es el comienzo de la única salida: atravesarla."
+        ],
+        "work": [
+          "El fracaso honesto, el mérito traicionado, la puerta cerrada con tu nombre — duele, tres espadas de dolor. Archívalo como hecho, no como debate. Los post-mortems esperan al tiempo seco."
+        ],
+        "love": [
+          "El desamor sin decoración — el final, el descubrimiento, la frase precisa. La pérdida limpia sana mejor que el quizá desgarrado. Deja que la lluvia cumpla su calendario."
+        ],
+        "self": [
+          "La discusión sobre si duele ha terminado. Llorar, recontar, la semana extraña — es el sistema archivando lo que no puede disputar. El duelo desviado vuelve con intereses."
+        ],
+        "note": [
+          "No es castigo ni es mortal — el corazón atravesado está entero; los corazones sobreviven a las heridas precisas. Y todavía no es la etapa del significado: el significado es actividad de tiempo seco."
+        ]
+      },
+      "reversed": {
+        "summary": "La recuperación: las espadas salen, la tormenta afloja y la herida se convierte en cicatriz. Sanar también duele, pero es un dolor distinto. La sombra es aferrarse al dolor como último vínculo con lo perdido. Mira quién sostiene la empuñadura.",
+        "keywords": [
+          "las espadas retirándose, el dolor pasado su pico, la extracción lenta, el perdón empezando, el duelo retenido más allá de su función, la tormenta a la que no se deja terminar"
+        ],
+        "essay": [
+          "Invertido, el Tres de Espadas es el mismo corazón más tarde — y todo depende de la dirección del viaje de las espadas. Están saliendo, o están siendo retenidas.",
+          "Saliendo es la misericordia esperada, y merece más precisión que \"sanar\". La extracción es su propio acontecimiento con su propio dolor: la espada al salir reabre la herida brevemente, y por eso la recuperación se siente tan a menudo como recaída — la semana buena seguida de la emboscada en el supermercado, el mes en calma roto por una canción. La carta invertida normaliza este ritmo: las espadas salen una a una, no todas de golpe, y cada una que sale es un avance permanente aunque la salida escueza como la entrada. Su consejo práctico es colaborar con ese proceso en lugar de examinarlo sin parar: di que sí a lo que tira hacia fuera (la rutina nueva, el viaje, la gente que habla del futuro) y raciona lo que empuja de vuelta adentro (los mensajes archivados, la matemática de los aniversarios, el ensayo de la última conversación con el diálogo corregido). No puedes programar la última espada. Puedes dejar de reinsertar las dos primeras.",
+          "Retenidas es la lectura que exige más coraje recibir. Hay una etapa — todo doliente honesto conoce su umbral — donde el dolor deja de ser lo que pasó y se vuelve lo que queda: el último objeto con sus huellas, la forma final de la conexión, la prueba de que importó. Sanar sería perderlos dos veces; así que la mano afirma la empuñadura, el aniversario se cumple como obligación de tratado, la herida se muestra — a las amigas, a las parejas nuevas, al espejo — como credencial. El Tres invertido no se burla de esto; fue amor, y este es el residuo del amor comportándose exactamente como se comporta el residuo. Pero dice la verdad sobre el arreglo: una herida conservada no conserva a la persona. Conserva el atravesamiento. El contenido real de la relación — lo aprendido, cómo te cambió, lo que fue genuinamente bueno — sobrevive por completo a la extracción; de hecho, solo está disponible del todo después de ella. La espada no es ellos. Nunca lo fue. Es solo lo último que tocaron, y ellos no están dentro.",
+          "En cualquier caso, la carta invertida marca la etapa en la que ya puedes empezar a encontrar sentido. La tormenta pasó su pico; el trabajo de tiempo seco — qué enseñó esto, qué reveló, qué sabe ahora la cicatriz que el corazón sin atravesar no sabía — por fin tiene sitio. Las cicatrices, última palabra de esta carta: no son registros del daño. Son registros de la reparación. El corazón que las lleva no es el corazón que fue atravesado. Es el corazón que cerró."
+        ],
+        "work": [
+          "El escozor del fracaso aflojando — coopera con la extracción: el proyecto nuevo tira hacia fuera; el ensayo con diálogo corregido empuja adentro. El post-mortem ya es legal."
+        ],
+        "love": [
+          "La emboscada semanas después de la calma — la extracción reabre brevemente; es salida, no recaída. Y mira la empuñadura: una herida conservada conserva el atravesamiento, no a la persona."
+        ],
+        "self": [
+          "El duelo como último hilo hacia lo ido — sanar se siente como perderlos dos veces. No lo es. Lo real sobrevive a la extracción; solo está disponible del todo después."
+        ],
+        "note": [
+          "No es recaída cuando escuece al salir. Y la cicatriz no es el registro del daño — es el de la reparación. El corazón cerrado es la edición más fuerte."
+        ]
+      }
+    }
+  }
+}

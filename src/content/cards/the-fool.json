@@ -1,0 +1,136 @@
+{
+  "id": "the-fool",
+  "number": 0,
+  "order": 0,
+  "arcana": "major",
+  "suit": null,
+  "rank": null,
+  "image": "/assets/cards/the-fool.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "00-fool.en.md",
+    "es": "00-fool.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "the-fool",
+      "name": "The Fool",
+      "seoTitle": "The Fool Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "Starting without guarantees. The decision to begin made before the conditions arrive, because the conditions were never going to arrive. Beginner's…",
+      "summary": "Starting without guarantees. The decision to begin made before the conditions arrive, because the conditions were never going to arrive. Beginner's openness spent as strength — a kind of competence that only exists before the first attempt. The moment before the sequence, chosen.",
+      "imageDescription": "A young traveler steps toward the lip of a cliff, face tilted to the sky, a white rose held loosely in one hand and every belonging tied into one small bundle on a stick. A small white dog leaps at their heel — warning or celebration, the card refuses to say. The sun is high and white; the mountains behind are far, cold, and already crossed by somebody else. One more step is either flight or fall, and the traveler is not looking down to find out.",
+      "upright": {
+        "keywords": [
+          "beginning before readiness, the leap, innocence as strength, zero as the open number, the road before the map, appetite for the unknown, the first day of anything"
+        ],
+        "essay": [
+          "There is a version of you that decides quickly. It shows up rarely — at airports, in doorways, in the ten minutes after certain phone calls — and it is not reckless, whatever the others say. The Fool is that version given a body: the part of you that knows the plan will never be finished, the savings will never feel sufficient, the timing will never announce itself, and that goes anyway.",
+          "The card sits at zero because it is not a step in the sequence; it is the decision to have a sequence at all. Everything that comes after it — the Magician's tools, the Emperor's rules, the Tower's collapse — happens because somebody once left the house underprepared. Zero is not nothing. Zero is the number that makes the others countable.",
+          "When the Fool arrives, look at what you have been calling research. Some of it is real. Some of it is a way of standing in the doorway with your coat on, enjoying the feeling of almost. The card does not accuse; it simply notices how long the coat has been on.",
+          "The white rose matters: held loosely, not gripped. What the Fool carries, it carries lightly — an idea of who you might be, unproven, undamaged, and therefore still capable of anything. That lightness is not ignorance. It is the refusal to let the weight arrive early.",
+          "The dog is the practical voice — the friend, the parent, the accountant who keeps your books at three in the morning — barking at your heel. The card does not say the dog is wrong. It says the dog is small.",
+          "The cliff is real. That is the part people miss when they call this card naive. The Fool sees the edge; the Fool is simply not looking at the edge, because the edge is not the interesting thing in the frame. What you do with the fact of the drop — that is the whole reading."
+        ],
+        "work": [
+          "The venture that will never be de-risked to your satisfaction. A first day, a first client, a résumé sent before the confidence arrived. The plan is at eighty percent, and the remaining twenty only exists on the far side of starting."
+        ],
+        "love": [
+          "Openness without armor — the message sent first, the feeling named before it was safe to name. Also the willingness to be new at someone: no record to defend, no version of you to keep consistent."
+        ],
+        "self": [
+          "Permission not to know yet. The self before the story hardens. Beginner's mind practiced as a discipline, not stumbled into by accident."
+        ],
+        "note": [
+          "Not recklessness. The step is light, not blind. The Fool has seen the cliff; it has decided the cliff is not the most important thing in the picture."
+        ]
+      },
+      "reversed": {
+        "summary": "Circling a beginning without making it. Preparation that has quietly stopped producing decisions and started replacing them. Or the opposite: the careless jump taken precisely to avoid choosing. Both are ways of not being present at your own threshold.",
+        "keywords": [
+          "the leap postponed, circling the threshold, research as hiding, false starts, naivety curdled, the permanent almost"
+        ],
+        "essay": [
+          "Reversed, the Fool is not the absence of the leap. It is the leap as a permanent horizon — always next month, always after one more conversation, one more course, one more clean run-up. You have gotten good at the walk to the edge. You could give tours.",
+          "Notice the shape of your preparation lately: whether it produces decisions or substitutes for them. There is a point where getting ready becomes a place to live, with a view of the thing you were going to do. The reversed Fool has an address there. The card marks it without cruelty, the way a mirror marks a change in the weather.",
+          "Sometimes this card is the opposite failure: the jump taken carelessly, precisely so a real choice never has to be made — quitting as theater, leaving one thing by falling into another, motion instead of decision. The pacing and the careless leap are the same avoidance at two different speeds.",
+          "What was the original want, before it grew procedures? Reversed, the Fool asks you to find it under the paperwork. It is usually smaller than the plan that got built around it, and it is usually still alive.",
+          "There is also a cost curve, and it is quiet. Thresholds rarely slam shut; most of them just wait, at a price that rises slowly and gets paid in versions of you that never made the attempt. Nobody invoices you for the almost. That is what makes it affordable for years.",
+          "The card does not issue a command — no card does. It marks the circling so the circling can be seen. Seeing the worn track under your own feet is already the first change of direction."
+        ],
+        "work": [
+          "The project forever almost ready. The launch researched to death; the pitch rehearsed past its freshness. Prudence doing unpaid overtime as fear."
+        ],
+        "love": [
+          "Testing the water so long the water forms an opinion. Openness promised and postponed; the conversation that keeps being rescheduled for a calmer week that never comes."
+        ],
+        "self": [
+          "Fear dressed as thoroughness. The identity of \"about to\" — comfortable, well-regarded, and quietly expensive."
+        ],
+        "note": [
+          "Not a command to jump. The card marks the circling, not the verdict. Some thresholds expire; most simply wait."
+        ]
+      }
+    },
+    "es": {
+      "slug": "el-loco",
+      "name": "El Loco",
+      "seoTitle": "El Loco en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "Empezar sin garantías. La decisión de arrancar, tomada antes de que lleguen las condiciones, porque las condiciones no iban a llegar nunca. La apertura…",
+      "summary": "Empezar sin garantías. La decisión de arrancar, tomada antes de que lleguen las condiciones, porque las condiciones no iban a llegar nunca. La apertura del principiante convertida en fuerza, una destreza que solo existe antes del primer intento. El momento anterior a todo lo demás, elegido a propósito.",
+      "imageDescription": "Una viajera joven camina hacia el borde de un acantilado con la cara vuelta al cielo, sujetando una rosa blanca sin apretarla y con todo lo que tiene metido en un hatillo al hombro. Un perro blanco y pequeño le salta a los talones, aviso o celebración, que la carta no lo aclara. El sol está alto y blanco, y detrás quedan montañas lejanas y frías que ya cruzó otra gente. Un paso más es volar o caer, y la viajera no mira hacia abajo para averiguar cuál de los dos.",
+      "upright": {
+        "keywords": [
+          "empezar antes de estar lista, el salto, la inocencia como fuerza, el cero como número abierto, el camino antes del mapa, hambre de lo desconocido, el primer día de cualquier cosa"
+        ],
+        "essay": [
+          "Hay una versión de ti que decide rápido. Aparece poco, en aeropuertos, en portales, en los diez minutos que siguen a ciertas llamadas, y no es imprudente, digan lo que digan los demás. El Loco es esa versión con cuerpo: la parte de ti que sabe que el plan no va a estar terminado nunca, que los ahorros nunca van a parecer suficientes, que el momento perfecto no avisa, y que aun así va.",
+          "La carta ocupa el cero porque no es un paso más de la serie, sino la decisión de que haya serie. Todo lo que viene después, las herramientas del Mago, las normas del Emperador, el derrumbe de la Torre, pasa porque un día alguien salió de casa a medio preparar. El cero no es nada: es el número que permite contar los demás.",
+          "Cuando sale el Loco, mira eso que llevas un tiempo llamando \"informarte\". Una parte es real. La otra es una forma de quedarte en el portal con el abrigo puesto, disfrutando del casi. La carta no acusa, solo se fija en cuánto tiempo llevas con el abrigo puesto.",
+          "La rosa blanca importa, y por eso la sujeta sin apretarla. Lo que el Loco lleva, lo lleva ligero: una idea de quién podrías llegar a ser, sin estrenar, intacta, y por eso todavía capaz de cualquier cosa. Esa ligereza no es ignorancia, sino no dejar que el peso llegue antes de tiempo.",
+          "El perro es la voz práctica, la amiga, la madre, la que te echa las cuentas a las tres de la mañana, ladrándote a los talones. La carta no dice que el perro se equivoque. Dice que el perro es pequeño.",
+          "El acantilado es real, y eso es justo lo que se le escapa a quien llama ingenua a esta carta. El Loco ve el borde, pero no lo mira, porque el borde no es lo más interesante del cuadro. Qué haces tú con que la caída sea real: ahí está la lectura entera."
+        ],
+        "work": [
+          "El proyecto que nunca vas a terminar de asegurar. Un primer día, un primer cliente, el correo enviado antes de que llegara la confianza. El plan está al ochenta por ciento, y el veinte que falta solo existe al otro lado de empezar."
+        ],
+        "love": [
+          "Abrirse sin escudo: el mensaje que mandas tú primero, el sentimiento dicho antes de que fuera seguro decirlo. También estar dispuesta a ser alguien nuevo delante de otra persona, sin pasado que defender, sin una versión de ti que mantener coherente."
+        ],
+        "self": [
+          "Permiso para no saber todavía. La que eres antes de que la historia se endurezca. La mente de principiante entrenada como disciplina, no encontrada por casualidad."
+        ],
+        "note": [
+          "No es imprudencia. El paso es ligero, no ciego. El Loco ha visto el acantilado y ha decidido que no es lo más importante del cuadro."
+        ]
+      },
+      "reversed": {
+        "summary": "Dar vueltas a un comienzo sin llegar a hacerlo. La preparación que dejó de producir decisiones y, sin avisar, pasó a sustituirlas. O el fallo contrario, el salto descuidado, dado justo para no tener que elegir. Las dos cosas son formas de no estar presente en tu propio umbral.",
+        "keywords": [
+          "el salto aplazado, dar vueltas al borde, informarse para esconderte, los arranques en falso, la inocencia agriada, el casi permanente"
+        ],
+        "essay": [
+          "Invertido, el Loco no es que falte el salto. Es el salto convertido en horizonte permanente, siempre el mes que viene, siempre después de una conversación más, un curso más, una carrerilla más limpia. Se te da muy bien el paseo hasta el borde, tan bien que ya podrías dar visitas guiadas.",
+          "Fíjate en cómo es tu preparación últimamente, en si produce decisiones o las sustituye. Hay un punto en que prepararse se convierte en un sitio donde vivir, con vistas a eso que ibas a hacer. El Loco invertido vive justo ahí. La carta lo señala sin crueldad, como un espejo te avisa de que ha cambiado el tiempo.",
+          "A veces esta carta es el fallo contrario: el salto dado a lo loco, precisamente para que la decisión de verdad no llegue a tomarse nunca. Dejarlo todo como teatro, salir de una cosa cayendo dentro de otra, moverse en lugar de decidir. Dar vueltas y saltar sin mirar son la misma huida a dos velocidades.",
+          "¿Qué querías al principio, antes de que le salieran trámites? Invertido, el Loco te pide encontrarlo debajo del papeleo. Suele ser más pequeño que el plan que se montó a su alrededor, y suele seguir vivo.",
+          "Y hay un precio, y es callado. Los umbrales casi nunca se cierran de golpe, la mayoría solo esperan, a un precio que sube despacio y se paga en las versiones de ti que nunca lo intentaron. Nadie te pasa factura por el casi, y por eso puedes seguir pagándolo durante años.",
+          "La carta no da órdenes, ninguna las da. Marca las vueltas para que las vueltas se vean. Ver el surco pulido bajo tus propios pies ya es el primer cambio de rumbo."
+        ],
+        "work": [
+          "El proyecto para siempre casi listo. El lanzamiento estudiado hasta matarlo, la propuesta ensayada hasta pasársele la frescura. La prudencia haciendo horas extra sin cobrar, que en realidad es miedo."
+        ],
+        "love": [
+          "Tantear el agua tanto tiempo que el agua se forma una opinión. La apertura prometida y aplazada, la conversación que se sigue posponiendo para una semana más tranquila que no llega."
+        ],
+        "self": [
+          "El miedo vestido de rigor. La identidad del \"a punto de\": cómoda, bien vista y, sin hacer ruido, cara."
+        ],
+        "note": [
+          "No es una orden de saltar. La carta marca las vueltas, no el veredicto. Algunos umbrales caducan, la mayoría simplemente esperan."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "id": "six-of-wands",
+  "number": 6,
+  "order": 69,
+  "arcana": "minor",
+  "suit": "wands",
+  "rank": 6,
+  "image": "/assets/cards/six-of-wands.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "wands-06.en.md",
+    "es": "wands-06.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "six-of-wands",
+      "name": "Six of Wands",
+      "seoTitle": "Six of Wands Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "The win recognized — promotion, applause, the yes, the name said in the room. Acclaim that was earned and should be received, out loud, without the reflex…",
+      "summary": "The win recognized — promotion, applause, the yes, the name said in the room. Acclaim that was earned and should be received, out loud, without the reflex of deflection. Also a quiet question about the crowd: visibility has terms.",
+      "imageDescription": "A rider passes through a crowd, laurel wreath on his head and a second wreath tied to the wand he carries — victory doubled, worn and held. The horse is draped; the crowd raises staves in salute. He is elevated, visible, and still moving: the parade is a moment on a road, not the road's end.",
+      "upright": {
+        "keywords": [
+          "victory made public, recognition, the laurel, arrival witnessed, earned acclaim, the parade with more road after it"
+        ],
+        "essay": [
+          "After the Five's scrimmage, someone came out ahead — and the Six of Wands is less about the winning than about the being seen to win. This is the suit of fire at its most public: the promotion announced, the project named in the all-hands, the acceptance letter, the room applauding a thing you actually did. The card's first instruction is the one most often refused: receive it. Deflection is not humility; it is a small theft from the people trying to give you something, and a larger one from the self that did the work.",
+          "Recognition, this card insists, is not vanity's food — it is a structural nutrient. Effort that is never witnessed grows strange: it either curdles into resentment or inflates into private grandiosity, and both are worse than a simple public thank-you metabolized on time. If the parade is happening, ride through it at walking pace. Let the sentence be said. You are allowed to believe it for the length of a street.",
+          "But the card is painted from an interesting angle: you can see the crowd's faces, and the rider cannot. He faces forward; they are behind and beside him. Acclaim always has this geometry — the acclaimed is the one person in the scene who cannot fully see it, cannot check it for envy, sincerity, or expectation. So the card asks its second question quietly: what do these cheers oblige you to? Crowds crown quickly and remember what they crowned. The version of you being celebrated today is a story others now hold, and stories harden. Some of the weight riders carry is the wreath itself.",
+          "And note that the horse is still walking. The Six is a milestone card, not a destination card — the suit continues, and the very next image in it is a man defending a hilltop alone. Enjoy the parade fully and hold it lightly: victory is an event, not an identity. The work that earned the wreath is the same work that outlasts it, and the rider who knows this waves at the crowd without dismounting into it."
+        ],
+        "work": [
+          "The promotion, the shipped win, credit given by name. Receive it plainly; deflected credit reads as either fear or contempt. Then note what the applause now expects."
+        ],
+        "love": [
+          "Being chosen visibly — the relationship named, shown, celebrated. Pride in each other said out loud. Let yourself be the one paraded, for once."
+        ],
+        "self": [
+          "Metabolizing a win instead of deflecting it. One street's length of believing the applause. Effort witnessed is effort that finally lands."
+        ],
+        "note": [
+          "Not the finish line and not proof of permanence. A parade on a road — the road continues, and the wreath does not steer the horse."
+        ]
+      },
+      "reversed": {
+        "summary": "The win without the witness — passed over, credited elsewhere, applauded for the wrong thing. Or acclaim received and felt as fraud. The gap between what happened and what was seen; the ache is the gap, not the work.",
+        "keywords": [
+          "unrecognized effort, stolen or hollow credit, fall from favor, acclaim delayed, the parade that never came, success unfelt"
+        ],
+        "essay": [
+          "Reversed, the Six of Wands breaks the link between doing well and being seen doing well — and everything painful in this card lives in that gap. The forms it takes are distinct, and they need different responses, so identify yours before reaching for consolation.",
+          "There is the unwitnessed win: the work was excellent and the room was empty. The credit went to the louder colleague, the launch was eclipsed by someone else's news, the years of invisible labor were summarized by a person who did none of it. The card's first service here is validation without inflation: yes, recognition was owed, and no, its absence does not retroactively shrink the work. But its second service is practical — witnessing rarely arrives; it is mostly arranged. Keep the record. Say the sentence \"I did this\" in rooms where it matters, with dates. That is not vanity. That is bookkeeping, in a world that audits.",
+          "There is the hollow wreath: acclaim received for the wrong thing, or by the wrong person, or by a you that no longer exists. Applause for the easy piece while the hard piece goes unnamed; the crowd celebrating an image of you that fits them better than it fits you. This one corrodes precisely because it looks like abundance — you got the parade, so who are you to ache? You are the person who knows what the parade missed. Say what the real work was, at least once, at least to someone. Precision is the cure for hollow praise.",
+          "And there is the fall from favor: yesterday's crowd, today's thin street. Public affection has weather, and the card's cool counsel is to stop reading the weather as verdict. The same work that was cheered is the work now ignored; the variable was never the work. What survives crowd rotation is what was true before the crowd arrived — competence, allies who saw the process rather than the parade, and your own unswayed record of what you did. Rebuild on those. Wreaths compost; roads keep."
+        ],
+        "work": [
+          "Credit taken by another, or the win met with a shrug. Keep dated records; name your work in rooms that matter. Witnessing is arranged, not awaited."
+        ],
+        "love": [
+          "Loving unseen — effort unnoticed, the relationship hidden or unclaimed in public. The ache is the missing witness. Ask for the naming you need."
+        ],
+        "self": [
+          "The win that landed as fraud, or the acclaim for a you that isn't you. Say what the real work was, once, to someone. Precision cures hollow praise."
+        ],
+        "note": [
+          "Not proof the work was small. The gap is in the seeing, not the doing — an empty street says nothing about the rider."
+        ]
+      }
+    },
+    "es": {
+      "slug": "seis-de-bastos",
+      "name": "Seis de Bastos",
+      "seoTitle": "Seis de Bastos en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "La victoria reconocida: el ascenso, el aplauso, el sí, tu nombre dicho en la sala. Es un reconocimiento ganado y conviene recibirlo sin quitarle…",
+      "summary": "La victoria reconocida: el ascenso, el aplauso, el sí, tu nombre dicho en la sala. Es un reconocimiento ganado y conviene recibirlo sin quitarle importancia. La carta también plantea una pregunta: la visibilidad trae expectativas.",
+      "imageDescription": "Un jinete pasa entre la multitud, corona de laurel en la cabeza y una segunda corona atada al basto que lleva — victoria doblada, puesta y sostenida. El caballo va engalanado; la multitud alza varas en saludo. Él va elevado, visible, y todavía en marcha: el desfile es un momento en un camino, no el final del camino.",
+      "upright": {
+        "keywords": [
+          "victoria hecha pública, reconocimiento, el laurel, llegada con testigos, aclamación ganada, el desfile con más camino después"
+        ],
+        "essay": [
+          "Tras la refriega del Cinco, alguien salió adelante — y el Seis de Bastos trata menos de ganar que de ser visto ganando. Este es el palo de fuego en su versión más pública: el ascenso anunciado, el proyecto nombrado delante de todos, la carta de aceptación, la sala aplaudiendo algo que de verdad hiciste. La primera instrucción de la carta es la que más se rechaza: recíbelo. Desviar el mérito no es humildad; es un pequeño robo a la gente que intenta darte algo, y uno más grande al yo que hizo el trabajo.",
+          "El reconocimiento, insiste esta carta, no es alimento de la vanidad — también hace falta para sostener el esfuerzo. El trabajo que nunca tiene testigos se vuelve extraño: o se agria en resentimiento o se infla en grandiosidad privada, y ambas cosas son peores que un simple gracias recibido a tiempo. Si el desfile está ocurriendo, atraviésalo sin prisa. Deja que la frase se diga. Tienes permiso para creértela durante el largo de una calle.",
+          "Pero la carta está pintada desde un ángulo interesante: tú puedes ver las caras de la multitud, y el jinete no. Él mira al frente; ellos están detrás y a los lados. La aclamación siempre tiene esta geometría — el aclamado es la única persona de la escena que no puede verla entera, no puede revisarla en busca de envidia, sinceridad o expectativa. Así que la carta hace su segunda pregunta en voz baja: ¿a qué te obligan estos vítores? Las multitudes coronan rápido y recuerdan lo que coronaron. La versión de ti que hoy se celebra es una historia que otros ahora sostienen, y las historias se endurecen. Parte del peso que cargan los jinetes es la propia corona.",
+          "Y fíjate en que el caballo sigue andando. El Seis es una carta de hito, no de destino — el palo continúa, y la siguiente imagen es un hombre defendiendo una colina él solo. Disfruta el desfile del todo y sostenlo con suavidad: la victoria es un acontecimiento, no una identidad. El trabajo que ganó la corona es el mismo trabajo que la sobrevive, y el jinete que lo sabe saluda a la multitud sin desmontar en ella."
+        ],
+        "work": [
+          "El ascenso, el logro publicado, el mérito dado con nombre. Recíbelo sin adornos; el mérito desviado se lee como miedo o como desprecio. Después, anota qué espera ahora el aplauso."
+        ],
+        "love": [
+          "Ser elegido a la vista de todos — la relación nombrada, mostrada, celebrada. El orgullo mutuo dicho en voz alta. Déjate ser tú quien desfila, por una vez."
+        ],
+        "self": [
+          "Deja entrar una victoria en lugar de quitarle importancia. El largo de una calle creyéndote el aplauso. El esfuerzo con testigos por fin se siente real."
+        ],
+        "note": [
+          "No es la meta ni prueba de permanencia. Un desfile en un camino — el camino sigue, y la corona no dirige al caballo."
+        ]
+      },
+      "reversed": {
+        "summary": "La victoria sin testigo — ignorada, acreditada a otro, aplaudida por lo que no era. O la aclamación recibida y sentida como fraude. La brecha entre lo que pasó y lo que se vio; el dolor es la brecha, no el trabajo.",
+        "keywords": [
+          "esfuerzo sin reconocer, mérito robado o hueco, caída del favor, aclamación demorada, el desfile que nunca llegó, éxito no sentido"
+        ],
+        "essay": [
+          "Invertido, el Seis de Bastos rompe el vínculo entre hacerlo bien y ser visto haciéndolo bien — y todo lo doloroso de esta carta vive en esa brecha. Sus formas son distintas y piden respuestas distintas, así que identifica la tuya antes de buscar consuelo.",
+          "Está la victoria sin testigos: el trabajo fue excelente y la sala estaba vacía. El mérito se lo llevó el colega más ruidoso, el lanzamiento quedó eclipsado por la noticia de otro, los años de labor invisible los resumió alguien que no hizo nada de ella. El primer servicio de la carta aquí es validar sin inflar: sí, el reconocimiento se debía, y no, su ausencia no encoge el trabajo con carácter retroactivo. Pero su segundo servicio es práctico — el testimonio rara vez llega; casi siempre se organiza. Guarda el registro. Di la frase «esto lo hice yo» en las salas donde importa, con fechas. Eso no es vanidad. Es llevar las cuentas claras en un mundo que las exige.",
+          "Está la corona hueca: la aclamación recibida por lo que no era, o por quien no era, o por un tú que ya no existe. El aplauso a la pieza fácil mientras la difícil queda sin nombrar; la multitud celebrando una imagen de ti que les encaja a ellos mejor que a ti. Esta versión corroe precisamente porque parece abundancia — te dieron el desfile, ¿quién eres tú para dolerte? Eres la persona que sabe lo que el desfile se perdió. Di cuál fue el trabajo de verdad, al menos una vez, al menos a alguien. La precisión es la cura del elogio hueco.",
+          "Y está la caída del favor: la multitud de ayer, la calle rala de hoy. El afecto público tiene clima, y el consejo frío de la carta es dejar de leer el clima como veredicto. El mismo trabajo que fue vitoreado es el que ahora se ignora; la variable nunca fue el trabajo. Lo que sobrevive a la rotación de las multitudes es lo que era verdad antes de que llegaran — la competencia, los aliados que vieron el proceso y no el desfile, y tu propio registro insobornable de lo que hiciste. Reconstruye sobre eso. Las coronas se compostan; los caminos quedan."
+        ],
+        "work": [
+          "El mérito se lo lleva otra persona, o el logro apenas recibe atención. Guarda pruebas con fecha y nombra tu trabajo donde importa. El reconocimiento a menudo hay que hacerlo visible; no basta con esperarlo."
+        ],
+        "love": [
+          "Amar sin ser visto — el esfuerzo inadvertido, la relación escondida o sin reclamar en público. El dolor es el testigo que falta. Pide el nombramiento que necesitas."
+        ],
+        "self": [
+          "Una victoria que se siente como un fraude, o un aplauso dirigido a una versión de ti que ya no reconoces. Di, al menos a una persona, cuál fue el trabajo real. La precisión corrige el elogio vacío."
+        ],
+        "note": [
+          "No es prueba de que el trabajo fuera pequeño. La brecha está en el mirar, no en el hacer — una calle vacía no dice nada del jinete."
+        ]
+      }
+    }
+  }
+}

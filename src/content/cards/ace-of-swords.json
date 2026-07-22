@@ -1,0 +1,128 @@
+{
+  "id": "ace-of-swords",
+  "number": 1,
+  "order": 50,
+  "arcana": "minor",
+  "suit": "swords",
+  "rank": 1,
+  "image": "/assets/cards/ace-of-swords.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "swords-01.en.md",
+    "es": "swords-01.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "ace-of-swords",
+      "name": "Ace of Swords",
+      "seoTitle": "Ace of Swords Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "The breakthrough — the sentence that cuts through the fog, the diagnosis, the decision that was waiting for its words. Truth arriving with both of its…",
+      "summary": "The breakthrough — the sentence that cuts through the fog, the diagnosis, the decision that was waiting for its words. Truth arriving with both of its edges. Use it to cut the right thing, once, cleanly.",
+      "imageDescription": "A hand emerges from a cloud gripping an upright sword — gripping, this time, not presenting; swords are the one gift that must be held correctly from the first second. The blade's tip passes through a golden crown hung with laurel and palm. Below, a landscape of jagged, barren peaks. Clarity, the card admits from the start, is not a garden. It is an altitude.",
+      "upright": {
+        "keywords": [
+          "the cut of clarity, truth unsheathed, the decisive idea, mental breakthrough, the double edge accepted, naming the thing"
+        ],
+        "essay": [
+          "The suit of air opens with its whole philosophy in one object: a blade, which is to say, a tool whose only function is division. The Ace of Swords is the moment the mind finally cuts — the fog of the situation resolving into one sentence, the misdiagnosis yielding to the diagnosis, the decision that had been circling for months landing in words that will not be unthought. Where the Ace of Cups overflowed, this ace severs: before it there was a tangle; after it there is this and not-this, true and not-true, yes and therefore no. If it has arrived, either the clarity has just struck or it is available now to a mind willing to hold the grip.",
+          "The card's first insistence is that clarity is an event, not a mood. It arrives as language — the thing finally named. Unnamed, a situation is weather: it happens to you, everywhere, unanswerably. Named — this is an addiction, this job is over, I am not asking a question, I am avoiding an answer — it acquires edges, and edged things can be handled, moved, and cut away from. This is why the card so often accompanies the sentence someone has been refusing to say aloud: the naming is the sword, and most people, offered it, hesitate — because a hand from a cloud is offering them a blade, and blades commit. The Ace's counsel is to take it anyway. The alternative to cutting is not safety; it is the tangle, indefinitely.",
+          "Its second insistence is the double edge, and no card is more honest about its own gift. A sword cuts regardless of direction: the same clarity that frees can wound; the truth that resolves your fog can, delivered carelessly, flatten someone else's standing structure. Truth-telling has casualties, and the card does not pretend otherwise — it only distinguishes surgery from swordplay. Surgery cuts the minimum necessary, at the chosen point, for the named purpose, and stops. Swordplay is being right at people. The crown at the blade's tip is the difference: mind crowned, aimed by something above appetite — the point wins the crown, not the swinging.",
+          "And the peaks below carry the ace's final note: the view from clarity is barren before it is anything else. The first honest sentence about a situation usually costs a comfort — that is how you know it was honest. Do not mistake the bleakness of the first clear look for the truth being wrong; gardens grow back, but only on ground that has been accurately seen. Take the sword. Name the thing. Cut once, where it counts."
+        ],
+        "work": [
+          "The diagnosis that ends the circling — say the sentence the meeting keeps avoiding. Cut the minimum, at the chosen point, for the named purpose. Then stop."
+        ],
+        "love": [
+          "The thing finally named between you — clarifying and double-edged. Truth as surgery, not swordplay: being right at someone is not honesty's only format."
+        ],
+        "self": [
+          "The sentence you've refused to think in words — think it. Named, the weather becomes an object with edges, and edged things can be handled."
+        ],
+        "note": [
+          "Not cruelty licensed and not certainty about everything — one clean cut, not a swinging spree. And not comfort: first clarity reads barren. Gardens regrow on seen ground."
+        ]
+      },
+      "reversed": {
+        "summary": "Clarity failing or corrupted — the mind in fog, the argument that circles, the truth bent into a weapon or a fog machine. Or the cut that should have been made, delayed until everything frays. Find the sword; check who's been swinging it and at what.",
+        "keywords": [
+          "the blunted edge, clarity misused or missing, confusion as fog or as choice, the truth twisted, arguments in circles, the sword swung at everything"
+        ],
+        "essay": [
+          "Reversed, the Ace of Swords fails in the three ways a blade can fail: lost, misused, or swung without aim.",
+          "Lost is the fog: the mind that cannot cut. Thought circling the same territory nightly without a verdict; the pro/con lists multiplying past their tenth revision; analysis functioning as anesthesia — because the tangle, examined forever, never has to be severed. The reversed ace's first diagnostic question is impolite: is the confusion real, or load-bearing? Real confusion lacks information and can name what it lacks — ask what fact would settle it, then go get the fact. Load-bearing confusion has all the information and keeps requesting more, because the missing element is not data; it is willingness to pay the price of the verdict. If no imaginable fact would settle the question, the question is settled — the remaining work is not thinking. It is grip.",
+          "Misused is the darker file: intelligence serving something other than truth. The lawyer's brilliance deployed to make the worse cause the winner; the argument won on rhetoric while everyone leaves stupider; the selective fact, the strategic frame, the sentence engineered to wound with deniability — cleverness, in short, divorced from the crown. The card names this without exemption for the reader: the sharpest people mislead most fluently, and the habit forms fastest where being right is identity. The test is retrospective and severe — after your last several victories, was more true in the room, or just less opposition? A sword that only ever cuts toward your convenience has stopped being an instrument of clarity, whatever its edge.",
+          "Swung without aim is the loudest failure: truth as a spree. The person who, having discovered honesty, conducts raids with it — every observation delivered, every flaw named, radical candor as a costume for aggression, the same blade for the load-bearing lie and for a friend's harmless comfort. Aimless truth-telling is not more honest than silence; it is less, because it buries the one necessary cut under thirty gratuitous ones, and the audience learns to armor against the whole category. Precision is the discipline: the reversed ace asks the spree-swinger for one distinction — what needs cutting, versus what you merely can cut. The first list is short. It was always short. The crown was never awarded for volume."
+        ],
+        "work": [
+          "The analysis that circles past its tenth revision — ask what fact would settle it; if none would, the question is settled and the remaining work is grip."
+        ],
+        "love": [
+          "The argument won on rhetoric while both leave stupider — or candor as a raid. One necessary cut beats thirty gratuitous ones; the audience armors against sprees."
+        ],
+        "self": [
+          "Is the confusion real or load-bearing? Real confusion can name its missing fact. The other kind is protecting you from a verdict whose price you already know."
+        ],
+        "note": [
+          "Not thinking discredited — thinking unaimed or unwilling. The blade is intact in the rocks. What's missing is the crown, or the grip."
+        ]
+      }
+    },
+    "es": {
+      "slug": "as-de-espadas",
+      "name": "As de Espadas",
+      "seoTitle": "As de Espadas en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "La claridad que irrumpe: la frase que disipa la niebla, el diagnóstico certero, la decisión que por fin encuentra palabras. La verdad llega con dos filos.…",
+      "summary": "La claridad que irrumpe: la frase que disipa la niebla, el diagnóstico certero, la decisión que por fin encuentra palabras. La verdad llega con dos filos. Úsala para cortar lo necesario, una vez y con limpieza.",
+      "imageDescription": "Una mano emerge de una nube empuñando una espada vertical — empuñando, esta vez, no presentando; las espadas son el único regalo que debe sostenerse correctamente desde el primer segundo. La punta de la hoja atraviesa una corona dorada de la que cuelgan laurel y palma. Abajo, un paisaje de picos dentados y yermos. La claridad, admite la carta desde el principio, no es un jardín. Es una altitud.",
+      "upright": {
+        "keywords": [
+          "el corte de la claridad, la verdad desenvainada, la idea decisiva, avance mental, el doble filo aceptado, nombrar la cosa"
+        ],
+        "essay": [
+          "El palo del aire se abre con toda su filosofía en un solo objeto: una hoja, una herramienta hecha para separar. El As de Espadas es el momento en que la mente por fin abre camino: la niebla de una situación se resuelve en una frase, un diagnóstico equivocado deja paso al acertado y una decisión que llevaba meses rondando se formula de un modo imposible de ignorar. Donde el As de Copas se desborda, este as delimita: antes había una maraña; después, un sí y un no, una verdad y una falsedad. Si aparece, la claridad acaba de llegar o está al alcance de quien se atreva a sostener la empuñadura.",
+          "La primera insistencia de la carta es que la claridad es un acontecimiento, no un estado de ánimo. Llega como lenguaje — la cosa por fin nombrada. Sin nombrar, una situación es clima: te ocurre, en todas partes, sin posibilidad de réplica. Nombrada — esto es una adicción, este trabajo se acabó, no estoy haciendo una pregunta, estoy evitando una respuesta — adquiere bordes, y las cosas con borde pueden manejarse, moverse y cortarse. Por eso la carta acompaña tan a menudo a la frase que alguien se ha negado a decir en voz alta: el nombrar es la espada, y la mayoría de la gente, cuando se la ofrecen, duda — porque una mano desde una nube le está ofreciendo una hoja, y las hojas comprometen. El consejo del As es tomarla de todos modos. La alternativa a cortar no es la seguridad; es la maraña, indefinidamente.",
+          "Su segunda lección es el doble filo, y ninguna carta es más honesta con su propio don. Una espada corta en cualquier dirección: la claridad que libera también puede herir; una verdad dicha sin cuidado puede derribar algo que otra persona aún necesitaba sostener. Decir la verdad tiene consecuencias, y la carta no lo disimula. Solo distingue entre la precisión y el golpe gratuito. La primera corta lo mínimo necesario, en el punto adecuado y con un fin claro; lo segundo consiste en usar la razón para imponerse. La corona sobre la hoja recuerda la diferencia: la inteligencia ha de estar al servicio de algo más alto que el orgullo.",
+          "Y los picos de abajo cargan la nota final del as: la vista desde la claridad es yerma antes de ser cualquier otra cosa. La primera frase honesta sobre una situación suele costar una comodidad — así sabes que era honesta. No confundas la desolación de la primera mirada clara con que la verdad esté equivocada; los jardines vuelven a crecer, pero solo sobre terreno que ha sido visto con precisión. Toma la espada. Nombra la cosa. Corta una vez, donde cuenta."
+        ],
+        "work": [
+          "El diagnóstico que pone fin a las vueltas: di la frase que la reunión sigue evitando. Corta lo mínimo, en el punto adecuado y con un propósito claro. Después, detente."
+        ],
+        "love": [
+          "Eso que por fin se nombra entre vosotros: aclara, pero también puede doler. La verdad ha de ser precisa, no una forma de imponerse; tener razón no es el único modo de ser honesta."
+        ],
+        "self": [
+          "La frase que te has negado a pensar con palabras — piénsala. Nombrado, el clima se vuelve un objeto con bordes, y lo que tiene bordes puede manejarse."
+        ],
+        "note": [
+          "No es crueldad con licencia ni certeza sobre todo — un corte limpio, no una racha de mandobles. Y no es comodidad: la primera claridad se lee yerma. Los jardines rebrotan sobre terreno visto."
+        ]
+      },
+      "reversed": {
+        "summary": "La claridad fallando o corrompida — la mente en niebla, la discusión que da vueltas, la verdad doblada en arma o en máquina de niebla. O el corte que debía hacerse, demorado hasta que todo se deshilacha. Encuentra la espada; comprueba quién la ha estado blandiendo y contra qué.",
+        "keywords": [
+          "el filo embotado, la claridad mal usada o ausente, la confusión como niebla o como elección, la verdad torcida, discusiones en círculo, la espada blandida contra todo"
+        ],
+        "essay": [
+          "Invertido, el As de Espadas falla de las tres maneras en que puede fallar una hoja: perdida, mal usada, o blandida sin puntería.",
+          "La primera forma es la niebla: una mente incapaz de decidir. El pensamiento recorre el mismo terreno cada noche; las listas de pros y contras crecen sin parar; el análisis sirve de anestesia porque, mientras se analiza, nada obliga a actuar. La pregunta incómoda del As invertido es esta: ¿te faltan datos o te cuesta aceptar la conclusión? Si faltan datos, identifica qué hecho resolvería la duda y búscalo. Si ningún dato imaginable bastaría, el problema ya no es pensar: es asumir el coste de decidir.",
+          "Mal usada es el expediente más oscuro: la inteligencia sirviendo a algo distinto de la verdad. La brillantez del abogado desplegada para que gane la peor causa; la discusión ganada por retórica mientras todos salen más tontos; el hecho selectivo, el marco estratégico, la frase diseñada para herir con posibilidad de negarlo — la listeza, en suma, divorciada de la corona. La carta nombra esto sin eximir a quien lee: la gente más afilada engaña con más fluidez, y el hábito se forma más rápido donde tener razón es identidad. La prueba es retrospectiva y severa — tras tus últimas victorias, ¿había más verdad en la sala, o solo menos oposición? Una espada que solo corta hacia tu conveniencia ha dejado de ser un instrumento de claridad, tenga el filo que tenga.",
+          "La tercera forma es la más ruidosa: usar la verdad como una descarga. Quien acaba de descubrir la franqueza puede convertir cada observación en un golpe, confundir sinceridad con agresión y aplicar la misma hoja a una mentira grave y a la vulnerabilidad inocente de una amiga. Soltar verdades sin criterio no es más honesto que callar; solo tapa lo importante bajo una sucesión de golpes innecesarios. La disciplina consiste en distinguir entre lo que necesita decirse y aquello que simplemente podrías decir. La primera lista siempre es corta."
+        ],
+        "work": [
+          "El análisis que da vueltas más allá de su décima revisión — pregunta qué hecho lo zanjaría; si ninguno lo haría, la pregunta está zanjada y el trabajo restante es empuñar."
+        ],
+        "love": [
+          "La discusión ganada por retórica mientras ambos salen más tontos — o la franqueza como incursión. Un corte necesario le gana a treinta gratuitos; el público se acoraza contra las rachas."
+        ],
+        "self": [
+          "¿La confusión es real o te evita una decisión? La primera puede nombrar el dato que le falta. La otra te protege de una conclusión cuyo precio ya conoces."
+        ],
+        "note": [
+          "No es el pensar desacreditado — es el pensar sin puntería o sin voluntad. La hoja está intacta entre las rocas. Lo que falta es la corona, o la empuñadura."
+        ]
+      }
+    }
+  }
+}

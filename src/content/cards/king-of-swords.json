@@ -1,0 +1,128 @@
+{
+  "id": "king-of-swords",
+  "number": 14,
+  "order": 63,
+  "arcana": "minor",
+  "suit": "swords",
+  "rank": 14,
+  "image": "/assets/cards/king-of-swords.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "swords-14.en.md",
+    "es": "swords-14.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "king-of-swords",
+      "name": "King of Swords",
+      "seoTitle": "King of Swords Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "The mind at the head of the table — impartial, systematic, done deliberating. The fair ruling, the clear standard, the decision that can be explained.…",
+      "summary": "The mind at the head of the table — impartial, systematic, done deliberating. The fair ruling, the clear standard, the decision that can be explained. Authority earned by applying the rule to oneself first. Consult the head; let the heart testify; then decide, out loud, with reasons.",
+      "imageDescription": "The king faces front — the only figure in the suit who looks straight out of the card, because verdicts are public acts. His sword is upright but tilted one degree off vertical, a blade that has ruled and knows it could be appealed. Butterflies are carved into the stone of the throne; two birds hold the high air; the clouds have settled low and orderly, weather that has agreed, for now, to behave.",
+      "upright": {
+        "keywords": [
+          "the judge's bench, the mind in office, the standard applied evenly, feeling heard as testimony, the verdict with reasons, authority as restraint"
+        ],
+        "essay": [
+          "The suit that began with a hand seizing a blade ends its court at a bench: the King of Swords is the mind in office. Page studied the sword, Knight rode it, Queen survived into it — the King has been given jurisdiction, and the card's first fact is the direction of his gaze. Alone in the suit, he looks straight out at you, because judgment, unlike insight, is a public act: rulings must be delivered to faces, with reasons attached, and stand up to being read back later. Wherever this card lands, something is asking to be decided properly — not felt through, not charged at, not merely seen clearly, but ruled on, in the open, by a standard that was announced before the case began.",
+          "His authority has one source, and the card is strict about it: the standard applied evenly, starting at home. The King of Swords is the figure who holds himself to the rule before extending it — who recuses where interested, shows the work behind the verdict, and can be appealed without punishing the appellant. This is rarer than competence and more valuable: rooms full of clever people are common; rooms where the clever people are also fair are where anything durable gets built. The one-degree tilt of his blade is the deck's smallest, best joke about certainty — even this sword leans, a single degree, off absolute. A judge with no tilt at all is not principled. He is finished listening.",
+          "What the motto calls the mind ruling the feeling is a courtroom procedure, not an execution, and the difference is the whole card. Feelings, at this bench, are not banished — they are sworn in. Testimony: heard in full, on the record, weighed. The King does not decide the anger is wrong; he decides the anger is evidence — of a boundary crossed, a fear touched, a value engaged — and then declines to hand it the gavel. This is the adult architecture the whole suit was building toward: not a mind that cannot feel (that machine exists, and the reversal owns it) but a mind that can feel at full volume and still locate the just outcome one shelf above the loudest voice in the room, including its own.",
+          "If the card is prescriptive, the docket is usually obvious: the decision you have been making by mood, repeatedly, hoping each mood would rule differently. The counsel is to convene the court you have been avoiding. Name the standard out loud before deliberating — what would I call fair if this were someone else's case? Hear every party, especially the feeling that has been shouting from the corridor precisely because it was never called to the stand. Then rule, with reasons, in writing if it matters — and accept appeals on new evidence only, not on volume. The suit of air ends here on purpose: thought, it has argued from the Ace, is a blade. The King is the discovery of what blades are for. Not victory — order. Not being right — being just, on the record, one degree short of sure."
+        ],
+        "work": [
+          "The decision made by mood, pending for months — convene the court. Announce the standard first, rule with written reasons, accept appeals on new evidence only."
+        ],
+        "love": [
+          "Feelings sworn in as testimony, not banished and not handed the gavel. \"What would I call fair if this were someone else's case\" — then say the ruling out loud."
+        ],
+        "self": [
+          "Apply the rule to yourself before extending it — recusal, shown work, appealable verdicts. Keep the one-degree tilt: certainty with no lean has stopped listening."
+        ],
+        "note": [
+          "Not coldness — the anger was heard in full; it just doesn't preside. And not tyranny: his authority is exactly as large as his restraint. The tilt is the proof."
+        ]
+      },
+      "reversed": {
+        "summary": "Intellect off its oath — logic deployed to end conversations rather than find truth, the verdict written first and the reasoning hired after. Feelings ruled inadmissible, then appealed as chaos. Brilliance without fairness is just a sharper unfairness. Vacate the ruling; reopen the case.",
+        "keywords": [
+          "logic used as a wall, the corrupted bench, reason serving the verdict it wanted, feelings ruled inadmissible, the loophole lived in, clever and unjust"
+        ],
+        "essay": [
+          "Reversed, the King of Swords keeps the intellect and breaks the oath — and the card insists on the order of operations, because it explains everything this figure does: the verdict comes first, and the reasoning is hired afterward. This is motivated reasoning with a gavel. The mind that could find the truth is instead retained by a client — the ego, the grievance, the preferred outcome — and it works brilliantly for that client: precedents located, definitions adjusted mid-case, the goalposts moved with citations. Watch for the tell that separates a thinking judge from a hired one: the thinking judge can name what evidence would change his mind. The hired one cannot, because no such evidence exists — the conclusion predates the case.",
+          "The motto's logic used as a wall is a specific domestic and professional weapon, and most people have been on one side of it or the other. It is reason deployed not to reach truth but to end contact: the calm voice that answers a hurt with a definition of the hurt; the request for evidence issued against a feeling, which — being a feeling — has none to file and is therefore dismissed; the maddening procedural win — you said always, and I can show one exception — that leaves the other person technically defeated and entirely unheard. The wall's genius is that it photographs as virtue: he never even raised his voice. But the volume was never the question. A courtroom where one party writes the rules of evidence is not calm. It is rigged, quietly, which is the worst way.",
+          "At institutional scale the reversal is the clever contract, the loophole lived in, the policy applied with full force downward and full flexibility upward — intelligence serving power and calling itself neutral. The card's coldest observation: nobody is more dangerous than the smartest person in the room once fairness has been made optional, because every instrument stays sharp and only the oath is gone. Unjust brilliance does not read as evil from inside. It reads as winning.",
+          "The way back runs through the one act the hired mind cannot fake: the ruling vacated at cost. Not the apology in the abstract — the specific reversal, on the record, when the evidence went against your side: I argued it because I wanted it; the reasoning came second; the ruling is withdrawn. For the walled version, the act is smaller and harder: one conversation where the feeling across the table is admitted as evidence without a competency hearing — it hurt you; that stands; I withdraw the cross-examination. The blade is not the problem; it never is, in this suit. The question the whole court asks, from Page to King, is the same one it opened with at the Ace, now with jurisdiction attached: not how sharp — in whose service. Answer it under oath this time."
+        ],
+        "work": [
+          "The reasoning was hired after the verdict — the tell: name what evidence would change your mind. If nothing could, you're not judging; you're representing a client."
+        ],
+        "love": [
+          "The calm procedural win that leaves them technically defeated and entirely unheard — volume was never the question. Admit the feeling as evidence; withdraw the cross."
+        ],
+        "self": [
+          "Vacate one ruling at cost, on the record: \"I argued it because I wanted it.\" That's the single act the hired mind can't fake, and the oath comes back with it."
+        ],
+        "note": [
+          "Not intelligence gone bad — intelligence gone retained; the instruments are fine, the oath is off. And not calm: a rigged courtroom photographs as calm. Check who writes the rules of evidence."
+        ]
+      }
+    },
+    "es": {
+      "slug": "rey-de-espadas",
+      "name": "Rey de Espadas",
+      "seoTitle": "Rey de Espadas en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "La mente en la cabecera de la mesa — imparcial, sistemática, con la deliberación terminada. El fallo justo, el estándar claro, la decisión que puede…",
+      "summary": "La mente en la cabecera de la mesa — imparcial, sistemática, con la deliberación terminada. El fallo justo, el estándar claro, la decisión que puede explicarse. Autoridad ganada aplicándose la regla primero a uno mismo. Consulta la cabeza; deja testificar al corazón; luego decide, en voz alta, con motivos.",
+      "imageDescription": "El rey mira de frente — la única figura del palo que mira directamente fuera de la carta, porque los veredictos son actos públicos. Su espada está erguida pero inclinada un grado fuera de la vertical, una hoja que ha fallado causas y sabe que podría apelarse. Hay mariposas talladas en la piedra del trono; dos pájaros sostienen el aire alto; las nubes se han asentado bajas y ordenadas, un clima que ha aceptado, por ahora, portarse bien.",
+      "upright": {
+        "keywords": [
+          "el estrado del juez, la mente en el cargo, el estándar aplicado por igual, el sentimiento oído como testimonio, el veredicto con motivos, la autoridad como contención"
+        ],
+        "essay": [
+          "El palo que empezó con una mano empuñando una hoja termina ante un estrado: el Rey de Espadas es la mente al mando. La Sota estudió la espada, el Caballero la llevó a la acción y la Reina aprendió a sobrevivirla; al Rey le corresponde juzgar. Único en el palo, mira de frente, porque el juicio es un acto público: una decisión ha de poder explicarse y sostenerse. Allí donde aparezca esta carta, algo pide resolverse con criterio: no solo desde la emoción o el impulso, sino con un estándar claro y razones que puedan exponerse.",
+          "Su autoridad tiene una sola fuente, y la carta es estricta al respecto: el estándar aplicado por igual, empezando por casa. El Rey de Espadas es la figura que se somete a la regla antes de extenderla — que se recusa donde tiene interés, que enseña el trabajo detrás del veredicto, y a quien se puede apelar sin que castigue al apelante. Esto es más raro que la competencia y más valioso: salas llenas de gente lista abundan; las salas donde la gente lista es además justa son donde se construye lo que dura. La inclinación de un grado de su hoja es el chiste más pequeño y mejor de la baraja sobre la certeza — hasta esta espada se ladea, un solo grado, fuera de lo absoluto. Un juez sin inclinación ninguna no es un hombre de principios. Es un hombre que terminó de escuchar.",
+          "La mente que guía al sentimiento no lo silencia ni lo castiga. Le da espacio, lo escucha y lo pone en contexto. El Rey no decide que la rabia sea equivocada: entiende que puede señalar un límite cruzado, un miedo o un valor importante, pero no le entrega el mando. Esa es la madurez a la que apunta el palo: poder sentir intensamente y, aun así, decidir con justicia.",
+          "Si la carta es receta, la causa pendiente suele ser obvia: la decisión que llevas tomando por estado de ánimo, repetidamente, esperando que cada ánimo falle distinto. El consejo es convocar el tribunal que has estado evitando. Nombra el estándar en voz alta antes de deliberar — ¿qué llamaría yo justo si esta fuera la causa de otra persona? Oye a todas las partes, en especial al sentimiento que lleva gritando desde el pasillo precisamente porque nunca lo llamaron al estrado. Luego falla, con motivos, por escrito si importa — y acepta apelaciones solo con pruebas nuevas, no con volumen. El palo del aire termina aquí a propósito: el pensamiento, viene sosteniendo desde el As, es una hoja. El Rey es el descubrimiento de para qué son las hojas. No para la victoria — para el orden. No para tener razón — para ser justo, en acta, a un grado de estar seguro."
+        ],
+        "work": [
+          "La decisión tomada por ánimo, pendiente desde hace meses — convoca el tribunal. Anuncia el estándar primero, falla con motivos por escrito, acepta apelaciones solo con pruebas nuevas."
+        ],
+        "love": [
+          "Los sentimientos juramentados como testimonio, ni desterrados ni con el mazo en la mano. «¿Qué llamaría justo si fuera la causa de otro?» — y luego di el fallo en voz alta."
+        ],
+        "self": [
+          "Aplícate la regla antes de extenderla — recusación, trabajo a la vista, veredictos apelables. Conserva el grado de inclinación: la certeza sin ladeo dejó de escuchar."
+        ],
+        "note": [
+          "No es frialdad — la rabia fue oída completa; solo que no preside. Y no es tiranía: su autoridad es exactamente tan grande como su contención. La inclinación es la prueba."
+        ]
+      },
+      "reversed": {
+        "summary": "El intelecto fuera de su juramento — la lógica desplegada para terminar conversaciones y no para hallar verdad, el veredicto escrito primero y el razonamiento contratado después. Los sentimientos declarados inadmisibles, y luego tachados de caos. La brillantez sin justicia es solo una injusticia más afilada. Anula el fallo; reabre la causa.",
+        "keywords": [
+          "la lógica usada como muro, el estrado corrompido, la razón sirviendo al veredicto que quería, sentimientos declarados inadmisibles, el vacío legal habitado, listo e injusto"
+        ],
+        "essay": [
+          "Invertido, el Rey de Espadas conserva el intelecto y rompe el juramento — y la carta insiste en el orden de las operaciones, porque explica todo lo que hace esta figura: el veredicto llega primero, y el razonamiento se contrata después. Es razonamiento motivado con mazo. La mente que podría hallar la verdad está contratada, en cambio, por un cliente — el ego, el agravio, el desenlace preferido — y trabaja brillantemente para ese cliente: precedentes localizados, definiciones ajustadas a mitad de causa, reglas que cambian con citas al pie. Busca la señal que separa al juez que piensa del juez contratado: el que piensa puede nombrar qué prueba le haría cambiar de opinión. El contratado no puede, porque esa prueba no existe — la conclusión es anterior a la causa.",
+          "La lógica usada como muro del lema es un arma doméstica y profesional concreta, y casi todo el mundo ha estado en uno de sus dos lados. Es la razón desplegada no para llegar a la verdad sino para terminar el contacto: la voz calmada que responde a un dolor con una definición del dolor; la petición de pruebas girada contra un sentimiento, que — por ser sentimiento — no tiene ninguna que presentar y queda por tanto desestimado; la exasperante victoria procesal — dijiste siempre, y puedo mostrar una excepción — que deja a la otra persona técnicamente derrotada y enteramente sin oír. El genio del muro es que en la foto pasa por virtud: ni siquiera levantó la voz. Pero el volumen nunca fue la cuestión. Una sala donde una de las partes redacta las reglas de la prueba no está en calma. Está amañada, en silencio, que es la peor manera.",
+          "A escala institucional, esta inversión habla de contratos tramposos, vacíos legales y reglas rígidas para unos y flexibles para otros: inteligencia al servicio del poder que se presenta como neutral. Una persona brillante resulta peligrosa cuando la justicia deja de importarle, porque conserva todas sus herramientas. Desde dentro, esa injusticia puede parecer simplemente una victoria.",
+          "El camino de vuelta exige algo que la mente usada para justificarse no puede fingir: rectificar de verdad. No basta una disculpa abstracta; hay que decir «lo defendí porque era lo que quería, y después busqué razones. Retiro esa decisión». Cuando se ha usado la lógica como un muro, el gesto es más sencillo y más difícil: admitir «te dolió, y eso importa; dejo de interrogarte». La espada no es el problema. La pregunta que acompaña a todo este palo, desde la Sota hasta el Rey, sigue siendo la misma: no cuán afilada es tu mente, sino al servicio de quién la pones."
+        ],
+        "work": [
+          "El razonamiento se contrató después del veredicto — la señal: nombra qué prueba te haría cambiar de opinión. Si ninguna podría, no estás juzgando; estás representando a un cliente."
+        ],
+        "love": [
+          "La victoria procesal calmada que los deja técnicamente derrotados y enteramente sin oír — el volumen nunca fue la cuestión. Admite el sentimiento como prueba; retira el interrogatorio."
+        ],
+        "self": [
+          "Anula un fallo con coste, en acta: «lo argumenté porque lo quería». Es el único acto que la mente contratada no puede fingir, y con él vuelve el juramento."
+        ],
+        "note": [
+          "No es inteligencia estropeada — es inteligencia contratada; los instrumentos están bien, falta el juramento. Y no es calma: una sala amañada pasa por calma en la foto. Mira quién redacta las reglas de la prueba."
+        ]
+      }
+    }
+  }
+}

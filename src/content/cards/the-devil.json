@@ -1,0 +1,136 @@
+{
+  "id": "the-devil",
+  "number": 15,
+  "order": 15,
+  "arcana": "major",
+  "suit": null,
+  "rank": null,
+  "image": "/assets/cards/the-devil.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "15-devil.en.md",
+    "es": "15-devil.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "the-devil",
+      "name": "The Devil",
+      "seoTitle": "The Devil Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "The habit, bond or bargain that holds because it pays something. Naming the hook honestly instead of moralizing it. Appetite owned rather than obeyed — or…",
+      "summary": "The habit, bond or bargain that holds because it pays something. Naming the hook honestly instead of moralizing it. Appetite owned rather than obeyed — or obeyed and finally admitted. The chains are loose by design; the staying is the information.",
+      "imageDescription": "A horned figure crouches on a black pedestal, one hand raised in a mocking blessing, the other holding a torch upside down. Below, two human figures stand chained at the neck — and the detail the whole card turns on: the chains hang loose. Wide enough to lift off over the head. Neither figure is testing this. They have gotten used to the weight, and the weight has gotten used to them.",
+      "upright": {
+        "keywords": [
+          "bondage examined, addiction, the payoff of the trap, materialism, the chain said yes to, the hook named honestly"
+        ],
+        "essay": [
+          "Every trap you are still in pays you something. That is the card's first fact, and the one polite readings skip. The chains in the image are loose — famously, deliberately loose — which means the interesting question was never \"how do I get free?\" It is \"what is the staying buying me?\" Answer that honestly and the card has done most of its work in one move.",
+          "Run the inventory without flinching. The job that costs your health pays in security, or in the identity of someone who has that job. The habit that eats your evenings pays in switching your head off, reliably, on demand — no small service. The relationship that diminishes you pays in not being alone, or in the comfort of a script you know by heart. None of this is weakness. It is commerce. The Devil is not a jailer; he is a vendor, and you have been a repeat customer for reasons that made sense at the time of first purchase.",
+          "Notice how the figure blesses: a parody of the Hierophant's gesture, two cards upstream. Same posture, inverted meaning — the teacher who binds instead of frees, the belonging that costs your shape. Some of what holds you was joined voluntarily, in a ceremony, with witnesses. The card does not say leave. It says: see the pedestal for what it is — small, black, and portable.",
+          "Appetite runs through this card, and the card's position on appetite is unfashionable: own it. The wanting — for pleasure, for oblivion, for money, for the body, for the substance, for the screen — does not respond to denial; denied appetites do not die, they delegate, and they hire strange staff. The appetite examined in good light, named without euphemism, fed deliberately or declined deliberately, loses most of its command voice. It is the unexamined version that runs the building.",
+          "The torch is held upside down — light, misused, pointing at the floor. The same energy right side up is a different card entirely. Nothing in you needs removing. Some things need re-aiming, and the difference between those two operations is the difference between war and craft.",
+          "The question underneath: what does the chain pay you — and is the rate still worth it, at today's prices?"
+        ],
+        "work": [
+          "Golden handcuffs, itemized: what the staying pays, what it costs, the honest spread between them. The dependency in the deal nobody mentions at the signing."
+        ],
+        "love": [
+          "Attachment mistaken for closeness; the bond that holds by need rather than by choice. Naming what each of you gets from the pattern — the naming alone changes the rate."
+        ],
+        "self": [
+          "The vice examined in good light, without the theater of shame. Your appetite as a fact to be managed, not a scandal to be hidden. The hook, finally described accurately."
+        ],
+        "note": [
+          "Not evil arriving from outside. The chains are loose by design — the card describes a bargain, and bargains can be renegotiated by either party."
+        ]
+      },
+      "reversed": {
+        "summary": "The first honest look back at the thing that held you. Recovery's early inches; the pattern named aloud at last. Power returning in small denominations. Not finished — links loosen one at a time, and they re-tighten if unwatched.",
+        "keywords": [
+          "the grip loosening, detachment beginning, the trap seen from one step outside, recovery's early inches, power returning in small denominations"
+        ],
+        "essay": [
+          "Reversed, the Devil is the trap seen from one step outside it — which is a specific and underrated vantage. From inside, the arrangement looked like the whole room. From one step away, it has edges, a shape, and a size, and the size is the surprise: smaller than it governed. The pedestal always was. You could not see that from where you were standing, because you were standing on it.",
+          "Honor the mechanics of the exit, because they matter for what comes next. The chain lifted off exactly as easily as the image always promised — over the head, no key, no drama. What took the time was not the lifting. It was the wanting-to, arriving in inches: the first honest description of the arrangement, the first time you said the real name of the thing out loud, the first evening you noticed the payoff had quietly stopped paying. Freedom rarely arrives as an event. It arrives as arithmetic finally done in public.",
+          "Power comes back in small denominations, and the card asks you not to despise the coins. One declined invitation. One evening reclaimed. One conversation held without the old script. Each is trivial; the accumulation is the recovery. People relapse waiting for the large bill — the transformation, the clean break, the new life delivered whole — while the actual currency of getting out was always small, daily, and slightly boring.",
+          "Now the warning, delivered flat because you have earned the real version: links re-tighten if unwatched. The pattern you stepped out of is patient. It does not chase; it waits, staffed and lit, holding your old position open like a job you never formally quit. The step outside is not the end of the story — it is the beginning of maintenance, and maintenance is unglamorous and permanent and much lighter than the chain.",
+          "And a last honesty: some payoff was real, and you will miss it. The switch-off, the comfort, the known script — the arrangement paid in genuine coin, or it could never have held you. Grieve that plainly rather than pretending the whole thing was a con. It was a trade. You have simply stopped agreeing to the price.",
+          "The question underneath: which link is loosest right now — and who watches it with you?"
+        ],
+        "work": [
+          "Notice served on the golden handcuffs; the exit spreadsheet finally honest. The early, awkward inches of the professional unwinding — trivial-looking, decisive."
+        ],
+        "love": [
+          "The pattern named aloud at last, which changes its rate immediately. Detachment beginning without hatred — the cleanest kind. Watching the re-tightening on anniversaries and bad weeks."
+        ],
+        "self": [
+          "Appetite renegotiated, not denied. Recovery counted in small denominations and honest ledgers. The old payoff, grieved rather than denied."
+        ],
+        "note": [
+          "Not finished. Links loosen one at a time, and they re-tighten if unwatched — the step outside is maintenance's first day, not victory's."
+        ]
+      }
+    },
+    "es": {
+      "slug": "el-diablo",
+      "name": "El Diablo",
+      "seoTitle": "El Diablo en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "El hábito, el vínculo o el trato que te retiene porque te da algo a cambio. Nombrar el anzuelo con honestidad en vez de moralizarlo. El deseo asumido en…",
+      "summary": "El hábito, el vínculo o el trato que te retiene porque te da algo a cambio. Nombrar el anzuelo con honestidad en vez de moralizarlo. El deseo asumido en vez de obedecido, u obedecido y por fin reconocido. Las cadenas están flojas a propósito; que sigas ahí ya te dice algo.",
+      "imageDescription": "Una figura con cuernos se agazapa sobre un pedestal negro, con una mano alzada en una bendición de burla y la otra sujetando una antorcha boca abajo. Debajo, dos figuras humanas encadenadas por el cuello, y ahí está el detalle sobre el que gira toda la carta: las cadenas cuelgan flojas. Anchas de sobra para sacarlas por la cabeza. Ninguna de las dos lo intenta. Se han acostumbrado al peso, y el peso se ha acostumbrado a ellas.",
+      "upright": {
+        "keywords": [
+          "la atadura mirada de frente, adicción, lo que te da la trampa, materialismo, la cadena a la que dijiste que sí, el anzuelo nombrado con honestidad"
+        ],
+        "essay": [
+          "Toda trampa en la que sigues metida te da algo a cambio. Ese es el primer hecho de la carta, y el que las lecturas educadas se saltan. Las cadenas de la imagen están flojas, flojas de forma célebre y deliberada, y eso significa que la pregunta interesante nunca fue \"¿cómo me libero?\". Es \"¿qué gano quedándome?\". Respóndela con honestidad y la carta habrá hecho casi todo su trabajo de un solo golpe.",
+          "Repasa la cuenta sin apartar la vista. El trabajo que te cuesta la salud te paga en seguridad, o en poder decir que eres alguien con ese trabajo. El hábito que se come tus tardes te paga en apagarte la cabeza, cuando quieras y sin fallar, que no es poco. La relación que te empequeñece te paga en no estar sola, o en la comodidad de un guion que te sabes de memoria. Nada de esto es debilidad. Es un negocio. El Diablo no es un carcelero, sino un vendedor, y tú has vuelto a comprarle muchas veces, por razones que tenían sentido el día de la primera compra.",
+          "Fíjate en cómo bendice: es una parodia del gesto del Hierofante, dos cartas antes. La misma postura, con el sentido dado la vuelta: el maestro que ata en vez de soltar, el pertenecer que te cuesta tu propia forma. Parte de lo que te sujeta lo firmaste tú, por tu voluntad, en una ceremonia, con testigos. La carta no te dice que te vayas. Te dice que mires el pedestal como lo que es: pequeño, negro y fácil de cargar.",
+          "El deseo atraviesa esta carta, y lo que la carta opina del deseo no está de moda: hazlo tuyo. El querer (placer, olvido, dinero, el cuerpo, la sustancia, la pantalla) no obedece a la negación; los deseos que niegas no mueren, delegan, y contratan a gente rara para el trabajo sucio. El deseo mirado a plena luz, nombrado sin eufemismos, alimentado a propósito o rechazado a propósito, pierde casi toda su capacidad de darte órdenes. Es la versión que nunca miras la que manda en la casa.",
+          "La antorcha se sostiene boca abajo: luz mal usada, apuntando al suelo. Esa misma energía puesta del derecho es otra carta por completo. No hay nada en ti que haya que arrancar. Algunas cosas solo hay que reorientarlas, y la diferencia entre esas dos operaciones es la diferencia entre hacer la guerra y hacer un oficio.",
+          "La pregunta de fondo: ¿qué te da la cadena a cambio, y a los precios de hoy, sigue valiendo lo que cuesta?"
+        ],
+        "work": [
+          "Las esposas de oro, punto por punto: qué te da quedarte, qué te cuesta, la diferencia real entre las dos cosas. La dependencia dentro del trato que nadie menciona al firmar."
+        ],
+        "love": [
+          "El apego confundido con cercanía; el vínculo que te retiene por necesidad y no por elección. Nombrar qué saca cada uno del patrón: solo con nombrarlo, el precio ya cambia."
+        ],
+        "self": [
+          "El vicio mirado a plena luz, sin el teatro de la vergüenza. Tu deseo como un hecho que gestionar, no un escándalo que esconder. El anzuelo, por fin descrito con precisión."
+        ],
+        "note": [
+          "No es un mal que llega de fuera. Las cadenas están flojas a propósito: la carta describe un trato, y cualquiera de las dos partes puede renegociar un trato."
+        ]
+      },
+      "reversed": {
+        "summary": "La primera mirada honesta hacia atrás, a lo que te sujetaba. Los primeros pasos de la recuperación; el patrón dicho en voz alta por fin. El poder que vuelve en cantidades pequeñas. No está terminado: los eslabones se aflojan de uno en uno, y se vuelven a apretar si nadie los vigila.",
+        "keywords": [
+          "el agarre que se afloja, el desapego que empieza, la trampa vista desde un paso afuera, los primeros pasos de la recuperación, el poder que vuelve en cantidades pequeñas"
+        ],
+        "essay": [
+          "Invertido, el Diablo es la trampa vista desde un paso afuera: un sitio concreto para mirar, y muy poco valorado. Desde dentro, el asunto parecía la habitación entera. A un paso de distancia, tiene bordes, forma y tamaño, y el tamaño es la sorpresa: más pequeño de lo que llegó a mandar. El pedestal siempre lo fue. No podías verlo desde donde estabas, porque estabas de pie encima.",
+          "Respeta cómo funcionó la salida, porque importa para lo que viene. La cadena salió justo con la facilidad que la imagen siempre prometió: por la cabeza, sin llave, sin drama. Lo que llevó tiempo no fue sacarla. Fue llegar a querer sacarla, y eso llegó a pasos pequeños: la primera descripción honesta del asunto, la primera vez que dijiste su nombre real en voz alta, la primera tarde en que notaste que la recompensa había dejado de pagar sin avisar. La libertad casi nunca llega como un acontecimiento. Llega como una cuenta que por fin haces delante de todos.",
+          "El poder vuelve en cantidades pequeñas, y la carta te pide que no menosprecies las monedas. Una invitación rechazada. Una tarde recuperada. Una conversación llevada sin el guion de antes. Cada una es insignificante; lo que se acumula es la recuperación. La gente recae esperando el pago grande (la transformación, el corte limpio, la vida nueva entregada de golpe) cuando la moneda real de la salida siempre fue pequeña, diaria y un poco aburrida.",
+          "Ahora el aviso, dicho sin adornos porque te has ganado la versión de verdad: los eslabones se vuelven a apretar si nadie los vigila. El patrón del que saliste es paciente. No persigue; espera, con el local abierto y las luces encendidas, guardándote el puesto de antes como un empleo del que nunca dimitiste por escrito. El paso afuera no es el final de la historia, sino el primer día del mantenimiento, y el mantenimiento no tiene glamur, no se acaba nunca y pesa mucho menos que la cadena.",
+          "Y una última honestidad: parte de la recompensa era real, y la vas a echar de menos. El apagón, la comodidad, el guion conocido; el trato pagaba en moneda de verdad, o nunca habría podido sujetarte. Haz ese duelo con claridad, en vez de fingir que todo fue un timo. Fue un intercambio. Simplemente has dejado de aceptar el precio.",
+          "La pregunta de fondo: ¿qué eslabón está más flojo ahora mismo, y quién lo vigila contigo?"
+        ],
+        "work": [
+          "El aviso de salida entregado a las esposas de oro; las cuentas de la marcha por fin honestas. Los primeros pasos torpes de soltarte del trabajo: parecen insignificantes y lo deciden todo."
+        ],
+        "love": [
+          "El patrón dicho en voz alta por fin, lo que cambia su precio de inmediato. El desapego que empieza sin odio, que es la forma más limpia. Vigilar que no se reapriete en los aniversarios y en las semanas malas."
+        ],
+        "self": [
+          "El deseo renegociado, no negado. La recuperación contada en cantidades pequeñas y cuentas honestas. La vieja recompensa, llorada en vez de negada."
+        ],
+        "note": [
+          "No está terminado. Los eslabones se aflojan de uno en uno, y se reaprietan si nadie los vigila: el paso afuera es el primer día del mantenimiento, no el de la victoria."
+        ]
+      }
+    }
+  }
+}

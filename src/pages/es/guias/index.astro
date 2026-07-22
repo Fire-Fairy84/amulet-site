@@ -1,0 +1,6 @@
+---
+import { getCollection } from 'astro:content';
+import GuideIndex from '../../../components/GuideIndex.astro';
+const guides = await getCollection('guides', ({ data }) => data.language === 'es');
+---
+<GuideIndex language="es" guides={guides} />

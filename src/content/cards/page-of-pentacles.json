@@ -1,0 +1,128 @@
+{
+  "id": "page-of-pentacles",
+  "number": 11,
+  "order": 46,
+  "arcana": "minor",
+  "suit": "pentacles",
+  "rank": 11,
+  "image": "/assets/cards/page-of-pentacles.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "pentacles-11.en.md",
+    "es": "pentacles-11.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "page-of-pentacles",
+      "name": "Page of Pentacles",
+      "seoTitle": "Page of Pentacles Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "The material student — the new skill taken seriously, the long course begun, the offer studied before it's answered. Fascination with staying power…",
+      "summary": "The material student — the new skill taken seriously, the long course begun, the offer studied before it's answered. Fascination with staying power, native to the long haul. Enroll properly, honor the boring fundamentals, and guard the wonder from early invoicing.",
+      "imageDescription": "A young figure stands alone in a green field, holding a single coin up at eye level with both hands — not gripping it, not displaying it: reading it, the way one reads a difficult and promising page. Behind, a freshly plowed field waits, and a grove, and one far mountain. Unlike the windblown pages of other suits, nothing here moves. The absorption is total. The coin has been up there a while, and it is not coming down soon.",
+      "upright": {
+        "keywords": [
+          "the student in for the long haul, fascination held at eye level, soil-slow learning, the fundamentals honored, the coin studied before spent, an apprenticeship beginning"
+        ],
+        "essay": [
+          "Each suit's page is its student, and the Page of Pentacles is the one the other three secretly envy, because this page has the rarest of student gifts: duration. The swords page studies in gusts, the wands page in sparks, the cups page in moods — the pentacles page holds one coin at eye level until it opens. This is fascination with roots: the interest that survives its own novelty, the curiosity still present in month four when the subject has stopped performing and started demanding. If this card has arrived, something is asking to be genuinely learned — a trade, a language, a field, an instrument, the management of money itself — and the card's first assurance is about your equipment: the attention you are currently paying is the load-bearing kind. This is how everything in this suit begins. The Ten's walls were once somebody's coin held up to the light.",
+          "The card's second teaching is about how earth learns, and it is countercultural in a world selling mastery in weekends: through fundamentals, in order, at soil speed. The plowed field behind the page is ready but unplanted — preparation precedes production here, and the page is not embarrassed by the sequence. Scales before songs, grammar before poems, anatomy before diagnoses, small sums saved before large ones deployed. The other suits' students skip ahead and pay later; this one builds the boring foundation and inherits, in a few years, the compound interest of everything the shortcuts forfeited. The counsel is to formalize what fascination started: enroll — actually enroll, with a syllabus, a teacher, a schedule, a first exam. Interest without a curriculum stays a mood; the page's whole move is the conversion of wonder into a course of study.",
+          "Often the card is also a literal messenger — pages traditionally carry news, and this one delivers the suit's kind: the scholarship, the apprenticeship, the entry-level offer, the small grant, the first client who pays actual money. News of material beginnings, characteristically modest in size and characteristically larger than it looks, because what such offers really contain is the thing this page values most: structured access to learning. Taken seriously, the humble offer with mentorship inside it routinely outperforms the shiny one without — the page reading the coin closely would notice this, and so should the reader.",
+          "One protection completes the counsel: guard the fascination from early invoicing. The instinct of the age is to monetize wonder on contact — the hobby becomes a hustle in its first month, the learning bends immediately toward the market, and something in the study dies of premature usefulness. The page holds the coin at eye level, note, not at wallet level: this stage is for depth, and depth converts to value later at rates that shallow urgency never achieves. Let the learning be unprofitable a while. The field is plowed; the mountain isn't going anywhere; and the student who honors the long haul — this suit's entire arc testifies — ends up owning the vineyard the shortcut-takers pass on their way back down."
+        ],
+        "work": [
+          "The modest offer with mentorship inside beats the shiny one without — read the coin closely. Then enroll properly: syllabus, teacher, schedule. Interest without a curriculum stays a mood."
+        ],
+        "love": [
+          "Study them the way the page studies the coin — long past novelty, into month four, when the person stops performing and starts being real. That attention is the load-bearing kind."
+        ],
+        "self": [
+          "Fundamentals in order, at soil speed: scales before songs. And guard the wonder from early invoicing — the coin is at eye level, not wallet level. Depth converts later, at better rates."
+        ],
+        "note": [
+          "Not slowness as deficiency — duration is this student's superpower; the others envy it. And not the harvest yet: a plowed field is a promise, honored by planting, not by staring."
+        ]
+      },
+      "reversed": {
+        "summary": "Preparation that became the hiding place — the plan refined instead of begun, the research that outlived its question, the credential collected while the doing waits. Plowing repeated because planting can fail. Start smaller than your dignity likes, today, badly.",
+        "keywords": [
+          "the plan that never starts, research as hiding, the course bought and unopened, the eternal preparer, learning hoarded unapplied, the field plowed and plowed and plowed"
+        ],
+        "essay": [
+          "Reversed, the Page of Pentacles is the student who never enrolls in the only course that counts — the doing — and the card is compassionate about the mechanism before it is firm about the cure. The eternal preparer is not lazy; laziness would be easier to treat. The preparer works constantly: reads the eleventh book, refines the business plan again, researches the certification beyond the certification, plows the field a third time — and every hour of it is real effort spent purchasing the same product: postponement of the moment when the work can be judged. Planting can fail. Plans cannot; they live in the notebook, unfalsifiable, perfect at the resolution of handwriting. The reversal names the trade honestly: what is being protected is not the project. It is the fantasy of the project, which is the only version that carries no risk of being ordinary.",
+          "The tell distinguishing preparation from hiding is directional: preparation consumes questions and produces starts — each thing learned makes the beginning nearer and more specific. Hiding produces more preparation — each course completed reveals the further course needed; the research question, answered, births two more; readiness recedes at exactly the speed of approach, like a horizon, because it is one. Run the ledger honestly: in the last ninety days, has the input pile (books, notes, plans, tabs) grown while the output pile (attempts, drafts, reps, asks) stayed at zero? That ratio is the diagnosis. No further research is needed on the question of whether further research is needed.",
+          "There is a second face, quieter: learning hoarded unapplied — the genuine expertise accumulated over years and never once shipped, the fluent reader who has never written a page, the encyclopedic investor who has never placed a trade, the person with three unused certifications and a growing, private bitterness toward the louder and less-qualified who simply started. The card's word to this face is a hard kindness: knowledge unapplied does not age like wine; it ages like inventory — costs accruing, relevance decaying — and the market rewards the outdated practitioner over the current theorist every single time, which is unjust in exactly the way weather is. The apprentice-mind was supposed to be a stage, not an address.",
+          "The cure for every face is the same and it is deliberately undignified: start smaller than feels proportionate to your preparation, today, in public if possible, badly if necessary. Plant one row, not the field — the hundred words, the single client, the first rep with embarrassing weights, the trade of a trivial sum. The size matters less than the category shift, because the first real attempt does the one thing no eleventh book can: it converts the project from fantasy to fact, ordinary and improvable — and it turns out, reliably, that improvable beats perfect within the month. The upright page held the coin at eye level to learn it. At some point — this is the whole reversal — the coin has to hit the soil to become anything. Yours has been studied enough. It is Tuesday. The field is, God knows, plowed."
+        ],
+        "work": [
+          "Ninety-day ledger: input pile grew, output pile at zero? That's the diagnosis. One row today — the draft sent, the trivial trade, the single client — smaller than dignity likes, badly if necessary."
+        ],
+        "love": [
+          "The relationship researched, never risked — profiles studied, the ask unmade. Readiness recedes at the speed of approach; it's a horizon. The category shift is one ordinary invitation."
+        ],
+        "self": [
+          "Plans can't fail; that's their entire appeal, and their cost. What's being protected is the fantasy version — the only one with no risk of being ordinary. Trade it for improvable."
+        ],
+        "note": [
+          "Not laziness — the preparer works constantly, purchasing postponement. And not \"just needs one more course\": no research is needed on whether more research is needed."
+        ]
+      }
+    },
+    "es": {
+      "slug": "sota-de-oros",
+      "name": "Sota de Oros",
+      "seoTitle": "Sota de Oros en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "La estudiante de lo material — la destreza nueva tomada en serio, el curso largo empezado, la oferta estudiada antes de responder. Una fascinación que…",
+      "summary": "La estudiante de lo material — la destreza nueva tomada en serio, el curso largo empezado, la oferta estudiada antes de responder. Una fascinación que aguanta, hecha para el largo plazo. Matricúlate en serio, respeta los cimientos aburridos y protege el asombro de tener que rendir demasiado pronto.",
+      "imageDescription": "Una figura joven, de pie y sola en un campo verde, sostiene una única moneda a la altura de los ojos con las dos manos — no la agarra, no la exhibe: la lee, como se lee una página difícil que promete. Detrás, un campo recién arado espera, y una arboleda, y una montaña a lo lejos. A diferencia de las sotas de los otros palos, agitadas por el viento, aquí no se mueve nada. Está entregada del todo. La moneda lleva un rato ahí arriba, y no va a bajar pronto.",
+      "upright": {
+        "keywords": [
+          "la estudiante que juega a largo plazo, la fascinación sostenida a la altura de los ojos, aprender despacio, al ritmo de la tierra, los cimientos respetados, la moneda estudiada antes de gastarla, un aprendizaje que empieza"
+        ],
+        "essay": [
+          "La sota de cada palo es su estudiante, y la Sota de Oros es la que las otras tres envidian en secreto, porque tiene el más raro de los dones de estudiante: la constancia. La sota de espadas estudia a ráfagas, la de bastos a chispazos, la de copas según el humor — la de oros sostiene una moneda a la altura de los ojos hasta que se abre. Esto es fascinación con raíces: el interés que sobrevive a su propia novedad, la curiosidad que sigue ahí en el cuarto mes, cuando la materia deja de lucirse y empieza a exigir. Si esta carta ha salido, algo pide que lo aprendas de verdad — un oficio, un idioma, un campo, un instrumento, el manejo del propio dinero — y lo primero que la carta te asegura es que tienes con qué: la atención que estás poniendo ahora es de la que aguanta peso. Así empieza todo en este palo. Los muros del Diez fueron una vez la moneda de alguien alzada a la luz.",
+          "Lo segundo que enseña la carta es cómo aprende la tierra, y va a contracorriente en un mundo que vende maestría en un fin de semana: por los cimientos, en orden, sin prisa. El campo arado detrás de la sota está listo pero sin sembrar — aquí la preparación va antes que el resultado, y a la sota no le da vergüenza ese orden. Escalas antes que canciones, gramática antes que poemas, anatomía antes que diagnósticos, ahorrar en pequeño antes que mover en grande. Los estudiantes de los otros palos se saltan pasos y lo pagan después; esta construye el cimiento aburrido y hereda, en unos años, todo lo que los atajos dejaron por el camino. El consejo es formalizar lo que la fascinación empezó: matricúlate — de verdad, con temario, con profesor, con horario y un primer examen. El interés sin un plan de estudios se queda en simple entusiasmo; toda la jugada de la sota es convertir el asombro en un plan de aprendizaje.",
+          "Muchas veces la carta es también mensajera literal — las sotas traen noticias por tradición, y esta trae las de su palo: la beca, el puesto de aprendiz, la oferta de nivel inicial, la ayuda pequeña, el primer cliente que paga dinero de verdad. Noticias de comienzos materiales, pequeñas de tamaño, como suele ser, y más grandes de lo que parecen, como suele ser, porque lo que esas ofertas contienen en realidad es lo que esta sota más valora: una forma ordenada de aprender. Bien aprovechada, la oferta humilde que trae mentoría dentro rinde más que la vistosa que no la trae, una y otra vez — la sota que lee la moneda de cerca lo notaría, y tú también deberías.",
+          "Una advertencia cierra el consejo: protege la fascinación de tener que dar dinero antes de tiempo. El instinto de esta época es exprimir el asombro nada más tocarlo — la afición se vuelve negocio en su primer mes, el aprendizaje se tuerce enseguida hacia el mercado, y algo en el estudio se muere de puro servir para algo demasiado pronto. Fíjate: la sota sostiene la moneda a la altura de los ojos, no a la altura del bolsillo. Esta etapa es para ir hondo, y lo hondo se convierte en valor más tarde, a un precio que las prisas de la superficie no alcanzan nunca. Deja que aprender no rinda nada durante un tiempo. El campo está arado; la montaña no se va a mover; y quien respeta el largo plazo — el recorrido entero de este palo lo confirma — acaba siendo dueño del viñedo por delante del cual pasan los de los atajos, ya de vuelta y cuesta abajo."
+        ],
+        "work": [
+          "La oferta modesta que trae mentoría dentro gana a la vistosa que no la trae — lee la moneda de cerca. Y luego matricúlate en serio: temario, profesor, horario. El interés sin un plan de estudios se queda en entusiasmo."
+        ],
+        "love": [
+          "Estúdiale como la sota estudia la moneda — mucho más allá de la novedad, hasta el cuarto mes, cuando la persona deja de lucirse y empieza a ser real. Esa atención es la que aguanta peso."
+        ],
+        "self": [
+          "Los cimientos en orden, sin prisa: escalas antes que canciones. Y protege el asombro de tener que rendir demasiado pronto — la moneda está a la altura de los ojos, no del bolsillo. Lo aprendido a fondo da valor con el tiempo, y vale más por ello."
+        ],
+        "note": [
+          "No es lentitud por falta de algo — la constancia es el superpoder de esta estudiante; las demás la envidian. Y todavía no es la cosecha: un campo arado es una promesa, y se cumple sembrando, no mirándolo."
+        ]
+      },
+      "reversed": {
+        "summary": "La preparación convertida en escondite — el plan pulido en vez de empezado, la investigación que duró más que la pregunta que la motivó, el título coleccionado mientras el hacer espera. Se ara otra vez porque sembrar puede salir mal. Empieza por algo más pequeño de lo que tu orgullo quisiera, hoy, aunque salga mal.",
+        "keywords": [
+          "el plan que nunca arranca, investigar para esconderse, el curso comprado y sin abrir, el que prepara sin fin, el saber acumulado y nunca usado, el campo arado y arado y arado"
+        ],
+        "essay": [
+          "Invertida, la Sota de Oros es la estudiante que nunca se matricula en el único curso que cuenta — el de hacer — y la carta es comprensiva con el mecanismo antes de ser dura con la cura. El que prepara sin fin no es perezoso; la pereza sería más fácil de tratar. Este trabaja sin parar: lee el undécimo libro, vuelve a pulir el plan de negocio, investiga el certificado que viene después del certificado, ara el campo por tercera vez — y cada hora de eso es esfuerzo de verdad gastado en comprar siempre lo mismo: aplazar el momento en que el trabajo pueda juzgarse. Sembrar puede salir mal. Los planes no; viven en el cuaderno, imposibles de desmentir, perfectos hasta donde llega la caligrafía. La inversión nombra el trato con honestidad: lo que se protege no es el proyecto. Es la fantasía del proyecto, la única versión que no corre el riesgo de resultar del montón.",
+          "La señal que separa preparar de esconderse tiene una dirección: preparar consume preguntas y produce comienzos — cada cosa que aprendes acerca el empezar y lo hace más concreto. Esconderse produce más preparación — cada curso terminado descubre el siguiente curso que hace falta; la pregunta de investigación, una vez respondida, alumbra otras dos; el estar listo se aleja justo a la misma velocidad a la que avanzas, como el horizonte, porque eso es. Haz cuentas con honestidad: en los últimos noventa días, ¿creció lo que acumulaste (libros, notas, planes, pestañas) mientras lo que llevaste a la práctica (intentos, borradores, repeticiones, cosas que pediste) siguió en cero? Esa proporción es el diagnóstico. No hace falta más investigación para saber si hace falta más investigación.",
+          "Hay una segunda cara, más callada: el saber acumulado y nunca usado — la pericia auténtica reunida durante años y jamás puesta en circulación, el lector fluido que nunca escribió una página, el inversor enciclopédico que nunca dio una orden, la persona con tres títulos sin estrenar y un rencor creciente y callado hacia los más ruidosos y menos preparados que simplemente empezaron. Lo que la carta le dice a esta cara es una amabilidad dura: el conocimiento sin usar no mejora con los años como el vino; se echa a perder como la mercancía en almacén — los costes se acumulan, la vigencia decae — y el mercado premia al que practica con lo anticuado antes que al que teoriza con lo último, cada vez sin falta, injusto igual que lo es el tiempo que hace. La mente de aprendiz iba a ser una etapa, no un domicilio.",
+          "La cura para todas las caras es la misma, y es humilde a propósito: empieza por algo más pequeño de lo que tu preparación parecería merecer, hoy, en público si puedes, aunque salga mal. Siembra una hilera, no el campo entero — las cien palabras, el único cliente, la primera serie con pesos que dan vergüenza, la operación por una cantidad ridícula. El tamaño importa menos que el cambio de categoría, porque el primer intento de verdad hace lo único que ningún undécimo libro puede: convierte el proyecto de fantasía en hecho, corriente y mejorable — y resulta, sin fallar nunca, que lo mejorable le gana a lo perfecto en menos de un mes. La sota al derecho sostenía la moneda a la altura de los ojos para aprenderla. En algún momento — de esto va toda la inversión — la moneda tiene que tocar la tierra para llegar a ser algo. La tuya ya está bastante estudiada. Es martes. El campo está, bien lo sabe Dios, arado."
+        ],
+        "work": [
+          "Haz cuentas de los últimos noventa días: ¿creció lo que acumulaste y lo que llevaste a la práctica sigue en cero? Ese es el diagnóstico. Una hilera hoy — el borrador enviado, la operación ridícula, el único cliente — algo más pequeño de lo que el orgullo quisiera, aunque salga mal."
+        ],
+        "love": [
+          "La relación investigada y nunca arriesgada — los perfiles estudiados, la invitación sin hacer. El estar listo se aleja a la misma velocidad a la que avanzas; es un horizonte. Para el cambio de categoría basta una invitación corriente."
+        ],
+        "self": [
+          "Los planes no pueden salir mal; ese es todo su atractivo, y su coste. Lo que se protege es la versión fantasía — la única sin riesgo de ser del montón. Cámbiala por algo mejorable."
+        ],
+        "note": [
+          "No es pereza — el que prepara sin fin trabaja sin parar, comprando aplazamiento. Y no es «solo me falta un curso más»: no hace falta investigar si hace falta investigar más."
+        ]
+      }
+    }
+  }
+}

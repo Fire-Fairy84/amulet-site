@@ -1,0 +1,128 @@
+{
+  "id": "five-of-wands",
+  "number": 5,
+  "order": 68,
+  "arcana": "minor",
+  "suit": "wands",
+  "rank": 5,
+  "image": "/assets/cards/five-of-wands.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "wands-05.en.md",
+    "es": "wands-05.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "five-of-wands",
+      "name": "Five of Wands",
+      "seoTitle": "Five of Wands Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "Friction, not war. Competing wills in one small space — the meeting that turns loud, the group with five plans and no chair. Contest that tests ideas…",
+      "summary": "Friction, not war. Competing wills in one small space — the meeting that turns loud, the group with five plans and no chair. Contest that tests ideas rather than ending anyone. Uncomfortable, useful, temporary.",
+      "imageDescription": "Five youths on open ground, each swinging a wand, none landing a real blow. The staves cross at odd angles; nobody bleeds, nobody yields. It could be a fight or a rehearsal for one — the card refuses to say. What is certain: everyone chose to show up, and everyone brought a stick.",
+      "upright": {
+        "keywords": [
+          "friction, rivalry, the scrimmage, competing wills, disagreement without malice, sparks as information"
+        ],
+        "essay": [
+          "After the Four's celebration, the suit of fire does what fire does when several flames share a room: it competes. The Five of Wands is friction at close quarters — and the card's first, most useful observation is that no one in the picture is actually hurt. The wands clash; the blood stays where it belongs. This is contest, not combat, and confusing the two is where most of the damage in this card actually comes from.",
+          "Somewhere near you, several wills want the same space. The team where every voice is certain and none is senior. The family decision with five stakeholders. The field with more talent than positions. The noise is real and the exhaustion is real, but look at what the noise is made of: engagement. Nobody in this card is indifferent. Five people cared enough to pick up a stave and show up to the same patch of ground — which is, read coldly, a compliment to whatever is being fought over. Absence would be the worse sign.",
+          "The card's question is not how to win. It is what the friction is for. Sparring has a function: it pressure-tests ideas, reveals who actually believes what, and burns off the false consensus that politeness builds. A group that never scrimmages has not agreed — it has merely gone quiet, and quiet groups make their discoveries later, at higher cost. If you are in the scrum, fight cleanly and listen while you swing; the point being made against you may be the one you need.",
+          "But sparring only stays useful while it stays structured. Five people swinging with no rules and no referee produces heat and no light — the same argument re-fought weekly, the meeting that is loud on Tuesday and identical on Thursday. If the clash has stopped producing information, the move is not more force; it is form. Name the actual question. Give the contest an edge to resolve against. Fire needs a hearth to be worth anything, and this card is five flames still looking for one."
+        ],
+        "work": [
+          "The loud meeting, the rival proposals, the turf overlap. Productive while it tests ideas; waste once it repeats. Give the contest a referee and a question."
+        ],
+        "love": [
+          "Sparks as friction, not romance — the recurring argument, the two calendars, the wills unaligned. Nobody is wrong yet; nobody is listening yet either."
+        ],
+        "self": [
+          "Competing selves — five wants in one body: rest, ambition, escape, duty, appetite. The inner noise is engagement, not breakdown. Chair the meeting."
+        ],
+        "note": [
+          "Not war, not betrayal, no villain in the frame. Nobody here is bleeding. Friction, with something worth the friction underneath it."
+        ]
+      },
+      "reversed": {
+        "summary": "The fight ending — or going underground. Ceasefire, avoidance, the argument so repeated it dies of boredom. Relief that may be resolution or merely silence. Check which before celebrating.",
+        "keywords": [
+          "conflict avoided or exhausted, the argument gone stale, suppressed friction, ceasefire, the fight nobody names"
+        ],
+        "essay": [
+          "Reversed, the Five of Wands is what happens after the clashing stops, and the card's whole work is telling its two endings apart. In one, the friction resolved: the question got named, someone conceded something real, the wands were set down because they had finished their job. In the other, everyone simply got tired — or scared — and the contest went underground, where it does not stop, only changes costume.",
+          "Suppressed friction has a recognizable wardrobe. The meeting that is suddenly, suspiciously smooth. The topic everyone routes around like furniture. The agreement reached fast because disagreement had become socially expensive. If the loud version of this conflict was exhausting, the quiet version is worse: it moves into logistics, tone, delay, the thousand small vetoes of people who no longer argue because they no longer expect to be heard. A group that has stopped fighting has not always made peace. Sometimes it has just stopped believing the fight would change anything — and that is a far colder diagnosis.",
+          "There is also the version where the fight is simply over-rehearsed. You know the script; they know the script; the argument runs on rails and arrives nowhere, again. Reversed, the card permits something the upright never quite does: walking off the field. Not every contest deserves your stave. Some arguments are not questions in costume — they are habits, and the only winning move is to stop attending. The skill is in the exit: leave the argument, not the person; name what you are declining and why, out loud, once.",
+          "And if you are the one who has been avoiding — swallowing the objection, keeping a false peace because the true friction feels dangerous — the card has one thing to say: the objection has not dissolved. Swallowed friction ferments. The cheapest time to have a hard conversation is always now, while it is still about the thing itself and not yet about the years of not having had it."
+        ],
+        "work": [
+          "The suspiciously smooth meeting; dissent gone underground into delay and tone. Reopen the real question on purpose, or lose it to logistics."
+        ],
+        "love": [
+          "The argument on rails, or the peace kept by swallowing. Either retire the script or say the true sentence under it. Fermenting is the third option, and the worst."
+        ],
+        "self": [
+          "The inner fight gone quiet from fatigue, not resolution. Which want did you silence to get this calm? It is still voting."
+        ],
+        "note": [
+          "Not necessarily peace. The end of noise is not the end of friction — check whether anything true was said before the staves went down."
+        ]
+      }
+    },
+    "es": {
+      "slug": "cinco-de-bastos",
+      "name": "Cinco de Bastos",
+      "seoTitle": "Cinco de Bastos en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "Fricción, no guerra. Voluntades en competencia en un espacio pequeño — la reunión que sube de volumen, el grupo con cinco planes y sin moderador.…",
+      "summary": "Fricción, no guerra. Voluntades en competencia en un espacio pequeño — la reunión que sube de volumen, el grupo con cinco planes y sin moderador. Contienda que pone a prueba ideas en lugar de acabar con nadie. Incómoda, útil, pasajera.",
+      "imageDescription": "Cinco jóvenes en campo abierto, cada uno blandiendo un basto, ninguno asestando un golpe de verdad. Las varas se cruzan en ángulos extraños; nadie sangra, nadie cede. Podría ser una pelea o el ensayo de una — la carta se niega a aclararlo. Lo seguro: todos eligieron presentarse, y todos trajeron un palo.",
+      "upright": {
+        "keywords": [
+          "fricción, rivalidad, voluntades en competencia, desacuerdo sin malicia, chispas que revelan algo"
+        ],
+        "essay": [
+          "Tras la celebración del Cuatro, el palo de fuego hace lo que hace el fuego cuando varias llamas comparten habitación: compite. El Cinco de Bastos es fricción a corta distancia — y la primera observación de la carta, la más útil, es que en la imagen nadie está herido de verdad. Los bastos chocan; la sangre se queda donde debe. Esto es contienda, no combate, y confundir las dos cosas es de donde sale la mayor parte del daño en esta carta.",
+          "Cerca de ti, varias voluntades quieren el mismo espacio. El equipo donde cada voz está segura y ninguna manda. La decisión familiar con cinco interesados. El campo con más talento que puestos. El ruido es real y el agotamiento es real, pero mira de qué está hecho el ruido: de implicación. Nadie en esta carta es indiferente. Cinco personas se preocuparon lo suficiente como para coger una vara y presentarse en el mismo pedazo de tierra — lo cual es, leído con frialdad, un cumplido a aquello por lo que se pelea. La ausencia sería la peor señal.",
+          "La pregunta de la carta no es cómo ganar. Es para qué sirve la fricción. El combate de entrenamiento tiene una función: somete las ideas a presión, revela quién cree de verdad en qué, y quema el falso consenso que la cortesía construye. Un grupo que nunca se enfrenta no ha llegado a un acuerdo — solo se ha callado, y los grupos callados hacen sus descubrimientos más tarde, a un precio más alto. Si estás dentro de la refriega, pelea limpio y escucha mientras golpeas; el argumento que va contra ti puede ser el que necesitas.",
+          "Pero el combate solo sigue siendo útil mientras conserva la forma. Cinco personas golpeando sin reglas ni árbitro producen calor y ninguna luz — la misma discusión repetida cada semana, la reunión que es ruidosa el martes e idéntica el jueves. Si el choque ha dejado de producir información, el movimiento no es más fuerza; es forma. Nombra la pregunta de verdad. Dale a la contienda un borde contra el que resolverse. El fuego necesita un hogar para valer algo, y esta carta son cinco llamas que todavía lo están buscando."
+        ],
+        "work": [
+          "La reunión ruidosa, las propuestas rivales, los territorios que se pisan. Productivo mientras pone a prueba ideas; desperdicio en cuanto se repite. Dale a la contienda un árbitro y una pregunta."
+        ],
+        "love": [
+          "Chispas de fricción, no de romance — la discusión recurrente, los dos calendarios, las voluntades sin alinear. Nadie se equivoca todavía; nadie escucha todavía tampoco."
+        ],
+        "self": [
+          "Deseos en competencia: descanso, ambición, huida, deber, apetito. El ruido interior no significa que haya algo roto; modera tú esa conversación."
+        ],
+        "note": [
+          "No es guerra, no es traición, no hay villano en el cuadro. Aquí nadie sangra. Fricción, con algo que merece la fricción debajo."
+        ]
+      },
+      "reversed": {
+        "summary": "La pelea que termina — o que pasa a la clandestinidad. Alto el fuego, evitación, la discusión tan repetida que muere de aburrimiento. Un alivio que puede ser resolución o solo silencio. Compruébalo antes de celebrar.",
+        "keywords": [
+          "conflicto evitado o agotado, la discusión rancia, fricción suprimida, alto el fuego, la pelea que nadie nombra"
+        ],
+        "essay": [
+          "Invertido, el Cinco de Bastos es lo que ocurre cuando el choque se detiene, y todo el trabajo de la carta consiste en distinguir sus dos finales. En uno, la fricción se resolvió: la pregunta fue nombrada, alguien cedió algo real, las varas se bajaron porque habían terminado su trabajo. En el otro, todo el mundo simplemente se cansó — o se asustó — y la contienda pasó a la clandestinidad, donde no se detiene, solo se cambia de disfraz.",
+          "La fricción reprimida se reconoce enseguida: una reunión sospechosamente fluida, un tema que todos evitan, un acuerdo demasiado rápido porque disentir se ha vuelto caro. Si el conflicto ruidoso agotaba, el silencioso puede ser peor: se esconde en la logística, el tono y las demoras de quienes ya no esperan ser escuchados. Un grupo que deja de discutir no siempre ha hecho las paces; a veces solo ha dejado de creer que hablar sirva de algo.",
+          "También existe la versión donde la pelea está simplemente sobreensayada. Tú te sabes el guion; ellos se saben el guion; la discusión corre sobre raíles y no llega a ninguna parte, otra vez. Invertida, la carta permite algo que la derecha nunca concede del todo: salir del campo. No toda contienda merece tu vara. Algunas discusiones no son preguntas disfrazadas — son costumbres, y la única jugada ganadora es dejar de asistir. La destreza está en la salida: deja la discusión, no a la persona; nombra lo que declinas y por qué, en voz alta, una vez.",
+          "Y si eres tú quien ha estado evitando — tragándote la objeción, manteniendo una paz falsa porque la fricción verdadera parece peligrosa — la carta tiene una sola cosa que decir: la objeción no se ha disuelto. La fricción tragada fermenta. El momento más barato para una conversación difícil es siempre ahora, mientras todavía trata de la cosa misma y no de los años de no haberla tenido."
+        ],
+        "work": [
+          "La reunión sospechosamente fluida; el disenso enterrado en demoras y en tono. Reabre la pregunta real a propósito, o piérdela en la logística."
+        ],
+        "love": [
+          "La discusión sobre raíles, o la paz mantenida a base de tragar. O retiras el guion o dices la frase verdadera que hay debajo. Fermentar es la tercera opción, y la peor."
+        ],
+        "self": [
+          "La pelea interior callada por fatiga, no por resolución. ¿Qué deseo silenciaste para conseguir esta calma? Sigue votando."
+        ],
+        "note": [
+          "No es necesariamente paz. El fin del ruido no es el fin de la fricción — comprueba si algo verdadero se dijo antes de que bajaran las varas."
+        ]
+      }
+    }
+  }
+}

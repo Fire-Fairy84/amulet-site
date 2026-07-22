@@ -1,0 +1,126 @@
+{
+  "id": "queen-of-cups",
+  "number": 13,
+  "order": 34,
+  "arcana": "minor",
+  "suit": "cups",
+  "rank": 13,
+  "image": "/assets/cards/queen-of-cups.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "cups-13.en.md",
+    "es": "cups-13.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "queen-of-cups",
+      "name": "Queen of Cups",
+      "seoTitle": "Queen of Cups Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "Emotional mastery in its receptive form — the person others bring their unbearable things to, who feels everything and drowns in none of it. Depth with a…",
+      "summary": "Emotional mastery in its receptive form — the person others bring their unbearable things to, who feels everything and drowns in none of it. Depth with a shoreline; empathy that holds its own shape. The lidded cup: some feeling is kept, contained, and honored — not everything is for pouring out.",
+      "imageDescription": "A queen sits on a throne at the sea's very edge — land and water meeting exactly at her feet. She holds the suit's most ornate cup, the only one with a closed lid, angels on its handles, and she studies it with complete attention. Her throne is carved with sea-children. The tide reaches her; she does not move. She is of the water and not in it — the whole degree in one seat.",
+      "upright": {
+        "keywords": [
+          "feeling mastered without hardening, the held cup with the closed lid, empathy with borders, emotional depth on a stable throne, the listener who remains, intuition as governance"
+        ],
+        "essay": [
+          "The suit's queen sits where every cups lesson converges: at the exact line where the water meets the land. The Queen of Cups is emotional depth that has acquired a throne — the therapist-friend, the mother of adult confidences, the person in whose presence people say what they came to say and only realize afterward how rarely they say it anywhere. Her gift is not sensitivity; the whole suit has that. It is placement: she has learned where to sit, which is at feeling's edge, with her whole attention turned toward the water — and her chair on the ground.",
+          "The card's central object is the lidded cup, and it repays long study. Every other cup in the suit stands open — spilling, offered, displayed. Hers alone is closed, ornate, held. The lid is the Queen's degree: emotional content contained without being suppressed, held without leaking, honored without broadcast. She has feelings she does not perform; she keeps confidences the way the sea keeps wrecks; and her own depths are visited privately, on her schedule. In a culture that mistakes expression for health, the Queen's lid is a correction: mastery of feeling includes the right to a sealed interior. Not everything true must circulate.",
+          "What she offers others is the suit's rarest service: containment. To be heard by the Queen of Cups is to hand a churning thing to someone whose surface does not churn in response — who receives the grief, the shame, the confession, lets it be fully what it is, and does not need it to be smaller for her own comfort. This is the difference between empathy and absorption, and it is structural: the empath with no shoreline becomes flooded, and flooded ground helps no one; the Queen feels-with while remaining findable, which is why people in real trouble instinctively walk toward her. If this card is you, it is likely naming a role you already carry — the emotional address of your family, team, or circle — and dignifying it: this is expertise, not accident, and it deserves its throne, its tides, and its maintenance.",
+          "And its counsel, when the card asks something of you, is usually one of two sentences. To the one who has been all land lately: sit nearer the water — your feelings, or someone else's, want your actual attention, not your management. To the one who has been all sea: come back to the chair. The Queen's whole authority flows from the seat on solid ground; empathy without a shoreline is just weather. Feel everything. Sit somewhere."
+        ],
+        "work": [
+          "The team's emotional address — containment as expertise, not accident. Hold the confidences, keep the surface steady, and claim the role's dignity and its maintenance."
+        ],
+        "love": [
+          "Depth with a shoreline — feeling-with without flooding, the confidence kept like the sea keeps wrecks. And a lid of your own: not everything true must circulate."
+        ],
+        "self": [
+          "Mastery of feeling includes a sealed interior visited on your schedule. Check your placement: too much land, sit nearer the water; too much sea, return to the chair."
+        ],
+        "note": [
+          "Not suppression — the lid is containment, not denial. And not absorption: the flooded empath helps no one. Of the water, never in it."
+        ]
+      },
+      "reversed": {
+        "summary": "The edge-seat lost in one of two directions — flooded: absorbed in every feeling within range, boundaries dissolved, the helper going under; or weaponized: emotional fluency turned to management of others, moods as tools, care with a meter running. Either way, the shoreline is the casualty.",
+        "keywords": [
+          "the shoreline lost, absorption, martyrdom by empathy, manipulation through feeling, the flooded queen, giving from the sealed reserves"
+        ],
+        "essay": [
+          "Reversed, the Queen of Cups loses the exact thing that made her a queen: the seat at the edge. The card's failures are two, opposite in appearance, and — the tradition's sharpest observation — often found in the same person, alternating.",
+          "The flood is the familiar one. The listener who cannot stop listening; the empath whose doors have no locks; the one who feels the room's every weather system as her own and has begun, quietly, to go under. Absorption of this kind wears the costume of virtue — endlessly available, never burdening anyone, the strong one — and runs on a hidden engine that deserves naming: somewhere, the flooded queen learned that her value is her receptivity, that taking up space with her own sealed cup would cost her the throne. So she gives from the reserves the lid was protecting, and the tide keeps its schedule, and one day the people who bring her their storms notice she answers more slowly, and they call her — this is the cruelest line in the card — less warm than she used to be. The repair is not less love; it is reinstated geography. Hours when the shore is closed. Griefs that are hers, unshared, legitimate. The discovery, always astonishing to the flooded, that people keep coming to a queen with borders — come, in fact, more trustingly, because a listener with a shoreline can be believed when she says I can hold this.",
+          "The weaponized form is the shadow's other hand: emotional fluency spent as leverage. The person who reads feelings expertly and bills for the reading — moods deployed until the household reorganizes around them, tears with impeccable timing, guilt distributed like a utility, intimacy metered: I've held your secrets; here is what they cost. This is rarely villainy from inside; it is usually the flooded queen's exhausted successor — someone who gave without borders until resentment built its own invoice system. But the effect downstream is corrosion: people near such a queen stop knowing which feelings are weather and which are policy, and eventually treat all of them as policy, which is the death of being believed. The way back runs through the card's original object: the lid, restored to its actual function. Feelings kept because they are hers — not stored as ammunition. One transaction reversed: a mood owned out loud (\"this is mine, not yours to fix\") instead of deployed. The throne was never the leverage. It was the trustworthy shore — and tides, given a standing coastline, always return to it."
+        ],
+        "work": [
+          "The team's listener going under — available always, billing never, warmth thinning. Close the shore some hours; a listener with borders is believed when she says \"I can hold this.\""
+        ],
+        "love": [
+          "Moods as policy until no feeling reads as weather — or care with a meter running. Own one mood out loud without deploying it: \"this is mine, not yours to fix.\""
+        ],
+        "self": [
+          "Giving from the sealed reserves the lid was protecting. Your unshared griefs are legitimate. Reinstate the geography before the tide sets it for you."
+        ],
+        "note": [
+          "Not too much feeling — feeling without placement. The capacity is intact; the casualty is the shoreline, and shorelines rebuild."
+        ]
+      }
+    },
+    "es": {
+      "slug": "reina-de-copas",
+      "name": "Reina de Copas",
+      "seoTitle": "Reina de Copas en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "El dominio emocional en su forma receptiva — la persona a la que otros traen lo que no pueden soportar, que lo siente todo y no se ahoga en nada. Hondura…",
+      "summary": "El dominio emocional en su forma receptiva — la persona a la que otros traen lo que no pueden soportar, que lo siente todo y no se ahoga en nada. Hondura con orilla; empatía que no pierde su forma. La copa con tapa: hay sentir que se guarda, se contiene y se respeta — no todo es para derramarlo.",
+      "imageDescription": "Una reina sentada en un trono al borde mismo del mar — tierra y agua se tocan justo a sus pies. Sostiene la copa más labrada del palo, la única con tapa cerrada, ángeles en las asas, y la mira con toda su atención. El trono está tallado con niños-sirena. La marea le llega; ella no se mueve. Es del agua sin estar dentro de ella — todo el sentido en un solo asiento.",
+      "upright": {
+        "keywords": [
+          "sentir a fondo sin endurecerse, la copa con tapa, empatía con límites, hondura emocional sobre un trono firme, la que escucha y no se hunde, la intuición como gobierno"
+        ],
+        "essay": [
+          "La reina del palo se sienta donde convergen todas las lecciones de copas: en la raya exacta donde el agua toca la tierra. La Reina de Copas es la hondura emocional que se ha ganado un trono — la amiga que hace de terapeuta, la madre de las confidencias adultas, la persona ante quien la gente dice lo que venía a decir y solo después cae en la cuenta de lo poco que lo dice en otra parte. Su don no es la sensibilidad; eso lo tiene el palo entero. Es dónde se coloca: ha aprendido dónde sentarse, que es al borde del sentir, con toda su atención vuelta hacia el agua — y la silla en tierra firme.",
+          "El objeto central de la carta es la copa con tapa, y aguanta que la mires mucho rato. Todas las demás copas del palo están abiertas — derramándose, ofrecidas, a la vista. Solo la suya está cerrada, labrada, sostenida. La tapa es lo que hace reina a la Reina: sentir contenido sin reprimirlo, sostenido sin que gotee, respetado sin anunciarlo. Tiene sentimientos que no representa; guarda confidencias como el mar guarda los naufragios; y baja a sus propias honduras en privado, cuando ella decide. En una cultura que confunde expresarse con estar bien, la tapa de la Reina es una corrección: dominar el sentir incluye el derecho a un interior cerrado. No todo lo verdadero tiene que circular.",
+          "Lo que ofrece a los demás es el servicio más raro del palo: sostener. Que te escuche la Reina de Copas es ponerle una cosa revuelta a alguien cuya superficie no se revuelve en respuesta — que recibe el duelo, la vergüenza, la confesión, deja que sea del todo lo que es, y no necesita que se haga más pequeña para estar cómoda ella. Esta es la diferencia entre empatía y absorción, y es de fondo: la persona empática sin orilla acaba inundada, y el terreno inundado no le sirve a nadie; la Reina siente-con mientras sigue estando en su sitio, y por eso la gente con problemas de verdad camina instintivamente hacia ella. Si esta carta eres tú, seguramente está poniéndole nombre a un papel que ya cargas — ser la que lleva lo emocional de tu familia, tu equipo o tu círculo — y dándole su lugar: esto es oficio, no casualidad, y merece su trono, sus mareas y su cuidado.",
+          "Y su consejo, cuando la carta te pide algo, suele ser una de dos frases. Al que últimamente ha sido pura tierra: siéntate más cerca del agua — tus sentimientos, o los de alguien, quieren tu atención de verdad, no que los administres. Al que últimamente ha sido puro mar: vuelve a la silla. Toda la autoridad de la Reina sale de estar sentada en suelo firme; la empatía sin orilla es solo tiempo cambiante. Siéntelo todo. Siéntate en algún sitio."
+        ],
+        "work": [
+          "Ser la que lleva lo emocional del equipo — sostener como oficio, no como casualidad. Guarda las confidencias, mantén la superficie estable, y reclama el peso de ese papel y su cuidado."
+        ],
+        "love": [
+          "Hondura con orilla — sentir-con sin inundarte, la confidencia guardada como el mar guarda los naufragios. Y una tapa tuya: no todo lo verdadero tiene que circular."
+        ],
+        "self": [
+          "Dominar el sentir incluye un interior cerrado al que bajas cuando tú decides. Revisa dónde estás sentada: demasiada tierra, siéntate más cerca del agua; demasiado mar, vuelve a la silla."
+        ],
+        "note": [
+          "No es reprimir — la tapa contiene, no niega. Y no es absorber: la empatía inundada no le sirve a nadie. Del agua, nunca dentro de ella."
+        ]
+      },
+      "reversed": {
+        "summary": "El asiento al borde perdido en una de dos direcciones — inundada: absorbida por cada sentimiento que tiene cerca, los límites disueltos, la que ayuda hasta hundirse; o usándolo como arma: la fluidez emocional convertida en manejo de los demás, los estados de ánimo como herramientas, cuidar con el taxímetro puesto. En los dos casos, lo que se pierde es la orilla.",
+        "keywords": [
+          "la orilla perdida, absorción, martirio por empatía, manipular a través del sentir, la reina inundada, dar de las reservas cerradas"
+        ],
+        "essay": [
+          "Invertida, la Reina de Copas pierde justo lo que la hacía reina: el asiento al borde. La carta falla de dos maneras, opuestas en apariencia, y — la observación más fina de la tradición — que a menudo se dan en la misma persona, alternándose.",
+          "La inundación es la conocida. La que escucha y no puede parar de escuchar; la empática cuyas puertas no tienen cerrojo; la que siente cada cambio de humor de la sala como propio y ha empezado, callada, a hundirse. La absorción de esta clase se disfraza de virtud — disponible sin fin, sin ser nunca una carga, la fuerte — y funciona con un motor oculto que hay que nombrar: en algún momento, la reina inundada aprendió que su valor es lo mucho que recibe, que ocupar espacio con su propia copa cerrada le costaría el trono. Así que da de las reservas que la tapa protegía, y la marea sube a su hora, y un día la gente que le trae sus tormentas nota que responde más despacio, y la llaman — esta es la frase más cruel de la carta — menos cálida que antes. Lo que la repara no es querer menos; es volver a poner sus límites. Horas en que la orilla está cerrada. Duelos que son suyos, sin compartir, legítimos. El descubrimiento, siempre asombroso para las inundadas, de que la gente sigue acudiendo a una reina con límites — acude, de hecho, con más confianza, porque a una que escucha teniendo una orilla se le puede creer cuando dice puedo sostener esto.",
+          "La forma armada es la otra cara de la sombra: la fluidez emocional gastada como palanca. La persona que lee sentimientos con destreza y cobra por la lectura — estados de ánimo desplegados hasta que la casa se reordena a su alrededor, lágrimas con un cronometraje impecable, la culpa repartida como un recibo mensual, la intimidad con contador: te he guardado los secretos; esto es lo que cuestan. Rara vez es maldad vista desde dentro; suele ser lo que queda de la reina inundada cuando se agota — alguien que dio sin límites hasta que el resentimiento empezó a pasar factura por su cuenta. Pero lo que provoca más abajo es corrosión: la gente cerca de una reina así deja de saber qué sentimientos son de verdad y cuáles son estrategia, y acaba tratándolos todos como estrategia, que es la muerte de la credibilidad. La vuelta pasa por el objeto original de la carta: la tapa, devuelta a lo que hace de verdad. Sentimientos guardados porque son suyos — no almacenados como munición. Una transacción al revés: un estado de ánimo dicho en voz alta (\"esto es mío, no te toca arreglarlo\") en vez de desplegado. El trono nunca fue la palanca. Era la orilla de fiar — y las mareas, si hay una costa en pie, siempre vuelven a ella."
+        ],
+        "work": [
+          "La que escucha en el equipo se está hundiendo — disponible siempre, sin cobrar nunca, la calidez adelgazando. Cierra la orilla algunas horas; a quien escucha teniendo límites se le cree cuando dice \"puedo sostener esto\"."
+        ],
+        "love": [
+          "Los estados de ánimo como estrategia hasta que ningún sentimiento se lee como algo de verdad — o cuidar con el taxímetro puesto. Di un estado de ánimo en voz alta sin desplegarlo: \"esto es mío, no te toca arreglarlo\"."
+        ],
+        "self": [
+          "Estás dando de las reservas cerradas que la tapa protegía. Tus duelos sin compartir son legítimos. Vuelve a poner tus límites antes de que la marea los fije por ti."
+        ],
+        "note": [
+          "No es sentir demasiado — es sentir sin colocarte. La capacidad está intacta; lo que se pierde es la orilla, y las orillas se reconstruyen."
+        ]
+      }
+    }
+  }
+}

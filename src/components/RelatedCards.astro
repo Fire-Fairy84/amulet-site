@@ -1,0 +1,11 @@
+---
+import { labels, cardPath, type Language } from '../lib/i18n';
+interface RelatedCard { slug: string; name: string; image: string; imageWidth: number; imageHeight: number }
+interface Props { language: Language; cards: RelatedCard[] }
+const { language, cards } = Astro.props;
+const t = labels[language];
+---
+{cards.length > 0 && <section class="related-cards" aria-labelledby="related-title">
+  <h2 id="related-title">{t.related}</h2>
+  <ul>{cards.map((card) => <li><a href={cardPath(language, card.slug)}><img src={card.image} width={card.imageWidth} height={card.imageHeight} alt="" loading="lazy" /><span>{card.name}</span></a></li>)}</ul>
+</section>}

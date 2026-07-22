@@ -1,0 +1,5 @@
+<svg class="arcana-svg" viewBox="0 0 210 363" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="FOUR OF CUPS">
+  <rect x="1" y="1" width="208" height="361" rx="12" fill="#0B0908" stroke="#2E5BFF" stroke-opacity="0.35"/>
+  <path d="M59.24,145.61 L92.76,145.61 A16.76,16.76 0 0 1 59.24,145.61 Z" fill="#2E5BFF"/><path d="M117.24,145.61 L150.76,145.61 A16.76,16.76 0 0 1 117.24,145.61 Z" fill="#2E5BFF"/><path d="M59.24,220.61 L92.76,220.61 A16.76,16.76 0 0 1 59.24,220.61 Z" fill="#2E5BFF"/><path d="M117.24,220.61 L150.76,220.61 A16.76,16.76 0 0 1 117.24,220.61 Z" fill="#2E5BFF"/>
+  <text x="105" y="334" text-anchor="middle" font-family="system-ui, Helvetica, sans-serif" font-size="9.5" letter-spacing="3.5" fill="#8E877B">FOUR OF CUPS</text>
+</svg>

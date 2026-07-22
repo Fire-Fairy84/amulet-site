@@ -1,0 +1,128 @@
+{
+  "id": "four-of-swords",
+  "number": 4,
+  "order": 53,
+  "arcana": "minor",
+  "suit": "swords",
+  "rank": 4,
+  "image": "/assets/cards/four-of-swords.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "swords-04.en.md",
+    "es": "swords-04.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "four-of-swords",
+      "name": "Four of Swords",
+      "seoTitle": "Four of Swords Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "Rest, prescribed — not collapse, not quitting: the deliberate withdrawal after battle, before the next. The mind stood down so it can repair. Three swords…",
+      "summary": "Rest, prescribed — not collapse, not quitting: the deliberate withdrawal after battle, before the next. The mind stood down so it can repair. Three swords retired, one kept in reach. Sanctuary is a strategy, and it has a door you must actually close.",
+      "imageDescription": "A knight lies in effigy on a stone tomb inside a chapel, hands together, eyes closed. Three swords hang on the wall above him, pointing down, retired from service; one sword is carved into the tomb's side, lying flat, still his. A stained-glass window shows a small scene of blessing. He is not dead. He is doing the most strategic thing a fighter can do, which is nothing, on purpose, somewhere defended.",
+      "upright": {
+        "keywords": [
+          "the deliberate rest, recovery as discipline, the mind stood down, sanctuary, one sword kept and three retired, stillness with a purpose"
+        ],
+        "essay": [
+          "After the Three's piercing, the suit does something rare for swords: it stops. The Four is the deck's most misread card — the tomb makes people flinch — but the knight is resting, not buried, and the distinction is the entire teaching: recovery is an activity. Not the absence of work but a specific kind of it, done lying down, behind stone, with the swords deliberately hung out of reach. The card arrives when the reader has been running on the fumes of the fumes — after the crisis, the sprint, the grief, the season that took everything — and it does not suggest rest. It prescribes it, with a clinician's lack of apology.",
+          "The card's genius is in the sword inventory: three on the wall, one on the tomb. This is rest with its terms defined. Retiring three swords means actually stopping — the phone in the other room, the project untouched, the argument unrehearsed; withdrawal that keeps checking in is just work with worse posture. But the fourth sword stays carved at his side, and it matters equally: this is a pause, not an abdication. The knight has not renounced the fight, disbanded the cause, or decided the world can burn. He has made the veteran's calculation that the next battle will be fought by whoever this rest produces — and that a mind never stood down eventually stands down mid-fight, at the worst possible moment, without asking permission.",
+          "Note also where he lies: a chapel — walls, sanctity, a door. The card insists that real rest requires an enclosure that is defended, and that the defense is your job. The world does not grant recovery time; it must be taken, fenced, and guarded like territory: the weekend that is actually off, the leave actually taken, the hour with an actual lock on the door. Rest that must be re-justified daily is not rest; it is negotiation with a helmet off. Build the chapel first — however small — then lie down in it.",
+          "And the stained glass holds the card's quietest promise: something happens in this stillness that cannot happen in motion. The window's blessing scene is above the knight, working on him while he does nothing — because integration is passive from the outside and enormous underneath: the lessons of the last battle filing themselves, the nervous system re-rating threats, the strategy assembling itself out of fragments that busyness kept apart. You have had your best ideas in the shower and your true feelings on the third day of vacation; the Four of Swords is that fact, institutionalized. Lie down. Guard the door. The part of you that solves things works best when you, at last, stop supervising."
+        ],
+        "work": [
+          "The recovery sprint nobody schedules — take it like territory: leave actually taken, phone actually elsewhere. Integration files the last battle's lessons only in stillness."
+        ],
+        "love": [
+          "Rest as a shared discipline — the pause that isn't distance, the weekend with the door actually closed. Three swords on the wall; the bond keeps its one."
+        ],
+        "self": [
+          "Not collapse: prescription. The mind never stood down stands down mid-fight, uninvited. Build the chapel first — however small — then lie down in it."
+        ],
+        "note": [
+          "Not death, not quitting, not depression — the knight breathes and keeps one sword. A pause with terms: fenced, guarded, and temporary by design."
+        ]
+      },
+      "reversed": {
+        "summary": "The rest malfunctioning — refused until the body files its ultimatum; taken but not entered, the mind still fighting from horizontal; or overstayed until sanctuary became hiding. Stillness has a dosage. Check yours against the label.",
+        "keywords": [
+          "rest refused or rest overstayed, the burnout ultimatum, restlessness in the chapel, recovery become hiding, forced stillness, the fourth sword rusting"
+        ],
+        "essay": [
+          "Reversed, the Four of Swords covers the three ways rest goes wrong: not taken, not entered, and never left.",
+          "Not taken is the loudest version and the most common: the person who has been \"about to slow down\" for eleven months, the recovery permanently scheduled for after the next push, the knight upright by administrative willpower while every system underneath files increasingly formal complaints. The card's message here is not gentle encouragement; it is a weather report: rest refused long enough stops being optional and starts being scheduled — by the body, which has a calendar of its own and no interest in yours. The collapse, the illness, the mistake made at hour sixty that costs more than a month of sabbath would have: these are not bad luck; they are the invoice. The reversed Four arrives before the invoice when possible. Take the hint at hint prices.",
+          "Not entered is subtler: the rest taken and not received. Horizontal in every technical sense — the vacation booked, the weekend cleared — while the mind runs its battles at full resolution on the ceiling: the inbox simulated, the argument rehearsed, the guilt about resting doing more cardio than the work ever did. This is the chapel with the door open, and the counsel is about closing it: stillness is a skill with a learning curve, not a switch. The mind stood down protests like any soldier ordered off the wall — expect the protest, give it a container (the walk, the page of longhand, the breath counted past boredom), and know that the static of the first hours is not failure. It is the sound of standing down, which nobody does silently after a long campaign.",
+          "Never left is the shadow the tradition names last and means most: sanctuary metastasized into hiding. The recovery that quietly became a residence; the healing period that no longer has an exit criterion; the chapel door locked from inside, with the three wall-swords — the engagements, the risks, the people — dusty above a knight who now calls the avoidance \"still processing.\" The test between healing and hiding is not comfort but trajectory: healing, even slow healing, trends toward the door — appetite returning, curiosity leaking back, the fourth sword occasionally handled. Hiding trends away from it, and adds locks. If the rest has stopped producing readiness and started producing reasons, the card's prescription inverts precisely: one engagement, this week, at half strength — because the knight was carved with that fourth sword for a reason, and stone, given enough years, will happily fit itself to anyone who stops moving."
+        ],
+        "work": [
+          "\"About to slow down\" for eleven months — the body schedules what you won't, at collapse prices. Take the hint while it's still priced as a hint."
+        ],
+        "love": [
+          "Horizontal but not present — the argument rehearsed on the ceiling next to a resting partner. Close the chapel door: static in the first hours is standing down, not failing."
+        ],
+        "self": [
+          "Healing trends toward the door; hiding adds locks. If the rest produces reasons instead of readiness — one engagement this week, half strength, sword in hand."
+        ],
+        "note": [
+          "Not laziness on one side, not fragility on the other — a dosage problem. The tomb is furniture, not fate; the knight was always meant to get up."
+        ]
+      }
+    },
+    "es": {
+      "slug": "cuatro-de-espadas",
+      "name": "Cuatro de Espadas",
+      "seoTitle": "Cuatro de Espadas en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "Descanso necesario, no derrumbe ni abandono: una retirada consciente después de la batalla y antes de la siguiente. La mente necesita parar para…",
+      "summary": "Descanso necesario, no derrumbe ni abandono: una retirada consciente después de la batalla y antes de la siguiente. La mente necesita parar para recuperarse. Tres espadas están guardadas y una queda al alcance. El santuario también es una estrategia, pero solo funciona si cierras la puerta.",
+      "imageDescription": "Un caballero yace en efigie sobre una tumba de piedra dentro de una capilla, las manos juntas, los ojos cerrados. Tres espadas cuelgan de la pared sobre él, apuntando hacia abajo, retiradas del servicio; una espada está tallada en el costado de la tumba, tendida, todavía suya. No está muerto. Está haciendo lo más estratégico que puede hacer un luchador, que es nada, a propósito, en un lugar defendido.",
+      "upright": {
+        "keywords": [
+          "el descanso deliberado, la recuperación como disciplina, la mente en descanso ordenado, santuario, una espada guardada y tres retiradas, quietud con propósito"
+        ],
+        "essay": [
+          "Tras el atravesamiento del Tres, el palo hace algo raro para las espadas: se detiene. El Cuatro es la carta peor leída de la baraja — la tumba hace que la gente se encoja — pero el caballero descansa, no está enterrado, y la distinción es la enseñanza entera: la recuperación es una actividad. No la ausencia de trabajo sino una clase específica de él, hecha tumbada, tras la piedra, con las espadas deliberadamente colgadas fuera de alcance. La carta llega cuando quien lee lleva tiempo corriendo con los vapores de los vapores — tras la crisis, el sprint, el duelo, la estación que se lo llevó todo — y no sugiere descanso. Lo receta, con la falta de disculpa de un clínico.",
+          "El genio de la carta está en el inventario de espadas: tres en la pared, una en la tumba. Este es el descanso con sus condiciones definidas. Retirar tres espadas significa parar de verdad — el teléfono en otro cuarto, el proyecto sin tocar, la discusión sin ensayar; la retirada que sigue comprobando es solo trabajo con peor postura. Pero la cuarta espada permanece tallada a su costado, e importa igual: esto es una pausa, no una abdicación. El caballero no ha renunciado a la pelea, ni disuelto la causa, ni decidido que el mundo puede arder. Ha hecho el cálculo del veterano: la próxima batalla la peleará quien este descanso produzca — y una mente a la que nunca se le ordena descansar acaba descansando en mitad de la pelea, en el peor momento posible, sin pedir permiso.",
+          "Fíjate también en dónde yace: una capilla — muros, santidad, una puerta. La carta insiste en que el descanso real requiere un recinto defendido, y en que la defensa es tarea tuya. El mundo no concede tiempo de recuperación; hay que tomarlo, vallarlo y custodiarlo como territorio: el fin de semana de verdad libre, el permiso de verdad tomado, la hora con un pestillo de verdad en la puerta. El descanso que debe re-justificarse a diario no es descanso; es una negociación con el casco quitado. Construye la capilla primero — por pequeña que sea — y luego túmbate en ella.",
+          "Y la vidriera guarda la promesa más silenciosa de la carta: en esta quietud ocurre algo que no puede ocurrir en movimiento. La escena de bendición de la ventana está encima del caballero, trabajando sobre él mientras no hace nada — porque la integración es pasiva desde fuera y enorme por debajo: las lecciones de la última batalla archivándose solas, el sistema nervioso recalificando amenazas, la estrategia ensamblándose con fragmentos que el ajetreo mantenía separados. Has tenido tus mejores ideas en la ducha y tus sentimientos verdaderos al tercer día de vacaciones; el Cuatro de Espadas es ese hecho, institucionalizado. Túmbate. Custodia la puerta. La parte de ti que resuelve las cosas trabaja mejor cuando tú, por fin, dejas de supervisar."
+        ],
+        "work": [
+          "El sprint de recuperación que nadie agenda — tómalo como territorio: el permiso de verdad tomado, el teléfono de verdad en otra parte. La integración archiva las lecciones solo en la quietud."
+        ],
+        "love": [
+          "El descanso como disciplina compartida — la pausa que no es distancia, el fin de semana con la puerta de verdad cerrada. Tres espadas en la pared; el vínculo conserva la suya."
+        ],
+        "self": [
+          "No es derrumbe: es receta. La mente que nunca descansa, descansa en mitad de la pelea, sin invitación. Construye la capilla primero — por pequeña que sea — y túmbate en ella."
+        ],
+        "note": [
+          "No es muerte, abandono ni depresión: el caballero respira y conserva una espada. Es una pausa con límites, protegida y temporal."
+        ]
+      },
+      "reversed": {
+        "summary": "El descanso se ha torcido: lo rechazas hasta que el cuerpo te obliga, lo tomas sin desconectar o lo alargas hasta convertirlo en escondite. La quietud necesita su medida justa. Revisa cuál es la tuya.",
+        "keywords": [
+          "el descanso rechazado o el descanso con la estancia alargada, el ultimátum del burnout, desasosiego en la capilla, la recuperación vuelta escondite, quietud forzada, la cuarta espada oxidándose"
+        ],
+        "essay": [
+          "Invertido, el Cuatro de Espadas cubre las tres maneras en que el descanso se tuerce: no tomado, no entrado, y nunca abandonado.",
+          "No tomado es la versión más ruidosa y la más común: la persona que lleva once meses \"a punto de bajar el ritmo\", la recuperación permanentemente agendada para después del próximo empujón, el caballero en pie por pura fuerza administrativa mientras cada sistema de debajo presenta quejas cada vez más formales. El mensaje de la carta aquí no es ánimo suave; es un parte meteorológico: el descanso rechazado el tiempo suficiente deja de ser opcional y empieza a ser programado — por el cuerpo, que tiene calendario propio y ningún interés en el tuyo. El derrumbe, la enfermedad, el error cometido en la hora sesenta que cuesta más que un mes de sabático: no son mala suerte; son la factura. El Cuatro invertido llega antes de la factura cuando puede. Acepta la indirecta a precio de indirecta.",
+          "No entrado es más sutil: el descanso tomado y no recibido. Horizontal en todo sentido técnico — las vacaciones reservadas, el fin de semana despejado — mientras la mente corre sus batallas a resolución completa por el techo: la bandeja de entrada simulada, la discusión ensayada, la culpa por descansar haciendo más cardio del que hizo nunca el trabajo. Esta es la capilla con la puerta abierta, y el consejo va de cerrarla: la quietud es una destreza con curva de aprendizaje, no un interruptor. La mente a la que se obliga a descansar protesta como cualquier soldado al que mandan bajar de la muralla — espera esa protesta, dale un cauce (el paseo, la página a mano, la respiración contada más allá del aburrimiento), y entiende que la inquietud de las primeras horas no es fracaso. Es el sonido del descanso asentándose, algo que nadie consigue en silencio tras una campaña larga.",
+          "Nunca abandonado es la sombra que la tradición nombra al final y es la que más le importa: el santuario metastatizado en escondite. La recuperación que en silencio se volvió residencia; el periodo de sanación que ya no tiene criterio de salida; la puerta de la capilla cerrada desde dentro, con las tres espadas de la pared — los compromisos, los riesgos, la gente — cogiendo polvo sobre un caballero que ahora llama a la evitación \"seguir procesando\". La prueba entre sanar y esconderse no es la comodidad sino la trayectoria: sanar, incluso despacio, tiende hacia la puerta — el apetito volviendo, la curiosidad filtrándose de vuelta, la cuarta espada ocasionalmente empuñada. Esconderse tiende en dirección contraria, y añade cerrojos. Si el descanso ha dejado de producir preparación y empezado a producir razones, la receta de la carta se invierte con precisión: un compromiso, esta semana, a media potencia — porque al caballero lo tallaron con esa cuarta espada por algo, y la piedra, con años suficientes, se amolda encantada a cualquiera que deje de moverse."
+        ],
+        "work": [
+          "Once meses \"a punto de bajar el ritmo\" — el cuerpo programa lo que tú no, a precio de derrumbe. Acepta la indirecta mientras aún cuesta lo que una indirecta."
+        ],
+        "love": [
+          "Horizontal pero no presente — la discusión ensayada en el techo junto a una pareja que descansa. Cierra la puerta de la capilla: la estática de las primeras horas es descanso ordenándose, no fracaso."
+        ],
+        "self": [
+          "Sanar tiende hacia la puerta; esconderse añade cerrojos. Si el descanso produce razones en vez de preparación — un compromiso esta semana, a media potencia, espada en mano."
+        ],
+        "note": [
+          "No es pereza por un lado, ni fragilidad por el otro — es un problema de dosis. La tumba es mobiliario, no destino; el caballero siempre estuvo pensado para levantarse."
+        ]
+      }
+    }
+  }
+}

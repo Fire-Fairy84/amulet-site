@@ -1,0 +1,11 @@
+---
+import { getCollection } from 'astro:content';
+import CardPage from '../../../components/CardPage.astro';
+
+export async function getStaticPaths() {
+  const cards = await getCollection('cards');
+  return cards.map(({ data }) => ({ params: { slug: data.translations.es.slug }, props: { card: data, cards: cards.map((entry) => entry.data) } }));
+}
+const { card, cards } = Astro.props;
+---
+<CardPage card={card} cards={cards} language="es" />

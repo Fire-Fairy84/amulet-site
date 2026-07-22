@@ -1,0 +1,11 @@
+---
+import { labels, cardPath, type Language } from '../lib/i18n';
+interface NavCard { slug: string; name: string }
+interface Props { language: Language; previous?: NavCard | undefined; next?: NavCard | undefined }
+const { language, previous, next } = Astro.props;
+const t = labels[language];
+---
+<nav class="card-navigation" aria-label={language === 'en' ? 'Card navigation' : 'Navegación entre cartas'}>
+  {previous ? <a rel="prev" href={cardPath(language, previous.slug)}><small>{t.previous}</small><span>← {previous.name}</span></a> : <span />}
+  {next ? <a rel="next" href={cardPath(language, next.slug)}><small>{t.next}</small><span>{next.name} →</span></a> : <span />}
+</nav>

@@ -1,0 +1,6 @@
+---
+import { getCollection } from 'astro:content';
+import CardIndex from '../../../components/CardIndex.astro';
+const cards = (await getCollection('cards')).map((entry) => entry.data);
+---
+<CardIndex cards={cards} language="en" />

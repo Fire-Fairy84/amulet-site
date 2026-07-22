@@ -1,0 +1,128 @@
+{
+  "id": "eight-of-cups",
+  "number": 8,
+  "order": 29,
+  "arcana": "minor",
+  "suit": "cups",
+  "rank": 8,
+  "image": "/assets/cards/eight-of-cups.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "cups-08.en.md",
+    "es": "cups-08.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "eight-of-cups",
+      "name": "Eight of Cups",
+      "seoTitle": "Eight of Cups Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "Leaving what still works because it no longer holds you — the good job, the fine relationship, the finished stage, departed by moonlight for something…",
+      "summary": "Leaving what still works because it no longer holds you — the good job, the fine relationship, the finished stage, departed by moonlight for something unnamed uphill. Not escape: search. The gap in the stack was never going to fill from here.",
+      "imageDescription": "A figure in a red cloak walks away from eight standing cups, stacked carefully in two rows — five below, three above, with a visible gap where a ninth would complete the arch. The path leads into dark marshland toward mountains. An eclipsed moon watches the departure with a face half in shadow. The cups are not knocked over. That is the whole story: they are fine, and the figure is leaving anyway.",
+      "upright": {
+        "keywords": [
+          "the walking away, completion refused as enough, the gap in the stack, seeking what the cups don't hold, departure by moonlight, the honorable leaving"
+        ],
+        "essay": [
+          "The Eight of Cups is the tarot's most adult card about leaving, because of what it refuses to supply: a villain. The eight cups stand upright, carefully stacked, undamaged — the relationship that is fine, the career that succeeded, the life that works. Every other departure card gets to point at wreckage. This one leaves a functioning arrangement in good order, by moonlight, and the moon's half-shadowed face admits what the traveler already knows: this will look wrong from the outside, and there will be no story that fully explains it, because the explanation is a gap — the ninth cup, the one the stack never contained and never would.",
+          "The card's first work is diagnostic honesty about that gap. Not everything missing can be built in place. Some absences are renovation projects — the stale job that needs one hard conversation, the marriage that needs the risk of truth — and other cards handle those. The Eight's specific jurisdiction is the absence that is structural: the thing this arrangement, at its very best, does not contain. The test the card proposes is severe and useful — imagine the current thing perfected, every fixable flaw fixed, and check whether the hunger remains. If perfection-as-imagined still doesn't hold the ninth cup, the stack is not the problem, and staying to polish it further is a sophisticated form of hiding.",
+          "Its second work is defending the departure's legitimacy against the two prosecutors who always show up. The outside one says: ingratitude — you had it good, people would kill for those eight cups. True, and not an argument; sufficiency is not the same as fit, and a life can be enviable and unlivable in the same afternoon. The inside one says: this is escape wearing a spiritual costume. Sometimes it is — and the card knows the difference and will show it to you: escape runs from and needs no destination; search walks toward and tolerates not yet knowing its name. The figure in the image is not running. The pace is a walk, the cloak is red — vitality going somewhere, not fear leaving somewhere — and the mountains are uphill, which flight never chooses.",
+          "What the Eight cannot do is make the walk cheap. Whatever is uphill has no address yet; the marsh is real; the moon will be the only witness for a while, and moonlight certifies nothing. Departures of this kind are paid for in advance and reimbursed later, sometimes much later, in a currency you cannot yet describe. The card only promises what the stacked cups prove: you were capable of building eight. That capability travels. It is, in fact, the only luggage this journey allows."
+        ],
+        "work": [
+          "Leaving the successful thing — the career that works and doesn't hold you. Run the perfection test first: if the ideal version still lacks the ninth cup, polishing is hiding."
+        ],
+        "love": [
+          "Not wreckage — fit. The relationship can be genuinely fine and structurally missing the thing. If you leave, leave the cups standing: no villain manufactured to justify the walk."
+        ],
+        "self": [
+          "The hunger that survives every improvement is structural, not ungrateful. Search walks toward and tolerates namelessness; escape runs from. Check your pace and direction."
+        ],
+        "note": [
+          "Not escape, not burnout, not a tantrum — the cups stand unknocked. And not mandatory: the card diagnoses the gap; only you decide if it governs."
+        ]
+      },
+      "reversed": {
+        "summary": "The departure malfunctioning — aborted and regretted, endlessly rehearsed and never made, or made so many times that leaving became the residence. Alternatively: the honest return, eyes open, to cups newly seen. The hinge is what was learned in the marsh.",
+        "keywords": [
+          "the false start home, leaving aborted or endless, drifting as identity, the return to the cups, staying refused its honesty, the walk that forgot its mountain"
+        ],
+        "essay": [
+          "Reversed, the Eight of Cups is the walk gone wrong in one of three ways — or, in its brightest reading, gone right in a direction nobody expected.",
+          "The first malfunction is the departure endlessly rehearsed: the person who has been leaving for years without a single step — the resignation letter drafted and redrafted, the conversation staged nightly in the shower, the escape fund that is really a shrine. Rehearsal at this length is not preparation; it is a way of living in the doorway, extracting the dream of the mountain while keeping the safety of the cups, and it slowly poisons both — the current life is never committed to, the new one never begun. The reversed card's demand is a date or a renunciation: leave by the solstice, or unpack. Either is honorable. The doorway is not.",
+          "The second malfunction is drift: the leaving that worked so well it became the whole skill. Some travelers discover that departure supplies what arrival never does — the clean feeling, the fresh start's chemical brightness, the identity of seeker with none of finding's obligations — and they begin to leave rhythmically, every job at the two-year itch, every relationship at the first gap in its stack. The tell is that the mountains never get closer; the walk has become circular because the ninth cup being sought is, by now, the walking itself. For this reader the card's question inverts perfectly: the brave act is no longer leaving. It is staying somewhere long enough to find out what the second season holds — because the structural gap you keep detecting in everything may be the one you carry, and cups cannot be stacked high enough to fill a hole in the person stacking them.",
+          "And the third reading is the return — the one the tradition undersells. Sometimes the walk into the marsh is completed by coming back: the figure who left, met the mountains, learned the actual name of the hunger, and discovered it could be fed at the original table after all — or that it couldn't be fed anywhere, and the eight cups were not the problem. A return with new eyes is not a failed departure; it is often the departure's entire yield. The disgrace is only in the other kind of return — the one made in the first cold night, hunger unnamed, lesson unfetched, resuming the old chair and calling the whole episode a mistake. If you are walking back, walk back slowly enough to arrive different. The cups will not ask where you went. But you should be able to answer."
+        ],
+        "work": [
+          "Resignation as permanent rehearsal — or the serial two-year itch. Set the date or unpack; and if every job has the same gap, audit the person stacking, not the stacks."
+        ],
+        "love": [
+          "Leaving nightly in your head while staying daily in the chair — the doorway poisons both lives. Or: the return with the hunger finally named. Come back different or don't come back."
+        ],
+        "self": [
+          "The seeker identity: departure's chemical brightness with none of arrival's obligations. The mountains never getting closer is the tell. Try the second season somewhere."
+        ],
+        "note": [
+          "Not proof the leaving was wrong — a return with new eyes is the walk's full yield. Only the doorway is condemned; both directions out of it are honorable."
+        ]
+      }
+    },
+    "es": {
+      "slug": "ocho-de-copas",
+      "name": "Ocho de Copas",
+      "seoTitle": "Ocho de Copas en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "Dejar lo que aún funciona porque ya no te sostiene — el buen trabajo, la relación que está bien, la etapa terminada, abandonados de noche por algo sin…",
+      "summary": "Dejar lo que aún funciona porque ya no te sostiene — el buen trabajo, la relación que está bien, la etapa terminada, abandonados de noche por algo sin nombre que espera cuesta arriba. No es huida: es búsqueda. El hueco de la fila nunca iba a llenarse desde aquí.",
+      "imageDescription": "Una figura con capa roja se aleja de ocho copas en pie, apiladas con cuidado en dos filas — cinco abajo, tres arriba, con un hueco visible donde una novena cerraría el arco. El camino entra en una marisma oscura, hacia las montañas. Una luna eclipsada mira la partida con la cara medio en sombra. Las copas no están volcadas. Esa es toda la historia: están bien, y la figura se va igual.",
+      "upright": {
+        "keywords": [
+          "irse, lo que está completo y aun así no basta, el hueco en la fila, buscar lo que las copas no dan, partir de noche, la marcha honesta"
+        ],
+        "essay": [
+          "El Ocho de Copas es la carta más adulta del tarot sobre irse, precisamente por lo que se niega a darte: un culpable. Las ocho copas están de pie, apiladas con cuidado, intactas — la relación que está bien, la carrera que salió bien, la vida que funciona. Cualquier otra carta de partida puede señalar un desastre. Esta deja un arreglo que funciona, en buen orden, y se va de noche; y la cara medio en sombra de la luna admite lo que la viajera ya sabe: esto se va a ver mal desde fuera, y no habrá una historia que lo explique del todo, porque la explicación es un hueco — la novena copa, la que la fila nunca tuvo y nunca iba a tener.",
+          "Lo primero que pide la carta es honestidad para nombrar ese hueco. No todo lo que falta se puede construir donde estás. Algunas ausencias tienen arreglo — el trabajo estancado que necesita una conversación difícil, el matrimonio que necesita el riesgo de decir la verdad — y de esas se ocupan otras cartas. Lo que le toca al Ocho es la ausencia de fondo: lo que este arreglo, en su mejor versión posible, no te da. La prueba que propone la carta es dura y sirve — imagina lo que tienes ahora perfecto, cada defecto que tenga arreglo ya arreglado, y mira si el hambre sigue ahí. Si ni siquiera en su versión perfecta cabe la novena copa, el problema no es la fila, y quedarte a pulirla más es una forma disimulada de esconderte.",
+          "Lo segundo que pide es defender que irse es legítimo, frente a las dos voces que siempre aparecen a acusarte. La de fuera dice: eres una desagradecida — lo tenías bien, hay gente que mataría por esas ocho copas. Cierto, y no es un argumento; que algo baste no significa que encaje, y una vida puede dar envidia y ser invivible la misma tarde. La de dentro dice: esto es una huida disfrazada de crecimiento. A veces lo es — y la carta sabe distinguir y te lo va a mostrar: la huida sale corriendo de algo y no necesita adónde ir; la búsqueda camina hacia algo y aguanta no saber todavía su nombre. La figura de la imagen no corre. Va a paso de caminata, la capa es roja — energía yendo a alguna parte, no miedo escapando de alguna — y las montañas están cuesta arriba, una dirección que el que huye nunca elige.",
+          "Lo que el Ocho no puede hacer es que la caminata salga barata. Lo que espera cuesta arriba todavía no tiene nombre ni lugar; la marisma es real; durante un tiempo la luna será el único testigo, y la luz de la luna no garantiza nada. Estas partidas se pagan por adelantado y solo mucho después te devuelven algo, a veces muy después, en una moneda que todavía no sabes describir. La carta solo promete lo que las copas apiladas ya demuestran: fuiste capaz de construir ocho. Esa capacidad viaja contigo. Es, de hecho, el único equipaje que este viaje permite."
+        ],
+        "work": [
+          "Dejar lo que salió bien — la carrera que funciona y no te sostiene. Haz primero la prueba: si ni en su versión ideal aparece la novena copa, seguir puliendo es esconderte."
+        ],
+        "love": [
+          "No es un desastre — es que no encaja. La relación puede estar de verdad bien y aun así faltarle lo de fondo. Si te vas, deja las copas de pie: sin inventarte un culpable para justificar la marcha."
+        ],
+        "self": [
+          "El hambre que sigue ahí después de cada mejora es de fondo, no es ingratitud. La búsqueda camina hacia algo y aguanta no tener nombre; la huida sale corriendo de algo. Mira tu paso y tu dirección."
+        ],
+        "note": [
+          "No es huida, ni agotamiento, ni una rabieta — las copas quedan en pie. Y no es obligatorio: la carta señala el hueco; decides tú si manda."
+        ]
+      },
+      "reversed": {
+        "summary": "La partida que falla — se corta y se lamenta, se ensaya sin fin y nunca se hace, o se hace tantas veces que irse acaba siendo el hogar. O bien: la vuelta sincera, con los ojos abiertos, a unas copas que ahora ves distintas. Todo depende de qué aprendiste en la marisma.",
+        "keywords": [
+          "la vuelta a casa que no toca, la marcha que se corta o no termina nunca, la deriva como identidad, volver a las copas, quedarse sin ser sincero, la caminata que olvidó su montaña"
+        ],
+        "essay": [
+          "Invertido, el Ocho de Copas es la caminata que sale mal de una de tres formas — o, en su lectura más luminosa, que sale bien por un camino que nadie esperaba.",
+          "El primer fallo es la partida que se ensaya sin fin: la persona que lleva años yéndose sin dar un solo paso — la carta de renuncia escrita y reescrita, la conversación repasada cada noche en la ducha, los ahorros para escapar que en realidad son un altar al que se reza. Ensayar tanto tiempo no es prepararse; es una manera de vivir en el umbral, quedándote con el sueño de la montaña sin soltar la seguridad de las copas, y así envenenas las dos cosas despacio — a la vida de ahora nunca te entregas, y la nueva nunca empieza. Lo que exige la carta invertida es una fecha o una renuncia: te vas antes del solsticio, o deshaces las maletas. Las dos salidas son dignas. El umbral no.",
+          "El segundo fallo es la deriva: irse funcionó tan bien que se convirtió en lo único que sabes hacer. Hay viajeras que descubren que la partida da lo que la llegada nunca da — la sensación de limpio, el subidón químico de empezar de cero, ser la que busca sin ninguna de las obligaciones de encontrar — y empiezan a irse con ritmo, de cada trabajo cuando pican los dos años, de cada relación al primer hueco en su fila. La señal es que las montañas nunca se acercan; la caminata se volvió circular porque, a estas alturas, la novena copa que busca es el caminar mismo. Para esta lectora la pregunta de la carta se da la vuelta entera: lo valiente ya no es irse. Es quedarse en algún sitio el tiempo suficiente para descubrir qué trae la segunda temporada — porque el hueco que sigues encontrando en todo puede ser el que llevas dentro, y no hay pila de copas lo bastante alta para tapar un agujero en la persona que apila.",
+          "Y la tercera lectura es la vuelta — la que la tradición no sabe apreciar. A veces la caminata por la marisma se completa volviendo: la figura que se fue, conoció las montañas, aprendió el nombre real del hambre, y descubrió que después de todo sí podía saciarla en la mesa de siempre — o que no podía saciarla en ninguna parte, y las ocho copas nunca fueron el problema. Volver con otros ojos no es una partida fallida; muchas veces es todo lo que la partida vino a darte. La vergüenza está solo en la otra vuelta — la que haces en la primera noche fría, con el hambre sin nombre, la lección sin recoger, volviéndote a sentar en la silla de siempre y llamando error a todo el episodio. Si estás volviendo, hazlo lo bastante despacio como para llegar distinta. Las copas no te van a preguntar adónde fuiste. Pero tú deberías poder responder."
+        ],
+        "work": [
+          "La renuncia como ensayo eterno — o el mismo picor cada dos años, un trabajo tras otro. Pon la fecha o deshaz las maletas; y si todos los trabajos tienen el mismo hueco, mira a la persona que apila, no a las pilas."
+        ],
+        "love": [
+          "Irte cada noche en la cabeza mientras cada día te quedas en la silla — el umbral envenena las dos vidas. O: la vuelta con el hambre por fin nombrada. Vuelve distinta o no vuelvas."
+        ],
+        "self": [
+          "Ser la que busca: el subidón químico de irse sin ninguna de las obligaciones de encontrar. Que las montañas nunca se acerquen es la señal. Prueba la segunda temporada en algún sitio."
+        ],
+        "note": [
+          "No es la prueba de que irte fue un error — volver con otros ojos es todo lo que la caminata vino a darte. Solo el umbral está condenado; las dos salidas que tiene son dignas."
+        ]
+      }
+    }
+  }
+}

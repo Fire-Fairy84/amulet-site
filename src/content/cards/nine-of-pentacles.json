@@ -1,0 +1,128 @@
+{
+  "id": "nine-of-pentacles",
+  "number": 9,
+  "order": 44,
+  "arcana": "minor",
+  "suit": "pentacles",
+  "rank": 9,
+  "image": "/assets/cards/nine-of-pentacles.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "pentacles-09.en.md",
+    "es": "pentacles-09.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "nine-of-pentacles",
+      "name": "Nine of Pentacles",
+      "seoTitle": "Nine of Pentacles Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "The dividend of the long discipline — the garden that traces back through the bench, the vine, and the seed. Independence that can't be repossessed.…",
+      "summary": "The dividend of the long discipline — the garden that traces back through the bench, the vine, and the seed. Independence that can't be repossessed. Solitude with a full table. The remaining skill is the strange one: actually walking the rows, actually tasting it.",
+      "imageDescription": "A woman in a gold-embroidered robe stands alone in her vineyard, nine pentacles ripening on the vines around her. On her gloved left hand sits a falcon, hooded, calm — a wild appetite trained, not killed. At the hem of her dress, a snail crosses the path unhurried, welcome here. The manor in the background is hers. Nobody else is in the card, and nothing in it is missing.",
+      "upright": {
+        "keywords": [
+          "earned ease, the garden your own, the falcon hooded and kept, solitude chosen not sentenced, the snail's pace honored, walking the rows you planted"
+        ],
+        "essay": [
+          "The Nine of Pentacles is the suit's long argument arriving at its proof: this garden is the Ace's coin, planted; the Seven's vine, wisely kept; the Eight's ten thousand carvings, compounded. The woman stands in ease that has a paper trail — and the card insists on the provenance, because it changes everything about the picture. Given ease is a circumstance; earned ease is a property of the person, and it cannot be repossessed. She could lose the vineyard to weather or war and she would build another, because the vineyard was never the asset. The asset is the one walking in it: the judgment, the discipline, the trained hands, the demonstrated capacity to turn seasons into structure. That is the specific flavor of this card's security, and it is the only kind this suit fully trusts.",
+          "The falcon is the card's biography, worn on the wrist. A falcon is appetite with wings — impulse, hunger, the part that wants to chase every small bright thing that moves — and hers is neither caged nor released but trained: hooded when it is time for stillness, flown when it is time to hunt, returning to the glove. Every garden like this one was paid for by exactly that bird. The purchases not made, the evenings at the bench, the fast bright chances declined because the vine needed a decade — discipline, the card says, is not the murder of the wild thing; it is its education, and the falconer's reward is that she keeps both: the wildness and the harvest. The snail at her hem is the same sentence at the other speed — even here, in the finished garden, the emblem of slowness is welcome on the path, because the pace was never the enemy. The pace was the method.",
+          "And the solitude — the card's most modern nerve. She is alone, and the aloneness is upholstered: not the Five's exile in the snow, not the Hermit's working retreat, but the specific, cultivated pleasure of one's own company in one's own place — the table set for one with the good dishes, the trip taken solo and unhurried, the evening that requires nobody's agreement to be spent exactly as wished. The card arrives, often, to bless an independence someone has been apologizing for — the life built self-sufficient being treated, by the anxious chorus, as a waiting room for real life. The Nine's correction is complete: this is not the absence of the banquet. It is one.",
+          "Its counsel is the strangest in the suit, and the builders who most resist it need it most: learn to walk the rows. There is a species of gardener who can plant, tend, defend, and expand a garden and cannot, to save their life, sit in it — the ease always deferred one more season, the enjoying postponed as if it were a luxury the discipline hadn't yet earned, when it is in fact the entire point of the discipline. Taste the grapes, this card orders, gently, this year — walk the vineyard not as its auditor but as its resident; spend some of what was saved on something with no yield but delight; let the falcon off the glove some golden afternoon just to watch it fly. The garden was never the finish line. It was the place being prepared, all along, for a life — yours, the one available now, between these particular vines."
+        ],
+        "work": [
+          "The independence with a paper trail — what you built can be lost; what built it can't be repossessed. And take the dividend: one indulgence with no yield but delight, this quarter, on purpose."
+        ],
+        "love": [
+          "Solitude with the good dishes is a banquet, not a waiting room — stop apologizing for the self-sufficient life. Whoever joins it should add to a garden, not rescue a vacancy."
+        ],
+        "self": [
+          "The falcon stays — discipline didn't kill the wild thing, it educated it, and you get to keep both. Fly it sometimes. The hood is a tool, not a habitat."
+        ],
+        "note": [
+          "Not luck and not inheritance — nine coins of provenance. And not loneliness: read the difference in the posture. Nothing in this card is waiting for somebody."
+        ]
+      },
+      "reversed": {
+        "summary": "The garden inverted into enclosure — luxury leased from someone else's approval, the golden-handcuffs post, comfort defended until it became the jailer. Or the builder who audits and never tastes. Check the gate's key and the falcon's wings: whose name is on them?",
+        "keywords": [
+          "comfort gone cage, the garden as fortress, golden handcuffs, ease that belongs to someone else, the auditor who never tastes, walls that grew inward"
+        ],
+        "essay": [
+          "Reversed, the Nine of Pentacles keeps every grape and loses the freedom that made them sweet — and its first face is the golden cage, whose bars are made of exactly the good things: the salary too high to leave, the lifestyle that annexed every raise, the relationship whose comfort is real and whose price is the self, the beautiful house that decides, now, what work may be considered. The diagnostic is the daydream test: when the thought of leaving arrives — the smaller life, the riskier work, the honest conversation — what answers it? If the answer is a list of what would be lost rather than what would be wrong, the garden has become the argument against the gardener. Comfort was supposed to be the dividend of freedom. Somewhere it changed jobs and became freedom's replacement, and the exchange rate is always eventually regretted.",
+          "The second face reads the provenance and finds another name on it: ease that was never self-made. The lifestyle funded by the partner, the parents, the position — pleasant, real, and revocable by someone else's signature. The card does not moralize about this; arrangements are various and some are honest. It only insists on accurate accounting, because the upright Nine's whole security was that her garden could not be repossessed, and this one can: the falcon on the glove belongs to the estate. The homework is not necessarily to leave the garden — it is to own something in it: the skill kept sharp, the account in one's own name, the credential maintained, the answer to the cold question if this ended Tuesday, what is mine? A garden enjoyed is lovely. A garden one could not survive being expelled from is a hostage situation with landscaping.",
+          "The third face is the auditor: the builder who got the garden and never entered it. The walls went up for security and kept rising on momentum; the ledger replaced the walking; the grapes are counted annually and tasted never; and the solitude, which upright was a chosen banquet, has quietly become a default — guests unthinkable now, the gate rusted in its habit. This is the saddest inversion because nothing external is wrong: the wealth is real, earned, present, and entirely unconverted into life. The falcon hooded for years is the card's sharpest image here — discipline that was supposed to be a tool has become the permanent weather, and the bird that no longer remembers the sky is not trained. It is broken, politely.",
+          "The counsel for all three is the same first motion: test the gate. Literally, in whatever form the literal takes — price the smaller life and discover it is survivable; open the account, update the credential, take the meeting; invite someone in, this month, past the walls; unhood the falcon for one afternoon of unprofitable joy. Cages of this quality are almost never locked from outside — that is the reversal's final, humiliating mercy. The key has been on the inside ledge the whole time, next to the ledger. The garden is still good. It is asking to go back to being what it was for."
+        ],
+        "work": [
+          "The salary too high to leave is a number, so price the alternative: the smaller life is usually survivable, and knowing that reopens the gate even if you stay."
+        ],
+        "love": [
+          "Comfort that answers every doubt with a list of what you'd lose — not what would be wrong — has changed jobs on you. Name what's yours if it ended Tuesday; then choose freely."
+        ],
+        "self": [
+          "Counting the grapes annually, tasting them never — the walls went up for security and kept rising on momentum. Invite someone past them this month. The gate is rusted, not locked."
+        ],
+        "note": [
+          "Not wealth's fault — the grapes are innocent; check the key's name instead. And not solved by burning the garden: cages this good open from inside. The ledge, next to the ledger."
+        ]
+      }
+    },
+    "es": {
+      "slug": "nueve-de-oros",
+      "name": "Nueve de Oros",
+      "seoTitle": "Nueve de Oros en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "La recompensa de años de disciplina — un jardín que empezó en el trabajo, la vid y la semilla. Independencia que nadie te puede quitar. Soledad con la…",
+      "summary": "La recompensa de años de disciplina — un jardín que empezó en el trabajo, la vid y la semilla. Independencia que nadie te puede quitar. Soledad con la mesa puesta. Lo que queda por aprender es lo raro: caminar de verdad entre las vides, disfrutarlo de verdad.",
+      "imageDescription": "Una mujer con túnica bordada en oro está de pie, sola, en su viñedo, con nueve oros madurando en las vides que la rodean. Sobre su mano izquierda enguantada descansa un halcón, con capucha, tranquilo — un instinto salvaje domado, no matado. En el borde de su vestido, un caracol cruza el sendero sin prisa; aquí es bienvenido. La casa grande del fondo es suya. No hay nadie más en la carta, y no le falta nada.",
+      "upright": {
+        "keywords": [
+          "la calma que te ganaste, el jardín es tuyo, el halcón con capucha y bien cuidado, la soledad elegida, no impuesta, el paso lento del caracol tiene su honor, caminar entre lo que plantaste"
+        ],
+        "essay": [
+          "El Nueve de Oros es toda la historia del palo, que llega aquí a su prueba: este jardín es la moneda del As, ya plantada; la vid del Siete, cuidada con cabeza; las diez mil tallas del Ocho, dando fruto por fin. La mujer está de pie en una calma que se puede rastrear hasta su origen — y la carta insiste en de dónde viene, porque eso lo cambia todo. La calma regalada es una suerte; la calma que te ganas es tuya, forma parte de ti, y nadie te la puede quitar. Podría perder el viñedo por el clima o por la guerra y construiría otro, porque el viñedo nunca fue lo que valía. Lo que vale es quien camina en él: el criterio, la disciplina, las manos entrenadas, la capacidad demostrada de convertir estaciones en algo firme. Ese es el sabor exacto de la seguridad de esta carta, y es la única de la que este palo se fía del todo.",
+          "El halcón es la biografía de la carta, llevada en la muñeca. Un halcón es hambre con alas — el impulso, las ganas, la parte que quiere ir tras cada cosa pequeña y brillante que se mueve — y el suyo no está ni enjaulado ni suelto, sino domado: con capucha cuando toca estar quieto, en vuelo cuando toca cazar, de vuelta al guante. Cada jardín como este lo pagó justamente ese pájaro. Las compras que no se hicieron, las tardes en el taller, las oportunidades rápidas y brillantes que se dejaron pasar porque la vid necesitaba diez años — la disciplina, dice la carta, no mata lo salvaje; lo educa, y el premio de la que sabe cetrería es que se queda con las dos cosas: la fiereza y la cosecha. El caracol en el borde del vestido dice lo mismo a otra velocidad — incluso aquí, en el jardín terminado, el símbolo de la lentitud es bienvenido en el sendero, porque el ritmo lento nunca fue el enemigo. El ritmo lento fue el método.",
+          "Y la soledad — el nervio más actual de la carta. Está sola, y su soledad es cómoda: no es el destierro del Cinco en la nieve, ni el retiro con oficio del Ermitaño, sino el placer concreto y cultivado de la propia compañía en el lugar propio — la mesa puesta para una con la vajilla buena, el viaje hecho sola y sin prisa, la tarde que no necesita el permiso de nadie para pasarse justo como una quiere. La carta llega, a menudo, para dar su bendición a una independencia por la que alguien lleva tiempo pidiendo perdón — una vida que se basta a sí misma, tratada por el coro de los ansiosos como si fuera solo la antesala de la vida de verdad. El Nueve lo corrige del todo: esto no es la falta de un banquete. Es un banquete.",
+          "Su consejo es el más raro del palo, y las que más se resisten a él son las que más lo necesitan: aprende a caminar entre las vides. Existe un tipo de jardinera que sabe plantar, cuidar, defender y ampliar un jardín y no sabe, ni aunque le fuera la vida en ello, sentarse en él — la calma siempre aplazada una temporada más, el disfrute pospuesto como si fuera un lujo que la disciplina todavía no ha ganado, cuando es, de hecho, para lo único que sirve la disciplina. Prueba las uvas, ordena esta carta, con suavidad, este año — recorre el viñedo no como quien lo audita, sino como quien vive en él; gasta algo de lo ahorrado en algo que no dé más beneficio que el gusto; suelta al halcón del guante alguna tarde dorada solo por verlo volar. El jardín nunca fue la meta. Era el lugar que se preparaba, desde el principio, para una vida — la tuya, la que tienes ahora mismo, entre estas vides concretas."
+        ],
+        "work": [
+          "La independencia que se puede rastrear hasta su origen — lo que construiste se puede perder; lo que te sirvió para construirlo, no te lo quita nadie. Y cobra la recompensa: un capricho que no dé más beneficio que el gusto, este trimestre, a propósito."
+        ],
+        "love": [
+          "La soledad con la vajilla buena es un banquete, no una sala de espera — deja de pedir perdón por una vida que se basta a sí misma. Quien se sume, que aporte algo a un jardín, no que venga a llenar un hueco."
+        ],
+        "self": [
+          "El halcón se queda — la disciplina no mató lo salvaje, lo educó, y te quedas con las dos cosas. Vuélalo de vez en cuando. La capucha es una herramienta, no una casa."
+        ],
+        "note": [
+          "No es suerte y no es herencia — nueve monedas con historia detrás. Y no es soledad triste: mira la diferencia en cómo está de pie. Nada en esta carta está esperando a nadie."
+        ]
+      },
+      "reversed": {
+        "summary": "El jardín convertido en cárcel — el lujo prestado a cambio de la aprobación de otro, el puesto con esposas de oro, la comodidad defendida hasta volverse tu carcelera. O la que audita y nunca prueba. Mira la llave de la verja y las alas del halcón: ¿de quién es el nombre que llevan?",
+        "keywords": [
+          "la comodidad convertida en jaula, el jardín como fortaleza, esposas de oro, una calma que es de otro, la que audita y nunca prueba, muros que crecieron hacia dentro"
+        ],
+        "essay": [
+          "Invertido, el Nueve de Oros conserva todas las uvas y pierde la libertad que las hacía dulces — y su primera cara es la jaula de oro, cuyos barrotes están hechos justamente de cosas buenas: el sueldo demasiado alto para dejarlo, el nivel de vida que se tragó cada aumento, la relación cuya comodidad es real y cuyo precio eres tú, la casa preciosa que decide, ya, qué trabajo puedes plantearte siquiera. Para diagnosticarlo, imagina que te vas: cuando aparece la idea de dejarlo — la vida más pequeña, el trabajo más arriesgado, la conversación sincera — ¿qué la frena? Si lo que la frena es una lista de lo que perderías y no de lo que estaría mal, el jardín se ha vuelto el argumento contra la jardinera. La comodidad iba a ser la recompensa de la libertad. En algún momento cambió de papel y pasó a ser su sustituta, y ese cambio siempre acaba pesando.",
+          "La segunda cara mira de dónde viene todo y encuentra otro nombre escrito: una calma que nunca fue tuya. El nivel de vida que pagan la pareja, los padres, el cargo — agradable, real, y que otra persona puede anular con una firma. La carta no da lecciones de moral sobre esto; los arreglos son de muchos tipos y algunos son honestos. Solo insiste en las cuentas claras, porque toda la seguridad del Nueve al derecho era que su jardín no se lo podía quitar nadie, y este sí: el halcón del guante pertenece a la finca. La tarea no es necesariamente dejar el jardín — es tener algo propio dentro de él: la destreza bien afilada, la cuenta a tu nombre, el título en regla, la respuesta a la pregunta fría: «si esto se acabara el martes, ¿qué es mío?». Un jardín que disfrutas es una preciosidad. Un jardín del que no sobrevivirías a que te echaran es un secuestro con jardinería incluida.",
+          "La tercera cara es la que audita: la que levantó el jardín y nunca entró. Los muros subieron por seguridad y siguieron subiendo por inercia; el libro de cuentas sustituyó al paseo; las uvas se cuentan cada año y no se prueban nunca; y la soledad, que al derecho era un banquete elegido, se ha vuelto, sin que nadie se diera cuenta, la única opción que queda — invitar a alguien ya es impensable, la verja oxidada de la costumbre. Es la inversión más triste porque por fuera no falla nada: la riqueza es real, ganada, está ahí, y nada de ella se ha convertido en vida. El halcón con capucha durante años es aquí la imagen más afilada de la carta — la disciplina que iba a ser una herramienta se ha vuelto el clima de siempre, y el pájaro que ya no recuerda el cielo no está domado. Está roto, con buenos modales.",
+          "El consejo para las tres es el mismo primer paso: prueba la verja. Literalmente, en la forma que tome lo literal — pon precio a la vida más pequeña y descubre que se puede sobrevivir a ella; abre la cuenta, renueva el título, acepta la reunión; invita a alguien a pasar, este mes, más allá de los muros; quítale la capucha al halcón una tarde de alegría que no dé beneficio ninguno. Las jaulas de esta calidad casi nunca están cerradas por fuera — esa es la piedad última y humillante de la inversión. La llave lleva todo el tiempo en la repisa de dentro, al lado del libro de cuentas. El jardín sigue siendo bueno. Está pidiendo volver a ser aquello para lo que se hizo."
+        ],
+        "work": [
+          "El sueldo demasiado alto para dejarlo es un número, así que ponle precio a la alternativa: a la vida más pequeña casi siempre se sobrevive, y saberlo reabre la verja aunque te quedes."
+        ],
+        "love": [
+          "La comodidad que responde a cada duda con la lista de lo que perderías — no de lo que estaría mal — ha cambiado de papel sin avisarte. Di qué es tuyo si esto se acabara el martes; luego elige en libertad."
+        ],
+        "self": [
+          "Contar las uvas cada año, no probarlas nunca — los muros subieron por seguridad y siguieron por inercia. Invita a alguien a pasarlos este mes. La verja está oxidada, no cerrada con llave."
+        ],
+        "note": [
+          "No es culpa de la riqueza — las uvas no tienen culpa; mira mejor de quién es la llave. Y no se arregla quemando el jardín: las jaulas así de buenas se abren desde dentro. La llave está en la repisa, al lado del libro de cuentas."
+        ]
+      }
+    }
+  }
+}

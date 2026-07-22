@@ -1,0 +1,126 @@
+{
+  "id": "ace-of-pentacles",
+  "number": 1,
+  "order": 36,
+  "arcana": "minor",
+  "suit": "pentacles",
+  "rank": 1,
+  "image": "/assets/cards/ace-of-pentacles.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "pentacles-01.en.md",
+    "es": "pentacles-01.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "ace-of-pentacles",
+      "name": "Ace of Pentacles",
+      "seoTitle": "Ace of Pentacles Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "The tangible beginning — the offer, the opening, the first money, the good ground. Real in the fullest sense: it exists outside your head. Not the garden…",
+      "summary": "The tangible beginning — the offer, the opening, the first money, the good ground. Real in the fullest sense: it exists outside your head. Not the garden yet; the seed of one, with the gate already open. Take it while it's warm, and plant it the same week.",
+      "imageDescription": "A hand extends from a cloud holding a single gold coin — holding it flat on an open palm, notice, not gripping it like the sword or spilling it like the cup: this is the one gift simply offered, entirely takeable, entirely ignorable. Below lies a tended garden, white lilies and clipped hedge, and through the hedge an arched gate stands open onto a path that climbs toward far mountains. The coin bears a five-pointed star. Matter, the suit says in its first breath, has a pattern in it.",
+      "upright": {
+        "keywords": [
+          "the real offer, a seed in an open palm, good ground found, matter with a star in it, the gate at the garden's end, wealth at its smallest and truest size"
+        ],
+        "essay": [
+          "The suit of earth opens more quietly than any other, and the quietness is the doctrine. No flood, no blade, no branch bursting into leaf — just a coin, held out flat on an open palm, in an attitude of complete patience. The Ace of Pentacles is the deck's picture of a real offer: the job with an actual start date, the apartment with an actual key, the first paying customer, the body's genuine opening toward health, the sum — small, but existing — that could begin something. Real is the operative word and the suit's whole jurisdiction. The other aces arrive as experiences; this one arrives as a fact, and facts have the great dignity of not needing your belief. The coin is there whether or not you feel ready. It is also, the open palm insists, entirely refusable — earth pressures no one. It just waits, and while it waits, it is perishable.",
+          "The star cut into the coin is the suit's founding claim, and it deserves a moment, because the whole materialist slander of this suit dies against it: a pentacle is matter with a pattern in it — gold inscribed with a star, substance carrying meaning. The suit of money, work, houses, and bodies announces at its threshold that none of these things is opposed to spirit; they are where spirit is either made actual or remains a lovely rumor. An intention that never becomes a calendar entry, a payment, a key, a meal, was — this suit will say it plainly — a mood. The coin in the hand is the moment the mood is offered a body. That is why this ace, so much less dramatic than its siblings, is so often the one people remember later as the hinge their life turned on: nothing feels smaller than a seed on the day it is handed over.",
+          "And it is a seed — the garden below makes the grammar of the card unmistakable. The coin is not the wealth; it is the admission ticket to the process that makes wealth, and the process is planted, not held. Every fortune, every practice, every sturdy body and solvent household in this suit's long ledger began as exactly this: one coin, one plot, one decision to put the thing in the ground where it disappears from view for an unglamorous while. The garden in the image is tended — someone clipped that hedge — and the gate through it stands open onto mountains, the suit's honest disclosure of scale: this path is long. Earth is the slowest suit. Nothing in it happens in an afternoon, and everything in it compounds.",
+          "So the counsel is planting protocol, three lines. Recognize the coin — real offers are routinely missed because they arrive dressed as ordinary Tuesdays, smaller than the fantasy that was auditioning for the role. Accept it while it is warm — the open palm is patient but the world is not, and the suit's saddest card is not a loss; it is this one, let slip. And put it in the ground within the week: the account opened, the first session booked, the deposit paid, the hundred words written — the smallest act that converts offer into cultivation. Do not frame the coin. Do not carry it around for show. Do not wait to feel like a gardener. The star is already in the gold; the gate is already open; the mountains will still be far away tomorrow, which is exactly why the planting is today."
+        ],
+        "work": [
+          "The offer with an actual start date — real things arrive dressed as ordinary Tuesdays. Accept while warm; convert to one concrete act within the week."
+        ],
+        "love": [
+          "A beginning with ground under it — slower and more solid than the cup's overflow. Plant it in the calendar: the recurring dinner, the shared drawer. Roots are a schedule."
+        ],
+        "self": [
+          "The body's opening — the appointment kept, the first night of real sleep, the practice begun at its smallest size. A seed's whole job is to be put in the ground."
+        ],
+        "note": [
+          "Not the garden yet — one coin is not wealth, it's admission. And not beneath you for being small: nothing looks smaller than a seed on the day it's handed over."
+        ]
+      },
+      "reversed": {
+        "summary": "The tangible beginning missed or mishandled — the offer declined by dithering, the seed kept as a souvenir, the glittering thing that was never good ground. Or matter itself neglected: body, money, home left unminded while attention lived elsewhere. The gate is still open. Leaves are gathering.",
+        "keywords": [
+          "the offer let slip, the seed kept in the frame, gold that glitters and isn't ground, the expired window, prosperity postponed by perfectionism, matter neglected"
+        ],
+        "essay": [
+          "Reversed, the Ace of Pentacles is the suit's quietest tragedy, and it comes in three sizes, none of them loud. The first is the offer let slip — and the mechanism is almost never refusal, because refusing a real offer takes a decisiveness that would have served better elsewhere. It is dithering: the reply drafted and not sent, the viewing postponed twice, the yes, but let me first — and earth's patience, famously long, is not infinite. Real offers are perishable in a way fantasies never are, which is why the fantasy so often outlives its rival: the imagined perfect job survives forever, unaccepted and uncontaminated, while the actual good one quietly hires someone who answered email. If this face is yours, the audit is one question: is the window still open? If yes, this card reverses itself the hour you act. If no — grieve it briefly and honestly, and study the dithering, not the loss, because the dithering is the part that travels to the next offer.",
+          "The second size is the seed kept in the frame: the offer accepted and then held as an object instead of planted as a process. The advance received and not used to write the book; the gym joined, in the app sense; the loan that became lifestyle instead of inventory; the opportunity narrated at dinners — I have this thing — while it dies of display. This is the materialist mistake the upright card's star specifically warned against: treating the coin as the wealth rather than the admission ticket. Gold does not compound in a frame. The test is brutal and takes ten seconds: what did the coin become in the last ninety days? If the answer is nothing yet, but, the seed is in the frame, and the frame is where seeds go to stay seeds.",
+          "The third size is the glitter that was never ground — the too-good offer, the scheme with the star painted on rather than struck through, the opportunity whose numbers only work when recited quickly. Earth's own gift is the standard by which its counterfeits are caught: real coins survive slow inspection, invite due diligence, get more solid as you approach. If scrutiny is being discouraged — by urgency, by flattery, by the claim that the gate is closing tonight — you are not holding this suit's ace. Put it down. And beneath all three sizes, the same prescription, because this ace reversed is finally about the neglect of matter itself — the body unexamined, the account unopened, the home unminded while attention lived in feeds and futures: come back down. The ground has been holding your place. The gate, look, is still open; the leaves against it are one afternoon's sweeping. Earth holds no grudges. It only keeps time."
+        ],
+        "work": [
+          "Is the window still open? Then this card reverses the hour you act. If not — study the dithering, not the loss; the dithering travels to the next offer."
+        ],
+        "love": [
+          "The good beginning kept as a souvenir — narrated at dinners, never planted in the calendar. What did it become in ninety days? \"Nothing yet, but\" is the frame talking."
+        ],
+        "self": [
+          "Matter neglected while attention lived elsewhere — the checkup, the account, the home. Come back down; the ground kept your place. Leaves at the gate are one afternoon's sweeping."
+        ],
+        "note": [
+          "Not punishment — nothing dramatic happened; that's the drama. And not every glitter: real coins survive slow inspection. Whatever discourages scrutiny was never this suit's gold."
+        ]
+      }
+    },
+    "es": {
+      "slug": "as-de-oros",
+      "name": "As de Oros",
+      "seoTitle": "As de Oros en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "El comienzo que se toca — la oferta, la apertura, el primer dinero, la buena tierra. Real en el sentido más pleno: existe fuera de tu cabeza. Todavía no…",
+      "summary": "El comienzo que se toca — la oferta, la apertura, el primer dinero, la buena tierra. Real en el sentido más pleno: existe fuera de tu cabeza. Todavía no es el jardín; es su semilla, con la puerta ya abierta. Tómala mientras está caliente, y plántala esa misma semana.",
+      "imageDescription": "Una mano sale de una nube con una sola moneda de oro — la sostiene plana sobre la palma abierta, fíjate, no la empuña como la espada ni la derrama como la copa: este es el único regalo que se ofrece sin más, que puedes tomar entero y también ignorar entero. Abajo hay un jardín cuidado, azucenas blancas y un seto recortado, y a través del seto una puerta en arco se abre a un sendero que sube hacia montañas lejanas. La moneda lleva una estrella de cinco puntas. La materia, dice el palo en su primer aliento, tiene un patrón dentro.",
+      "upright": {
+        "keywords": [
+          "la oferta real, una semilla en la palma abierta, buena tierra por fin, materia con una estrella dentro, la puerta al fondo del jardín, la riqueza en su tamaño más pequeño y más verdadero"
+        ],
+        "essay": [
+          "El palo de la tierra abre más callado que ningún otro, y ese silencio es la lección. Sin inundación, sin hoja, sin rama que revienta en brotes — solo una moneda, tendida plana sobre una palma abierta, con toda la paciencia del mundo. El As de Oros es el retrato que la baraja hace de una oferta real: el trabajo con fecha de inicio de verdad, el piso con llave de verdad, el primer cliente que paga, el cuerpo que de verdad empieza a curarse, la cantidad — pequeña, pero que existe — capaz de arrancar algo. Real es la palabra clave y el territorio entero del palo. Los otros ases llegan como experiencias; este llega como un hecho, y los hechos tienen la gran dignidad de no necesitar que los creas. La moneda está ahí, te sientas lista o no. También es, insiste la palma abierta, algo que puedes rechazar del todo — la tierra no presiona a nadie. Solo espera, y mientras espera, se echa a perder.",
+          "La estrella grabada en la moneda es la primera afirmación del palo, y merece un momento, porque contra ella se cae toda la fama de materialista que arrastra este palo: un oro es materia con un patrón dentro — metal marcado con una estrella, sustancia que carga sentido. El palo del dinero, el trabajo, las casas y los cuerpos anuncia desde la puerta que ninguna de esas cosas se opone al espíritu; son el lugar donde el espíritu se vuelve real o se queda en un rumor bonito. Una intención que nunca se convierte en una cita en el calendario, un pago, una llave, una comida, no era — este palo lo dice sin rodeos — más que un estado de ánimo. La moneda en la mano es el momento en que a ese estado de ánimo se le ofrece un cuerpo. Por eso este as, mucho menos dramático que sus hermanos, es tantas veces el que la gente recuerda después como el momento en que su vida giró: nada parece más pequeño que una semilla el día en que te la entregan.",
+          "Y es una semilla — el jardín de abajo lo deja clarísimo. La moneda no es la riqueza; es la entrada al proceso que hace la riqueza, y ese proceso se planta, no se guarda en la mano. Toda fortuna, toda práctica, todo cuerpo firme y toda casa que se paga sola en el largo libro de cuentas de este palo empezó justo así: una moneda, una parcela, la decisión de meter la cosa en la tierra, donde desaparece de la vista un buen rato, sin glamur. El jardín de la imagen está cuidado — alguien recortó ese seto — y su puerta se abre hacia montañas, que es cómo el palo te avisa honestamente de la escala: este camino es largo. La tierra es el palo más lento. Nada en él ocurre en una tarde, y todo en él va sumando con los años.",
+          "Así que el consejo es un plan de siembra, en tres líneas. Reconoce la moneda — las ofertas reales se pierden a diario porque llegan vestidas de martes cualquiera, más pequeñas que la fantasía que se presentaba al mismo papel. Acéptala mientras está caliente — la palma abierta es paciente pero el mundo no, y la carta más triste del palo no es una pérdida; es esta, la que se dejó pasar. Y métela en la tierra antes de una semana: la cuenta abierta, la primera sesión reservada, la señal pagada, las cien palabras escritas — el acto más pequeño que convierte una oferta en un cultivo. No enmarques la moneda. No la lleves encima para enseñarla. No esperes a sentirte jardinera. La estrella ya está en el oro; la puerta ya está abierta; las montañas seguirán igual de lejos mañana, que es exactamente por lo que hay que sembrar hoy."
+        ],
+        "work": [
+          "La oferta con fecha de inicio de verdad — lo real llega vestido de martes cualquiera. Acéptalo mientras está caliente; conviértelo en un acto concreto antes de una semana."
+        ],
+        "love": [
+          "Un comienzo con suelo debajo — más lento y más sólido que el desborde de la copa. Plántalo en el calendario: la cena que se repite, el cajón compartido. Las raíces son un horario."
+        ],
+        "self": [
+          "El cuerpo que se abre — la cita cumplida, la primera noche de sueño de verdad, la práctica empezada en su tamaño mínimo. El único trabajo de una semilla es que la metan en la tierra."
+        ],
+        "note": [
+          "Todavía no es el jardín — una moneda no es riqueza, es la entrada. Y no es poca cosa por ser pequeña: nada parece más pequeño que una semilla el día en que te la entregan."
+        ]
+      },
+      "reversed": {
+        "summary": "El comienzo que se toca, perdido o mal manejado — la oferta rechazada a fuerza de titubeo, la semilla guardada de recuerdo, la cosa brillante que nunca fue buena tierra. O la materia misma, abandonada: cuerpo, dinero, casa sin atender mientras la atención vivía en otra parte. La puerta sigue abierta. Las hojas se acumulan.",
+        "keywords": [
+          "la oferta que se dejó pasar, la semilla guardada en un marco, oro que brilla y no es tierra, la ventana ya cerrada, la prosperidad aplazada por perfeccionismo, la materia abandonada"
+        ],
+        "essay": [
+          "Invertido, el As de Oros es la tragedia más callada del palo, y viene en tres tamaños, ninguno ruidoso. El primero es la oferta que se dejó pasar — y casi nunca es por rechazarla, porque rechazar una oferta real pide una firmeza que habría hecho más falta en otra parte. Es el titubeo: la respuesta escrita y no enviada, la visita aplazada dos veces, el sí, pero antes déjame — y la paciencia de la tierra, famosa por larga, no es infinita. Las ofertas reales se echan a perder de un modo que las fantasías nunca conocen, y por eso la fantasía sobrevive tantas veces a su rival: el trabajo perfecto imaginado dura para siempre, sin aceptar y sin ensuciar, mientras el bueno de verdad contrata en silencio a alguien que sí contestó el correo. Si esta es tu cara, la revisión es una sola pregunta: ¿la ventana sigue abierta? Si lo está, esta carta se endereza en la hora en que actúes. Si no — llóralo breve y sinceramente, y estudia el titubeo, no la pérdida, porque el titubeo es la parte que viaja hasta la próxima oferta.",
+          "El segundo tamaño es la semilla guardada en un marco: la oferta aceptada y luego sostenida como objeto en vez de plantada como proceso. El anticipo cobrado y no usado para escribir el libro; el gimnasio al que te apuntas y nada más; el préstamo que se volvió tren de vida en vez de herramienta; la oportunidad que se cuenta en las cenas — tengo esto entre manos — mientras se muere de tanto exhibirla. Es el error materialista contra el que la estrella de la carta al derecho avisaba expresamente: tratar la moneda como si fuera la riqueza, y no la entrada. El oro no crece dentro de un marco. La prueba es brutal y dura diez segundos: ¿en qué se convirtió la moneda en los últimos noventa días? Si la respuesta es «en nada todavía, pero…», la semilla está en el marco, y el marco es donde las semillas se quedan siendo semillas.",
+          "El tercer tamaño es el brillo que nunca fue tierra — la oferta demasiado buena, el chanchullo con la estrella pintada por encima en vez de acuñada, la oportunidad cuyas cuentas solo cuadran si las recitas deprisa. El propio don de la tierra es la vara con la que se cazan sus falsificaciones: las monedas reales aguantan que las mires despacio, invitan a que las investigues, se vuelven más sólidas cuanto más te acercas. Si alguien intenta que no lo mires de cerca — con prisa, con halagos, con el aviso de que la puerta cierra esta noche — no tienes en la mano el as de este palo. Suéltalo. Y por debajo de los tres tamaños, la misma receta, porque este as invertido va al final sobre el abandono de la materia misma — el cuerpo sin revisar, la cuenta sin abrir, la casa sin atender mientras la atención vivía en pantallas y en planes de futuro: baja otra vez a tierra. El suelo te ha estado guardando el sitio. La puerta, mira, sigue abierta; las hojas contra su base son una tarde de escoba. La tierra no guarda rencor. Solo lleva la cuenta del tiempo."
+        ],
+        "work": [
+          "¿La ventana sigue abierta? Entonces esta carta se endereza en la hora en que actúes. Si no — estudia el titubeo, no la pérdida; el titubeo viaja hasta la próxima oferta."
+        ],
+        "love": [
+          "El buen comienzo guardado de recuerdo — contado en las cenas, nunca plantado en el calendario. ¿En qué se convirtió en noventa días? «En nada todavía, pero…» — eso es el marco."
+        ],
+        "self": [
+          "La materia abandonada mientras la atención vivía en otra parte — la revisión, la cuenta, la casa. Baja otra vez a tierra; el suelo te guardó el sitio. Las hojas de la puerta son una tarde de escoba."
+        ],
+        "note": [
+          "No es un castigo — no pasó nada dramático; ese es el drama. Y no todo lo que brilla: las monedas reales aguantan que las mires despacio. Lo que te empuja a no mirar de cerca nunca fue oro de este palo."
+        ]
+      }
+    }
+  }
+}

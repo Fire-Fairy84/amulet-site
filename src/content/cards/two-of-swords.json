@@ -1,0 +1,128 @@
+{
+  "id": "two-of-swords",
+  "number": 2,
+  "order": 51,
+  "arcana": "minor",
+  "suit": "swords",
+  "rank": 2,
+  "image": "/assets/cards/two-of-swords.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "swords-02.en.md",
+    "es": "swords-02.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "two-of-swords",
+      "name": "Two of Swords",
+      "seoTitle": "Two of Swords Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "The standoff — a decision held at bay by careful, effortful balance. Not ignorance: refusal, self-administered. The blindfold is chosen, the swords are…",
+      "summary": "The standoff — a decision held at bay by careful, effortful balance. Not ignorance: refusal, self-administered. The blindfold is chosen, the swords are heavy, and the tide behind is rising at its own pace. Stalemate is a posture, not a place to live.",
+      "imageDescription": "A woman sits on a stone bench with her back to the sea, blindfolded, arms crossed over her chest — a sword in each hand, balanced with real skill. A waxing moon watches. The blindfold, note, is worn, not imposed; the posture, though motionless, is work. She could put the swords down. That is the fact the whole card balances on.",
+      "upright": {
+        "keywords": [
+          "the blindfolded balance, decision deferred, armed truce, the choice guarded against itself, stillness that costs, the sea at the back"
+        ],
+        "essay": [
+          "The ace cut; the Two declines to. This is the card of the decision held in suspension — two options, two swords, crossed over the chest in a guard position aimed at the choice itself. And its first honesty is about the cost curve: from outside, indecision looks like rest; from inside, it is isometric labor. Holding two heavy things in balance takes more from the body than swinging either one. If you have been exhausted lately without visibly doing anything, the Two of Swords is often the diagnosis — you are doing something, constantly: keeping a verdict from arriving.",
+          "Study the blindfold, because everything turns on it being self-tied. This woman is not deceived; she has elected not to look, and the election has its reasons. Some things, once seen, demand response — and she is not ready to owe one. The card grants this posture more dignity than proverbs do: there are real seasons for the armed truce. The information genuinely incomplete; the emotions too hot to cut straight; the two parties who both deserve better than a coin flip. Deliberate deferral — chosen, dated, named as deferral — is a legitimate tool of serious minds. If that is what this is, the card asks only that you make it official: I am not deciding this until spring, said aloud, is strategy.",
+          "But the card knows the more common tenant of this bench: deferral that has quietly become residence. The choice that has been \"pending\" so long it has its own furniture; the blindfold worn until it feels like skin; the question everyone around you has stopped asking out loud, which you have mistaken for the question resolving. It has not resolved. It sits where it sat, and behind you — this is why the sea is in the picture — the tide moves on its own schedule. Undecided things do not hold still while we refuse them; options expire, third parties choose, bodies and markets and other people's patience keep their own calendars. The deferred choice is not paused. It is being decided slowly, by erosion, in favor of whoever isn't waiting.",
+          "The way off the bench is almost insultingly physical, and the card's imagery prescribes it: the blindfold first. Not the verdict — just the look. Write the two options down in daylight terms; say them to one person; let the eyes take the information the balance-work has been keeping out. Most stalemates do not survive being accurately seen — not because the choice becomes easy, but because one sword, examined, usually turns out to have been ceremonial for months. You were not balancing two futures. You were guarding the feelings of the one you had already declined."
+        ],
+        "work": [
+          "The pending decision with its own furniture — offers, org calls, the project neither killed nor fed. Defer officially with a date, or take the blindfold off: one option is already ceremonial."
+        ],
+        "love": [
+          "The armed truce — the conversation both of you guard against. The tide decides slowly in favor of whoever isn't waiting. Look first; the verdict can come second."
+        ],
+        "self": [
+          "Exhausted without visibly doing anything: you're holding a verdict at bay, isometrically. Write both options in daylight terms. Most stalemates don't survive being seen."
+        ],
+        "note": [
+          "Not ignorance and not peace — a chosen blindfold and effortful stillness. And not judgment-proof: deferral is legitimate only when it's official and dated."
+        ]
+      },
+      "reversed": {
+        "summary": "The suspension ending — by choice, fatigue, or flood. The blindfold off, the information in, the decision arriving whether summoned or not. Rawness first, then motion. Or the warning: keep refusing, and the tide will file the verdict in your name.",
+        "keywords": [
+          "the blindfold slipping, the standoff breaking, decision forced by the tide, information unwelcome and arriving, release or rupture, the swords too heavy at last"
+        ],
+        "essay": [
+          "Reversed, the Two of Swords is the standoff in its final hours — and the endings sort by who ends it: you, your body, or the sea.",
+          "Ended by you is the good version: the blindfold untied on purpose. Something shifted — the fear got boring, the question got asked by a child or a doctor or a deadline, the isometric cost finally exceeded the verdict's — and you looked. The card's counsel for this reader is about the first minutes of sight: expect rawness and do not re-tie. Eyes that have been closed for a season find everything too bright — the option you'd been protecting looks worse than remembered, the one you'd been avoiding looks strangely feasible, and the impulse to call the whole glimpse a mood and resume the posture is enormous. Refuse it. Sit in the too-bright until shapes stabilize; then decide small and immediate — not the whole future, just the next honest step. Sight, like any circulation, returns in pins and needles.",
+          "Ended by the body is the ragged version: the arms simply failing. The balance collapses not into clarity but into whichever sword happened to be lower — the resignation blurted in the wrong meeting, the relationship question answered by an act instead of a conversation, the choice made badly at midnight because it could no longer not be made. If this has happened, the card's word is triage without self-flagellation: a decision made by fatigue is still a decision, and it usually points, crudely, at the true preference — fatigue rarely drops the sword we actually wanted to keep. Clean up the delivery; keep the direction; and note for next season what the bench costs, so the next truce gets a shorter lease.",
+          "Ended by the sea is the version the upright card kept warning about: the tide arriving, the third party choosing, the option expiring, the diagnosis or the deadline or the other person's decision doing what you would not. The feeling here is a specific bitter blend — relief that it is over, fury that it was taken, shame that the fury has no defendant but the mirror. The card's mercy is blunt: this outcome was authored by the deferral, not by the event that finally arrived, and the lesson is transferable to every future bench — refusing to choose is a choice with the worst terms available: all of the consequences, none of the authorship. Take the authorship back where it can still be taken: in how you respond, which is the one decision the tide never makes for you. And there is usually more of that left than the first bitter week believes."
+        ],
+        "work": [
+          "The option expired, the reorg decided for you — deferral authored this, not the event. Reclaim authorship in the response; that decision is still yours."
+        ],
+        "love": [
+          "The question answered by an act instead of a conversation — fatigue's blurt still points at the true preference. Keep the direction; repair the delivery."
+        ],
+        "self": [
+          "First sight after the blindfold is too bright — everything looks worse and strangely feasible at once. Don't re-tie. Decide only the next honest step."
+        ],
+        "note": [
+          "Not punishment — arithmetic. And a fatigue-made choice isn't void: it's crude data about what you wanted. The tide never gets the last decision; the response is yours."
+        ]
+      }
+    },
+    "es": {
+      "slug": "dos-de-espadas",
+      "name": "Dos de Espadas",
+      "seoTitle": "Dos de Espadas en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "El bloqueo: una decisión aplazada mediante un equilibrio cuidadoso y agotador. No es ignorancia, sino una negativa elegida. La venda es voluntaria, las…",
+      "summary": "El bloqueo: una decisión aplazada mediante un equilibrio cuidadoso y agotador. No es ignorancia, sino una negativa elegida. La venda es voluntaria, las espadas pesan y la marea sigue subiendo. El empate es una postura, no un lugar donde vivir.",
+      "imageDescription": "Una mujer sentada en un banco de piedra de espaldas al mar, con los ojos vendados, los brazos cruzados sobre el pecho — una espada en cada mano, equilibradas con destreza real. Una luna creciente observa. La venda, fíjate, está puesta, no impuesta; la postura, aunque inmóvil, es trabajo. Podría bajar las espadas. Ese es el hecho sobre el que se equilibra la carta entera.",
+      "upright": {
+        "keywords": [
+          "el equilibrio con venda, la decisión aplazada, tregua armada, la elección custodiada contra sí misma, quietud que cuesta, el mar a la espalda"
+        ],
+        "essay": [
+          "El As cortaba; el Dos se niega a hacerlo. Es la carta de la decisión suspendida: dos opciones y dos espadas cruzadas sobre el pecho, como si hubiera que defenderse de elegir. Su primera verdad es sencilla: desde fuera, la indecisión parece descanso; desde dentro, agota. Mantener dos pesos en equilibrio cansa más que escoger uno. Si estás agotada sin haber hecho nada visible, quizá llevas mucho tiempo haciendo esto: evitando una decisión.",
+          "Estudia la venda, porque todo gira en que está atada por ella misma. Esta mujer no está engañada; ha elegido no mirar, y la elección tiene sus razones. Hay cosas que, una vez vistas, exigen respuesta — y ella no está lista para deber una. La carta concede a esta postura más dignidad que los refranes: hay estaciones reales para la tregua armada. La información genuinamente incompleta; las emociones demasiado calientes para cortar recto; las dos partes que merecen algo mejor que una moneda al aire. El aplazamiento deliberado — elegido, fechado, nombrado como aplazamiento — es una herramienta legítima de las mentes serias. Si esto es eso, la carta solo pide que lo hagas oficial: no decido esto hasta primavera, dicho en voz alta, es estrategia.",
+          "Pero la carta conoce la forma más común de este aplazamiento: la que se convierte en costumbre. Una elección lleva tanto tiempo «pendiente» que parece parte del mobiliario; la venda se lleva tanto que acaba pareciendo piel. La pregunta no se ha resuelto: sigue ahí. Y mientras tanto, el mar del fondo continúa moviéndose. Las opciones caducan, otras personas deciden y la paciencia ajena tiene su propio calendario. Una elección aplazada no queda en pausa: se va resolviendo poco a poco, a menudo sin que tú participes.",
+          "La salida es casi física: primero, quitarse la venda. No hace falta resolverlo todo; basta con mirar. Escribe las dos opciones con claridad, cuéntaselas a alguien y deja entrar la información que llevas tiempo apartando. Muchos empates se deshacen al mirarlos de frente: no porque elegir resulte fácil, sino porque una de las opciones llevaba tiempo vacía. A veces no sostienes dos futuros; solo intentas no herir a alguien con una decisión que ya habías tomado por dentro."
+        ],
+        "work": [
+          "La decisión pendiente que ya parece parte de tu vida: ofertas, cambios de estructura, un proyecto que ni cierras ni alimentas. Aplázala de forma consciente y con fecha, o quítate la venda: quizá una opción ya no es real."
+        ],
+        "love": [
+          "La tregua armada — la conversación que ambos custodiáis. La marea decide despacio a favor de quien no espera. Mira primero; el veredicto puede venir segundo."
+        ],
+        "self": [
+          "Agotada sin hacer nada visible: sostienes una decisión a raya. Escribe ambas opciones con total claridad. Muchos empates no sobreviven a ser vistos de frente."
+        ],
+        "note": [
+          "No es ignorancia ni es paz — una venda elegida y una quietud costosa. Y no es inmune a juicio: aplazar solo es legítimo cuando es oficial y con fecha."
+        ]
+      },
+      "reversed": {
+        "summary": "La suspensión termina: por elección, por cansancio o porque las circunstancias te obligan. La venda cae, llega la información y la decisión aparece, la hayas llamado o no. Primero llega el impacto; después, el movimiento. Si sigues negándote a elegir, las circunstancias elegirán por ti.",
+        "keywords": [
+          "la venda resbalando, el impasse rompiéndose, la decisión forzada por la marea, información indeseada y llegando, liberación o ruptura, las espadas por fin demasiado pesadas"
+        ],
+        "essay": [
+          "Invertido, el Dos de Espadas es el impasse en sus horas finales — y los finales se ordenan por quién lo termina: tú, tu cuerpo, o el mar.",
+          "La mejor versión es la que terminas tú: te quitas la venda a propósito. Algo cambia —el miedo se vuelve insoportable, alguien hace la pregunta adecuada o llega una fecha límite— y decides mirar. Al principio todo puede resultar demasiado intenso. La opción que protegías se ve peor de lo que recordabas; la que evitabas parece posible. No vuelvas a taparte los ojos. Quédate con esa claridad hasta que se asiente y da un paso pequeño y honesto. No tienes que resolver el futuro entero hoy.",
+          "Otra versión llega por agotamiento: los brazos simplemente no aguantan más. La decisión se toma de golpe, quizá en una conversación mal elegida o a medianoche, porque ya no puedes sostenerla. No te castigues. Una elección hecha desde el cansancio sigue dando información sobre lo que querías conservar. Cuida la forma en que se dijo, mantén la dirección si te representa y recuerda cuánto costó aplazarla para no repetirlo.",
+          "La tercera versión llega desde fuera: otra persona decide, una oportunidad caduca o una fecha límite hace lo que tú no quisiste hacer. Puede haber alivio, rabia y vergüenza a la vez. La carta es clara: no fue solo el acontecimiento lo que creó este desenlace, también lo hizo el aplazamiento. Negarse a elegir es una elección con muchas consecuencias y poco control. Recupera ese control en tu respuesta: esa parte todavía te pertenece."
+        ],
+        "work": [
+          "La opción caducada, la reestructuración decidiendo por ti — esto lo firmó el aplazamiento, no el acontecimiento. Recupera la autoría en la respuesta; esa decisión sigue siendo tuya."
+        ],
+        "love": [
+          "La pregunta respondida con un acto en lugar de una conversación — el arrebato de la fatiga aun así señala la preferencia verdadera. Conserva la dirección; repara la entrega."
+        ],
+        "self": [
+          "La primera visión tras la venda es demasiado brillante — todo se ve peor y extrañamente viable a la vez. No vuelvas a atarla. Decide solo el siguiente paso honesto."
+        ],
+        "note": [
+          "No es castigo — es aritmética. Y una elección hecha por fatiga no es nula: es un dato tosco de lo que querías. La marea nunca se queda la última decisión; la respuesta es tuya."
+        ]
+      }
+    }
+  }
+}

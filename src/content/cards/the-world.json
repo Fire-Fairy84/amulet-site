@@ -1,0 +1,136 @@
+{
+  "id": "the-world",
+  "number": 21,
+  "order": 21,
+  "arcana": "major",
+  "suit": null,
+  "rank": null,
+  "image": "/assets/cards/the-world.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "21-world.en.md",
+    "es": "21-world.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "the-world",
+      "name": "The World",
+      "seoTitle": "The World Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "The cycle finished for real — nothing owed, nothing dangling. Competence at home in itself; the pieces finally in one body. Ship it, name it done, take…",
+      "summary": "The cycle finished for real — nothing owed, nothing dangling. Competence at home in itself; the pieces finally in one body. Ship it, name it done, take the bow. The end that is also, quietly, a door.",
+      "imageDescription": "A figure dances inside an oval wreath, holding a wand in each hand — two now, where the Magician managed one. The wreath is tied top and bottom with red ribbons in the shape of infinity signs. In the four corners, the four winged creatures from the Wheel — but here they have put down their books. There is nothing left to record. The dancer's eyes are calm, mid-turn, at home.",
+      "upright": {
+        "keywords": [
+          "completion, integration, the earned whole, arrival, the dance at the center, the end that opens"
+        ],
+        "essay": [
+          "Done is a real place, and you are standing in it. That is the card, complete. After twenty-one stations — the leap, the tools, the waiting, the collapse, the repair, the summons — the deck ends not with a throne or a prize but with a dance: someone at ease inside the shape of a finished thing, moving because moving is what this body now does, not because anything is chasing it.",
+          "Say the word out loud, because the card insists on it: finished. Not finished-except, not finished-but-still, not finished-once-someone-confirms. The wreath in the image is closed — tied with ribbons, sealed in the shape of infinity — and the closure is not decoration. Things that are 95 percent complete are not 95 percent as valuable; they are open loops, and open loops charge rent. The World is what the account looks like paid: silence where the hum of the unfinished used to be. You may notice you had stopped hearing the hum. You will notice its absence.",
+          "Integration is the quieter achievement, and the dancer holds its proof: a wand in each hand. The Magician, back at the start, aimed one will at one table. The dancer has two, balanced, and dances with them — the opposites you spent the whole journey refereeing are, at this station, simply parts of one moving body. Work-you and home-you, the one who leaps and the one who builds, the fire and the water: not reconciled by argument, but by having been lived through. Wholeness is not a decision. It is an accumulation, and yours has arrived at critical mass.",
+          "Notice the four creatures with their books closed. On the Wheel they recorded every rise and fall; here there is nothing to write, because nothing is owed. This is what \"earned\" means in this card: not deserved in the moral sense, but paid for — every station of the journey actually visited, no chapter skipped, which is why the arrival holds weight. Completion that skipped chapters wobbles. Yours, this card certifies, does not.",
+          "And the ribbons make their point twice, in the shape of infinity: the wreath is also an aperture. Every genuinely finished thing becomes a doorway the moment it is sealed — the shipped work becomes the platform, the completed self becomes the one who can begin again, at zero, lighter. The Fool is one card away from here, and the deck is circular on purpose. But that is next season's business. Today has one instruction, and the dancer is demonstrating it: take the bow.",
+          "The question underneath: what is actually, fully done — and have you let it be?"
+        ],
+        "work": [
+          "Ship it, name it done, take the bow. The last five percent sealed, the project pronounced complete in public. Then — and only then — the next thing."
+        ],
+        "love": [
+          "The bond arrived at wholeness, not just duration — the whole picture, actually felt. Or the chapter completed together and honored as complete."
+        ],
+        "self": [
+          "The pieces finally in one body. Competence at home in itself, no longer auditioning. The journey's stations, integrated rather than just survived."
+        ],
+        "note": [
+          "Not a final stop. The wreath is a door too — completion is what makes beginning again possible, and lighter."
+        ]
+      },
+      "reversed": {
+        "summary": "Done in every sense but the one that counts. The signature, conversation or ritual still missing; 95 percent shipped is unshipped. Success that cannot be felt because it was never sealed. The last mile, refused rather than long.",
+        "keywords": [
+          "near-completion, the last mile refused, closure withheld, loose ends, the milestone passed without ceremony"
+        ],
+        "essay": [
+          "Reversed, the World is the strangest inventory in the deck: everything present, nothing complete. The work is done — materially, measurably done — and yet it does not count, because the sealing act never happened. The email drafted and unsent. The project at 95, orbiting its own finish line. The conversation that would close the chapter, postponed until a calmer week that is now several years old. The wreath needs one ribbon. The ribbon is in your hand. The hand is busy with other things, permanently.",
+          "Be honest about the mile, because the card is: it is not long. Last miles rarely are — a signature, an announcement, a deletion, a sentence said aloud to the right person. What makes it unwalkable is not distance but function: while the thing stays open, it stays alive, and while it stays alive, it cannot be judged. Ninety-five percent is a fortress. No one can call the almost-finished thing a failure, or a success, or anything final at all. Sealing it means letting it be measured. The refused mile is not procrastination. It is armor.",
+          "Count the cost of the open loops, though, because they bill monthly. The unfinished thing does not wait quietly; it hums. It attends your other projects, dims your new beginnings — the Fool cannot leap cleanly while holding a bag of almosts — and it withholds the one payment you have actually earned: the feeling. Success unsealed cannot be felt. This is the card's saddest mechanism: people who finish nothing completely live surrounded by achievements and feel, accurately, that they have none, because none were ever pronounced. The milestone passed without ceremony never lands. It just recedes.",
+          "The ceremony, it turns out, was never optional. Humans close things with acts, not with percentages — the funeral, the launch, the toast, the last page written by hand. Whatever your unfinished thing is, it does not need more work. It needs a date, a witness if possible, and the plain sentence: this is done. The creatures in the corners have held the entry open long enough. They would like, respectfully, to write it and put the books away.",
+          "Moved out but not moved on; shipped but not celebrated; ended but not closed. The reversed World names the gap between the fact and the seal — and notes, with some warmth, that the gap is one act wide, and that the dancer's next turn is waiting on it.",
+          "The question underneath: which finished thing in your life has never been told it is finished — and what is the sealing act, specifically?"
+        ],
+        "work": [
+          "95 percent shipped is unshipped. The project needs a date and a pronouncement, not more polish. Seal it — the fortress of almost has been defended long enough."
+        ],
+        "love": [
+          "Moved out but not moved on; the chapter ended but never closed. The conversation or ritual that would seal it, one act away."
+        ],
+        "self": [
+          "The milestone passed without ceremony, so it never landed. Achievements accumulated and unfelt. Closure as a practice, learnable, starting with the smallest open loop."
+        ],
+        "note": [
+          "Not failure. The step is short, and known — the work is done; only the sealing is owed, and sealing is one act, not another season."
+        ]
+      }
+    },
+    "es": {
+      "slug": "el-mundo",
+      "name": "El Mundo",
+      "seoTitle": "El Mundo en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "El ciclo terminado de verdad, nada pendiente, nada colgando. Sabes hacer esto y ya no tienes que demostrarlo; las piezas por fin en un solo cuerpo.…",
+      "summary": "El ciclo terminado de verdad, nada pendiente, nada colgando. Sabes hacer esto y ya no tienes que demostrarlo; las piezas por fin en un solo cuerpo. Publícalo, dilo en voz alta, recibe el aplauso. El final que también es, sin ruido, una puerta.",
+      "imageDescription": "Una figura danza dentro de una corona ovalada de laurel, con una vara en cada mano, dos ahora, donde el Mago llevaba una. La corona está atada arriba y abajo con cintas rojas en forma de ochos. En las cuatro esquinas, las cuatro criaturas aladas de la Rueda, pero aquí han soltado sus libros. Ya no queda nada que anotar. Los ojos de la danzante están en calma, a medio giro, en casa.",
+      "upright": {
+        "keywords": [
+          "culminación, integración, el todo que te ganaste, la llegada, la danza en el centro, el final que abre puerta"
+        ],
+        "essay": [
+          "Terminado es un lugar real, y estás parada en él. Esa es la carta, entera. Después de veintiún tramos, el salto, las herramientas, la espera, el derrumbe, el arreglo, la llamada, la baraja no acaba con un trono ni con un premio, sino con una danza: alguien a gusto dentro de la forma de una cosa acabada, que se mueve porque moverse es lo que este cuerpo ya hace, no porque algo la persiga.",
+          "Dilo en voz alta, porque la carta insiste: terminado. No terminado-salvo-por, no terminado-pero-todavía, no terminado-cuando-alguien-lo-confirme. La corona de la imagen está cerrada, atada con cintas, sellada en forma de infinito, y ese cierre no es adorno. Una cosa hecha al 95 por ciento no vale el 95 por ciento: es un asunto abierto, y los asuntos abiertos te cobran cada día. El Mundo es cómo se ve una cuenta ya pagada: silencio donde antes zumbaba lo inacabado. A lo mejor ni te dabas cuenta de que lo oías. Te vas a dar cuenta cuando pare.",
+          "La integración es el logro más callado, y la danzante lleva la prueba en las manos: una vara en cada una. El Mago, allá al principio, apuntaba una sola voluntad a una sola mesa. La danzante tiene dos, en equilibrio, y baila con ellas: los opuestos que pasaste el viaje entero separando son, en este tramo, sin más, partes de un mismo cuerpo en movimiento. La tú del trabajo y la de casa, la que salta y la que construye, el fuego y el agua: no los juntó un argumento, los juntó haberlos vivido. La plenitud no se decide. Se acumula, y la tuya llegó al punto en que ya pesa.",
+          "Fíjate en las cuatro criaturas con los libros cerrados. En la Rueda anotaban cada subida y cada caída; aquí no hay nada que escribir, porque no se debe nada. Eso quiere decir \"ganado\" en esta carta: no merecido en lo moral, sino pagado, cada tramo del viaje pisado de verdad, ningún capítulo saltado, y por eso la llegada pesa. Las culminaciones que se saltaron capítulos se tambalean. La tuya, dice esta carta, no.",
+          "Y las cintas lo repiten dos veces, en forma de infinito: la corona es también una salida. Toda cosa de verdad terminada se vuelve puerta en el momento en que se cierra, el trabajo publicado se vuelve la base para lo siguiente, la persona ya completa se vuelve la que puede empezar otra vez, desde cero, más ligera. El Loco está a una carta de aquí, y la baraja es circular a propósito. Pero eso es asunto del próximo tramo. Hoy trae una sola instrucción, y la danzante la está enseñando: recibe el aplauso.",
+          "La pregunta de fondo: ¿qué está de verdad, del todo terminado, y le dejaste estarlo?"
+        ],
+        "work": [
+          "Publícalo, dilo hecho, recibe el aplauso. El último cinco por ciento cerrado, el proyecto declarado listo en público. Después, y solo después, lo siguiente."
+        ],
+        "love": [
+          "El vínculo que llegó a la plenitud, no solo a durar: una historia completa, sentida de verdad. O un capítulo terminado juntos y reconocido como terminado."
+        ],
+        "self": [
+          "Las piezas por fin en un solo cuerpo. Sabes hacer esto y ya no te toca demostrarlo. Los tramos del viaje, integrados y no solo sobrevividos."
+        ],
+        "note": [
+          "No es la última parada. La corona también es puerta: la culminación es lo que hace posible volver a empezar, y más ligera."
+        ]
+      },
+      "reversed": {
+        "summary": "Hecho en todos los sentidos menos en el que cuenta. Falta la firma, la conversación o el gesto de cierre; publicado al 95 por ciento es sin publicar. El éxito que no se puede sentir porque nunca se cerró. El último tramo, esquivado más que largo.",
+        "keywords": [
+          "la casi-culminación, el último tramo esquivado, el cierre que no llega, los cabos sueltos, el hito que pasó sin celebrarse"
+        ],
+        "essay": [
+          "Invertido, el Mundo es el inventario más raro de la baraja: todo presente, nada terminado. El trabajo está hecho, hecho de verdad, se puede medir, y aun así no cuenta, porque nunca llegó el gesto de cerrarlo. El correo escrito y sin enviar. El proyecto en el 95, dando vueltas alrededor de su propia meta. La conversación que cerraría el capítulo, dejada para una semana más tranquila que ya lleva años sin llegar. A la corona le falta una cinta. La cinta la tienes tú en la mano. La mano está ocupada con otras cosas, siempre.",
+          "Sé honesta con ese tramo, porque la carta lo es: no es largo. Los últimos tramos casi nunca lo son: una firma, un anuncio, un borrado, una frase dicha en voz alta a la persona correcta. Lo que lo vuelve imposible de cruzar no es la distancia, sino lo que te permite evitar: mientras algo sigue abierto, sigue vivo, y mientras sigue vivo, nadie puede juzgarlo. El noventa y cinco por ciento es un refugio. A lo casi terminado nadie puede llamarlo fracaso, éxito ni nada definitivo. Cerrarlo es dejar que lo midan. El tramo esquivado no es pereza. Es blindaje.",
+          "Pero cuenta lo que te cuestan esos asuntos abiertos, porque te pasan factura todos los meses. Lo inacabado no espera callado; zumba. Se mete en tus otros proyectos, apaga tus comienzos nuevos, el Loco no puede saltar limpio cargando un saco de casis, y te retiene el único pago que sí te ganaste: sentirlo. El éxito sin cerrar no se puede sentir. Ese es el mecanismo más triste de la carta: quien no termina nada del todo vive rodeada de logros y siente, con toda razón, que no tiene ninguno, porque ninguno se dijo en voz alta. El hito que pasa sin celebrarse nunca aterriza. Solo se va alejando.",
+          "La celebración, al final, nunca fue opcional. Las personas cerramos las cosas con actos, no con porcentajes, el funeral, el lanzamiento, el brindis, la última página escrita a mano. Sea cual sea tu cosa inacabada, no le hace falta más trabajo. Le hace falta una fecha, un testigo si se puede, y la frase simple: esto está hecho. Las criaturas de las esquinas llevan mucho tiempo con la entrada abierta, esperando. Querrían, con todo el respeto, escribirla y guardar los libros.",
+          "Te fuiste pero no pasaste página; lo publicaste pero no lo celebraste; lo acabaste pero no lo cerraste. El Mundo invertido nombra la distancia entre estar hecho y estar cerrado, y avisa, con cierta calidez, que esa distancia mide un solo acto, y que el siguiente giro de la danzante está esperando a que lo des.",
+          "La pregunta de fondo: ¿qué cosa terminada de tu vida nunca recibió el aviso de que está terminada, y cuál es, en concreto, el gesto que la cierra?"
+        ],
+        "work": [
+          "Publicado al 95 por ciento es sin publicar. El proyecto necesita una fecha y una declaración, no más pulido. Ciérralo: el refugio del casi ya lo defendiste bastante."
+        ],
+        "love": [
+          "Te fuiste pero no pasaste página; el capítulo terminado pero nunca cerrado. La conversación o el gesto que lo cerraría, a un solo acto de distancia."
+        ],
+        "self": [
+          "El hito pasó sin celebrarse, así que nunca aterrizó. Logros acumulados y no sentidos. Cerrar es una práctica que se aprende, y se empieza por el asunto abierto más pequeño."
+        ],
+        "note": [
+          "No es un fracaso. El paso es corto, y lo conoces: el trabajo está hecho; solo falta cerrarlo, y cerrar es un acto, no otro tramo del viaje."
+        ]
+      }
+    }
+  }
+}

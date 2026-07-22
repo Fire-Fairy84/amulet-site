@@ -1,0 +1,27 @@
+<svg class="arcana-svg" viewBox="0 0 210 363" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="THE HERMIT">
+  <defs>
+    <clipPath id="band-9" clipPathUnits="userSpaceOnUse">
+      <path d="M1,1 h208 v361 h-208 z M11,11 h188 v341 h-188 z" clip-rule="evenodd" fill-rule="evenodd"/>
+    </clipPath>
+  </defs>
+  <!-- ground -->
+  <rect x="1" y="1" width="208" height="361" rx="12" fill="#0B0908" stroke="#26211D"/>
+  <!-- border band (clipped) -->
+  <g clip-path="url(#band-9)">
+
+  </g>
+  <!-- outer stroke on top -->
+  <rect x="1" y="1" width="208" height="361" rx="12" fill="none" stroke="#26211D"/>
+  <!-- inner field -->
+  <rect x="11" y="11" width="188" height="341" rx="7" fill="#0B0908"/>
+  <rect x="11.5" y="11.5" width="187" height="340" rx="7" fill="none" stroke="#F4EEE2" stroke-opacity="0.12"/>
+  <!-- numeral (overlay top, tracking ~6) -->
+  <text x="105" y="46" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="17" letter-spacing="6" fill="#F4EEE2">IX</text>
+  <!-- sigil -->
+  <g>
+    <circle cx="105" cy="120" r="4" fill="#F4EEE2"/>
+    <line x1="105" y1="130" x2="105" y2="272" stroke="#A9B2BD" stroke-width="2" stroke-linecap="round" stroke-opacity="0.8"/>
+  </g>
+  <!-- printed title EN -->
+  <text x="105" y="334" text-anchor="middle" font-family="system-ui, Helvetica, sans-serif" font-size="9.5" letter-spacing="3.5" fill="#8E877B">THE HERMIT</text>
+</svg>

@@ -1,0 +1,134 @@
+{
+  "id": "strength",
+  "number": 8,
+  "order": 8,
+  "arcana": "major",
+  "suit": null,
+  "rank": null,
+  "image": "/assets/cards/strength.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "08-strength.en.md",
+    "es": "08-strength.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "strength",
+      "name": "Strength",
+      "seoTitle": "Strength Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "Strength that does not perform. Meeting the raw thing — fear, appetite, anger — with a steady hand instead of a chain. Outlasting rather than…",
+      "summary": "Strength that does not perform. Meeting the raw thing — fear, appetite, anger — with a steady hand instead of a chain. Outlasting rather than overpowering. Gentleness as the stronger move, chosen from capability, not from lack of options.",
+      "imageDescription": "A woman in a white dress closes — or opens; the card keeps its secret — the jaws of a lion, with bare hands and no visible effort. She wears a garland of flowers where armor would go; over her head floats the same infinity sign the Magician gets. The lion is not small, not sedated, and not pretending. Neither is she.",
+      "upright": {
+        "keywords": [
+          "quiet courage, patience, the animal calmed not caged, endurance, grace under long pressure, force held gently"
+        ],
+        "essay": [
+          "There is a strength that raises its voice and a strength that lowers it, and this card is entirely about the second. Nobody watching the woman and the lion would call it a fight — that is the point. The fight already happened, many times, in private, and what you are seeing is what it looks like when someone has stopped needing to win loudly.",
+          "The lion is not your enemy. Read the image slowly: she is not slaying it, chaining it, or teaching it to jump through hoops. The lion is the raw material — the fear, the appetite, the anger, the wanting — and it stays alive through the whole card. Strength here is not the suppression of the animal but its acquaintance: knowing what it eats, when it wakes, what it actually guards. The people who scare themselves are usually the ones who never made the introduction.",
+          "Her hands are bare. No gauntlets, no distance, no tool between her and the jaws. Whatever you are handling right now — the difficult person, the difficult feeling, the difficult month — the card says it gets handled at close range or not at all. Managing something through gloves, through intermediaries, through carefully worded messages, is how it stays unmanaged.",
+          "The garland instead of armor is a decision, renewed daily. Softness as a chosen surface over a solid core — not the same as being soft all the way through, and everyone who meets her can tell the difference within a minute. Grace under long pressure is the rarest version of strong: anyone can be calm for an afternoon.",
+          "This card runs on a longer clock than the Chariot. No walls are left behind, no ground is taken. The victory is that the pressure continued and you continued — steadier than it. Endurance is unphotogenic. It is also, month over month, undefeated.",
+          "The question underneath: what in you have you been calling dangerous that has mostly never been listened to?"
+        ],
+        "work": [
+          "Outlast rather than overpower. The situation that yields to patience and breaks under force. Holding your standard steadily while someone waits for you to blink."
+        ],
+        "love": [
+          "Gentleness as the stronger move. Meeting someone's storm with a level voice — not as surrender, but because you can. The temper handled at close range, yours or theirs."
+        ],
+        "self": [
+          "Befriending the instinct instead of chaining it. Your appetite, fear and anger as animals with names and feeding schedules — known, not caged."
+        ],
+        "note": [
+          "Not suppression. The lion stays alive. Strength that kills the animal has misunderstood the assignment."
+        ]
+      },
+      "reversed": {
+        "summary": "Courage turned inward as harshness; the doubt that bites its owner. Or control so tight it snaps — appetite and anger denied until they leak out sideways. The animal is running the room because nobody will look at it.",
+        "keywords": [
+          "self-doubt, the raw nerve, force misjudged, the inner animal running the room, courage turned inward as harshness"
+        ],
+        "essay": [
+          "Reversed, Strength fails in one of two ways, and both leave teeth marks. The first is the animal loose: the temper that escapes at the wrong target, the appetite fed in secret and starved in public, the fear making decisions under an assumed name. Whatever got exiled from your acquaintance did not leave — it just started operating without supervision.",
+          "The second failure is quieter and more common: the courage turned inward, as harshness. The steady hand that this card gives you, used against yourself — the standards no one could meet, the inner commentary that would end a friendship if a friend said it, the doubt that gnaws under a competent surface. Being your own lion tamer is not the assignment. Being your own lion, endlessly disciplined, is how the wire in the infinity sign came loose.",
+          "Watch for the tell of over-control: the snap. Weeks of impeccable regulation, then one disproportionate crack — at a stranger, over a small thing, always embarrassing precisely because it was so out of scale. That is not a character flaw arriving from nowhere. That is the pressure bill for everything held with clenched hands instead of steady ones. Control and strength are different technologies; one runs on tension, the other on acquaintance.",
+          "Self-doubt in this card has a specific mechanism: it bites inward. Confidence cracking at the exact moment it was needed; the flinch before the sentence; the raw nerve that makes small feedback feel enormous. The doubt is not evidence about you. It is an animal that got scared once and was never debriefed.",
+          "The repair is the card's own image, run slowly: approach the animal. Name what it is — appetite, anger, fear — out loud if possible, on paper if not. Find what it actually guards; there is always something. The jaws relax when the creature is finally looked at, which is the one thing it has been asking for."
+        ],
+        "work": [
+          "Confidence cracked at the wrong moment; the harsh inner review that precedes every submission. Or the temper leaking at the margins of a controlled week."
+        ],
+        "love": [
+          "The fawning or the flare-up, unowned. Meeting closeness with a raw nerve. Softness performed while something in you stays braced."
+        ],
+        "self": [
+          "Appetite or anger denied until it leaks. The inner voice harder on you than any enemy bothered to be. Discipline that has quietly become punishment."
+        ],
+        "note": [
+          "Not the absence of strength. Strength misdirected inward — the same steady hand, waiting to be turned back around."
+        ]
+      }
+    },
+    "es": {
+      "slug": "la-fuerza",
+      "name": "La Fuerza",
+      "seoTitle": "La Fuerza en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "La fuerza que no actúa para nadie. Enfrentar lo crudo, ya sea el miedo, el hambre o la rabia, con mano firme en vez de con una cadena. Aguantar más que el…",
+      "summary": "La fuerza que no actúa para nadie. Enfrentar lo crudo, ya sea el miedo, el hambre o la rabia, con mano firme en vez de con una cadena. Aguantar más que el otro en vez de aplastarlo. La suavidad como la jugada más fuerte, elegida porque puedes y no porque no te quede otra.",
+      "imageDescription": "Una mujer de vestido blanco cierra (o abre, que la carta no lo dice) las fauces de un león, con las manos desnudas y sin esfuerzo visible. Donde iría la armadura lleva una corona de flores, y sobre su cabeza flota el mismo signo de infinito que tiene el Mago. El león no es pequeño, no está drogado y no está fingiendo. Ella tampoco.",
+      "upright": {
+        "keywords": [
+          "coraje callado, paciencia, el animal calmado en vez de enjaulado, aguante, calma bajo una presión que dura, la fuerza que se sostiene con suavidad"
+        ],
+        "essay": [
+          "Hay una fuerza que levanta la voz y otra que la baja, y esta carta va entera de la segunda. Nadie que mire a la mujer y al león lo llamaría pelea, y ahí está la clave. La pelea ya pasó, muchas veces, en privado, y lo que ves ahora es la cara de alguien que dejó de necesitar ganar a gritos.",
+          "El león no es tu enemigo. Mira la imagen despacio: no lo mata, no lo encadena, no le enseña a saltar aros. El león es la materia prima, o sea el miedo, el hambre, la rabia, el deseo, y sigue vivo durante toda la carta. La fuerza aquí no consiste en aplastar al animal sino en conocerlo: saber qué come, cuándo despierta, qué es lo que en realidad protege. Quienes se dan miedo a sí mismos suelen ser los que nunca se presentaron a su propio animal.",
+          "Sus manos están desnudas. Sin guantes, sin distancia, sin nada entre ella y las fauces. Sea lo que sea lo que estás manejando ahora, la persona difícil, el sentimiento difícil, el mes difícil, la carta dice que se maneja de cerca o no se maneja. Tratar algo con guantes, con intermediarios, con mensajes medidos palabra por palabra, es justo la forma de que se quede sin resolver.",
+          "La corona de flores en lugar de armadura es una decisión, y se toma de nuevo cada día. Es la suavidad como una piel elegida sobre un núcleo firme, que no es lo mismo que ser blanda por dentro y por fuera, y cualquiera que la trate nota la diferencia en un minuto. Estar en calma cuando la presión no se acaba es la versión más rara de ser fuerte, porque tranquilo una tarde sabe estar cualquiera.",
+          "Esta carta va a un ritmo más largo que el Carro. Aquí no se conquistan murallas ni se gana terreno. La victoria es que la presión siguió y tú seguiste, más entero que ella. El aguante no luce en una foto, pero, mes tras mes, no lo gana nadie.",
+          "La pregunta de fondo: ¿qué parte de ti llevas años llamando peligrosa sin haberla escuchado nunca de verdad?"
+        ],
+        "work": [
+          "Aguantar más que el otro en vez de aplastarlo. La situación que cede a la paciencia y se rompe con la fuerza. Sostener tu límite sin moverte mientras alguien espera a que cedas primero."
+        ],
+        "love": [
+          "La suavidad como la jugada más fuerte. Recibir la tormenta del otro con la voz serena, no porque te rindas, sino porque puedes. El mal genio manejado de cerca, el tuyo o el suyo."
+        ],
+        "self": [
+          "Hacerte amiga de tu instinto en vez de encadenarlo. Tu hambre, tu miedo y tu rabia como animales con nombre y horario de comida, conocidos y no enjaulados."
+        ],
+        "note": [
+          "No es aplastar nada. El león sigue vivo. La fuerza que mata al animal entendió mal el encargo."
+        ]
+      },
+      "reversed": {
+        "summary": "El coraje vuelto hacia dentro como dureza, la duda que muerde a quien la tiene. O el control tan apretado que se rompe, con el hambre y la rabia negadas hasta que se escapan por un lado. El animal manda en la sala porque nadie quiere mirarlo.",
+        "keywords": [
+          "inseguridad, el nervio a flor de piel, la fuerza mal calculada, el animal de dentro mandando en la sala, el coraje vuelto dureza contra uno mismo"
+        ],
+        "essay": [
+          "Invertida, la Fuerza falla de una de dos maneras, y las dos dejan marcas de dientes. La primera es el animal suelto: el mal genio que se dispara contra quien no era, el hambre que se alimenta a escondidas y se castiga en público, el miedo que toma decisiones haciéndose pasar por otra cosa. Lo que echaste fuera de tu vista no se fue, solo empezó a funcionar sin que nadie lo vigile.",
+          "El segundo fallo es más callado y más común: el coraje vuelto hacia dentro, convertido en dureza. La mano firme que esta carta te da, usada contra ti, con exigencias que no cumpliría nadie, con una voz de dentro que rompería una amistad si se la dijera una amiga, con la duda que carcome bajo una superficie que funciona. El encargo no era ser tu propia domadora. Ser tu propio león, disciplinado sin tregua, es justo por lo que se soltó el cable del infinito.",
+          "Cuidado con la señal del exceso de control: el estallido. Semanas de aguante impecable y de pronto una explosión que no viene a cuento, con un desconocido, por una tontería, y siempre vergonzosa justo por lo desproporcionada que fue. Eso no es un defecto de carácter que aparece de la nada. Es la factura de todo lo que sostuviste con las manos apretadas en vez de firmes. El control y la fuerza son dos cosas distintas: uno funciona con tensión, la otra con conocer al animal.",
+          "La inseguridad, en esta carta, tiene un mecanismo concreto: muerde hacia dentro. Es la confianza que se quiebra justo cuando hacía falta, el respingo antes de hablar, el nervio a flor de piel que hace que un comentario pequeño se sienta enorme. La duda no es una prueba de lo que vales. Es un animal que se asustó una vez y al que nadie llegó a preguntarle nunca qué pasó.",
+          "La reparación es la propia imagen de la carta, a cámara lenta: acércate al animal. Ponle nombre a lo que es, hambre, rabia o miedo, en voz alta si puedes y en papel si no. Averigua qué protege en realidad, porque siempre protege algo. Las fauces se relajan cuando por fin lo miras, que es lo único que llevaba tiempo pidiendo."
+        ],
+        "work": [
+          "La confianza que se quiebra en el peor momento, el repaso interior implacable antes de cada entrega. O el mal genio que se cuela por los bordes de una semana bien controlada."
+        ],
+        "love": [
+          "La sumisión o el estallido, sin que nadie los reconozca como suyos. Recibir la cercanía con el nervio a flor de piel. La suavidad fingida mientras algo en ti sigue en guardia."
+        ],
+        "self": [
+          "El hambre o la rabia negadas hasta que se filtran. La voz de dentro más dura contigo de lo que ningún enemigo se molestó en ser. La disciplina que sin hacer ruido se volvió castigo."
+        ],
+        "note": [
+          "No es falta de fuerza. Es fuerza mal dirigida hacia dentro, la misma mano firme esperando a que la giren de vuelta."
+        ]
+      }
+    }
+  }
+}

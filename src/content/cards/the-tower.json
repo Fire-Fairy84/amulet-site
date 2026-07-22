@@ -1,0 +1,136 @@
+{
+  "id": "the-tower",
+  "number": 16,
+  "order": 16,
+  "arcana": "major",
+  "suit": null,
+  "rank": null,
+  "image": "/assets/cards/the-tower.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "16-tower.en.md",
+    "es": "16-tower.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "the-tower",
+      "name": "The Tower",
+      "seoTitle": "The Tower Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "What breaks fast because it was built wrong. Disaster carrying information; the org, plan or story that just failed its load test. The revelation and the…",
+      "summary": "What breaks fast because it was built wrong. Disaster carrying information; the org, plan or story that just failed its load test. The revelation and the collapse arriving as one event — and, underneath the noise, a relief nobody admits to yet.",
+      "imageDescription": "A crowned tower stands on a crag — built high, built proud, built on rock it never checked. Lightning strikes once and the crown blows off whole. Flames appear at the windows from the inside. Two figures fall headfirst, dressed for a different kind of day. The lightning is the only light in the card, and everything true in the image is visible because of it.",
+      "upright": {
+        "keywords": [
+          "sudden collapse, revelation by lightning, false structure failing, the shock that tells the truth, the relief inside the wreck"
+        ],
+        "essay": [
+          "It fell fast because it was hollow. That is the Tower's entire physics, and the part worth holding onto while the dust is still airborne: sound structures do not come down in one strike. What collapsed in your life — the arrangement, the plan, the version of events — had been failing quietly for some time, load-bearing walls already gone, and the lightning did not cause that. It disclosed it. There is a difference, and the difference is the card.",
+          "Notice that the crown comes off first. Whatever sat on top — the title, the image, the story about what this thing was — is the first casualty, and the most flammable. Towers are usually built from the crown downward: conclusion first, evidence retrofitted. The strike reverses the order of operations. For one lit second, you see the actual architecture, and the seeing cannot be undone. This is why the Tower is filed among the honest cards rather than the cruel ones: it is the only one that pays out entirely in truth.",
+          "The two figures fall headfirst, and it is worth saying plainly: the fall is real, and it costs. The card does not minimize. But look at what they are falling from — a burning building — and the fall acquires a second reading that will take you some weeks to afford: exit. Not the exit anyone would have chosen, but the one that was available once all the chosen exits had been declined. Some situations only release their occupants by catching fire.",
+          "There is a relief inside the wreck, and you may have already felt its first, guilty flicker. The maintenance is over. The propping, the explaining, the not-looking-down — the whole invisible budget that kept the false thing vertical has been returned to you in a single payment. Grief and relief co-signing the same event does not make you cold. It makes you someone who was carrying more than they said.",
+          "What the lightning showed, build with. That is the only instruction the Tower leaves in the rubble. The next structure gets the strike's information for free: where the rock actually is, which walls were paint. People who rebuild without reading the wreckage build the same tower with better insurance. People who read it build lower, truer, and only once.",
+          "The question underneath: what did you learn in the one lit second — and are you willing to know it in daylight?"
+        ],
+        "work": [
+          "The org, plan or story that just failed its load test. The launch, the account, the structure that came down in a day because it had been hollow for a year. Read the wreck before rebuilding."
+        ],
+        "love": [
+          "The revelation that changes the map — sudden, unarguable, oddly clarifying. What broke was the version of events; what remains is what was actually true, which is now negotiable in the open."
+        ],
+        "self": [
+          "The ego's penthouse losing its roof. The identity that could not survive contact with one fact. Painful at the speed it happens; cheaper than another year of maintenance."
+        ],
+        "note": [
+          "Not punishment. Lightning shows what the walls hid — the strike is information arriving at the only speed the structure allowed."
+        ]
+      },
+      "reversed": {
+        "summary": "Holding up what wants to fall. The necessary break delayed at rising cost; fear of the disruption outweighing the disruption itself. Sometimes the quieter inner collapse nobody sees. The option that still exists: controlled demolition.",
+        "keywords": [
+          "collapse postponed, the quake resisted, controlled demolition, dread of the crash, the pressure still in the walls"
+        ],
+        "essay": [
+          "Reversed, the Tower describes a building that should have fallen and has not been allowed to. The crack is known — you could draw it from memory. The structural report has been in, unread on principle, for months. What stands between the situation and its honest collapse is a daily, invisible labor: yours. Propping is work. It has hours, costs, and a wage of dread, and you have been employed at it longer than any contract would allow.",
+          "The math of postponement is the card's core disclosure: the fear of the crash is now costing more than the crash. Collapses are finite — loud, datable, survivable, with a first day of afterwards. Dread is a subscription. It renews monthly, compounds quietly, and delivers the collapse anyway at the end, plus interest. If you tallied what the not-falling has cost this year — in sleep, in candor, in plans not made because the ground might move — the demolition estimate would read like a discount.",
+          "There is a version of this card that happens entirely indoors: the quiet inner collapse nobody sees. The panic managed in bathrooms, the belief system down to one load-bearing opinion, the white-knuckled stability that is actually a controlled fall taken in daily installments. From outside, the tower looks fine. The card sees the inside walls, and mentions them so that someone has.",
+          "The reversed Tower holds one genuine mercy, and it should not be wasted: while the building still stands, demolition can be scheduled. The conversation had on your dates instead of during the fire. The resignation before the collapse assigns it. The truth told at a table rather than in a doorway with alarms going. Controlled demolition costs real money and looks, to spectators, alarmingly like destroying something that was still standing. It is the cheapest event on the entire menu.",
+          "What cannot be purchased at any price is the fourth option — the one currently in use. The pressure does not leave the walls because the walls are repainted. Lightning declined is not lightning canceled; it is lightning rescheduled, to a date you will not choose, at an hour you will not like.",
+          "The question underneath: if the fall is coming either way — and the walls say it is — who do you want holding the schedule?"
+        ],
+        "work": [
+          "Propping a failing structure past the point the numbers support. The pivot everyone knows is due. Schedule the demolition — the fire schedules itself."
+        ],
+        "love": [
+          "The talk postponed to keep the walls up; the peace that is actually load-bearing silence. What the delay protects is shrinking monthly."
+        ],
+        "self": [
+          "White-knuckling stability; the inner collapse taken in daily installments so no one sees a lump sum. The dread costing more than the event it dreads."
+        ],
+        "note": [
+          "Not safety. The pressure is still in the walls — postponed is not repaired, and the building keeps its own calendar."
+        ]
+      }
+    },
+    "es": {
+      "slug": "la-torre",
+      "name": "La Torre",
+      "seoTitle": "La Torre en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "Lo que se rompe deprisa porque estaba mal hecho. El desastre que trae información; la organización, el plan o el relato que acaba de venirse abajo bajo su…",
+      "summary": "Lo que se rompe deprisa porque estaba mal hecho. El desastre que trae información; la organización, el plan o el relato que acaba de venirse abajo bajo su propio peso. La revelación y el derrumbe llegando como un mismo suceso, y, bajo el estruendo, un alivio que nadie confiesa todavía.",
+      "imageDescription": "Una torre coronada se alza sobre un risco: levantada alta, levantada con orgullo, levantada sobre una roca que nadie comprobó. El relámpago cae una sola vez y la corona salta entera. Asoman llamas en las ventanas, y vienen de dentro. Dos figuras caen de cabeza, con la ropa de un día normal, pilladas sin preparar. El relámpago es la única luz de la carta, y todo lo verdadero de la imagen se ve gracias a él.",
+      "upright": {
+        "keywords": [
+          "derrumbe repentino, revelación por relámpago, la estructura falsa que cede, el golpe que dice la verdad, el alivio dentro de las ruinas"
+        ],
+        "essay": [
+          "Cayó deprisa porque estaba hueca. Esa es toda la física de la Torre, y es lo que conviene tener claro mientras el polvo aún flota: lo que está bien construido no se viene abajo de un solo golpe. Lo que se derrumbó en tu vida (el arreglo, el plan, la versión de los hechos) llevaba tiempo cediendo en silencio, con las paredes que aguantaban el peso ya podridas, y el relámpago no causó eso. Lo destapó. Hay una diferencia, y la diferencia es la carta.",
+          "Fíjate en que la corona salta primero. Lo que iba encima (el título, la fachada, el relato sobre qué era esto) es lo primero que cae, y lo que arde más rápido. Las torres se suelen levantar de arriba hacia abajo: primero se decide la conclusión, y las pruebas se colocan después para que le den la razón. El golpe invierte ese orden. Durante un segundo iluminado ves cómo estaba armado de verdad, y eso ya no se puede dejar de ver. Por eso la Torre está entre las cartas honestas y no entre las crueles: lo único que te deja a cambio es la verdad.",
+          "Las dos figuras caen de cabeza, y hay que decirlo sin adornos: la caída es real, y duele. La carta no lo suaviza. Pero mira desde dónde caen (un edificio en llamas) y la caída admite una segunda lectura que tardarás unas semanas en poder permitirte: es una salida. No la que nadie habría escogido, sino la única que quedaba cuando ya se habían rechazado todas las demás. Hay sitios que solo sueltan a quien está dentro cuando arden.",
+          "Hay un alivio dentro de las ruinas, y puede que ya hayas notado su primer destello con mala conciencia. Se acabó el mantenimiento. El apuntalar, el dar explicaciones, el no mirar hacia abajo: todo ese esfuerzo invisible que mantenía en pie lo falso se te ha devuelto de golpe, todo junto. Que el duelo y el alivio aparezcan a la vez ante el mismo suceso no te vuelve una persona fría. Te vuelve alguien que cargaba más de lo que decía.",
+          "Con lo que el relámpago te enseñó, construye. Es la única instrucción que la Torre deja entre los escombros. Lo que levantes después hereda gratis lo que el golpe dejó a la vista: dónde está la roca de verdad, qué paredes eran solo pintura. Quien reconstruye sin mirar las ruinas levanta la misma torre y le pone mejor cerradura. Quien las mira construye más bajo, más cierto, y una sola vez.",
+          "La pregunta de fondo: ¿qué aprendiste en ese segundo iluminado, y estás dispuesta a saberlo también a plena luz del día?"
+        ],
+        "work": [
+          "La organización, el plan o el relato que acaba de venirse abajo bajo su propio peso. El lanzamiento, la cuenta, la estructura que cayó en un día porque llevaba un año hueca. Mira bien las ruinas antes de reconstruir."
+        ],
+        "love": [
+          "La revelación que cambia el mapa: súbita, imposible de discutir, extrañamente clarificadora. Lo que se rompió fue la versión de los hechos; lo que queda es lo que de verdad era cierto, y ahora se puede hablar de ello a las claras."
+        ],
+        "self": [
+          "El ático del ego que se queda sin tejado. La identidad que no sobrevivió al contacto con un solo hecho. Duele por lo rápido que pasa, pero sale más barato que otro año de mantenimiento."
+        ],
+        "note": [
+          "No es un castigo. El relámpago muestra lo que las paredes tapaban: el golpe es información que llega a la única velocidad que la estructura permitía."
+        ]
+      },
+      "reversed": {
+        "summary": "Sostener lo que quiere caer. La ruptura necesaria que se demora a un precio cada vez más alto; el miedo al terremoto pesando más que el terremoto. A veces, el derrumbe de dentro, el silencioso, el que nadie ve. La opción que aún sigue ahí: tirarlo tú, a tu manera.",
+        "keywords": [
+          "el derrumbe aplazado, el temblor aguantado, la demolición programada, el pánico al desplome, la presión aún metida en las paredes"
+        ],
+        "essay": [
+          "Invertida, la Torre describe un edificio que debería haber caído y al que no se le ha dejado. La grieta es de sobra conocida; podrías dibujarla de memoria. El informe del arquitecto llegó hace meses y sigue sin abrir, por principio. Lo único que se interpone entre la situación y su caída honesta es un trabajo diario e invisible: el tuyo. Apuntalar es un oficio. Tiene horario, tiene gastos, y lo que paga a cambio es miedo, y llevas en él más tiempo del que aguantaría cualquier contrato.",
+          "Lo que esta carta viene a destapar es cuánto cuesta aplazar: el miedo al desplome ya cuesta más que el desplome. Los derrumbes tienen fin (son ruidosos, tienen fecha, se sobreviven, hay un primer día del después). El pánico, en cambio, no se acaba: se renueva mes a mes, se va acumulando en silencio, y al final te trae el derrumbe igual, con intereses. Si sumaras lo que te ha costado este año no caer (en sueño, en franqueza, en planes que no hiciste porque el suelo podía moverse) tirarlo tú mismo saldría casi regalado.",
+          "Hay una versión de esta carta que ocurre entera de puertas adentro: el derrumbe de dentro, el silencioso, el que nadie ve. El pánico que se traga uno en el baño, el sistema de creencias reducido a una sola idea que aún aguanta el peso, la estabilidad agarrada con uñas y dientes que en realidad es una caída lenta, un poco cada día. Desde fuera la torre se ve bien. La carta ve las paredes de dentro, y las nombra para que al menos alguien lo haya hecho.",
+          "La Torre invertida guarda una piedad de verdad, y no habría que malgastarla: mientras el edificio siga en pie, puedes elegir tú cuándo tirarlo. La conversación tenida en la fecha que tú pongas y no en mitad del incendio. La renuncia antes de que el derrumbe la firme por ti. La verdad dicha en una mesa y no en un portal con las alarmas sonando. Tirarlo a tiempo cuesta dinero de verdad y parece, a ojos de quien mira, que estás echando abajo algo que aún se tenía en pie. Es lo más barato de toda la carta.",
+          "Lo que no se compra a ningún precio es la cuarta opción, la que estás usando ahora mismo. La presión no se va de las paredes porque las repintes. Un relámpago que esquivas no es un relámpago que se cancela: es un relámpago que se aplaza, a una fecha que no vas a elegir tú, a una hora que no te va a gustar.",
+          "La pregunta de fondo: si la caída llega igual, y las paredes dicen que sí, ¿en manos de quién quieres que esté la fecha?"
+        ],
+        "work": [
+          "Apuntalar una estructura que falla más de lo que los números pueden justificar. El giro que todos saben pendiente. Programa tú la demolición: el incendio pone fecha solo."
+        ],
+        "love": [
+          "La conversación que se pospone para mantener las paredes en pie; la paz que en realidad es un silencio cargando con todo el peso. Lo que la demora protege se encoge cada mes."
+        ],
+        "self": [
+          "La estabilidad agarrada con uñas y dientes; el derrumbe de dentro tomado a plazos, un poco cada día, para que nadie vea la cifra completa. El pánico costando más que aquello que teme."
+        ],
+        "note": [
+          "No es seguridad. La presión sigue metida en las paredes: aplazado no es reparado, y el edificio lleva su propio calendario."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "id": "the-chariot",
+  "number": 7,
+  "order": 7,
+  "arcana": "major",
+  "suit": null,
+  "rank": null,
+  "image": "/assets/cards/the-chariot.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "07-chariot.en.md",
+    "es": "07-chariot.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "the-chariot",
+      "name": "The Chariot",
+      "seoTitle": "The Chariot Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "Momentum earned by holding two pulls in one line. Push through — the tension is the engine, not the obstacle. Leaving the walls with a destination.…",
+      "summary": "Momentum earned by holding two pulls in one line. Push through — the tension is the engine, not the obstacle. Leaving the walls with a destination. Contradictions driven as a team instead of refereed.",
+      "imageDescription": "An armored rider stands in a stone chariot under a canopy of stars, city walls receding behind. Two sphinxes pull it — one black, one white — facing slightly apart, as sphinxes do. There are no reins. The rider holds a wand and looks straight ahead; whatever steers this vehicle, it is not leather.",
+      "upright": {
+        "keywords": [
+          "will, drive, opposing forces harnessed, victory by direction, discipline as motion, the tension used as engine"
+        ],
+        "essay": [
+          "You contain at least two horses, and they do not naturally agree. Ambition and comfort. The plan and the appetite. The version of you that wants to be seen and the version that wants to be left alone. Most days they take turns dragging you; the Chariot is the card of the day they get harnessed to the same vehicle and, astonishingly, it moves.",
+          "Notice what is missing from the image: reins. The rider holds a wand and a posture, nothing else. This is the card's central claim — the steering is done by attention, not by force. You do not whip contradictions into agreement; you stand between them, pick a point on the horizon, and hold it with enough constancy that the pulling becomes propulsion. Direction is the discipline. Everything else is horsepower.",
+          "The tension you have been treating as a problem is, on this reading, the engine. A person with no internal contradictions has no torque; they coast. The friction you feel — between what you should do and what you want, between the two lives you can imagine — is stored energy, and it converts to motion the moment it points one way. The card does not ask you to resolve the argument. It asks you to drive it.",
+          "The walls behind the chariot matter: the rider has already left the city. Whatever safety was in the old perimeter — the role, the routine, the version of events everyone agreed on — the departure has happened or is happening. The Chariot never appears when you are staying home. It appears when the leaving needs to survive its second week.",
+          "One condition applies, and it is strict: a destination. Momentum without a fixed point is just expensive weather. Before you push, name where to — out loud, in one sentence, without the word \"maybe.\" The sphinxes can pull through anything except vagueness.",
+          "The question underneath: if both of your horses had to point at one thing this month, what would you dare to make it?"
+        ],
+        "work": [
+          "Push through — the finish line is closer than the fatigue says. Competing priorities harnessed to one deadline. The project that needs your stubbornness more than your brilliance this week."
+        ],
+        "love": [
+          "Desire and duty pointed the same way for once. The bond that moves when both people stop refereeing the differences and drive them somewhere shared."
+        ],
+        "self": [
+          "Your contradictions as a team, not a court case. Willpower spent on direction, not suppression. Standing steady between your own opposites and moving anyway."
+        ],
+        "note": [
+          "Not force alone. The reins are the point — and there are none. Attention steers what strength can only drag."
+        ]
+      },
+      "reversed": {
+        "summary": "Full effort, no ground gained. Ambition without a route; hustle that goes nowhere and calls itself progress. Or control gripped so tight it snaps into a skid. The engine roaring in neutral.",
+        "keywords": [
+          "momentum lost, scattered drive, aggression without steering, drift, the wheel yanked by every distraction"
+        ],
+        "essay": [
+          "Reversed, the Chariot is effort accounting that does not balance: full output, no displacement. You are not lazy — laziness would at least be restful. You are working at capacity while the vehicle shudders in place, because the two things pulling you now face opposite directions and no one has renegotiated their contract. Exhaustion without progress is not a character flaw. It is a steering failure.",
+          "Check where the wheel is. The reversed card often means every passing thing gets a turn at it — each notification, each new idea, each other person's urgency yanks the vehicle a few degrees. A week of that produces the strange signature of this card: enormous mileage on the odometer, the same view out the window. Motion has replaced direction so smoothly you may not have noticed the swap.",
+          "There is a harder version: aggression without steering. Drive that has lost its destination doesn't idle — it discharges, usually at whatever is nearest. The impatience with slow people, the fights picked at the margins, the intensity misfiled into arguments. Anger is often just momentum with nowhere to go. The card names it so it can be re-aimed rather than denied.",
+          "And there is the white-knuckle version: control gripped so tight it snaps. Holding everything — schedule, image, feelings, other people's reactions — until one small slip becomes a skid. If you have been steering with your whole body clenched, the correction is not more grip. It is a smaller number of things held, held better.",
+          "The repair is unglamorous and short: stop the vehicle. Pick one destination that survives being said out loud. Re-harness — which means letting some pulls go slack for a season, on purpose. The sphinxes are not broken. They are waiting for a direction worth agreeing on."
+        ],
+        "work": [
+          "Hustle that goes nowhere; the metrics of motion mistaken for progress. Ten priorities is zero priorities. Stop, choose, re-harness."
+        ],
+        "love": [
+          "Pushing where steering was needed. Intensity discharged at the person instead of aimed at the problem. The argument that is really unspent momentum."
+        ],
+        "self": [
+          "White-knuckle control cracking into a skid. Restlessness misread as passion. The energy is real — the route expired."
+        ],
+        "note": [
+          "Not weakness. Power unaligned — the horses are strong and merely pointed apart. Alignment, not effort, is the missing part."
+        ]
+      }
+    },
+    "es": {
+      "slug": "el-carro",
+      "name": "El Carro",
+      "seoTitle": "El Carro en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "El avance que ganas al llevar dos tirones en una misma línea. Sigue adelante: la tensión es el motor, no el obstáculo. Salir de las murallas con un rumbo.…",
+      "summary": "El avance que ganas al llevar dos tirones en una misma línea. Sigue adelante: la tensión es el motor, no el obstáculo. Salir de las murallas con un rumbo. Las contradicciones conducidas como equipo, no puestas a discutir.",
+      "imageDescription": "Un auriga con armadura, de pie en un carro de piedra bajo un cielo de estrellas, con las murallas de la ciudad quedando atrás. Tiran de él dos esfinges, una negra y una blanca, mirando cada una hacia un lado, como hacen las esfinges. No hay riendas. El auriga sostiene una vara y mira al frente; lo que dirige este carro no es cuero.",
+      "upright": {
+        "keywords": [
+          "voluntad, impulso, fuerzas opuestas tirando juntas, victoria por rumbo, la disciplina como movimiento, la tensión usada como motor"
+        ],
+        "essay": [
+          "Llevas dentro al menos dos caballos, y por naturaleza no se ponen de acuerdo. La ambición y la comodidad. El plan y las ganas. La parte de ti que quiere que la vean y la que quiere que la dejen en paz. Casi todos los días se turnan para arrastrarte de un lado a otro; el Carro es la carta del día en que quedan enganchados al mismo carro y, contra todo pronóstico, el carro avanza.",
+          "Fíjate en lo que falta en la imagen: riendas. El auriga sostiene una vara y una postura, nada más. Ahí está lo que dice esta carta: se dirige con la atención, no con la fuerza. A las contradicciones no las domas a latigazos; te plantas entre ellas, eliges un punto del horizonte y lo sostienes el tiempo suficiente para que el tirón se vuelva avance. El rumbo es la disciplina. Todo lo demás es fuerza bruta.",
+          "Esa tensión que llevas tratando como un problema es, aquí, el motor. Quien no tiene contradicciones dentro no tiene con qué arrancar; se queda al ralentí. La fricción que sientes, entre lo que deberías y lo que quieres, entre las dos vidas que te imaginas, es energía guardada, y se vuelve movimiento en cuanto apunta a un solo lado. La carta no te pide zanjar la discusión. Te pide conducirla.",
+          "Las murallas detrás del carro importan: el auriga ya salió de la ciudad. Fuera cual fuera la seguridad de lo de antes, el papel, la rutina, la versión de los hechos en la que todos estaban de acuerdo, la salida ya pasó o está pasando. El Carro no aparece cuando te quedas en casa. Aparece cuando lo que dejaste atrás tiene que aguantar más allá de la primera semana.",
+          "Hay una condición, y no se negocia: un destino. La fuerza sin un punto fijo es solo ruido caro. Antes de arrancar, di adónde, en voz alta, en una frase, sin la palabra \"quizás\". Las esfinges tiran a través de todo menos de la indecisión.",
+          "La pregunta de fondo: si tus dos caballos tuvieran que apuntar a una sola cosa este mes, ¿cuál te atreverías a elegir?"
+        ],
+        "work": [
+          "Sigue adelante: la meta está más cerca de lo que dice el cansancio. Prioridades rivales atadas a una misma fecha. El proyecto que esta semana necesita tu terquedad más que tu talento."
+        ],
+        "love": [
+          "El deseo y el deber apuntando por una vez al mismo sitio. El vínculo que avanza cuando los dos dejan de discutir las diferencias y las conducen hacia algo en común."
+        ],
+        "self": [
+          "Tus contradicciones como equipo, no como juicio. La voluntad puesta en el rumbo, no en callar lo que sientes. Plantarte firme entre tus propios opuestos y avanzar igual."
+        ],
+        "note": [
+          "No es solo fuerza. La clave son las riendas, y no hay. La atención dirige lo que la fuerza solo arrastra."
+        ]
+      },
+      "reversed": {
+        "summary": "Todo el esfuerzo, cero terreno. Ambición sin ruta; ajetreo que no lleva a ningún lado y se hace llamar progreso. O el control tan apretado que rompe en derrape. El motor rugiendo en punto muerto.",
+        "keywords": [
+          "avance perdido, fuerza dispersa, agresividad sin dirección, ir a la deriva, el volante que se lleva cada distracción"
+        ],
+        "essay": [
+          "Invertido, el Carro es la cuenta del esfuerzo que no cuadra: rindes al máximo y no te mueves ni un metro. No es que seas perezosa, porque la pereza al menos descansaría. Trabajas a tope mientras el carro da tumbos sin avanzar, porque las dos cosas que tiran de ti ahora miran a lados opuestos y nadie las ha vuelto a poner de acuerdo. El agotamiento sin avance no es un defecto tuyo. Es una avería de dirección.",
+          "Mira quién lleva el volante. Esta carta invertida suele significar que todo lo que pasa te lleva un rato: cada notificación, cada idea nueva, cada urgencia ajena tuerce el carro unos grados. Una semana así deja la marca rara de esta carta: kilómetros y kilómetros en el cuentakilómetros, la misma vista por la ventanilla. El movimiento reemplazó al rumbo con tanta suavidad que a lo mejor no notaste el cambio.",
+          "Hay una versión más dura: la agresividad sin dirección. La fuerza que perdió su destino no se queda quieta, se descarga, casi siempre sobre lo que tiene más cerca. La impaciencia con la gente lenta, las peleas buscadas por cualquier cosa, la intensidad que acaba, por error, metida en discusiones. Muchas veces la rabia no es más que fuerza que no tiene adónde ir. La carta lo nombra para que puedas reapuntarla en vez de negarla.",
+          "Y existe la versión de agarrarse con uñas y dientes: el control tan apretado que rompe. Sostenerlo todo, la agenda, la imagen, lo que sientes, cómo reaccionan los demás, hasta que un resbalón pequeño se vuelve derrape. Si llevas tiempo conduciendo con todo el cuerpo en tensión, la solución no es agarrar más fuerte. Es sostener menos cosas, y sostenerlas mejor.",
+          "El arreglo es poco lucido y corto: para el carro. Elige un destino que aguante decirse en voz alta. Vuelve a enganchar, lo que significa aflojar algunos tirones una temporada, a propósito. Las esfinges no están rotas. Esperan un rumbo que valga la pena para las dos."
+        ],
+        "work": [
+          "Ajetreo que no lleva a ningún lado; confundir moverse mucho con avanzar. Diez prioridades son cero prioridades. Para, elige, vuelve a enganchar."
+        ],
+        "love": [
+          "Forzar donde hacía falta dirigir. La intensidad soltada sobre la persona en vez de apuntada al problema. La discusión que en realidad es fuerza sin gastar."
+        ],
+        "self": [
+          "El control a uñas y dientes rompiéndose en derrape. La inquietud confundida con pasión. La energía es real, la ruta ya caducó."
+        ],
+        "note": [
+          "No es debilidad. Es fuerza mal alineada: los caballos son fuertes y solo apuntan a lados distintos. Lo que falta es alineación, no esfuerzo."
+        ]
+      }
+    }
+  }
+}

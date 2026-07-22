@@ -1,0 +1,134 @@
+{
+  "id": "death",
+  "number": 13,
+  "order": 13,
+  "arcana": "major",
+  "suit": null,
+  "rank": null,
+  "image": "/assets/cards/death.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "13-death.en.md",
+    "es": "13-death.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "death",
+      "name": "Death",
+      "seoTitle": "Death Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "The chapter genuinely over. Loss that makes room; change that does not negotiate but is not cruel. The ending to perform properly, with honors, so the…",
+      "summary": "The chapter genuinely over. Loss that makes room; change that does not negotiate but is not cruel. The ending to perform properly, with honors, so the next thing has clean ground. Not catastrophe — completion arriving on schedule.",
+      "imageDescription": "A skeleton in black armor rides a white horse, carrying a black banner with a white rose — no words on it; the banner does not negotiate. A king lies fallen, his crown in the dust; a child holds up flowers, unafraid; a young woman looks away; a bishop stands and pleads. The horse steps forward regardless of the reception. Between two towers in the distance, the sun is rising. Rising — check the card again if you doubt it.",
+      "upright": {
+        "keywords": [
+          "ending, transformation, the necessary close, what composts into next, loss that makes room, the chapter genuinely over"
+        ],
+        "essay": [
+          "Something is over. Not failing, not struggling, not in need of one more rescue attempt — over. The card's first work is this diagnosis, delivered without adjectives, because you have been generating adjectives for weeks to avoid the noun. A chapter has ended. The remaining question is not whether, but how well you will perform the ending.",
+          "Study the reception committee, because you are in it. The king fought the horseman and is down — resistance at full power, and it changed nothing but his posture. The bishop negotiates, offering credentials; the horse does not read. The young woman turns her face away — the ending happens anyway, unseen. Only the child offers flowers, and only the child is at eye level with the thing. Four strategies, one outcome, one dignity. The card asks which member of the party you have been this month.",
+          "What Death actually does is logistics. Every yes you are carrying occupies space; every finished-but-unburied thing occupies double. The role you have outgrown, the project that ended in every sense but the announcement, the version of yourself maintained for an audience that dissolved years ago — these are not neutral cargo. They are rent paid on rooms you no longer live in. The horseman is not a thief. He is the audit.",
+          "Bury properly. This is the card's most practical instruction. Endings performed carelessly — ghosted, drifted from, left to rot in a drawer — do not close; they leak. The project deserves a post-mortem, the chapter deserves a last page written on purpose, the goodbye deserves saying. With honors: name what it was, what it gave, what it cost. The composting only starts once the thing is actually in the ground.",
+          "And look once more at the horizon, because the composition insists: between the two towers, the sun is rising. Not setting — the card's most persistent misreading. Everything fertile in the image is downstream of the ending, not despite it. What the cleared ground grows is not visible yet, and does not need to be. Clearing is this season's whole work.",
+          "The question underneath: what have you kept alive past its life — and what would the funeral cost, honestly, compared to the maintenance?"
+        ],
+        "work": [
+          "The project, role or identity to bury properly — post-mortem, honors, done. The resignation, the sunset, the archive. Ending it well is the last deliverable, and it compounds."
+        ],
+        "love": [
+          "The form of the bond changing for good — the ending of a chapter, or of the whole book, named out loud instead of drifted through. Grief done at the funeral is cheaper than grief done in installments."
+        ],
+        "self": [
+          "Shedding what you have outgrown, with honors — the identity, the habit, the story about yourself that stopped being true a while ago and kept being told."
+        ],
+        "note": [
+          "Not literal death, not catastrophe. The sun in the image is rising. The card marks completion, and completion is a direction, not a wall."
+        ]
+      },
+      "reversed": {
+        "summary": "Holding the door for what already left. Keeping the shape of a thing after its life has gone; exhaustion from dying slowly instead of once. The zombie project, the bond over in all but name, the self worn like a coat in summer.",
+        "keywords": [
+          "the ending resisted, decay prolonged, half-departures, the zombie chapter, dying slowly instead of once"
+        ],
+        "essay": [
+          "Reversed, Death describes the most expensive purchase available: the prolonged ending. What should have died once is dying continuously — the project on permanent life support, the relationship over in every register except the official one, the identity maintained like a museum of someone you were. The card's arithmetic is blunt: dying once costs a season of grief. Dying slowly costs all seasons, indefinitely, and grief is still owed at the end.",
+          "Notice what the holding actually preserves. Not the thing — the thing's life left some time ago, and you know the approximate date. What is being preserved is the shape: the meetings still on the calendar, the routines still performed, the plural pronouns still used. Shape without life has a name in every domain — the zombie project, the paper marriage, the habit that outlived its pleasure — and the maintenance cost of shape is, cruelly, higher than the maintenance cost of life. Dead things do not carry themselves.",
+          "The exhaustion you have been attributing to the situation is, in this reading, attributable to the deferral. It is tiring to hold a door against a departure that already happened. It is tiring to perform vitality on behalf of something that cannot contribute its own. If you have felt drained without visible cause, count the invisible one: the daily re-dying of the thing you will not let die once.",
+          "Sometimes the reversal is subtler — the half-departure. Moved out but not moved on; resigned but still checking; the chapter closed in public and reread nightly in private. Half-departures have the full cost of staying plus the full cost of leaving, and deliver the benefits of neither. The card does not scold. It just itemizes.",
+          "What waits behind the resistance is smaller than the resistance suggests: one honest hour. The conversation, the announcement, the deletion, the last page written by hand. The horse is not asking permission — it never was — but it has been polite, and the ground still wants clearing, and the sun between the towers has been holding at the horizon for longer than either of you finds comfortable."
+        ],
+        "work": [
+          "The zombie project nobody will call — funded, staffed, and over. The role you left in every way but the letter. Schedule the post-mortem; the team already knows."
+        ],
+        "love": [
+          "The relationship over in all but name; the shape maintained, the life long gone. Or the half-departure — out the door and still holding it."
+        ],
+        "self": [
+          "The old self worn like a coat in summer — heavy, familiar, and unseasonable. Kept alive by daily performance because it can no longer live on its own."
+        ],
+        "note": [
+          "Not safety. Holding the ending back does not preserve the thing — it preserves the dying. The ground still wants clearing, and it charges by the day."
+        ]
+      }
+    },
+    "es": {
+      "slug": "la-muerte",
+      "name": "La Muerte",
+      "seoTitle": "La Muerte en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "El capítulo de verdad terminado. La pérdida que hace hueco, el cambio que no negocia pero tampoco es cruel. El final que hay que cerrar bien, con honores…",
+      "summary": "El capítulo de verdad terminado. La pérdida que hace hueco, el cambio que no negocia pero tampoco es cruel. El final que hay que cerrar bien, con honores, para que lo que venga tenga suelo limpio. No es una catástrofe, sino algo que se completa y llega a su hora.",
+      "imageDescription": "Un esqueleto con armadura negra monta un caballo blanco y lleva un estandarte negro con una rosa blanca. No hay palabras: el estandarte no negocia. Un rey yace caído, con la corona en el polvo; un niño alza unas flores, sin miedo; una joven aparta la cara; un obispo, de pie, suplica. El caballo avanza sin que le importe quién lo recibe ni cómo. A lo lejos, entre dos torres, el sol está saliendo. Saliendo, sí: vuelve a mirar la carta si lo dudas.",
+      "upright": {
+        "keywords": [
+          "final, transformación, el cierre necesario, lo que abona lo que viene, la pérdida que hace hueco, el capítulo de verdad terminado"
+        ],
+        "essay": [
+          "Algo se terminó. No está fallando, no está luchando, no le hace falta un rescate más: se terminó. Lo primero que hace la carta es este diagnóstico, dicho sin adjetivos, porque llevas semanas inventando adjetivos para no decir la palabra. Un capítulo se cerró. Lo que queda por decidir no es si termina, sino con cuánto cuidado vas a cerrarlo.",
+          "Mira a los que reciben al jinete, porque tú estás entre ellos. El rey le peleó y acabó en el suelo: resistencia a plena potencia, y lo único que cambió fue su postura. El obispo negocia, presenta sus méritos, y al caballo eso no le dice nada. La joven aparta la cara, y el final ocurre igual, aunque ella no lo mire. Solo el niño ofrece flores, y solo el niño mira la cosa de frente, a los ojos. Cuatro maneras, un mismo desenlace, una sola dignidad. La carta pregunta cuál de los cuatro fuiste este mes.",
+          "Lo que la Muerte hace, en el fondo, es hacer hueco. Cada sí que arrastras ocupa espacio, y cada cosa terminada pero sin enterrar ocupa el doble. El papel que ya se te quedó chico, el proyecto que terminó en todo menos en el anuncio, la versión de ti que sostienes para gente que se marchó hace años: nada de eso pesa poco. Es alquiler que sigues pagando por cuartos donde ya no vives. El jinete no es un ladrón. Es quien pasa la cuenta.",
+          "Entierra bien. Es la instrucción más práctica de la carta. Los finales que se cierran de cualquier manera (el que desapareces sin decir nada, el que dejas a la deriva, el que se pudre en un cajón) no cierran: siguen goteando. El proyecto merece su cierre en regla, el capítulo merece una última página escrita a conciencia, el adiós merece decirse. Con honores: nombra lo que fue, lo que dio, lo que costó. Nada empieza a abonar la tierra hasta que está de verdad bajo tierra.",
+          "Y mira otra vez el horizonte, porque la imagen insiste: entre las dos torres, el sol está saliendo. No poniéndose, que es el error de lectura más común con esta carta. Todo lo fértil de la imagen viene después del final, no a pesar de él. Lo que el suelo limpio hará crecer todavía no se ve, y no hace falta que se vea. Despejar es todo el trabajo de esta temporada.",
+          "La pregunta de fondo: ¿qué has mantenido vivo más allá de su vida, y cuánto costaría el funeral, con sinceridad, comparado con lo que te cuesta seguir manteniéndolo?"
+        ],
+        "work": [
+          "El proyecto, el papel o la identidad que hay que enterrar bien: cierre en regla, honores, terminado. La renuncia, el cierre, el archivo. Terminarlo bien es la última entrega, y da réditos."
+        ],
+        "love": [
+          "La forma del vínculo cambiando para siempre: el final de un capítulo, o del libro entero, dicho en voz alta en vez de dejarlo morir a la deriva. El duelo que se hace en el funeral sale más barato que el que se paga a plazos."
+        ],
+        "self": [
+          "Soltar con honores lo que se te quedó chico: la identidad, el hábito, la historia sobre ti que dejó de ser verdad hace tiempo y siguió contándose."
+        ],
+        "note": [
+          "No es muerte literal ni catástrofe. El sol de la imagen está saliendo. La carta marca algo que se completa, y completarse es una dirección, no un muro."
+        ]
+      },
+      "reversed": {
+        "summary": "Aguantarle la puerta a lo que ya se fue. Conservar la forma de una cosa cuando la vida ya se le salió; el cansancio de morir poco a poco en vez de una vez. El proyecto zombi, el vínculo terminado en todo menos en el nombre, el yo que llevas puesto como un abrigo en verano.",
+        "keywords": [
+          "el final que resistes, la agonía que se alarga, las salidas a medias, el capítulo zombi, morir poco a poco en vez de una vez"
+        ],
+        "essay": [
+          "Invertida, la Muerte describe lo más caro que puedes comprar: el final que se alarga. Lo que debía morir una vez está muriendo sin parar: el proyecto conectado a un respirador permanente, la relación terminada en todos los registros menos el oficial, la identidad que mantienes como un museo de quien fuiste. La cuenta de la carta es simple. Morir una vez cuesta una temporada de duelo; morir poco a poco cuesta todas las temporadas, sin fin, y el duelo igual te espera al final.",
+          "Fíjate bien en qué conserva ese aguante. No conserva lo esencial: su vida se fue hace tiempo, y sabes más o menos la fecha. Lo que se conserva es la forma: las reuniones todavía en el calendario, las rutinas todavía en marcha, el \"nosotros\" todavía en uso. La forma sin vida tiene nombre en todos los ámbitos (el proyecto zombi, el matrimonio de papel, el hábito que sobrevivió a su propio gusto) y mantenerla sale, por cruel que suene, más caro que mantener la vida. Las cosas muertas no se cargan solas.",
+          "El cansancio que le vienes echando a la situación es, en esta lectura, cansancio de estar aplazando. Cansa aguantarle la puerta a una salida que ya ocurrió. Cansa fingir energía en nombre de algo que ya no puede poner la suya. Si te has sentido sin fuerzas y no le encuentras causa, cuenta la que no se ve: ese morir un poco cada día de lo que no dejas morir de una vez.",
+          "A veces la inversión es más sutil, y es la salida a medias. Te fuiste de la casa pero no de la historia; renunciaste pero sigues mirando de reojo; el capítulo cerrado en público y releído cada noche en privado. Las salidas a medias tienen el costo entero de quedarte más el costo entero de irte, y no te dan lo bueno de ninguna de las dos. La carta no regaña. Solo desglosa la cuenta.",
+          "Lo que espera detrás de la resistencia es más pequeño de lo que la resistencia hace creer: una hora sincera. La conversación, el aviso, el borrar, la última página escrita a mano. El caballo no pide permiso, nunca lo pidió, pero ha sido paciente, y el suelo sigue queriendo despejarse, y el sol entre las torres lleva parado en el horizonte más tiempo del que le resulta cómodo a nadie."
+        ],
+        "work": [
+          "El proyecto zombi que nadie se anima a nombrar, con presupuesto, con equipo, y terminado. El puesto que dejaste de todas las formas menos por escrito. Agenda el cierre en regla; el equipo ya lo sabe."
+        ],
+        "love": [
+          "La relación terminada en todo menos en el nombre: la forma en pie, la vida ida hace tiempo. O la salida a medias: fuera de la puerta y todavía aguantándola."
+        ],
+        "self": [
+          "El yo viejo que llevas puesto como un abrigo en verano: pesado, familiar y fuera de temporada. Vivo solo a base de fingirlo cada día, porque ya no puede sostenerse por sí mismo."
+        ],
+        "note": [
+          "No es seguridad. Frenar el final no conserva lo que fue: conserva la agonía. El suelo sigue queriendo despejarse, y cobra por día."
+        ]
+      }
+    }
+  }
+}

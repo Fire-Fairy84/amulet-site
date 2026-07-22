@@ -1,0 +1,136 @@
+{
+  "id": "the-moon",
+  "number": 18,
+  "order": 18,
+  "arcana": "major",
+  "suit": null,
+  "rank": null,
+  "image": "/assets/cards/the-moon.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "18-moon.en.md",
+    "es": "18-moon.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "the-moon",
+      "name": "The Moon",
+      "seoTitle": "The Moon Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "Moving without full information — which is the actual name of most moving. Imagination filling the gaps with monsters and omens alike. The truth present…",
+      "summary": "Moving without full information — which is the actual name of most moving. Imagination filling the gaps with monsters and omens alike. The truth present but tidal. Verify at dawn; sign nothing at midnight. Mostly your own reflection, moving.",
+      "imageDescription": "A moon with a face looks down, dripping dew, neither warm nor cold. A dog and a wolf howl up at it — the tamed fear and the wild one, singing the same note. From a pool at the bottom of the card, a crayfish climbs out, ancient and unexplained. Between two towers, a path runs toward far mountains. The path is real. The light on it is not to be fully trusted.",
+      "upright": {
+        "keywords": [
+          "uncertainty, dream-logic, fear enlarged by dark, intuition through fog, the unlit road, moving without full information"
+        ],
+        "essay": [
+          "You are on a road you cannot fully see, and the card's first mercy is refusing to pretend otherwise. No reversal of fortune is coming in the next sentence; the fog is real, the information is incomplete, and the decisions still have to be made. The Moon is not the card of danger. It is the card of not knowing — and of what your mind does with not knowing, which is the actual subject.",
+          "Here is the mechanism, in daylight terms: given a gap, the imagination fills it. It does not fill it neutrally. At noon it fills gaps with plans; at three in the morning it fills them with monsters, and the monsters are detailed, plausible, and wearing the faces of real people. The card asks you to notice the hour of your conclusions. The story you built last night was built by the night. It is not evidence. It is weather that thinks.",
+          "The dog and the wolf are the same animal at two distances from the fire, and both are howling at the same object. Your domesticated fears — deadlines, awkward conversations — and your ancient ones — abandonment, exposure, the dark itself — sing together under this card, in harmony, which is why nights under the Moon feel so oddly total. Knowing the choir has two sections does not silence it. It does return you the conductor's baton.",
+          "The crayfish climbing from the pool is the card's strangest kindness: the thing surfacing from the deep water is old, slow, and mostly harmless. What rises in you during uncertain seasons — the memory, the old ache, the fear you thought was archived — is not an invader. It is a resident, taking advantage of low light to come up for air. Let it surface. Things seen at the surface can be measured; things kept under can only be imagined, and you already know what your imagination does with the unmeasured.",
+          "Practical clause, and the card is strict about it: verify at dawn. The Moon is not the hour for signatures, verdicts, or messages that cannot be unsent. Not because your instincts are wrong — the path through the card is real and walkable — but because instrument and atmosphere are currently entangled. Intuition still works in fog. Interpretation is what drifts.",
+          "The question underneath: which of tonight's certainties will you agree to re-examine at noon?"
+        ],
+        "work": [
+          "Verify before signing — the missing fact exists and is findable. Proceed, but on the path, not on the projections. The midnight read of the email is not the noon read."
+        ],
+        "love": [
+          "Projections mistaken for the person. The story about what they meant, drafted in low light, wearing their face. Ask; do not decode."
+        ],
+        "self": [
+          "The old fear surfacing for air — resident, not invader. Naming it at the surface, where it has a size."
+        ],
+        "note": [
+          "Not deceit, necessarily. Mostly your own reflection, moving. The road is real; distrust the lighting, not the ground."
+        ]
+      },
+      "reversed": {
+        "summary": "Confusion breaking up. The night's story checked against daylight and found smaller. What was hidden becoming discussable; the missing fact arriving. Not full clarity yet — the light is early, and early light is honest about its limits.",
+        "keywords": [
+          "fog lifting, fear shrinking to true size, secrets surfacing, the dawn edge, the 3 a.m. story checked against daylight"
+        ],
+        "essay": [
+          "Reversed, the Moon is the fog lifting — not torn away, lifting, at fog's own undramatic pace. The first change is in measurements: the fear that filled the room at three in the morning turns out, checked at breakfast, to have the dimensions of a chair. Nothing about the fear was false. Its size was false. The reversed card is the hour of remeasuring, and the tape does not lie in either direction.",
+          "Do the check formally, because informally it slips: take the story the night wrote — the one about what the silence meant, what the symptom means, what they think of you — and read it at noon, aloud if possible. Notice what survives. Usually a kernel does: a real concern, a real conversation owed, a real unknown. The kernel deserves action. The architecture built around it deserves demolition, and demolishing it is not denial. It is arithmetic returning after a night shift.",
+          "Secrets surface under this card — your own and other people's. What was unsayable becomes discussable; the thing carried alone acquires a listener; the missing fact arrives, sometimes casually, in the middle of an unrelated sentence, and reorganizes a month of guessing. When it lands, revisit the old conclusions on purpose. Guesses have a way of surviving the arrival of the facts they guessed at, wearing the costume of things you always knew.",
+          "A caution about the new light, precisely because it feels so good: it is early. First light after long fog produces its own distortion — the relief-conclusion, the everything-is-fine-now, the overcorrection into certainty. The path is visible to the first bend. That is genuinely enough to walk on. It is not enough to prophesy from, and prophecy in either direction — doom or delivery — was always the fog talking.",
+          "What you learned in the dark, keep. The people who have crossed a Moon season carry something the perpetually clear-skied do not: the working knowledge that their own mind can build cathedrals from shadows, and the discipline of checking the blueprints at dawn. That discipline was expensive. It is also, from now on, yours.",
+          "The question underneath: which conclusion from the dark months are you still treating as fact — now that the light is back?"
+        ],
+        "work": [
+          "The missing fact arrives — old guesses need formal revisiting, not quiet retention. The panic-read of the situation, remeasured at noon."
+        ],
+        "love": [
+          "The projection withdrawn; the actual person visible, slightly different than the fog's version. The talk that was impossible last month is now merely hard."
+        ],
+        "self": [
+          "Anxiety named, and thereby measured. The 3 a.m. architecture demolished at breakfast, kernel kept. Fear at its true size — portable."
+        ],
+        "note": [
+          "Not full clarity yet. The light is early and says so. Walk to the first bend; the rest discloses on schedule."
+        ]
+      }
+    },
+    "es": {
+      "slug": "la-luna",
+      "name": "La Luna",
+      "seoTitle": "La Luna en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "Avanzar sin saberlo todo, que es como se avanza casi siempre. La imaginación llena los huecos, lo mismo con monstruos que con presagios. La verdad está…",
+      "summary": "Avanzar sin saberlo todo, que es como se avanza casi siempre. La imaginación llena los huecos, lo mismo con monstruos que con presagios. La verdad está ahí, pero sube y baja como la marea. Verifica de día y no firmes nada de madrugada. Casi todo es tu propio reflejo, moviéndose.",
+      "imageDescription": "Una luna con rostro mira hacia abajo, goteando rocío, ni cálida ni fría. Un perro y un lobo le aúllan, el miedo domesticado y el miedo salvaje cantando la misma nota. De un estanque al pie de la carta trepa un cangrejo, antiguo y sin explicación. Entre dos torres, un sendero avanza hacia montañas lejanas. El sendero es real. La luz que cae sobre él no es de fiar del todo.",
+      "upright": {
+        "keywords": [
+          "incertidumbre, lógica de sueño, el miedo que la oscuridad agranda, la intuición entre la niebla, el camino a oscuras, avanzar sin saberlo todo"
+        ],
+        "essay": [
+          "Estás en un camino que no ves del todo, y la primera piedad de la carta es no fingir lo contrario. No va a llegar ningún golpe de suerte en la frase siguiente: la niebla es real, te falta información, y las decisiones hay que tomarlas igual. La Luna no es la carta del peligro. Es la carta de no saber, y de lo que tu mente hace con el no saber, que es el tema de verdad.",
+          "Así funciona, dicho a plena luz: cuando hay un hueco, la imaginación lo llena. Y no lo llena de cualquier manera. A mediodía lo llena de planes; a las tres de la madrugada lo llena de monstruos, y los monstruos son detallados, verosímiles, y tienen la cara de personas reales. La carta te pide que mires a qué hora sacaste tus conclusiones. La historia que armaste anoche la armó la noche. No es una prueba. Es el clima metido a pensar.",
+          "El perro y el lobo son el mismo animal a dos distancias del fuego, y los dos aúllan a lo mismo. Tus miedos domesticados, los plazos, las conversaciones incómodas, y los antiguos, el abandono, quedar expuesto, la oscuridad misma, cantan juntos bajo esta carta, afinados, y por eso las noches de Luna se sienten tan raramente totales. Saber que el coro tiene dos voces no lo calla. Pero te devuelve la batuta.",
+          "El cangrejo que sube del estanque es la ternura más rara de la carta: lo que emerge del agua profunda es viejo, lento y casi inofensivo. Lo que sube en ti durante las temporadas inciertas, el recuerdo, el dolor de siempre, el miedo que creías guardado, no es un intruso. Vive ahí, y aprovecha la poca luz para salir a respirar. Déjalo salir. Lo que se ve en la superficie se puede medir; lo que se queda abajo solo se puede imaginar, y ya sabes lo que tu imaginación hace con lo que no ha medido.",
+          "Nota práctica, y en esto la carta no transige: verifica de día. La Luna no es la hora de firmar, de dictar veredictos ni de mandar mensajes que ya no puedes retirar. No porque tu instinto se equivoque, porque el sendero de la carta es real y se puede caminar, sino porque ahora mismo se confunden el instrumento y el ambiente. La intuición sigue funcionando en la niebla. Lo que se desvía es cómo la interpretas.",
+          "La pregunta de fondo: ¿cuál de las certezas de esta noche estás dispuesto a volver a mirar mañana a mediodía?"
+        ],
+        "work": [
+          "Verifica antes de firmar: el dato que te falta existe y se puede encontrar. Avanza, pero por el sendero, no por lo que te imaginas. Ese correo leído de madrugada no dice lo mismo que leído de día."
+        ],
+        "love": [
+          "Confundes tus proyecciones con la persona. La historia sobre qué quiso decir, armada a media luz, con su cara puesta. Pregunta, no lo descifres a ciegas."
+        ],
+        "self": [
+          "El miedo de siempre saliendo a respirar: vive ahí, no es un intruso. Nómbralo en la superficie, donde tiene un tamaño."
+        ],
+        "note": [
+          "No es engaño, no necesariamente. Casi todo es tu propio reflejo, moviéndose. El camino es real; desconfía de la luz, no del suelo."
+        ]
+      },
+      "reversed": {
+        "summary": "La confusión que se deshace. La historia de la noche contrastada con la luz del día, y resulta más pequeña. Lo que estaba oculto se vuelve hablable; llega el dato que faltaba. Todavía no es claridad total: la luz es temprana, y la luz temprana es honesta sobre hasta dónde alcanza.",
+        "keywords": [
+          "la niebla que se levanta, el miedo encogiendo a su tamaño real, secretos saliendo a la luz, el filo del amanecer, la historia de las 3 de la madrugada contrastada con la luz del día"
+        ],
+        "essay": [
+          "Invertida, la Luna es la niebla que se levanta. No que alguien la arranca, sino que se levanta a su propio ritmo, sin drama. El primer cambio está en las medidas: el miedo que llenaba la habitación a las tres de la madrugada resulta tener, contrastado en el desayuno, el tamaño de una silla. El miedo no tenía nada de falso. Lo falso era su tamaño. La carta invertida es la hora de volver a medir, y la cinta métrica no miente en ninguna dirección.",
+          "Haz la comprobación en serio, porque si la haces a la ligera se te escapa: toma la historia que escribió la noche, la de qué significaba ese silencio, la del síntoma, la de lo que piensan de ti, y léela a mediodía, en voz alta si puedes. Fíjate en qué sobrevive. Casi siempre sobrevive un núcleo: una preocupación real, una conversación pendiente, algo que de verdad no sabes. Ese núcleo pide acción. Todo lo que la mente construyó alrededor pide demolición, y demolerlo no es negar nada. Son las cuentas volviendo del turno de noche.",
+          "Bajo esta carta salen secretos a la luz, los tuyos y los ajenos. Lo que no se podía decir se vuelve hablable; lo que cargabas tú solo encuentra quien lo escuche; el dato que faltaba llega, a veces de pasada, en mitad de una frase sobre otra cosa, y reordena un mes de suposiciones. Cuando caiga, revisa a propósito las conclusiones viejas. Las suposiciones tienen la maña de sobrevivir a los hechos que suponían, disfrazadas de cosas que siempre supiste.",
+          "Una advertencia sobre la luz nueva, justo porque sienta tan bien: es temprana. La primera luz tras una niebla larga trae su propia distorsión, la conclusión que da alivio, el ya-pasó-todo, el pasarse de frenada hacia la certeza. El sendero se ve hasta la primera curva. Con eso basta y sobra para caminar. No basta para profetizar, y la profecía en cualquier dirección, condena o salvación, siempre fue la niebla hablando.",
+          "Lo que aprendiste a oscuras, guárdalo. Quien ha cruzado una temporada de Luna lleva algo que no tiene quien vive siempre a cielo despejado: sabe, por experiencia, que su propia mente puede construir catedrales con sombras, y tiene la disciplina de revisar los planos al amanecer. Esa disciplina te salió cara. Y desde ahora es tuya.",
+          "La pregunta de fondo: ¿qué conclusión de los meses oscuros sigues tratando como un hecho, ahora que volvió la luz?"
+        ],
+        "work": [
+          "Llega el dato que faltaba: las suposiciones viejas piden revisarse en serio, no guardarse en silencio. La lectura en pánico de la situación, medida de nuevo a mediodía."
+        ],
+        "love": [
+          "La proyección retirada; la persona real a la vista, algo distinta de la versión de la niebla. La conversación que el mes pasado era imposible ahora solo es difícil."
+        ],
+        "self": [
+          "La ansiedad nombrada, y con eso medida. Lo que armaste a las 3 de la madrugada, demolido en el desayuno, y el núcleo a salvo. El miedo a su tamaño real: se puede cargar."
+        ],
+        "note": [
+          "Todavía no es claridad total. La luz es temprana y no lo esconde. Camina hasta la primera curva; el resto se va viendo a su tiempo."
+        ]
+      }
+    }
+  }
+}

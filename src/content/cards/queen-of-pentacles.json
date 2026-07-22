@@ -1,0 +1,128 @@
+{
+  "id": "queen-of-pentacles",
+  "number": 13,
+  "order": 48,
+  "arcana": "minor",
+  "suit": "pentacles",
+  "rank": 13,
+  "image": "/assets/cards/queen-of-pentacles.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "pentacles-13.en.md",
+    "es": "pentacles-13.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "queen-of-pentacles",
+      "name": "Queen of Pentacles",
+      "seoTitle": "Queen of Pentacles Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "The one who converts wealth into care — the fed household, the ready guest room, the practical kindness that arrives as soup, spreadsheets, and a lift…",
+      "summary": "The one who converts wealth into care — the fed household, the ready guest room, the practical kindness that arrives as soup, spreadsheets, and a lift from the station. Warmth and competence fused. Much made from little. The most useful person in any crisis, and the least thanked.",
+      "imageDescription": "The queen sits on a throne carved with fruit and goats, in a bower of roses, in the greenest corner of the whole deck — and she is not surveying her realm. She is looking down at the coin in her lap, held in both hands, tenderly, the way one holds something warm and alive. A rabbit emerges at the corner of the card, unafraid of her. Everything nearby is thriving, and none of it is thriving by accident.",
+      "upright": {
+        "keywords": [
+          "abundance made edible, warmth with competence, the coin held like a living thing, the fed household, resourcefulness as love's dialect, the garden that has a kitchen"
+        ],
+        "essay": [
+          "The Queen of Pentacles holds her coin differently than anyone else in the suit — not studied like the Page's, not leveled like the Knight's, not multiplied like the King's, but held in the lap, in both hands, like something alive that she is keeping warm. That grip is the whole card: this is the sovereign of matter-as-care, the figure who takes the suit's accumulated wealth — money, skill, house, harvest — and converts it into the only currency that ever mattered to this suit underneath: people, fed and warm and okay. Her genius is the conversion itself. Others have gardens; she has a garden and a kitchen and the knowledge of who has not eaten. If this card has arrived, either you are being this person for others, or someone is quietly being it for you, or a situation is asking for exactly this energy: care with competence attached.",
+          "Her signature is the fusion the world keeps insisting is a trade-off: warmth and effectiveness in one body. The Queen of Pentacles is the person who hears the trouble and responds with dinner and a plan — the friend who shows up with soup and then also renegotiates your bill from the kitchen table; the parent who makes the house feel eternal on a budget that was never quite enough; the colleague who remembers the birthday and fixes the workflow. Resourcefulness is her love's dialect: much from little, the leftovers become a feast, the small salary becomes a stable home, the awkward gathering becomes — through some invisible sequence of moved chairs and well-timed questions — a family. Economists have no column for this production, and every human being alive has been kept alive by it.",
+          "The rabbit at the card's corner is her other jurisdiction: the body, and the ground it lives on. This queen is the deck's most embodied figure — the one who notices you haven't been sleeping before you say it, who treats health as a practice of small daily tendings rather than a crisis discipline, who knows that most despair improves after a meal, a shower, and a walk, not because the problem was trivial but because the problem was being processed by a starving animal. Her counsel in any reading includes the body's audit: fed? rested? touched? outside lately? — asked without mysticism, answered with logistics.",
+          "And the card carries a request on her behalf, because she will never file it herself: see this work. The tending that looks effortless is a made thing, remade daily, invisible precisely when done perfectly — noticed, like the Knight's reliability, only in outage. If you have such a person, the counsel is specific gratitude and real reciprocity: name what she does in its actual detail, and tend the tender occasionally, over her protests, which are ceremonial. If you are such a person — the reading sees you, the deck's most useful and least thanked archetype — take the seeing, and note, gently, which figure never appears anywhere in this card's lush green frame: anyone taking care of her. That absence has a card of its own, and it is one reversal away."
+        ],
+        "work": [
+          "Warmth and effectiveness are not a trade-off — the soup-and-spreadsheet response is the rarest competence in any team. And name the invisible labor in its detail; it's noticed only in outage."
+        ],
+        "love": [
+          "Care that arrives as logistics — the bill renegotiated, the guest room ready — is love's most fluent dialect, most often mistaken for mere efficiency. Read it correctly, and answer it in kind."
+        ],
+        "self": [
+          "The body's audit before the soul's: fed, rested, touched, outside lately? Most despair improves after a meal and a walk — the problem was being processed by a starving animal."
+        ],
+        "note": [
+          "Not domesticity as smallness — this is production the economy can't count and nobody survives without. And not effortless: the ease is a made thing, remade daily."
+        ]
+      },
+      "reversed": {
+        "summary": "The tender untended — everyone fed but the cook, the care running on a body it no longer includes. Or care thickened into control, help that hovers. The resource being depleted is the queen. Put her on her own list; the garden needs its gardener more than its next favor.",
+        "keywords": [
+          "spread too thin to tend herself, everyone fed but the cook, martyrdom accruing interest, care curdled into control, the garden serving the gardener nothing, the empty lap"
+        ],
+        "essay": [
+          "Reversed, the Queen of Pentacles is the deck's portrait of caretaker depletion, and its first honesty is arithmetical: the care was never free. Every meal, every rescue, every smoothing of every path drew on a finite account — the queen's body, hours, and self — and the account has been paying out, unreplenished, for years. The card shows the endgame the upright card's green frame concealed: everyone in the radius visibly thriving, and the source of the thriving running on empty, her needs so long deferred that she has stopped being able to feel them, which she reports — and this is the tell — as not having any. Ask what she wants and watch the genuine blankness: the wanting muscle, unused for a decade, has atrophied. The reversal's first prescription is embarrassingly literal: her own name, written on her own list, at an hour that is not last.",
+          "The card is precise about why this is hard, because the mechanism is not simple selflessness — it is identity, with interest accruing. Being the one who holds everything up becomes the self; needing becomes a foreign country; and gradually the giving acquires a ledger the giver does not admit to keeping — the sighed I'll just do it myself, the birthday remembered by no one after thirty birthdays remembered for everyone, the resentment that leaks as martyred cheerfulness and puzzles the household, who were never told there was a bill. Unspoken sacrifice compounds like the suit's other debts, and the eventual payout is bitter for everyone: the queen collapses or erupts, and the beneficiaries, genuinely confused, say she never asked for anything — which is true, and was the whole design of the trap.",
+          "There is a second face, harder to love: care curdled into control. Tending, unchecked, annexes: the help that hovers, the soup that arrives with surveillance, the household run so competently that no one else is permitted competence — children unable to boil water at twenty, partners who feel like guests, colleagues deskilled by the very support meant to grow them. This queen gives with both hands and cannot stop steering with them, because somewhere the care stopped being for the flourishing of the tended and became the tender's proof of worth: if they don't need me, what am I? The reversal answers with the upright card's own standard — real care builds capacity; the fed learn to cook; the goal of a good gardener is a garden that could survive her vacation. Care that needs to be needed is hunger wearing an apron.",
+          "All faces converge on one cure, and it is the hardest act in this queen's repertoire: receiving. Letting the daughter cook, badly, without supervising. Saying yes to the offered help without the reflexive I'm fine. Speaking a need — one, out loud, in words, to someone who can meet it — before the need has grown large enough to justify itself. The upright queen held the coin like a living thing she was keeping warm; the reversal's whole diagnosis is that she is the coin now, and nobody is holding her, least of all herself. The garden does not need another favor. It needs its gardener — fed, rested, watered like the asset she has always, invisibly, been. Put the oxygen mask on the cook. Everyone eats better within the month."
+        ],
+        "work": [
+          "The colleague who absorbs everything is depleting, not thriving — and the support that hovers deskills. Real care builds capacity: the goal is a team that survives your vacation."
+        ],
+        "love": [
+          "\"She never asked for anything\" — true, and the design of the trap. Speak one need, out loud, before it's big enough to justify itself. Unspoken sacrifice compounds like debt."
+        ],
+        "self": [
+          "Ask yourself what you want and time the blankness — that's the atrophied muscle, not the absence of wants. Your name, on your own list, at an hour that isn't last."
+        ],
+        "note": [
+          "Not selfishness, receiving — the fed-but-never-feeding are a different card entirely. And not love, the hovering: care that needs to be needed is hunger wearing an apron."
+        ]
+      }
+    },
+    "es": {
+      "slug": "reina-de-oros",
+      "name": "Reina de Oros",
+      "seoTitle": "Reina de Oros en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "La que convierte la riqueza en cuidado — la casa alimentada, el cuarto de invitados listo, la bondad práctica que llega como sopa, hojas de cálculo y un…",
+      "summary": "La que convierte la riqueza en cuidado — la casa alimentada, el cuarto de invitados listo, la bondad práctica que llega como sopa, hojas de cálculo y un viaje a recogerte a la estación. Calidez y competencia fundidas. Mucho hecho con poco. La persona más útil en cualquier crisis, y a la que menos se le agradece.",
+      "imageDescription": "La reina está sentada en un trono tallado con frutas y cabras, bajo un arco de rosas, en el rincón más verde de toda la baraja — y no está vigilando su reino. Mira hacia abajo, a la moneda que tiene en el regazo, sostenida con las dos manos, con ternura, como se sostiene algo cálido y vivo. Un conejo asoma en la esquina de la carta, sin miedo de ella. Todo lo que la rodea crece sano, y nada de eso es por casualidad.",
+      "upright": {
+        "keywords": [
+          "la abundancia hecha comida, calidez con competencia, la moneda sostenida como algo vivo, la casa alimentada, la maña como idioma del cariño, el jardín que tiene cocina"
+        ],
+        "essay": [
+          "La Reina de Oros sostiene su moneda como nadie más en el palo — no la estudia como la Sota, no la equilibra como el Caballero, no la multiplica como el Rey, sino que la tiene en el regazo, con las dos manos, como algo vivo que mantiene caliente. Ese gesto es la carta entera: es la soberana de la materia convertida en cuidado, la figura que toma la riqueza acumulada del palo — dinero, oficio, casa, cosecha — y la convierte en la única moneda que a este palo le importó siempre de verdad: gente alimentada, abrigada y bien. Su talento es esa conversión. Otros tienen jardines; ella tiene un jardín y una cocina y sabe quién no ha comido. Si esta carta ha salido, o tú estás siendo esta persona para otros, o alguien lo está siendo en silencio para ti, o una situación pide exactamente esta energía: cuidado con competencia de por medio.",
+          "Su sello es esa mezcla que el mundo se empeña en tratar como una elección entre una cosa y la otra: calidez y eficacia en un mismo cuerpo. La Reina de Oros es la persona que oye el problema y responde con cena y con plan — la amiga que aparece con sopa y luego, encima, te renegocia la factura desde la mesa de la cocina; la madre que hace que la casa parezca eterna con un presupuesto que nunca daba del todo; la colega que se acuerda del cumpleaños y de paso arregla el flujo de trabajo. La maña es el idioma de su cariño: mucho de poco, las sobras vueltas banquete, el sueldo pequeño vuelto hogar estable, la reunión incómoda vuelta — mediante alguna secuencia invisible de sillas movidas y preguntas hechas a tiempo — una familia. Los economistas no tienen una casilla para este trabajo, y no hay un solo ser humano vivo al que este trabajo no haya mantenido vivo.",
+          "El conejo de la esquina es su otro terreno: el cuerpo, y la tierra en que vive. Esta reina es la figura más de carne y hueso de la baraja — la que nota que no estás durmiendo antes de que lo digas, la que trata la salud como cuidados pequeños de todos los días y no como disciplina de emergencia, la que sabe que casi toda desesperación mejora después de una comida, una ducha y un paseo, no porque el problema fuera una tontería, sino porque el problema lo estaba masticando un animal hambriento. Su consejo en cualquier lectura incluye el chequeo del cuerpo: ¿has comido?, ¿has descansado?, ¿te han abrazado?, ¿has salido? — preguntado sin misticismo, respondido con logística.",
+          "Y la carta trae una petición en nombre de ella, porque ella nunca la va a presentar: mirad este trabajo. El cuidado que parece que no cuesta es algo hecho a mano, rehecho cada día, invisible justo cuando sale perfecto — se nota, como la fiabilidad del Caballero, solo cuando falla. Si tienes a una persona así, el consejo es gratitud concreta y reciprocidad de verdad: dile qué hace, con su detalle exacto, y cuida a la cuidadora de vez en cuando, aunque proteste, que sus protestas son de boquilla. Si esa persona eres tú — la lectura te ve, el arquetipo más útil y menos agradecido de la baraja — deja que te vean, y fíjate, con calma, en qué figura no aparece por ninguna parte de este marco verde y frondoso: alguien que la cuide a ella. Esa ausencia tiene carta propia, y basta invertir la carta para encontrarla."
+        ],
+        "work": [
+          "Calidez y eficacia no son cosas que haya que elegir — la respuesta de sopa y hoja de cálculo es la competencia más rara de cualquier equipo. Y ponle nombre al trabajo invisible, con su detalle; solo se nota cuando falla."
+        ],
+        "love": [
+          "El cuidado que llega como logística — la factura renegociada, el cuarto de invitados listo — es el idioma más fluido del cariño, y el que más se confunde con simple eficiencia. Léelo bien, y correspóndelo en su mismo idioma."
+        ],
+        "self": [
+          "El chequeo del cuerpo antes que el del alma: ¿has comido, descansado, te han abrazado, has salido? Casi toda desesperación mejora tras una comida y un paseo — el problema lo estaba masticando un animal hambriento."
+        ],
+        "note": [
+          "No es lo doméstico como algo menor — es trabajo que la economía no sabe contar y sin el que nadie sobrevive. Y no sale solo: esa soltura es algo hecho a mano, rehecho cada día."
+        ]
+      },
+      "reversed": {
+        "summary": "La cuidadora sin cuidar — todos alimentados menos la cocinera, el cuidado tirando de un cuerpo que ya no se incluye. O el cuidado espesado en control, la ayuda que vigila. Lo que se está agotando es la reina. Ponla en su propia lista; el jardín necesita a su jardinera más que su próximo favor.",
+        "keywords": [
+          "tan repartida que no le queda para cuidarse, todos alimentados menos la cocinera, el sacrificio callado sumando intereses, el cuidado cuajado en control, el jardín que no le da nada a la jardinera, el regazo vacío"
+        ],
+        "essay": [
+          "Invertida, la Reina de Oros es el retrato que la baraja hace de la cuidadora agotada, y su primera verdad es de cuentas: el cuidado nunca fue gratis. Cada comida, cada rescate, cada camino allanado a otro tiró de una cuenta que se acaba — el cuerpo, las horas y la persona de la reina — y esa cuenta lleva años pagando sin que nadie la rellene. La carta muestra el final de partida que el marco verde de la carta al derecho tapaba: todos a la redonda claramente florecientes, y la fuente de todo ese florecimiento en las últimas, con sus propias necesidades aplazadas tanto tiempo que ha dejado de sentirlas, lo cual ella cuenta — y esta es la señal — como no tener ninguna. Pregúntale qué quiere y mira cuánto dura el silencio, un silencio real, antes de que conteste: el músculo de querer, sin usar en diez años, se ha atrofiado. La primera receta de la inversión es de una obviedad casi vergonzosa: su propio nombre, escrito en su propia lista, a una hora que no sea la última.",
+          "La carta es precisa sobre por qué esto cuesta, porque el mecanismo no es simple entrega — es identidad, con intereses que crecen. Ser la que lo sostiene todo pasa a ser quien es; necesitar pasa a ser un país extranjero; y poco a poco el dar acumula una cuenta que quien da no reconoce estar llevando — el suspiro de ya lo hago yo, el cumpleaños que nadie recuerda después de treinta cumpleaños recordados para todos, el resentimiento que se filtra como alegría de mártir y desconcierta a la casa, a la que nunca le dijeron que había una factura. El sacrificio callado suma intereses como las otras deudas del palo, y el cobro final es amargo para todos: la reina se derrumba o estalla, y los que se beneficiaban, sinceramente confundidos, dicen ella nunca pidió nada — lo cual es cierto, y era el diseño entero de la trampa.",
+          "Hay una segunda cara, más difícil de querer: el cuidado cuajado en control. Cuidar, sin freno, se apropia de todo: la ayuda que vigila, la sopa que llega con supervisión, la casa llevada con tanta destreza que a nadie más se le deja ser competente — hijos que a los veinte no saben hervir agua, parejas que se sienten de visita, colegas que pierden oficio por el mismo apoyo que debía hacerlos crecer. Esta reina da con las dos manos y no puede dejar de mandar con ellas, porque en algún momento el cuidado dejó de ser para que floreciera la persona cuidada y pasó a ser la prueba de su propia valía: si no me necesitan, ¿qué soy? La inversión responde con la vara de medir de la propia carta al derecho — el cuidado de verdad hace a la gente capaz; los alimentados aprenden a cocinar; la meta de una buena jardinera es un jardín que sobreviva a sus vacaciones. El cuidado que necesita que lo necesiten es hambre con delantal.",
+          "Todas las caras llevan a una misma cura, y es el acto más difícil del repertorio de esta reina: recibir. Dejar que la hija cocine, mal, sin supervisar. Decir sí a la ayuda que ofrecen sin el estoy bien automático. Decir una necesidad — una, en voz alta, con palabras, a alguien que pueda cubrirla — antes de que la necesidad se haya hecho tan grande que se justifique sola. La reina al derecho sostenía la moneda como algo vivo que mantenía caliente; el diagnóstico entero de la inversión es que ahora la moneda es ella, y nadie la sostiene, ella menos que nadie. El jardín no necesita otro favor. Necesita a su jardinera — comida, descansada, regada como el bien valioso que siempre ha sido, sin que se viera. Ponle a la cocinera la mascarilla de oxígeno primero. En un mes todo el mundo come mejor."
+        ],
+        "work": [
+          "La colega que lo absorbe todo se está agotando, no floreciendo — y el apoyo que vigila le quita oficio a la gente. El cuidado de verdad hace capaz: la meta es un equipo que sobreviva a tus vacaciones."
+        ],
+        "love": [
+          "«Ella nunca pidió nada» — cierto, y ese es el diseño de la trampa. Di una necesidad, en voz alta, antes de que sea tan grande que se justifique sola. El sacrificio callado suma intereses como una deuda."
+        ],
+        "self": [
+          "Pregúntate qué quieres y mide el silencio que sigue — ese es el músculo atrofiado, no que no tengas deseos. Tu nombre, en tu propia lista, a una hora que no sea la última."
+        ],
+        "note": [
+          "No es egoísmo, recibir — los que solo comen y nunca alimentan son otra carta muy distinta. Y no es amor, esa forma de vigilar: el cuidado que necesita que lo necesiten es hambre con delantal."
+        ]
+      }
+    }
+  }
+}

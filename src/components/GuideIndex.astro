@@ -1,0 +1,17 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import IndexLayout from '../layouts/IndexLayout.astro';
+import LanguageSwitcher from './LanguageSwitcher.astro';
+import { guideIndexPath, guidePath, homePath, type Language } from '../lib/i18n';
+type Guide = CollectionEntry<'guides'>;
+interface Props { language: Language; guides: Guide[] }
+const { language, guides } = Astro.props;
+const other: Language = language === 'en' ? 'es' : 'en';
+const path = guideIndexPath(language);
+const title = language === 'en' ? 'Tarot guides | AMULET' : 'Guías de tarot | AMULET';
+const description = language === 'en' ? 'AMULET guides to tarot as a practice of reflection, symbolism and personal exploration.' : 'Guías de AMULET para acercarse al tarot como práctica de reflexión, simbolismo y exploración personal.';
+---
+<IndexLayout language={language} title={title} description={description} canonicalPath={path} alternates={[{ language, path }, { language: other, path: guideIndexPath(other) }]} robots={guides.length ? 'index, follow' : 'noindex, follow'}>
+  <header class="content-header wrap"><a class="brand" href={homePath(language)}>AMULET</a><LanguageSwitcher language={language} currentPath={path} alternatePath={guideIndexPath(other)} /></header>
+  <main class="wrap index-main"><header class="index-intro"><h1>{language === 'en' ? 'Tarot guides' : 'Guías de tarot'}</h1>{guides.length > 0 && <p>{description}</p>}</header>{guides.length > 0 && <ul>{guides.map((guide) => <li><a href={guidePath(language, guide.data.slug)}>{guide.data.title}</a></li>)}</ul>}</main>
+</IndexLayout>

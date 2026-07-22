@@ -1,0 +1,128 @@
+{
+  "id": "seven-of-cups",
+  "number": 7,
+  "order": 28,
+  "arcana": "minor",
+  "suit": "cups",
+  "rank": 7,
+  "image": "/assets/cards/seven-of-cups.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "cups-07.en.md",
+    "es": "cups-07.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "seven-of-cups",
+      "name": "Seven of Cups",
+      "seoTitle": "Seven of Cups Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "The menu mistaken for the meal — options multiplying, each glowing, none tested; the daydream stage overstaying. Wanting everything is the costume…",
+      "summary": "The menu mistaken for the meal — options multiplying, each glowing, none tested; the daydream stage overstaying. Wanting everything is the costume indecision wears. One cup must come down out of the clouds to become real.",
+      "imageDescription": "A silhouetted figure faces seven cups floating in cloud, each holding a different promise: a beautiful face, a veiled glowing form, a serpent, a castle, jewels, a laurel wreath — with a skull faintly traced on its cup — and a dragon. Nothing has been chosen. Nothing, on close inspection, has been touched. The cups are at eye level, which is not where cups that can actually be drunk from sit.",
+      "upright": {
+        "keywords": [
+          "options in a fog, fantasy's buffet, choice paralysis, the seven doors, imagination outrunning selection, dreams not yet audited"
+        ],
+        "essay": [
+          "The suit of feeling reaches the card where feeling becomes fantasy — and multiplies. The Seven of Cups is the buffet of possible lives: the seven tabs open, the seven futures each vivid enough to visit, the season where you are rich in options and paradoxically unable to eat. Everything in the image glows, and the card's first observation is quietly devastating: the figure is a silhouette. Seven fully rendered futures, one unrendered self — because a person who lives at the menu stage becomes, over time, less detailed than their options.",
+          "The card is not against imagination; it is the suit of cups' own element doing what it does best. Every real thing in your life was once a floating cup. The daydream stage is a legitimate stage — possibility must be generated somewhere, and generation requires the fog, the excess, the seven-at-once. If this card arrives at the true beginning of something, it may only be describing brainstorm weather: let the cups float a while longer; do not audit the visions at birth.",
+          "But the Seven usually arrives later than that, when floating has become the lifestyle — and then its anatomy lesson matters. Look at the cups' contents: a face (the relationship imagined), a castle (the security imagined), jewels (the wealth), the wreath (the triumph — with a skull sketched on its cup, victory's fine print), the glowing veiled figure (the vague transcendent something that outcompetes every specific plan precisely because it stays veiled), the serpent and the dragon (the fears, which fantasize exactly as vividly as the hopes and float in the same cloud). The card's point is that unaudited options are not neutral — they cost. Each open possibility bills a small ongoing fee of attention and unmade decision, and seven leases on seven imaginary properties will bankrupt an actual life.",
+          "The exit is not wisdom; it is contact. Fantasies are indistinguishable at cloud level — every cup glows through fog — and they differentiate only when touched: the course actually sampled, the city actually visited, the person actually met for coffee, the business actually sketched on one page with real numbers. Choose the cup you keep returning to and run the cheapest possible experiment on it. Reality will do in one afternoon what comparison-shopping could not do in a year: it will tell you whether the glow was the drink or the fog. And the six unchosen cups? They do not shatter. They return to the general cloud, from which anything can be summoned again — later, by a person who has, at last, a hand instead of a silhouette."
+        ],
+        "work": [
+          "Seven directions, none tested — strategy meetings as fog machines. Run the cheapest real experiment on the recurring option; one afternoon of contact beats a year of comparison."
+        ],
+        "love": [
+          "The imagined face outcompeting available people — or fantasies of the relationship replacing acts within it. Take one vision to coffee; let reality differentiate the glow."
+        ],
+        "self": [
+          "Rich in futures, thin in outline — the self going silhouette behind rendered options. Close six tabs. The cost of open possibilities is billed monthly, in attention."
+        ],
+        "note": [
+          "Not imagination condemned — generation needs fog. And not abundance yet: floating cups can't be drunk from. Options become wealth only on contact."
+        ]
+      },
+      "reversed": {
+        "summary": "The choice made or the illusion punctured — clarity arriving as a narrowing, the fog conceding one solid cup. Decisiveness after the long float. Or retreat's final form: even the fantasies abandoned, fog for fog's sake. Mostly, though: the ground.",
+        "keywords": [
+          "the fog lifting, one cup chosen, illusion named, sobriety of selection, the return of the concrete — or fantasy collapsing into avoidance's last room"
+        ],
+        "essay": [
+          "Reversed, the Seven of Cups is the fog at the end of its lease — and what it leaves behind, in the commonest reading, is the good disillusionment: the moment a shimmering option is finally touched and turns out to be paint, or the moment one cup, tested, holds actual water and gets carried out of the cloud. Both are the same event wearing different faces. Choosing and disenchanting are one motion; every real selection is a small massacre of alternatives, and the reversed Seven marks the reader who has, at last, committed the massacre.",
+          "Honor what this costs before calling it simple. The person leaving the cloud gives up the specific luxury of the menu stage: at the menu, you are always about to be someone extraordinary; at the table, you are someone specific, eating one meal, with a bill on its way. The six unchosen lives do not go silently — they file their appeals at night, in the voice of what if, dressed in the fog that made them beautiful. The card's counsel for this stage is bookkeeping, not romance: the chosen cup will feel smaller than the floating ones for a while, because reality is smaller than fog by definition — smaller, and drinkable, which fog never was. Give the choice its unglamorous first season. Depth of feeling, the whole suit's currency, only ever accrues in a held cup.",
+          "The reversal also covers the puncture arriving from outside: the fantasy audited by events — the idealized person revealing their third dimension, the dream job met in person, the veiled glowing something finally unveiled and found ordinary. This disillusionment feels like loss and functions as revenue: every illusion retired returns its attention-budget to the estate. Grieve the shimmer briefly, then count the refund.",
+          "And the card keeps one dark corner, read rarely but worth naming: the fog turned inward — the person who, unable to choose among the seven, abandons the choosing faculty itself and retreats to a smaller cloud of private unreality, where nothing is decided because nothing is quite real. Fantasy as architecture is a stage; fantasy as anesthesia is a condition, and its tell is that the dreams stop being about anything — no face, no castle, just fog, preferred now to every possible content. If that corner is familiar, the prescription sharpens: not one chosen cup but one concrete hour — the walk, the meal, the physical task — because the road back from fog runs through the body, which has never once believed in floating cups, and has been waiting, patient as ground, this whole time."
+        ],
+        "work": [
+          "The pivot chosen, six tabs closed — expect the picked option to feel smaller than its floating version. It is. It's also the only one with water in it."
+        ],
+        "love": [
+          "The third dimension arriving — the idealized person met in full, the shimmer audited. Grieve briefly; the attention refund is real. Or: the chosen bond, entering its unglamorous, compounding first season."
+        ],
+        "self": [
+          "Choosing and disenchanting are one motion. The what-ifs will appeal at night in fog costume — deny them with bookkeeping: the held cup is drinkable; the six were paint."
+        ],
+        "note": [
+          "Not the death of dreaming — the graduation of one dream into matter. And if even the fog has gone private and contentless: the way back is a concrete hour, not a better vision."
+        ]
+      }
+    },
+    "es": {
+      "slug": "siete-de-copas",
+      "name": "Siete de Copas",
+      "seoTitle": "Siete de Copas en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "Confundir el menú con la comida: opciones que se multiplican, todas brillando, ninguna probada; la fase de soñar despierto que se queda más de la cuenta.…",
+      "summary": "Confundir el menú con la comida: opciones que se multiplican, todas brillando, ninguna probada; la fase de soñar despierto que se queda más de la cuenta. Querer todo es el disfraz de no decidir nada. Una copa tiene que bajar de la nube para volverse real.",
+      "imageDescription": "Una figura en sombra frente a siete copas que flotan en una nube, cada una con una promesa distinta: un rostro hermoso, una forma luminosa cubierta por un velo, una serpiente, un castillo, joyas, una corona de laurel —con una calavera apenas dibujada en su copa— y un dragón. Nada se ha elegido. Nada, si te fijas, se ha tocado siquiera. Las copas quedan a la altura de los ojos, que no es la altura de las copas de las que de verdad se puede beber.",
+      "upright": {
+        "keywords": [
+          "opciones entre la niebla, el bufé de la fantasía, parálisis por exceso de opciones, las siete puertas, la imaginación por delante de la elección, sueños sin poner a prueba"
+        ],
+        "essay": [
+          "El palo del sentir llega a la carta donde el sentir se vuelve fantasía —y se multiplica. El Siete de Copas es el bufé de las vidas posibles: las siete pestañas abiertas, los siete futuros vívidos como para visitarlos uno a uno, la temporada en que eres rica en opciones y, aun así, incapaz de comer. Todo en la imagen brilla, y lo primero que observa la carta es callado y demoledor: la figura es una sombra. Siete futuros dibujados al detalle, un yo sin dibujar —porque quien se queda a vivir en la fase del menú se vuelve, con el tiempo, menos nítido que sus propias opciones.",
+          "La carta no está en contra de la imaginación; es el elemento mismo del palo de copas haciendo lo que mejor sabe. Todo lo real de tu vida fue antes una copa flotante. La fase de soñar despierto es una fase legítima —la posibilidad tiene que nacer en alguna parte, y para nacer necesita la niebla, el exceso, las siete a la vez. Si esta carta llega al verdadero comienzo de algo, quizá solo esté describiendo un clima de lluvia de ideas: deja flotar las copas un rato más; no juzgues las visiones nada más nacer.",
+          "Pero el Siete suele llegar más tarde, cuando flotar ya se ha vuelto la forma de vivir —y entonces importa su lección de anatomía. Mira lo que hay dentro de cada copa: un rostro (la relación imaginada), un castillo (la seguridad imaginada), joyas (la riqueza), la corona (el triunfo —con una calavera dibujada en su copa, la letra pequeña de la victoria), la figura luminosa bajo el velo (ese algo elevado y vago que le gana a cualquier plan concreto justo porque sigue tapado), la serpiente y el dragón (los miedos, que fantasean con la misma nitidez que las esperanzas y flotan en la misma nube). Lo que dice la carta es que las opciones sin probar no son neutras: cuestan. Cada posibilidad abierta te cobra una pequeña cuota constante de atención y de decisión pendiente, y siete alquileres de siete casas imaginarias arruinan una vida de verdad.",
+          "La salida no es sabiduría; es contacto. Las fantasías son indistinguibles a la altura de la nube —todas las copas brillan a través de la niebla— y solo se separan al tocarlas: el curso que de verdad pruebas, la ciudad que de verdad pisas, la persona con la que de verdad quedas a tomar un café, el negocio que de verdad esbozas en una página con números reales. Elige la copa a la que vuelves una y otra vez y hazle la prueba más barata posible. La realidad hará en una tarde lo que comparar no logró en un año: te dirá si el brillo era la bebida o la niebla. ¿Y las seis copas que no elegiste? No se rompen. Vuelven a la nube común, de la que todo puede llamarse otra vez —más tarde, por alguien que por fin tiene una mano en vez de una sombra."
+        ],
+        "work": [
+          "Siete direcciones, ninguna probada —reuniones de estrategia que solo fabrican niebla. Hazle la prueba real más barata a la opción que vuelve una y otra vez; una tarde de contacto le gana a un año de comparar."
+        ],
+        "love": [
+          "El rostro imaginado ganándole a la gente que sí está disponible —o fantasear con la relación en vez de actuar dentro de ella. Lleva una visión a tomar un café; deja que la realidad separe lo que brilla."
+        ],
+        "self": [
+          "Rica en futuros, sin contorno propio —el yo convirtiéndose en sombra detrás de opciones dibujadas al detalle. Cierra seis pestañas. El precio de las posibilidades abiertas se cobra cada mes, en atención."
+        ],
+        "note": [
+          "No es la imaginación condenada —para generar hace falta niebla. Y tampoco es abundancia todavía: de las copas flotantes no se bebe. Las opciones se vuelven riqueza solo al tocarlas."
+        ]
+      },
+      "reversed": {
+        "summary": "La decisión tomada o la ilusión deshecha: la claridad reduce las opciones y la niebla deja una copa sólida. Decidir después de tanto flotar. O reconocer la última forma de la huida: incluso las fantasías abandonadas, solo por seguir en la niebla. Por encima de todo, suelo firme.",
+        "keywords": [
+          "la niebla que se disipa, una copa elegida, la ilusión con nombre, la sobriedad de elegir, el regreso de lo concreto —o la fantasía que se derrumba en el último rincón de la evasión"
+        ],
+        "essay": [
+          "Invertido, el Siete de Copas es la niebla al terminar su contrato —y lo que deja atrás, en la lectura más común, es el buen desencanto: el momento en que por fin tocas una opción reluciente y resulta ser pintura, o el momento en que una copa, ya probada, contiene agua de verdad y sale cargada de la nube. Los dos son el mismo suceso con caras distintas. Elegir y desencantar son un solo gesto; toda elección real es una pequeña matanza de alternativas, y el Siete invertido señala a quien, por fin, ha cometido la matanza.",
+          "Reconoce lo que cuesta antes de llamarlo simple. Quien deja la nube renuncia al lujo concreto de elegir desde un menú: allí siempre estás a punto de ser alguien extraordinario; en la mesa eres alguien concreto, comiendo un plato, con la cuenta ya en camino. Las seis vidas que no elegiste no se van en silencio: vuelven de noche con la voz del «y si», vestidas con la niebla que las hacía hermosas. El consejo de la carta aquí es práctico, no romántico: durante un tiempo, la copa elegida se sentirá más pequeña que las que flotaban, porque la realidad siempre es más pequeña que la niebla, pero también es bebible. Dale a esa elección su primera temporada sin brillo. La profundidad del sentir, la moneda de todo el palo, solo se acumula en una copa que sostienes en la mano.",
+          "La inversión cubre también el pinchazo que llega de fuera: la fantasía puesta a prueba por los hechos —la persona idealizada mostrando su tercera dimensión, el trabajo soñado visto de cerca, ese algo luminoso bajo el velo por fin destapado y resultando corriente. Ese desencanto se siente como pérdida y funciona como ingreso: cada ilusión retirada devuelve su presupuesto de atención al bolsillo. Llora el destello un momento, y luego cuenta lo que te reembolsa.",
+          "Y la carta guarda un rincón oscuro, leído pocas veces pero que merece nombre: la niebla vuelta hacia dentro —quien, incapaz de elegir entre las siete, abandona la propia capacidad de elegir y se retira a una nube más pequeña de irrealidad privada, donde nada se decide porque nada es del todo real. La fantasía como arquitectura es una fase; la fantasía como anestesia es un estado, y se delata cuando los sueños dejan de ser sobre algo —sin rostro, sin castillo, solo niebla, ya preferida a cualquier contenido posible. Si ese rincón te suena, la receta se afina: no una copa elegida, sino una hora concreta —el paseo, la comida, la tarea física— porque el camino de vuelta desde la niebla pasa por el cuerpo, que no ha creído ni una sola vez en las copas flotantes y lleva todo este tiempo esperando, paciente como el suelo."
+        ],
+        "work": [
+          "El giro elegido, seis pestañas cerradas —cuenta con que la opción escogida se sienta más pequeña que su versión flotante. Lo es. También es la única con agua dentro."
+        ],
+        "love": [
+          "La tercera dimensión llegando —la persona idealizada conocida entera, el destello puesto a prueba. Llora un momento; el reembolso de atención es real. O: el vínculo elegido, entrando en su primera temporada sin brillo, la que empieza a rendir."
+        ],
+        "self": [
+          "Elegir y desencantar son un solo gesto. Los y si presentarán su recurso de noche, disfrazados de niebla —niégaselo con cuentas: la copa que sostienes se bebe; las seis eran pintura."
+        ],
+        "note": [
+          "No es la muerte de soñar —es un sueño que se gradúa en materia. Y si hasta la niebla se ha vuelto privada y sin contenido: el camino de vuelta es una hora concreta, no una visión mejor."
+        ]
+      }
+    }
+  }
+}

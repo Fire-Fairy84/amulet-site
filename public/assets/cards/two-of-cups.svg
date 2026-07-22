@@ -1,0 +1,5 @@
+<svg class="arcana-svg" viewBox="0 0 210 363" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="TWO OF CUPS">
+  <rect x="1" y="1" width="208" height="361" rx="12" fill="#0B0908" stroke="#2E5BFF" stroke-opacity="0.35"/>
+  <path d="M83.32,143.3 L126.68,143.3 A21.68,21.68 0 0 1 83.32,143.3 Z" fill="#2E5BFF"/><path d="M83.32,218.3 L126.68,218.3 A21.68,21.68 0 0 1 83.32,218.3 Z" fill="#2E5BFF"/>
+  <text x="105" y="334" text-anchor="middle" font-family="system-ui, Helvetica, sans-serif" font-size="9.5" letter-spacing="3.5" fill="#8E877B">TWO OF CUPS</text>
+</svg>

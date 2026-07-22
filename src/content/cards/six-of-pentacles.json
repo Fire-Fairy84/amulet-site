@@ -1,0 +1,124 @@
+{
+  "id": "six-of-pentacles",
+  "number": 6,
+  "order": 41,
+  "arcana": "minor",
+  "suit": "pentacles",
+  "rank": 6,
+  "image": "/assets/cards/six-of-pentacles.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "pentacles-06.en.md",
+    "es": "pentacles-06.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "six-of-pentacles",
+      "name": "Six of Pentacles",
+      "seoTitle": "Six of Pentacles Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "Help flowing, measured — the raise given, the debt forgiven, the hand extended with the books kept open. Generosity made sustainable by the scales. And…",
+      "summary": "Help flowing, measured — the raise given, the debt forgiven, the hand extended with the books kept open. Generosity made sustainable by the scales. And the card's standing question, asked of every reader: which figure are you right now — and is the position becoming permanent?",
+      "imageDescription": "A merchant in a rich red robe drops coins into the cupped hands of one kneeling figure while a second kneels waiting; his other hand holds a balance scale, level, at shoulder height. The coins are real and really falling — this is the suit's rare image of money in motion between people. But the geometry does the talking: one man stands, two kneel, and the scale hangs exactly at the height where the standing man's generosity becomes the kneeling men's weather.",
+      "upright": {
+        "keywords": [
+          "generosity with a ledger, the scales in the other hand, coins actually falling, who stands and who kneels, all three figures in one lifetime, giving that stands people up"
+        ],
+        "essay": [
+          "The Six of Pentacles is the first card after the winter, and it answers the Five directly: the coins are moving. Someone is giving, someone is receiving, relief is actual — the loan made, the salary raised, the treatment funded, the door held open with money where money was the thing needed. The card honors this plainly before it analyzes anything: most of what survives in the world is carried across its bad seasons by exactly this scene, one hand emptying deliberately into another. And the merchant's second hand holds the card's first teaching: the scales. His giving is measured — not stingy, measured — and the distinction is what makes generosity a practice rather than an incident. The giver who gives without scales gives once, gloriously, and is gone; burned out, resentful, or broke. The one who weighs — this much I can give monthly, this much is mine to keep, this is for two people and not the whole queue — is still giving in ten years. Boundaries are not the enemy of the open hand. They are its pension plan.",
+          "But the card's deeper subject is drawn in the geometry, and it will not let the reader skip it: one figure stands and two kneel, and the coins travel downward. Every act of giving builds a small architecture of positions — helper and helped, solvent and desperate — and the Six asks the giver to notice the architecture with the same care as the amount. There is giving that stands people up: the loan with the business plan reviewed, the introduction that makes the ask unnecessary next time, the money framed as bridge, expected to be crossed. And there is giving that renews the kneeling: help that arrives with a subtle tax of gratitude-performance, assistance that would quietly miss being needed. The test is honest and slightly uncomfortable: imagine the receiver fully recovered, your equal, needing nothing. If the image warms you, the giving is clean. If something in you mourns the kneeling, the coins were buying something.",
+          "The card's second mercy is for the receiver, and it continues the Five's homework: receiving is a skill, and kneeling is a posture, not an identity. Take the help — take it fully, without the groveling that overpays or the bristling that underpays; both are ways of refusing the transaction's simple truth, which is that today the flow runs this way. The receiver's one obligation is not gratitude-theater; it is direction — to be, visibly, in transit through the kneeling position rather than settled into it. And the Six's widest teaching is for everyone at once: over a life, you are all three figures. You have knelt, you will stand, you have been — more often than you noticed — the scales themselves: the person deciding what is fair, writing the policy, setting the salary. The card asks only that whichever position you currently hold, you hold it knowing the others from inside. The standing man who remembers kneeling gives differently. The kneeling man who has stood receives differently. And the scales, held by someone who has been weighed by them, measure something closer to justice than to arithmetic."
+        ],
+        "work": [
+          "The raise, the rate, the budget line — if you hold the scales, weigh remembering you've been weighed. Give what stands people up: the bridge loan, the introduction, the review that ends the needing."
+        ],
+        "love": [
+          "Measured is not stingy — it's what makes the giving repeatable. But run the test: picture them fully recovered, needing nothing. If that image stings, the coins are buying something."
+        ],
+        "self": [
+          "Which figure are you right now — giving, receiving, or setting the terms? All three are honest positions. Only permanence corrupts them."
+        ],
+        "note": [
+          "Not charity as costume — the coins actually fall; relief is real. And not equality yet: the geometry is vertical, and pretending otherwise is the giver's favorite luxury."
+        ]
+      },
+      "reversed": {
+        "summary": "Generosity with a hook in it — the gift that invoices later, the help that requires an audience, the debt dressed as kindness. Or the flow ossified: one always giving, one always kneeling, the roles now load-bearing. Read the thread before accepting. Cut it before giving.",
+        "keywords": [
+          "strings on the gift, the loan wearing generosity's clothes, help that invoices later, giving to be seen, the kneeling written into the deal, flows running one way for years"
+        ],
+        "essay": [
+          "Reversed, the Six of Pentacles is the same coins with threads attached, and the card's first job is teaching the eye to see them at the moment of the gift, not at the moment of the invoice — because the invoice always comes later, when refusing is no longer possible. The gift with strings has a recognizable grammar: it is slightly too large for the relationship; it arrives uninvited at a moment of weakness; it is announced, or announced-adjacent — given where witnesses improve it; and it resists all attempts to convert it into a defined loan (no, no, it's a gift — said in the tone that files it somewhere). Then, months later, the thread pulls: the favor that cannot be declined, the loyalty assumed, the opinion that now expects deference, the I think I've earned the right to say. The reversal's counsel to receivers is due diligence at the doorstep: before accepting anything significant, ask what this costs if things go wrong between us. A clean giver hears that question with respect. A threaded one hears it as betrayal — and that reaction is the answer.",
+          "To givers, the reversal offers a mirror that most would rather not stand in front of: the strings are usually invisible from the sleeve end. Few people experience themselves as buying influence; the sensation from inside is generosity, warmth, being helpful — and the tell is not the intention but the aftermath. Audit your reaction the last time a beneficiary contradicted you in public, needed nothing for a year, thanked someone else. If something in the chest filed a grievance — they forgot what I did — then the gifts have been loans all along, and the interest has been accruing in silence. The fix is not to stop giving; it is to give only what you can watch walk away. Anything you cannot afford to lose track of — money, favors, sacrifices — should be structured as what it is: a loan, with terms, on paper. Clean debt is a kindness. Disguised debt is a trap with a bow on it.",
+          "And the card's third face is the ossified flow: the relationship, family, or workplace where the coins have run one direction for years and the geometry has set like concrete — the sibling who always rescues and the one who always needs it, the friend whose crises are structural, the parent whose money never stopped arriving and never stopped voting. Here both parties are kneeling, in a sense: the receiver in the stone hollows, and the giver bent under a role that cannot be put down because the whole arrangement — and someone's self-worth — is balanced on it. The reversal asks the load-bearing question: what would happen if the flow stopped? If the honest answer is the relationship would end, then the coins were the relationship, and both of you deserve to know that while there is time to build something else. Interrupting an ossified flow is delicate work — a taper, not an amputation; the scales brought back out; the terms finally spoken aloud after years of silence. It will be called cold by whoever benefited from the warmth's vagueness. It is the opposite: it is the first act in either direction, in years, with no thread on it."
+        ],
+        "work": [
+          "The mentor whose help now votes on your choices, the bonus that buys silence — before accepting, ask what it costs if things sour. A clean giver respects the question; a threaded one's reaction is the answer."
+        ],
+        "love": [
+          "Audit the aftermath, not the intention: if their independence filed a grievance in your chest, the gifts were loans. Give only what you can watch walk away."
+        ],
+        "self": [
+          "If the flow stopped, would the relationship survive? If not, the coins were the relationship. Taper, bring out the scales, say the terms aloud — after years, that's warmth, not coldness."
+        ],
+        "note": [
+          "Not all help — clean gifts exist; they survive scrutiny and forget themselves. And not the receiver's shame: the thread was tied in the sleeve, not in the kneeling."
+        ]
+      }
+    },
+    "es": {
+      "slug": "seis-de-oros",
+      "name": "Seis de Oros",
+      "seoTitle": "Seis de Oros en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "La ayuda que fluye, medida — el aumento concedido, la deuda perdonada, la mano tendida con las cuentas a la vista. Generosidad que se sostiene gracias a…",
+      "summary": "La ayuda que fluye, medida — el aumento concedido, la deuda perdonada, la mano tendida con las cuentas a la vista. Generosidad que se sostiene gracias a la balanza. Y la pregunta que la carta le deja siempre a quien la lee: ¿qué figura eres ahora mismo — y esa posición se está volviendo permanente?",
+      "imageDescription": "Un mercader de rica túnica roja deja caer monedas en las manos ahuecadas de una figura arrodillada mientras una segunda espera de rodillas; su otra mano sostiene una balanza, nivelada, a la altura del hombro. Las monedas son reales y caen de verdad — esta es la rara imagen del palo con dinero moviéndose entre personas. Pero lo que habla es la geometría: un hombre de pie, dos de rodillas, y la balanza cuelga justo a la altura donde la generosidad del que está de pie se vuelve el clima en que viven los que se arrodillan.",
+      "upright": {
+        "keywords": [
+          "generosidad con libro de cuentas, la balanza en la otra mano, monedas que caen de verdad, quién está de pie y quién de rodillas, las tres figuras en una misma vida, dar lo que pone a la gente de pie"
+        ],
+        "essay": [
+          "El Seis de Oros es la primera carta después del invierno, y responde al Cinco de frente: las monedas se mueven. Alguien da, alguien recibe, el alivio es de verdad — el préstamo hecho, el sueldo subido, el tratamiento pagado, la puerta que el dinero mantiene abierta cuando el dinero era justo lo que hacía falta. La carta honra esto sin rodeos antes de analizar nada: casi todo lo que sobrevive en el mundo cruza sus malas épocas sostenido por exactamente esta escena, una mano vaciándose a propósito en otra. Y la segunda mano del mercader sostiene la primera enseñanza de la carta: la balanza. Su dar es medido — no tacaño, medido — y esa diferencia es lo que hace de la generosidad una práctica y no un arrebato. Quien da sin balanza da una vez, a lo grande, y desaparece; agotado, resentido o en la ruina. Quien pesa — esto puedo dar al mes, esto es mío y me lo quedo, esto alcanza para dos personas y no para toda la fila — sigue dando dentro de diez años. Los límites no son enemigos de la mano abierta. Son lo que la mantiene abierta a largo plazo.",
+          "Pero el tema más hondo de la carta está dibujado en la geometría, y no deja que quien lee se lo salte: una figura de pie y dos de rodillas, y las monedas viajan hacia abajo. Cada acto de dar levanta una pequeña arquitectura de posiciones — quien ayuda y quien es ayudado, el que tiene y el que está desesperado — y el Seis le pide al que da que se fije en esa arquitectura con el mismo cuidado que en la cantidad. Hay un dar que pone a la gente de pie: el préstamo con el plan de negocio revisado, la presentación que hace que la próxima vez ya no tengas que pedir, el dinero que se ofrece como puente, para que se cruce. Y hay un dar que perpetúa el arrodillarse: la ayuda que llega con un impuesto disimulado de gratitud fingida, la asistencia que en el fondo echaría de menos que ya no la necesiten. La prueba es honesta e incomoda un poco: imagina al que recibe del todo recuperado, tu igual, sin necesitar nada. Si esa imagen te alegra, el dar es limpio. Si algo en ti lamenta que ya no esté de rodillas, las monedas estaban comprando algo.",
+          "La segunda misericordia de la carta es para quien recibe, y sigue la lección del Cinco: recibir es una destreza, y arrodillarse es una postura, no una identidad. Acepta la ayuda — acéptala entera, sin el arrastrarse que paga de más ni el ponerse a la defensiva que paga de menos; las dos cosas son maneras de negar la verdad simple del intercambio, que hoy el flujo corre en esta dirección. La única obligación de quien recibe no es el teatro de la gratitud; es la dirección — estar, a la vista, de paso por la posición de rodillas y no instalado en ella. Y la enseñanza más amplia del Seis es para todos a la vez: a lo largo de una vida, eres las tres figuras. Te has arrodillado, estarás de pie, y has sido — más veces de las que notaste — la balanza misma: quien decide qué es justo, quien redacta la norma, quien fija el sueldo. La carta solo pide que, ocupes la posición que ocupes ahora, la ocupes conociendo las otras por dentro. El que está de pie y recuerda haberse arrodillado da distinto. El que está de rodillas y ya estuvo de pie recibe distinto. Y la balanza, sostenida por alguien a quien ella misma ha pesado, mide algo más cercano a la justicia que a la aritmética."
+        ],
+        "work": [
+          "El aumento, la tarifa, la partida del presupuesto — si sostienes la balanza, pesa recordando que a ti también te han pesado. Da lo que pone a la gente de pie: el préstamo puente, la presentación, la revisión que acaba con la necesidad."
+        ],
+        "love": [
+          "Medido no es tacaño — es lo que hace que puedas seguir dando. Pero haz la prueba: imagínalos del todo recuperados, sin necesitar nada. Si esa imagen escuece, las monedas están comprando algo."
+        ],
+        "self": [
+          "¿Qué figura eres ahora mismo — la que da, la que recibe, o la que fija las condiciones? Las tres son posiciones honestas. Solo la permanencia las corrompe."
+        ],
+        "note": [
+          "No es caridad de fachada — las monedas caen de verdad; el alivio es real. Y todavía no es igualdad: la geometría es vertical, y fingir lo contrario es el lujo favorito del que da."
+        ]
+      },
+      "reversed": {
+        "summary": "Generosidad con anzuelo dentro — el regalo que luego pasa factura, la ayuda que necesita público, la deuda disfrazada de bondad. O el flujo endurecido: uno siempre dando, otro siempre de rodillas, y los papeles ya cargando peso. Lee el hilo antes de aceptar. Córtalo antes de dar.",
+        "keywords": [
+          "hilos atados al regalo, el préstamo disfrazado de generosidad, la ayuda que pasa factura después, dar para que te vean, las rodillas metidas en el trato, flujos que corren en un solo sentido durante años"
+        ],
+        "essay": [
+          "Invertido, el Seis de Oros son las mismas monedas con hilos atados, y lo primero que hace la carta es enseñarle al ojo a verlos en el momento del regalo, no en el de la factura — porque la factura llega siempre después, cuando ya no puedes negarte. El regalo con hilos tiene un patrón reconocible: es un poco demasiado grande para la relación que tenéis; llega sin que lo pidieras, en un momento de debilidad; se anuncia, o casi — se da donde hay testigos que lo lucen; y se resiste a cualquier intento de convertirlo en un préstamo con condiciones claras (no, no, es un regalo — dicho en el tono que lo guarda para cobrarlo luego). Después, meses más tarde, el hilo tira: el favor que no puedes rechazar, la lealtad que se da por hecha, la opinión que ahora espera que le hagas caso, el creo que me he ganado el derecho a decirte. Lo que la carta invertida aconseja a quien recibe: mira bien antes de cruzar la puerta. Antes de aceptar algo importante, pregunta ¿qué me cuesta esto si la cosa se tuerce entre nosotros? Quien da limpio oye esa pregunta con respeto. Quien ata hilos la oye como una traición — y esa reacción es la respuesta.",
+          "A quien da, la carta invertida le ofrece un espejo delante del cual pocos quieren ponerse: desde el lado de la manga, los hilos suelen ser invisibles. Casi nadie se vive a sí mismo comprando influencia; por dentro se siente generosidad, calidez, estar echando una mano — y la señal no está en la intención sino en lo que viene después. Repasa cómo reaccionaste la última vez que alguien a quien ayudaste te llevó la contraria en público, pasó un año sin necesitarte, le dio las gracias a otro. Si algo en el pecho puso una queja — se olvidó de todo lo que hice por él — entonces los regalos eran préstamos desde el principio, y el interés se ha ido acumulando en silencio. El arreglo no es dejar de dar; es dar solo lo que puedas ver marcharse sin echarlo en falta. Todo lo que no puedas permitirte perder de vista — dinero, favores, sacrificios — debe montarse como lo que es: un préstamo, con condiciones, por escrito. La deuda clara es un acto de bondad. La deuda disfrazada es una trampa con lazo.",
+          "Y la tercera cara de la carta es el flujo endurecido: la relación, la familia o el trabajo donde las monedas llevan años corriendo en un solo sentido y la geometría ha fraguado como el cemento — el hermano que siempre rescata y el que siempre lo necesita, la amiga cuyas crisis ya son parte de la estructura, el padre cuyo dinero nunca dejó de llegar y nunca dejó de mandar. Aquí ambas partes están de rodillas, en cierto modo: quien recibe, en los huecos de la piedra, y quien da, doblado bajo un papel que no puede soltar porque todo el arreglo — y la autoestima de alguien — se sostiene encima. La carta invertida hace la pregunta que carga el peso: ¿qué pasaría si el flujo se detuviera? Si la respuesta honesta es la relación se acabaría, entonces las monedas eran la relación, y los dos merecéis saberlo mientras hay tiempo de construir otra cosa. Cortar un flujo endurecido es trabajo delicado — se reduce poco a poco, no se amputa; se vuelve a sacar la balanza; se dicen por fin en voz alta las condiciones tras años de silencio. Lo llamará frialdad quien salía ganando con la vaguedad del calor. Es lo contrario: es el primer gesto en años, en cualquiera de las dos direcciones, sin ningún hilo atado."
+        ],
+        "work": [
+          "El mentor cuya ayuda ahora opina sobre tus decisiones, el bonus que compra silencio — antes de aceptar, pregunta qué te cuesta si la cosa se tuerce. Quien da limpio respeta la pregunta; por el de los hilos responde su reacción."
+        ],
+        "love": [
+          "Fíjate en lo que viene después, no en la intención: si su independencia te puso una queja en el pecho, los regalos eran préstamos. Da solo lo que puedas ver marcharse sin echarlo en falta."
+        ],
+        "self": [
+          "Si el flujo se detuviera, ¿sobreviviría la relación? Si no, las monedas eran la relación. Reduce poco a poco, saca la balanza, di las condiciones en voz alta — tras años, eso es calor, no frialdad."
+        ],
+        "note": [
+          "No es toda ayuda — los regalos limpios existen; aguantan cualquier escrutinio y se olvidan de sí mismos. Y no es vergüenza de quien recibe: el hilo se ató en la manga, no en las rodillas."
+        ]
+      }
+    }
+  }
+}

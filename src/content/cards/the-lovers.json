@@ -1,0 +1,134 @@
+{
+  "id": "the-lovers",
+  "number": 6,
+  "order": 6,
+  "arcana": "major",
+  "suit": null,
+  "rank": null,
+  "image": "/assets/cards/the-lovers.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "06-lovers.en.md",
+    "es": "06-lovers.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "the-lovers",
+      "name": "The Lovers",
+      "seoTitle": "The Lovers Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "A genuine fork: both roads real, both defensible. The bond made by choosing it — and choosing it again on ordinary days. Values put where the mouth is.…",
+      "summary": "A genuine fork: both roads real, both defensible. The bond made by choosing it — and choosing it again on ordinary days. Values put where the mouth is. The offer on the table is asking who you are, not just what you want.",
+      "imageDescription": "A man and a woman stand naked under a great angel with outstretched wings and a sun overhead. Behind her, a fruit tree with a serpent wound through it; behind him, a tree of twelve small flames. Between them, in the distance, a single mountain. The angel's hands are open in blessing — blessing, not pointing.",
+      "upright": {
+        "keywords": [
+          "choice, union, alignment of values, what is joined by deciding, the real fork, intimacy as decision"
+        ],
+        "essay": [
+          "A real choice has arrived, and you can tell it is real by the way it hurts. False choices are easy — one option is secretly dead, and picking the live one just takes admin. The Lovers marks the rare, expensive kind: two live roads, two defensible futures, and no arrangement of pros and cons that decides it for you. The spreadsheet was never going to finish this. You knew that when you started it.",
+          "Look at the angel: hands open, blessing the scene, pointing at nothing. This is the card's whole theology. Whatever watches over your life approves of you choosing — it declines to choose for you. The figures stand naked, which is the second clause: a choice this size can only be made by someone fully seen, with the armor off, in front of at least one witness. Choices made in costume have to be re-made later.",
+          "Behind each figure stands a tree — one of flames, one of fruit with a serpent in it. Desire on one side; knowledge, with its consequences, on the other. Every real fork runs between these trees. You are not choosing between good and bad; that would be simple. You are choosing between goods, and what you pick will tell you — with uncomfortable precision — who you have become while you weren't checking.",
+          "The card is also about union, and it defines it strictly: not weather, a decision. The bond that lasts is not the one that never wavers; it is the one that gets chosen again, deliberately, on unremarkable Tuesdays, when choosing it earns no applause. Intimacy as a series of small ratifications. Anyone can choose someone once.",
+          "Alignment is the quieter theme. The Lovers audits whether your stated values and your calendar agree — whether what you say matters is what your hours are spent on. When they diverge, the card registers the static before you do.",
+          "The mountain between the figures is not an error in the composition. Even joined, they are two. Union is not fusion; the distance is part of the picture, and the love crosses it daily or it is not crossing at all."
+        ],
+        "work": [
+          "The offer that asks who you are, not just what it pays. Split paths, both real: the safe build or the true one. Whatever you choose, choose it — half-taken jobs cost double."
+        ],
+        "love": [
+          "Intimacy as decision, not weather. The bond ratified in small daily ways; being fully seen and choosing anyway — and being chosen with your armor off."
+        ],
+        "self": [
+          "Integration: the two pulls in you are not a malfunction. What you choose defines you more honestly than what you claim."
+        ],
+        "note": [
+          "Not fate. The angel blesses; the humans choose. Nothing here happens to you — it is decided by you, which is heavier and better."
+        ]
+      },
+      "reversed": {
+        "summary": "The choice deferred until it decays into circumstance. Wanting both and holding neither. Together in the room, apart in the aim. Acting against your own values and feeling the static of it all day.",
+        "keywords": [
+          "misalignment, the fork avoided, wanting both and holding neither, the bond on inertia, values at odds with the calendar"
+        ],
+        "essay": [
+          "The choice you keep not making is still being made. That is the reversed card's uncomfortable arithmetic: deferral is not neutral. Every week the fork goes unchosen, drift chooses — by calendar, by default, by whoever else in the situation is willing to decide. You will still arrive somewhere. You just won't have picked it, and it will fit accordingly.",
+          "Wanting both is human; holding both is a full-time job with no salary. The energy currently going into keeping two futures alive — half-commitments, hedged sentences, options maintained like second homes — is energy neither future receives. Things kept possible too long stop being possible; they expire quietly, without a scene, and you find out later.",
+          "In a bond, this card names a specific weather: together in the room, apart in the aim. The logistics still function — schedules mesh, the household runs — while the direction quietly forked some time ago. Nobody lied. The conversation that would surface it keeps being postponed because it is heavy, and it is heavy because it keeps being postponed. Inertia is a competent manager and a terrible reason.",
+          "There is also the private version: acting against your own values and feeling it. The low-grade static of misalignment — saying yes where you mean no, funding with your hours what you would not defend out loud. It does not announce itself as crisis. It announces itself as tiredness that sleep doesn't fix.",
+          "The fork is still there. That is the card's mercy. Deferred is not forfeited — but the road back to the choice gets longer each season, and some of the crossing must now be done in honesty rather than convenience. Deciding late is still deciding. It is the last version of the choice that is fully yours."
+        ],
+        "work": [
+          "Split loyalties draining both projects; the hedge that costs more than either bet. The role you neither commit to nor leave."
+        ],
+        "love": [
+          "The talk both of you can feel and neither schedules. Running on logistics while the aim diverges. Inertia doing commitment's job, badly."
+        ],
+        "self": [
+          "Saying yes where you mean no, and paying in static. Your values and your hours in different currencies."
+        ],
+        "note": [
+          "Not doom. The fork is still there; the angel is still patient. Deferred is not yet forfeited — but the meter is running."
+        ]
+      }
+    },
+    "es": {
+      "slug": "los-enamorados",
+      "name": "Los Enamorados",
+      "seoTitle": "Los Enamorados en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "Una bifurcación de verdad: dos caminos vivos, los dos con sentido. El vínculo que se hace al elegirlo, y al volver a elegirlo en días corrientes. Vivir…",
+      "summary": "Una bifurcación de verdad: dos caminos vivos, los dos con sentido. El vínculo que se hace al elegirlo, y al volver a elegirlo en días corrientes. Vivir según lo que dices que crees. La oferta que tienes delante te pregunta quién eres, no solo qué quieres.",
+      "imageDescription": "Un hombre y una mujer de pie, desnudos, bajo un gran ángel de alas extendidas y un sol en lo alto. Detrás de ella, un árbol frutal con una serpiente enroscada; detrás de él, un árbol de doce llamas pequeñas. Entre ambos, a lo lejos, una sola montaña. Las manos del ángel están abiertas en bendición: bendice, no señala el camino.",
+      "upright": {
+        "keywords": [
+          "elección, unión, valores alineados, lo que se une al decidir, la bifurcación real, la intimidad como decisión"
+        ],
+        "essay": [
+          "Ha llegado una elección de verdad, y notas que lo es porque duele. Las elecciones fáciles son las falsas: una de las opciones está muerta por dentro, y quedarte con la que vive es puro trámite. Los Enamorados marcan la clase rara y cara: dos caminos vivos, los dos con futuro, y ninguna lista de pros y contras que decida por ti. La hoja de cálculo nunca iba a resolver esto. Ya lo sabías cuando la empezaste.",
+          "Mira al ángel: manos abiertas, bendiciendo la escena, sin señalar ningún lado. Ahí está todo el mensaje de la carta. Eso que cuida tu vida aprueba que elijas, pero no elige por ti. Las figuras están desnudas, y esa es la segunda parte: una elección de este tamaño solo la puede hacer alguien a quien se ve entero, sin defensas, delante de al menos un testigo. Las elecciones hechas con máscara toca rehacerlas más tarde.",
+          "Detrás de cada figura hay un árbol, uno de llamas y otro con fruta y serpiente. El deseo de un lado; el conocimiento, con sus consecuencias, del otro. Toda bifurcación real pasa entre esos dos árboles. No eliges entre el bien y el mal, que eso sería fácil. Eliges entre dos cosas buenas, y lo que escojas te dirá, con una precisión incómoda, en quién te has convertido mientras mirabas hacia otro lado.",
+          "La carta también habla de unión, y la define sin adornos: no es un estado de ánimo, es una decisión. El vínculo que dura no es el que nunca duda, es el que se vuelve a elegir, a propósito, un martes cualquiera, cuando elegirlo no te aplaude nadie. La intimidad como una suma de pequeños \"sí, otra vez\". Elegir a alguien una vez lo hace cualquiera.",
+          "La alineación es el tema más callado. Los Enamorados revisan si lo que dices que te importa y aquello a lo que dedicas tus horas van de acuerdo. Cuando dejan de coincidir, la carta lo nota antes que tú.",
+          "La montaña entre las dos figuras no es un fallo del dibujo. Aunque estén unidos, siguen siendo dos. Unirse no es fundirse; la distancia también forma parte de la escena, y el amor la cruza cada día o no está cruzando nada."
+        ],
+        "work": [
+          "La oferta que te pregunta quién eres, no solo cuánto paga. Dos caminos, los dos reales: lo seguro o lo verdadero. Elijas lo que elijas, entrégate; los trabajos aceptados a medias cuestan el doble."
+        ],
+        "love": [
+          "La intimidad como decisión, no como estado de ánimo. El vínculo que se confirma en gestos pequeños del día a día; que te vean entera y aun así te elijan, y que te elijan sin tus defensas puestas."
+        ],
+        "self": [
+          "Integrar: los dos tirones que sientes no son un fallo. Lo que eliges te define con más verdad que lo que dices de ti."
+        ],
+        "note": [
+          "No es destino. El ángel bendice; los humanos eligen. Nada de esto te pasa por casualidad, lo decides tú, que pesa más y es mejor."
+        ]
+      },
+      "reversed": {
+        "summary": "La elección aplazada hasta que se pudre y se vuelve circunstancia. Querer las dos cosas y no sostener ninguna. Juntos en la misma habitación, cada uno mirando a un sitio distinto. Ir en contra de tus propios valores y sentir el zumbido de fondo todo el día.",
+        "keywords": [
+          "desalineación, la bifurcación esquivada, querer las dos cosas y no sostener ninguna, el vínculo por inercia, los valores reñidos con la agenda"
+        ],
+        "essay": [
+          "La elección que sigues sin tomar se está tomando igual. Esa es la cuenta incómoda de la carta invertida: aplazar no es neutro. Cada semana que dejas la bifurcación sin elegir, elige la deriva por ti, por agenda, por defecto, por quien en la situación sí esté dispuesto a decidir. Vas a llegar a algún sitio de todas formas. Solo que no lo habrás elegido tú, y te quedará como te queda todo lo que no eliges: a medias.",
+          "Querer las dos cosas es humano; sostener las dos es un trabajo a jornada completa sin sueldo. La energía que ahora gastas en mantener vivos dos futuros, con compromisos a medias, frases con red por si acaso, opciones que guardas por si las moscas, es energía que no recibe ninguno de los dos futuros. Lo que mantienes posible demasiado tiempo deja de ser posible; se te caduca en silencio, sin escena, y te enteras después.",
+          "En una relación, esta carta señala un clima concreto: juntos en la misma habitación, cada uno mirando a un sitio distinto. La logística sigue funcionando, los horarios encajan, la casa marcha, mientras el rumbo se separó, sin ruido, hace ya tiempo. Nadie mintió. La conversación que lo pondría todo sobre la mesa se aplaza una y otra vez porque pesa, y pesa porque se aplaza una y otra vez. La inercia gestiona bien y es una razón malísima.",
+          "Está también la versión privada: ir en contra de tus propios valores y notarlo. El zumbido de fondo de la desalineación, decir sí donde quieres decir no, pagar con tus horas algo que no defenderías en voz alta. No se presenta como una crisis. Se presenta como un cansancio que dormir no arregla.",
+          "La bifurcación sigue ahí. Ese es el respiro de la carta. Aplazado no es perdido, pero el camino de vuelta a la elección se alarga cada temporada, y parte del cruce ahora habrá que hacerlo por honestidad y no por comodidad. Decidir tarde sigue siendo decidir. Es la última versión de la elección que es del todo tuya."
+        ],
+        "work": [
+          "Lealtades partidas que desangran los dos proyectos; la red de seguridad que cuesta más que cualquiera de las dos apuestas. El puesto que ni asumes ni dejas."
+        ],
+        "love": [
+          "La conversación que los dos sienten y ninguno agenda. Tirar de logística mientras el rumbo se separa. La inercia haciendo el trabajo del compromiso, y mal."
+        ],
+        "self": [
+          "Decir sí donde quieres decir no, y pagarlo en zumbido de fondo. Tus valores y tus horas en monedas distintas."
+        ],
+        "note": [
+          "No es una condena. La bifurcación sigue ahí; el ángel sigue paciente. Aplazado todavía no es perdido, pero el reloj corre."
+        ]
+      }
+    }
+  }
+}

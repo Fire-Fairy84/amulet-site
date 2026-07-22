@@ -1,0 +1,134 @@
+{
+  "id": "the-magician",
+  "number": 1,
+  "order": 1,
+  "arcana": "major",
+  "suit": null,
+  "rank": null,
+  "image": "/assets/cards/the-magician.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "01-magician.en.md",
+    "es": "01-magician.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "the-magician",
+      "name": "The Magician",
+      "seoTitle": "The Magician Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "Capability meeting opportunity, on purpose. The tools are already owned; what changes today is that somebody aims them. Making, not waiting — agency…",
+      "summary": "Capability meeting opportunity, on purpose. The tools are already owned; what changes today is that somebody aims them. Making, not waiting — agency recovered and spent. Skill is sufficient; the missing ingredient was never equipment.",
+      "imageDescription": "A figure stands at a table that holds one of everything: cup, coin, sword, staff — all four suits, the complete kit. One hand raises a white wand to the sky; the other points at the ground, closing the circuit. Above the head, a sideways figure eight; around the waist, a snake biting its own tail. Roses and lilies grow thick around the table, as if the garden approved.",
+      "upright": {
+        "keywords": [
+          "will, skill, focus, resources already at hand, craft over miracle, as above so below, making instead of waiting"
+        ],
+        "essay": [
+          "Count what is on the table before you say what is missing. That is the entire card. The Magician is not the person with the most resources; it is the person who stopped taking inventory. Cup, coin, sword, staff — feeling, money, thought, desire. You have a working version of each. You have had them for a while.",
+          "The posture matters more than the props: one hand to the sky, one to the ground. The Magician does not generate the current; it conducts it. Whatever you want to call the sky — the idea, the ambition, the thing you saw once and could not unsee — it only becomes real through a hand pointed at the ground, at the actual, at today. Between inspiration and Tuesday there is a wire, and you are it.",
+          "There is a version of you that has been \"almost qualified\" for some time now. Asking for one more credential, one more year, one more tool is a respectable way of never being measured. When this card arrives, it tends to mean the measuring is ready to happen — and that you would pass.",
+          "The infinity sign over the head is not mysticism; it is a diagram of attention. Focus that returns to the same point, again and again, without leaking. That loop is the whole magic. From outside it will look like talent. From inside it is repetition with intent, which is less romantic and much more available.",
+          "One edge to watch: a Magician is a performer by trade, and the demonstration of capability can quietly replace the work itself. The talk that goes better than the doing. The tools polished and displayed. If the applause has started arriving before the results, the card is naming that too.",
+          "The question underneath: what would you begin this week if you believed — even provisionally — that the table was already complete?"
+        ],
+        "work": [
+          "The skill is sufficient — use it. The project that needs your existing tools, not new ones. A pitch, a prototype, a first version made with what is in the room. Stop shopping for equipment."
+        ],
+        "love": [
+          "Intention shown in action: the plan actually made, the date actually set, the words actually said. Wanting, demonstrated. Charm is fine; follow-through is the spell."
+        ],
+        "self": [
+          "Agency recovered. The move from \"it happens to me\" to \"I do it.\" Your own hands rediscovered as instruments rather than evidence."
+        ],
+        "note": [
+          "Not magic from nowhere. It is craft, applied — the wand works because the hand is trained."
+        ]
+      },
+      "reversed": {
+        "summary": "Skill leaking into cleverness. Ability that is real but aimed at nothing — or aimed at persuasion instead of production. A con taking shape, by you or on you; check both directions. Ten projects at ten percent.",
+        "keywords": [
+          "scattered talent, tricks, manipulation, potential unapplied or misapplied, the demo without the product, busywork"
+        ],
+        "essay": [
+          "Reversed, the Magician has the same hands and the same table. Nothing was confiscated. What is missing is the aim — the talent leaks out sideways, in tricks, in dazzle, in beginnings. You may know this leak personally: the demonstration that goes brilliantly, the follow-up that never quite gets scheduled.",
+          "The card reads two ways, and it is honest to check both. Outward: persuasion shading into performance shading into con — someone in the picture is being managed rather than met, and it may not be you doing it. Inward: dispersal. The gift split across so many small applications that no single one ever accumulates. Both are the same failure at different addresses — power without a single point of contact.",
+          "Busy is not the same as working, and the reversed Magician knows the difference intimately, at around eleven at night. The rearranging of tools. The research that is really rehearsal. The rehearsal that is really postponement. A talent can be maintained for years in demonstration condition without ever being spent on anything, like a car kept in a garage and started weekly.",
+          "Underselling and overselling turn out to be the same wound: the gift has never been properly measured, so it gets marketed instead — inflated for strangers, discounted for yourself, never tested at actual size. The test is what the card is circling.",
+          "The repair is unglamorous. Not more tools; the inventory is closed. One aim, chosen small enough to be finished, and the circuit closes on its own: sky, hand, ground, result. The infinity sign steadies at the first completed thing."
+        ],
+        "work": [
+          "Busywork instead of the work. Credit taken by charm somewhere near you, or effort scattered across everything and landing on nothing. Ship one small true thing."
+        ],
+        "love": [
+          "Charm as performance — the persona attending the relationship while the person stays home. Or someone being played; read the sleight of hand generously but read it."
+        ],
+        "self": [
+          "Underselling or overselling the same gift, depending on the audience. The measurement avoided. Talent kept in demonstration condition, never spent."
+        ],
+        "note": [
+          "Not the absence of talent. Talent unaimed — which is why the card still counts as good news, provisionally."
+        ]
+      }
+    },
+    "es": {
+      "slug": "el-mago",
+      "name": "El Mago",
+      "seoTitle": "El Mago en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "La capacidad se cruza con la oportunidad, a propósito. Las herramientas ya son tuyas, y lo que cambia hoy es que alguien las apunta. Hacer en vez de…",
+      "summary": "La capacidad se cruza con la oportunidad, a propósito. Las herramientas ya son tuyas, y lo que cambia hoy es que alguien las apunta. Hacer en vez de esperar, recuperar el mando y usarlo. El oficio basta, porque lo que faltaba nunca fue equipo.",
+      "imageDescription": "Una figura de pie ante una mesa con uno de cada: copa, oro, espada, basto, los cuatro palos, el equipo completo. Una mano alza una vara blanca hacia el cielo y la otra apunta al suelo, cerrando el circuito. Sobre la cabeza lleva un ocho tumbado, y en la cintura, una serpiente que se muerde la cola. Rosas y lirios crecen espesos alrededor de la mesa, como si el jardín estuviera de acuerdo.",
+      "upright": {
+        "keywords": [
+          "voluntad, oficio, foco, recursos que ya tienes, artesanía antes que milagro, como es arriba es abajo, hacer en vez de esperar"
+        ],
+        "essay": [
+          "Cuenta lo que hay sobre la mesa antes de decir qué falta. Ahí está la carta entera. El Mago no es quien más recursos tiene, sino quien dejó de hacer inventario. Copa, oro, espada, basto: sentimiento, dinero, pensamiento, deseo. Tienes una versión que funciona de cada uno, y la tienes desde hace tiempo.",
+          "La postura importa más que los objetos: una mano al cielo, otra al suelo. El Mago no crea la corriente, la conduce. Llámale como quieras al cielo, la idea, la ambición, eso que viste una vez y ya no pudiste dejar de ver, pero solo se vuelve real a través de una mano que apunta al suelo, a lo concreto, al hoy. Entre la inspiración y el martes hay un cable, y ese cable eres tú.",
+          "Hay una versión de ti que lleva tiempo \"casi lista\". Pedir un título más, un año más, una herramienta más es una forma respetable de no dejarse medir nunca. Cuando sale esta carta, suele querer decir que ya es el momento de medirte, y que aprobarías.",
+          "El símbolo de infinito sobre la cabeza no es misticismo, sino un diagrama de la atención. Un foco que vuelve al mismo punto una y otra vez, sin escaparse. Ese bucle es toda la magia. Desde fuera parecerá talento, pero por dentro es repetición con intención, que es menos romántico y está mucho más a tu alcance.",
+          "Un punto que vigilar: el Mago es artista de escenario por oficio, y demostrar que puedes hacer algo llega a sustituir, sin que te des cuenta, al hecho de hacerlo. La charla que sale mejor que la obra. Las herramientas pulidas y en exposición. Si los aplausos empezaron a llegar antes que los resultados, la carta también está señalando eso.",
+          "La pregunta de fondo: ¿qué empezarías esta semana si creyeras, aunque fuera por probar, que la mesa ya está completa?"
+        ],
+        "work": [
+          "El oficio basta, así que úsalo. El proyecto que necesita tus herramientas de siempre, no unas nuevas. Una propuesta, un prototipo, una primera versión hecha con lo que hay en la sala. Deja de comprar equipo."
+        ],
+        "love": [
+          "La intención puesta en actos: el plan que por fin se hace, la cita que por fin se pone, las palabras que por fin se dicen. Querer, demostrado. El encanto está bien, pero el hechizo es cumplir."
+        ],
+        "self": [
+          "Recuperar el mando. El paso de \"me pasa\" a \"lo hago\". Tus propias manos, redescubiertas como herramientas y no como prueba de nada."
+        ],
+        "note": [
+          "No es magia que sale de la nada. Es oficio aplicado: la vara funciona porque la mano está entrenada."
+        ]
+      },
+      "reversed": {
+        "summary": "El oficio que se fuga en astucia. Una capacidad real apuntada a nada, o apuntada a convencer en vez de a producir. Un engaño tomando forma, tuyo o hacia ti, así que mira las dos direcciones. Diez proyectos al diez por ciento.",
+        "keywords": [
+          "talento disperso, trucos, manipulación, potencial sin usar o mal usado, la demo sin el producto, hacer por hacer"
+        ],
+        "essay": [
+          "Invertido, el Mago tiene las mismas manos y la misma mesa. No le quitaron nada. Lo que falta es la puntería: el talento se escapa por los lados, en trucos, en deslumbrar, en empezar cosas. Puede que conozcas esa fuga en carne propia, la demostración que sale brillante y el paso siguiente que nunca acabas de agendar.",
+          "La carta se lee en dos direcciones, y lo honesto es mirar las dos. Hacia fuera, convencer que se convierte en actuar, y actuar que se convierte en engañar: a alguien de la escena lo están manejando en vez de tratarlo de verdad, y puede que no seas tú quien lo hace. Hacia dentro, la dispersión: el don repartido en tantas cosas pequeñas que ninguna llega a sumar nada. Son el mismo fallo en dos sitios distintos, fuerza sin un solo punto donde concentrarse.",
+          "Estar ocupada no es lo mismo que trabajar, y el Mago invertido conoce bien la diferencia hacia las once de la noche. Reordenar las herramientas. La investigación que en realidad es ensayo. El ensayo que en realidad es aplazar. Un talento puede pasar años en modo demostración sin gastarse nunca en nada, como un coche guardado en el garaje que se arranca una vez por semana.",
+          "Quedarte corta y pasarte resultan ser la misma herida: el don nunca se midió de verdad, así que se anuncia en su lugar, inflado para los de fuera, rebajado para ti misma, jamás puesto a prueba a tamaño real. Esa prueba es lo que la carta está rondando.",
+          "Arreglarlo no tiene glamur. No son más herramientas, porque el inventario está cerrado. Una sola puntería, elegida lo bastante pequeña como para poder terminarla, y el circuito se cierra solo: cielo, mano, suelo, resultado. El ocho tumbado se estabiliza con la primera cosa que completas."
+        ],
+        "work": [
+          "Hacer por hacer en lugar del trabajo de verdad. El mérito que alguien cerca de ti se lleva con encanto, o el esfuerzo repartido en todo y que no aterriza en nada. Saca adelante una cosa pequeña y verdadera."
+        ],
+        "love": [
+          "El encanto como actuación: el personaje acude a la relación mientras la persona se queda en casa. O están jugando con alguien, así que mira el juego de manos con buena fe, pero míralo."
+        ],
+        "self": [
+          "Quedarte corta o pasarte con el mismo don, según el público. La medición que evitas. El talento en modo demostración, sin gastar nunca."
+        ],
+        "note": [
+          "No es falta de talento. Es talento sin puntería, y por eso la carta sigue siendo, de momento, una buena noticia."
+        ]
+      }
+    }
+  }
+}

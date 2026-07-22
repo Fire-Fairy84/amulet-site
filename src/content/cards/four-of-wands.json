@@ -1,0 +1,128 @@
+{
+  "id": "four-of-wands",
+  "number": 4,
+  "order": 67,
+  "arcana": "minor",
+  "suit": "wands",
+  "rank": 4,
+  "image": "/assets/cards/four-of-wands.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "wands-04.en.md",
+    "es": "wands-04.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "four-of-wands",
+      "name": "Four of Wands",
+      "seoTitle": "Four of Wands Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "The threshold crossed and named with others. Foundations worth a party; the milestone actually celebrated instead of quietly passed. Belonging that does…",
+      "summary": "The threshold crossed and named with others. Foundations worth a party; the milestone actually celebrated instead of quietly passed. Belonging that does not need proving. A landing — not the finish, and better for it.",
+      "imageDescription": "Four wands stand planted in a square, holding up a garland canopy — the first structure in the suit of fire, and it is built for a party. Two figures raise bouquets in welcome; behind them, a manor with people gathered at the gate. The wands are not a wall. They are a doorway, decorated, with everyone invited through.",
+      "upright": {
+        "keywords": [
+          "celebration, homecoming, the milestone marked, stable joy, welcome, the threshold crossed with witnesses"
+        ],
+        "essay": [
+          "Fire, in this suit, has spent three cards wanting, planning and waiting. The Four is the first time it builds something — and what it builds, tellingly, is not a fortress or a tower but a canopy for a celebration. The card's claim is quietly radical: marking the milestone is part of the work. Not a break from it, not a reward pending better results. Part of it.",
+          "You have crossed something recently, or are about to — the move, the launch survived, the season completed, the bond made formal enough to have a date attached. The Four asks what you did about it, and it already suspects the answer: probably nothing. Probably the threshold was crossed at speed, eyes on the next one, the achievement filed while still warm. This card stands in the road on purpose. It says: go back and mark it, even late. Milestones unmarked do not land; they recede — and a life of receding milestones feels, from inside, like a life where nothing ever happened, regardless of the record.",
+          "The witnesses matter, and the card is specific about them. The two figures with bouquets are not audience; they are participants — joy at this stage of a venture is a group activity or it is a suspicion. Something in us does not believe a threshold was real until someone else saw us cross it. That is not vanity. It is how belonging works: the welcome is what converts arrival into home.",
+          "And note what the wands make: a doorway, open on all sides. The first structure of fire has no walls — stability here is not enclosure but a frame that says this far is real, come stand under it. There will be more building later, with more walls, and other cards will handle that. Today has one function, and the garland is already up. Attendance is the whole assignment."
+        ],
+        "work": [
+          "The milestone actually celebrated — named, dated, toasted with the people who built it. Teams that never mark landings stop believing in arrivals."
+        ],
+        "love": [
+          "The home made real; the welcome extended and received. The threshold — moving in, going public, the named commitment — crossed with witnesses, on purpose."
+        ],
+        "self": [
+          "Rest inside something solid. Letting the achievement land instead of filing it warm. Belonging that does not need re-earning today."
+        ],
+        "note": [
+          "Not the finish — a landing. The wands hold a canopy, not a roof; the journey continues, and that is exactly why this pause counts."
+        ]
+      },
+      "reversed": {
+        "summary": "The celebration that rings hollow. A transition without welcome; achievement landing in silence; the house that has not become the home. The party thrown over cracks — or the milestone real, and simply unfelt.",
+        "keywords": [
+          "hollow festivity, belonging strained, the milestone unfelt, home unsettled, the party thrown over cracks"
+        ],
+        "essay": [
+          "Reversed, the Four of Wands is the party where something is missing, and everyone is being polite about it. The forms are present — the gathering, the announcement, the congratulations delivered on schedule — and the landing never happens. The card covers several versions of this, and the first task is telling yours apart from the others.",
+          "Sometimes the festivity is hollow because it is doing cover work: the launch confetti over problems everyone has agreed not to mention, the housewarming for a household already strained, the toast that is louder than it is true. Celebration used as concealment does not just fail to land — it charges interest, because now the cracks are decorated, and decorated cracks are harder to point at later. If part of you flinched at your own party, that flinch was information.",
+          "Sometimes the milestone is real and the welcome was absent. You crossed the threshold and nobody stood at the gate — the achievement met with silence, the move unmarked, the news received with a distracted \"nice.\" Transitions without witness have a specific ache, and the card names it so you stop misfiling it as ingratitude or oversensitivity. It is neither. It is an unmet structural need, and it can still be met: late welcomes count, including the ones you organize for yourself.",
+          "And sometimes — check this one honestly — the gates were open, the people came, and the feeling did not. The milestone passed through you without registering, the way food passes a person who cannot taste. That is not the party's failure. It is usually arrival outpacing belief: some part of you does not yet accept that this far is real, so the celebration lands on a self that is not standing where the party is. The repair is not a bigger party. It is smaller: one witness, one plain sentence — this happened, and I was there — said until it takes. The garland is still up. The card does not take it down; it asks what would have to be true for you to stand under it."
+        ],
+        "work": [
+          "Launch confetti over unfixed problems — or the shipped thing met with silence. Either mark it honestly or fix what the party was hiding; both, in that order, is allowed."
+        ],
+        "love": [
+          "The house that is not yet the home; the celebration a beat behind the feeling. The welcome owed — to them, or to you — still deliverable, late."
+        ],
+        "self": [
+          "Performing gladness at your own milestone. Arrival outpacing belief. One witness and one plain sentence beat a bigger party."
+        ],
+        "note": [
+          "Not the absence of cause for joy. Joy unhoused — the reasons stand; the landing is what has not happened yet."
+        ]
+      }
+    },
+    "es": {
+      "slug": "cuatro-de-bastos",
+      "name": "Cuatro de Bastos",
+      "seoTitle": "Cuatro de Bastos en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "El umbral cruzado y nombrado con otros. Cimientos que merecen una fiesta; el hito celebrado de verdad en lugar de pasado en silencio. La pertenencia que…",
+      "summary": "El umbral cruzado y nombrado con otros. Cimientos que merecen una fiesta; el hito celebrado de verdad en lugar de pasado en silencio. La pertenencia que no necesita demostrarse. Un aterrizaje — no la meta, y mejor así.",
+      "imageDescription": "Cuatro bastos plantados en cuadrado sostienen un dosel de guirnaldas — la primera estructura del palo de fuego, y está construida para una fiesta. Dos figuras alzan ramos en señal de bienvenida; detrás, una casa señorial con gente reunida en la entrada. Los bastos no son un muro. Son una puerta, decorada, con todo el mundo invitado a pasar.",
+      "upright": {
+        "keywords": [
+          "celebración, regreso a casa, el hito marcado, alegría estable, bienvenida, el umbral cruzado con testigos"
+        ],
+        "essay": [
+          "En las tres cartas anteriores, el fuego ha querido, planeado y esperado. El Cuatro construye por primera vez y, de forma reveladora, no levanta una fortaleza sino un dosel para celebrar. Su mensaje es sencillo: marcar un hito también forma parte del trabajo. No es un descanso ni un premio que haya que ganarse después.",
+          "Has cruzado algo hace poco, o estás a punto — la mudanza, el lanzamiento sobrevivido, la temporada completada, el vínculo hecho lo bastante formal como para tener fecha. El Cuatro pregunta qué hiciste al respecto, y ya sospecha la respuesta: probablemente nada. Probablemente el umbral se cruzó a toda velocidad, los ojos en el siguiente, el logro archivado aún caliente. Esta carta se planta en el camino a propósito. Dice: vuelve y márcalo, aunque sea tarde. Los hitos sin marcar no aterrizan; se alejan — y una vida de hitos que se alejan se siente, desde dentro, como una vida donde nunca pasó nada, diga lo que diga el expediente.",
+          "Los testigos importan. Las dos figuras con ramos no son público: participan. En esta etapa, la alegría necesita compartirse para sentirse real. Algo en nosotros no termina de creer que ha cruzado un umbral hasta que otra persona lo ve. No es vanidad: así funciona la pertenencia. La bienvenida convierte una llegada en hogar.",
+          "Y fíjate en lo que forman los bastos: una puerta, abierta por todos los lados. La primera estructura del fuego no tiene muros — la estabilidad aquí no es encierro sino un marco que dice hasta aquí es real, ven a ponerte debajo. Habrá más construcción después, con más muros, y otras cartas se encargarán de eso. Hoy tiene una sola función, y la guirnalda ya está colgada. Asistir es todo el encargo."
+        ],
+        "work": [
+          "El hito celebrado de verdad — nombrado, fechado, brindado con la gente que lo construyó. Los equipos que nunca marcan aterrizajes dejan de creer en las llegadas."
+        ],
+        "love": [
+          "El hogar hecho realidad; la bienvenida ofrecida y recibida. El umbral — mudarse juntos, hacerlo público, el compromiso con nombre — cruzado con testigos, a propósito."
+        ],
+        "self": [
+          "Descansar dentro de algo sólido. Dejar que el logro aterrice en lugar de archivarlo caliente. La pertenencia que hoy no necesita ganarse otra vez."
+        ],
+        "note": [
+          "No es la meta — es un aterrizaje. Los bastos sostienen un dosel, no un techo; el viaje continúa, y exactamente por eso esta pausa cuenta."
+        ]
+      },
+      "reversed": {
+        "summary": "La celebración que suena hueca. Una transición sin bienvenida; el logro aterrizando en silencio; la casa que no se ha vuelto hogar. La fiesta montada sobre grietas — o el hito real, y simplemente no sentido.",
+        "keywords": [
+          "festejo hueco, la pertenencia tensada, el hito no sentido, el hogar sin asentar, la fiesta montada sobre grietas"
+        ],
+        "essay": [
+          "Invertido, el Cuatro de Bastos es la fiesta donde falta algo, y todo el mundo está siendo educado al respecto. Las formas están presentes — la reunión, el anuncio, las felicitaciones entregadas puntualmente — y el aterrizaje no ocurre. La carta cubre varias versiones de esto, y la primera tarea es distinguir la tuya de las demás.",
+          "A veces el festejo es hueco porque está haciendo trabajo de tapadera: el confeti del lanzamiento sobre problemas que todos acordaron no mencionar, la inauguración de una casa cuyo hogar ya está tenso, el brindis que es más ruidoso que verdadero. La celebración usada como ocultamiento no solo no aterriza — cobra intereses, porque ahora las grietas están decoradas, y las grietas decoradas son más difíciles de señalar después. Si una parte de ti se encogió en tu propia fiesta, ese respingo era información.",
+          "A veces el hito es real y la bienvenida estuvo ausente. Cruzaste el umbral y nadie estaba en la entrada — el logro recibido con silencio, la mudanza sin marcar, la noticia contestada con un \"qué bien\" distraído. Las transiciones sin testigo tienen un dolor específico, y la carta lo nombra para que dejes de archivarlo como ingratitud o hipersensibilidad. No es ninguna de las dos. Es una necesidad estructural sin atender, y todavía puede atenderse: las bienvenidas tardías cuentan, incluidas las que organizas para ti.",
+          "Y a veces — revisa esta con honestidad — las puertas estaban abiertas, la gente vino, y el sentimiento no. El hito te atravesó sin registrarse, como la comida atraviesa a quien no puede saborear. Eso no es un fallo de la fiesta. Suele ser la llegada adelantándose a la creencia: una parte de ti aún no acepta que hasta aquí es real, así que la celebración aterriza sobre un yo que no está de pie donde está la fiesta. La reparación no es una fiesta más grande. Es más pequeña: un testigo, una frase simple — esto pasó, y yo estaba — dicha hasta que prenda. La guirnalda sigue colgada. La carta no la descuelga; pregunta qué tendría que ser verdad para que te pusieras debajo."
+        ],
+        "work": [
+          "Confeti sobre problemas sin resolver, o un logro que nadie recibe. Celebra con honestidad o atiende primero lo que la fiesta estaba tapando; las dos cosas son válidas."
+        ],
+        "love": [
+          "La casa que todavía no se siente hogar; la celebración llega antes que el sentimiento. Esa bienvenida pendiente —a otra persona o a ti— aún puede darse, aunque llegue tarde."
+        ],
+        "self": [
+          "Actuar la alegría en tu propio hito. La llegada adelantándose a la creencia. Un testigo y una frase simple le ganan a una fiesta más grande."
+        ],
+        "note": [
+          "No es la ausencia de motivos de alegría. Es la alegría sin techo — los motivos se sostienen; lo que aún no ha ocurrido es el aterrizaje."
+        ]
+      }
+    }
+  }
+}

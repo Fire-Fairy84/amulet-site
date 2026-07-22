@@ -1,0 +1,128 @@
+{
+  "id": "three-of-wands",
+  "number": 3,
+  "order": 66,
+  "arcana": "minor",
+  "suit": "wands",
+  "rank": 3,
+  "image": "/assets/cards/three-of-wands.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "wands-03.en.md",
+    "es": "wands-03.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "three-of-wands",
+      "name": "Three of Wands",
+      "seoTitle": "Three of Wands Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "What you launched is actually moving. First returns arriving; partnerships forming; the wait that is active, not idle. The field turned out wider than the…",
+      "summary": "What you launched is actually moving. First returns arriving; partnerships forming; the wait that is active, not idle. The field turned out wider than the plan assumed — adjust upward.",
+      "imageDescription": "A figure stands on a cliff, back to the viewer, watching three ships cross a golden sea. Three wands are planted around them, upright and steady — decisions already made, holding their ground. The figure's hand rests on one of them. Nothing here is beginning. Everything here is in transit.",
+      "upright": {
+        "keywords": [
+          "expansion, ventures underway, foresight rewarded, ships in motion, the active wait, the wider field opening"
+        ],
+        "essay": [
+          "The ships are out. That is the difference between this card and every planning card before it: something real left the harbor with your name on it — the application, the launch, the offer, the work released to strangers — and is now crossing water you do not control. The Three of Wands is the strange season after commitment and before results, and its first message is simple: this is a real place, and you are standing in it correctly.",
+          "Notice the posture. Back to us, hand on a planted wand, facing the sea. Not pacing the dock, not rowing out to check on the cargo, not drafting the ship a new route mid-crossing. The figure has done what could be done and now does the other work — the one nobody praises — of letting the sent thing travel. There is a competence in this kind of waiting. It is not passivity; the wands are planted, the watch is kept, the harbor is ready. But the pull to interfere, to follow up too soon, to unsay and resay — the card holds a steady hand against all of it.",
+          "Foresight is being rewarded, which is worth pausing on: the position you hold now exists because of decisions made seasons ago, when they were harder and less obvious. Whatever arrives on these ships, the vantage itself is already the proof that planting works — that the version of you who committed back then read the horizon right. Bank that. It is evidence you will want during the next planting season, when the sea is empty again.",
+          "And the sea is golden, wider than the harbor map suggested. Mid-venture is when the actual size of the field reveals itself — the second market, the unexpected reply, the door behind the door. The card's counsel: let the venture be as big as it is turning out to be. Plans made from the shore were sized by shore imagination. You are not on the shore anymore."
+        ],
+        "work": [
+          "First returns, partnerships forming, the launched thing gaining water. Hold the follow-up urge to a schedule; prepare the harbor for what returns."
+        ],
+        "love": [
+          "The reach beyond the familiar circle — the invitation accepted, the distance closed by something you actually sent. In transit is a real status; honor it."
+        ],
+        "self": [
+          "Patience with things in motion. What you set in motion months ago is working — let the evidence arrive before revising the self-assessment."
+        ],
+        "note": [
+          "Not arrival — the ships are still out. But not stalling either: transit is the venture working, at sea speed."
+        ]
+      },
+      "reversed": {
+        "summary": "The launch that met headwinds. Effort out, nothing back yet — or the reach that genuinely exceeded the grasp. Obstacles between you and the return; discouragement mid-crossing. Delay, which is not the same word as shipwreck.",
+        "keywords": [
+          "stalled ventures, ships overdue, reach exceeding grasp, the empty horizon, scanning past the point of use"
+        ],
+        "essay": [
+          "The ships are late. Not sunk — late, and the card is strict about keeping those words separate, because the mind under pressure merges them. Something you sent out has not come back on schedule: the replies, the sales, the results, the response the effort seemed to promise. The reversed Three is the sour middle of a venture, where the sending is long past and the receiving refuses to start, and the horizon-scanning has become a tic rather than a watch.",
+          "First, run the honest split: how much of this is sea, and how much was ship? Some delay is weather — markets, timing, other people's queues — and no amount of cliff-standing alters it. But some ventures were loaded wrong at the dock: the reach set past the grasp, the offer priced by hope, the plan sized for a version of the field that the field declined to be. The reversed card does not say which is yours. It says the split can be computed now, with information the launch day never had, and that computing it beats scanning.",
+          "Watch what the waiting is doing to you, because that is the live damage. Effort that receives no echo starts to eat its own sender: the daily horizon check that returns nothing, returns something — a small verdict, false but cumulative. Discouragement mid-crossing has convinced better sailors than you that the sea is permanent. The wands leaning behind you were planted by someone with reasons; the reasons have not expired because the wind is slow.",
+          "What the card asks for is not more patience, exactly — it is redirected activity. The harbor can be readied; the next cargo can be built; one ship's route can be honestly re-examined and, if truly misdrawn, written off with ceremony rather than watched into legend. Overdue is a season with three exits: the late arrival, the corrected relaunch, the honest loss. All three are business. Only the fourth thing — the years of scanning — is not."
+        ],
+        "work": [
+          "The deal stuck in someone else's harbor; the launch that met headwinds. Split the delay honestly: weather, or loading error. Then work the harbor, not the horizon."
+        ],
+        "love": [
+          "Effort out, nothing back yet. The reach toward someone that is still in transit — or was over-sized for what the field could return. Give it a date, not an eternity."
+        ],
+        "self": [
+          "Discouragement mid-crossing, mistaking slow wind for verdict. The daily empty-horizon check, quietly eating the sender."
+        ],
+        "note": [
+          "Not shipwreck — delay. The words are different, and the difference is the whole card."
+        ]
+      }
+    },
+    "es": {
+      "slug": "tres-de-bastos",
+      "name": "Tres de Bastos",
+      "seoTitle": "Tres de Bastos en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "Lo que pusiste en marcha se mueve de verdad. Llegan las primeras respuestas y se forman alianzas. La espera es activa, no pasiva. El horizonte es más…",
+      "summary": "Lo que pusiste en marcha se mueve de verdad. Llegan las primeras respuestas y se forman alianzas. La espera es activa, no pasiva. El horizonte es más amplio de lo que imaginabas: ajusta tus planes.",
+      "imageDescription": "Una figura de pie en un acantilado, de espaldas, mirando tres barcos cruzar un mar dorado. Tres bastones plantados alrededor, verticales y firmes — decisiones ya tomadas, sosteniendo su terreno. La mano de la figura descansa en uno de ellos. Nada aquí está empezando. Todo aquí está en tránsito.",
+      "upright": {
+        "keywords": [
+          "expansión, proyectos en marcha, previsión recompensada, barcos en movimiento, espera activa, horizonte que se ensancha"
+        ],
+        "essay": [
+          "Los barcos están fuera. Esa es la diferencia entre esta carta y todas las cartas de planificación anteriores: algo real salió del puerto con tu nombre — la solicitud, el lanzamiento, la oferta, el trabajo entregado a desconocidos — y ahora cruza aguas que no controlas. El Tres de Bastos es la estación extraña entre el compromiso y los resultados, y su primer mensaje es simple: este es un lugar real, y estás de pie en él correctamente.",
+          "Fíjate en la postura. De espaldas a nosotros, la mano en un bastón plantado, de cara al mar. No paseando por el muelle, no remando a comprobar la carga, no dibujándole al barco una ruta nueva a mitad de travesía. La figura hizo lo que podía hacerse y ahora hace el otro trabajo — el que nadie elogia — de dejar viajar lo enviado. Hay una competencia en esta clase de espera. No es pasividad; los bastones están plantados, la guardia se mantiene, el puerto se prepara. Pero el tirón de interferir, de insistir demasiado pronto, de desdecir y volver a decir — la carta sostiene una mano firme contra todo eso.",
+          "La previsión está siendo recompensada, y vale la pena detenerse ahí: la posición que ocupas ahora existe por decisiones tomadas hace estaciones, cuando eran más difíciles y menos obvias. Llegue lo que llegue en estos barcos, el mirador mismo ya es la prueba de que plantar funciona — de que la versión de ti que se comprometió entonces leyó bien el horizonte. Guárdalo como prueba. La querrás en la próxima estación de siembra, cuando el mar vuelva a estar vacío.",
+          "Y el mar es más ancho de lo que sugería el mapa del puerto. A veces el alcance real de un proyecto se revela después de empezar: aparece una segunda oportunidad, una respuesta inesperada, una puerta detrás de otra. El consejo es claro: deja que el proyecto crezca hasta donde está creciendo. Los planes se hicieron desde la orilla; ya no estás allí."
+        ],
+        "work": [
+          "Primeras respuestas, alianzas que se forman, algo que empieza a avanzar. Pon fecha a los seguimientos y prepara el terreno para lo que vuelva."
+        ],
+        "love": [
+          "El alcance más allá del círculo conocido — la invitación aceptada, la distancia acortada por algo que de verdad enviaste. En tránsito es un estado real; hónralo."
+        ],
+        "self": [
+          "Paciencia con lo que está en movimiento. Lo que pusiste en marcha hace meses está funcionando — deja llegar la evidencia antes de revisar la autoevaluación."
+        ],
+        "note": [
+          "No es la llegada: los barcos siguen fuera. Pero tampoco es un atasco; el proceso avanza a su propio ritmo."
+        ]
+      },
+      "reversed": {
+        "summary": "Un lanzamiento que encuentra viento en contra. Has invertido esfuerzo y aún no llega respuesta; quizá el plan supera de verdad los recursos disponibles. Hay obstáculos entre tú y el resultado. Es un retraso, no un naufragio.",
+        "keywords": [
+          "proyectos estancados, barcos con retraso, un plan que supera los recursos, horizonte vacío, mirar sin avanzar"
+        ],
+        "essay": [
+          "Los barcos van tarde. No hundidos — tarde, y la carta es estricta en mantener esas palabras separadas, porque la mente bajo presión las funde. Algo que enviaste no ha vuelto según calendario: las respuestas, las ventas, los resultados, el eco que el esfuerzo parecía prometer. El Tres invertido es el medio agrio de una empresa, donde el envío quedó atrás hace tiempo y la recepción se niega a empezar, y el oteo del horizonte se ha vuelto un tic más que una guardia.",
+          "Primero, separa con honestidad lo que depende del contexto de lo que depende de tu plan. Hay retrasos que son puro clima: el mercado, los tiempos de otras personas, procesos ajenos. Pero también hay proyectos mal planteados: un alcance superior a los recursos, una oferta valorada con optimismo o un plan pensado para una realidad que no llegó. Ahora tienes información que no tenías al empezar. Úsala para revisar, en vez de limitarte a esperar.",
+          "Vigila lo que la espera te está haciendo, porque ese es el daño en vivo. El esfuerzo que no recibe eco empieza a comerse a su remitente: la comprobación diaria del horizonte que no devuelve nada, devuelve algo — un pequeño veredicto, falso pero acumulativo. El desánimo a mitad de travesía ha convencido a mejores marineros que tú de que el mar es permanente. Los bastones inclinados a tu espalda los plantó alguien con razones; las razones no han caducado porque el viento vaya lento.",
+          "La carta no pide solo paciencia, sino actividad bien dirigida. Puedes preparar lo que viene, construir la siguiente propuesta o revisar la ruta y abandonar un plan mal trazado si hace falta. El retraso tiene tres salidas: una llegada tardía, un relanzamiento corregido o una pérdida asumida. Las tres permiten avanzar. Lo único que no ayuda es pasar años mirando el horizonte."
+        ],
+        "work": [
+          "El acuerdo depende de otra parte; el lanzamiento ha encontrado viento en contra. Distingue con honestidad entre contexto y error de planteamiento. Después, trabaja en lo que sí puedes preparar."
+        ],
+        "love": [
+          "Has dado el paso y aún no recibes respuesta. Quizá la otra persona sigue en proceso, o quizá pediste más de lo que podía ofrecer. Pon una fecha límite, no una espera eterna."
+        ],
+        "self": [
+          "El desánimo a mitad de travesía, confundiendo viento lento con veredicto. La comprobación diaria del horizonte vacío, comiéndose en silencio a la remitente."
+        ],
+        "note": [
+          "No es naufragio — es retraso. Las palabras son distintas, y la diferencia es la carta entera."
+        ]
+      }
+    }
+  }
+}

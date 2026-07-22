@@ -1,0 +1,128 @@
+{
+  "id": "seven-of-wands",
+  "number": 7,
+  "order": 70,
+  "arcana": "minor",
+  "suit": "wands",
+  "rank": 7,
+  "image": "/assets/cards/seven-of-wands.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "wands-07.en.md",
+    "es": "wands-07.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "seven-of-wands",
+      "name": "Seven of Wands",
+      "seoTitle": "Seven of Wands Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "Position defended — the idea challenged, the boundary tested, the territory contested after the win. Outnumbered but advantaged: you hold the hill. The…",
+      "summary": "Position defended — the idea challenged, the boundary tested, the territory contested after the win. Outnumbered but advantaged: you hold the hill. The question underneath: is this hill the one worth your one wand?",
+      "imageDescription": "A man stands on a hilltop swinging one wand against six that rise from below — attackers the card never shows. His stance is wide, his footing sure, and his shoes famously mismatched: he was dressed for something else when this started. He has the high ground. He did not have time to prepare for keeping it.",
+      "upright": {
+        "keywords": [
+          "defense of ground, holding position, conviction under pressure, the high ground earned, one against six, advantage in the fight worth having"
+        ],
+        "essay": [
+          "The parade of the Six had a sequel the crowd did not stay for: someone came for the hill. The Seven of Wands is what success costs on the day after — the promotion resented, the thesis attacked, the boundary tested precisely because it was finally drawn. The card's geometry matters more than its mood: one wand against six looks like losing arithmetic, until you notice the defender holds the high ground and the six below must fight uphill, unseen even by each other. Position beats numbers. You are not outmatched. You are merely, at last, worth attacking.",
+          "That reframe is the card's first gift. Challenge arrives in proportion to visibility — the unattacked position is usually the unimportant one. If the pushback started when the work got real, the pushback is a compliment wearing bad manners. Read it that way and half its weight lifts: they are not disputing your right to exist; they are disputing territory that is now, evidently, valuable.",
+          "The second gift is the mismatched shoes. The defender was not ready — no one is; defense is always improvised, always scheduled by the attacker. The card gives permission to hold ground imperfectly: to defend the idea before the argument is polished, to keep the boundary while your voice shakes, to say \"no, this is mine\" without footnotes. Conviction is not the absence of wobble. It is staying on the hill while wobbling.",
+          "But fire spent on defense is fire not spent on building, and the card knows its own cost. So it asks the only question that separates courage from stubbornness: is this hill the one? Some positions are load-bearing — the value, the standard, the claim your work rests on — and yielding them collapses more than the hill. Others are just where you happened to be standing when challenged, held now out of pride's momentum. Defend the first kind with everything. Walk down from the second kind on purpose, unbeaten, and spend the wand where it builds. The defender's real advantage was never the slope. It was knowing why he was up there."
+        ],
+        "work": [
+          "Your idea under fire after gaining ground — defend the load-bearing claim, imperfectly and out loud. Decline the turf wars that only pride is holding."
+        ],
+        "love": [
+          "The boundary tested because it finally exists. Holding your terms while they wobble. Defending the relationship — or your place in it — against opinions from below the hill."
+        ],
+        "self": [
+          "Conviction under pressure. The standard everyone questions is the one to restate plainly. You were allowed to start defending before you felt ready."
+        ],
+        "note": [
+          "Not paranoia and not losing — the high ground is yours. But not every hill either: some ground is only pride's, and walking down is not defeat."
+        ]
+      },
+      "reversed": {
+        "summary": "The defense past its budget — overwhelmed, exhausted, or aimed at attackers who left. Defensiveness hardened into posture; every question heard as siege. Time to count what the hill still costs and what it still protects.",
+        "keywords": [
+          "overwhelmed defense, exhausted vigilance, ground not worth holding, surrender or collapse, defensiveness as habit, the siege internalized"
+        ],
+        "essay": [
+          "Reversed, the Seven of Wands is a defense with a broken gauge — either too little left, or aimed at too much. The upright card's question, is this hill worth it, has stopped being asked; the defending has become automatic, and automation is exactly what this card comes to interrupt.",
+          "One version is simple depletion. The challenges were real and relentless, and you have held the hill so long that holding is all you do — every email braced for, every meeting entered sideways, the whole self reorganized around the perimeter. Vigilance at that dose stops protecting the thing and starts replacing it: there is a point where the fort contains nothing but the garrison. If that is where you are, the strategic move is not one more swing. It is reinforcement — the ally never called, the fight split into the two that matter and the four that don't — or a considered retreat that trades ground for the ability to keep any ground at all. Retreat, chosen and named, is a maneuver. Collapse is not. The card would rather you walk down than fall down.",
+          "The other version is subtler: the attack ended and the defense didn't. Someone challenged you once, sharply, years ago — and every neutral question since has been received as its echo. Feedback triggers the full perimeter response; closeness reads as approach vector; the six wands below the hill are, on honest inspection, mostly memory. Defensiveness as habit has a tell: it fires at uniform intensity regardless of the threat's size. If a colleague's small note and a real betrayal produce the same surge in you, the surge is not information about them. The repair begins with one deliberate act of non-defense — letting a single true criticism land, unanswered, and discovering the hill does not fall.",
+          "Both versions end at the same audit: name what the hill actually protects, in one sentence. If the sentence holds — a value, a person, work that matters — then rest, reinforce, and hold smarter. If the sentence will not form, you have been defending a habit of defending. Set the wand down. The men who were coming up the hill left a long time ago."
+        ],
+        "work": [
+          "Every review a siege, every question an attack — or truly outnumbered and unstaffed. Call the ally, drop four of the six fights, or retreat on purpose with terms."
+        ],
+        "love": [
+          "The perimeter response to neutral questions; closeness read as approach vector. Let one true criticism land unanswered. The hill survives it."
+        ],
+        "self": [
+          "Vigilance replacing the thing it guarded. Name what the hill protects in one sentence — if the sentence won't form, the war is memory."
+        ],
+        "note": [
+          "Not proof you were wrong to defend. A gauge failure, not a verdict — the cause may stand even as this way of holding it falls."
+        ]
+      }
+    },
+    "es": {
+      "slug": "siete-de-bastos",
+      "name": "Siete de Bastos",
+      "seoTitle": "Siete de Bastos en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "Una posición que toca defender: una idea cuestionada, un límite puesto a prueba, un lugar ganado que ahora se disputa. Estás en minoría, pero tienes…",
+      "summary": "Una posición que toca defender: una idea cuestionada, un límite puesto a prueba, un lugar ganado que ahora se disputa. Estás en minoría, pero tienes ventaja: la colina es tuya. La pregunta es si merece tu energía.",
+      "imageDescription": "Un hombre en lo alto de una colina blande un basto contra seis que suben desde abajo — atacantes que la carta nunca muestra. Su postura es ancha, su pisada firme, y sus zapatos, famosamente desparejados: estaba vestido para otra cosa cuando esto empezó. Tiene la altura. No tuvo tiempo de prepararse para conservarla.",
+      "upright": {
+        "keywords": [
+          "defensa del terreno, mantener la posición, convicción bajo presión, la altura ganada, uno contra seis, ventaja en la pelea que merece pelearse"
+        ],
+        "essay": [
+          "El desfile del Seis tuvo una secuela que la multitud no se quedó a ver: alguien vino a por la colina. El Siete de Bastos es lo que el éxito cuesta al día siguiente — el ascenso resentido, la tesis atacada, el límite puesto a prueba precisamente porque por fin fue trazado. La geometría de la carta importa más que su ánimo: un basto contra seis parece aritmética perdedora, hasta que notas que el defensor tiene la altura y los seis de abajo pelean cuesta arriba, sin verse siquiera entre ellos. La posición le gana a los números. No estás superado. Simplemente, por fin, mereces un ataque.",
+          "Ese reencuadre es el primer regalo de la carta. El desafío llega en proporción a la visibilidad — la posición que nadie ataca suele ser la que no importa. Si el rechazo empezó cuando el trabajo se volvió serio, el rechazo es un cumplido con malos modales. Léelo así y la mitad de su peso se levanta: no discuten tu derecho a existir; discuten un territorio que ahora, evidentemente, vale algo.",
+          "El segundo regalo son los zapatos desparejados. El defensor no estaba listo — nadie lo está; la defensa siempre es improvisada, siempre la agenda el atacante. La carta da permiso para sostener el terreno imperfectamente: defender la idea antes de que el argumento esté pulido, mantener el límite con la voz temblando, decir \"no, esto es mío\" sin notas a pie de página. La convicción no es la ausencia de temblor. Es quedarse en la colina mientras se tiembla.",
+          "Pero el fuego gastado en defensa es fuego que no se gasta en construir, y la carta conoce su propio coste. Así que hace la única pregunta que separa el coraje de la testarudez: ¿es esta la colina? Algunas posiciones cargan peso — el valor, el estándar, la afirmación sobre la que descansa tu trabajo — y cederlas derrumba más que la colina. Otras son solo el sitio donde estabas de pie cuando llegó el desafío, sostenidas ahora por la inercia del orgullo. Defiende las primeras con todo. Baja de las segundas a propósito, invicta, y gasta el basto donde construya. La verdadera ventaja del defensor nunca fue la pendiente. Era saber por qué estaba allí arriba."
+        ],
+        "work": [
+          "Tu idea bajo fuego después de ganar terreno — defiende la afirmación que carga peso, imperfectamente y en voz alta. Declina las guerras de territorio que solo el orgullo sostiene."
+        ],
+        "love": [
+          "El límite puesto a prueba porque por fin existe. Sostener tus condiciones mientras tiemblan. Defender la relación — o tu lugar en ella — de opiniones que llegan desde abajo de la colina."
+        ],
+        "self": [
+          "Convicción bajo presión. El estándar que todos cuestionan es el que toca reafirmar sin adornos. Tenías permiso para empezar a defenderte antes de sentirte lista."
+        ],
+        "note": [
+          "No es paranoia ni es perder — la altura es tuya. Pero tampoco es cualquier colina: hay terreno que es solo del orgullo, y bajar no es derrota."
+        ]
+      },
+      "reversed": {
+        "summary": "La defensa que ya te cuesta demasiado — desbordada, agotada, o apuntando a atacantes que se fueron. La defensividad vuelta costumbre; cada pregunta oída como asedio. Hora de mirar lo que la colina aún cuesta y lo que aún protege.",
+        "keywords": [
+          "defensa desbordada, vigilancia agotada, terreno que no merece sostenerse, rendición o derrumbe, la defensividad como costumbre, el asedio interiorizado"
+        ],
+        "essay": [
+          "Invertido, el Siete de Bastos es una defensa con el indicador roto — o queda demasiado poco, o apunta a demasiado. La pregunta de la carta derecha, si esta colina lo vale, ha dejado de hacerse; defender se ha vuelto automático, y lo automático es exactamente lo que esta carta viene a interrumpir.",
+          "Una versión es puro agotamiento. Los desafíos fueron reales e incesantes, y llevas tanto tiempo sosteniendo la colina que sostener es lo único que haces — cada correo con la guardia alta, cada reunión entrada de lado, el yo entero reorganizado alrededor del perímetro. La vigilancia a esa dosis deja de proteger la cosa y empieza a reemplazarla: hay un punto en que el fuerte no contiene más que a la guarnición. Si estás ahí, la jugada estratégica no es un golpe más. Es el refuerzo — el aliado nunca llamado, la pelea dividida entre las dos que importan y las cuatro que no — o una retirada considerada que cambia terreno por la capacidad de conservar terreno alguno. La retirada, elegida y nombrada, es una maniobra. El derrumbe no. La carta prefiere que bajes andando a que caigas.",
+          "La otra versión es más sutil: el ataque terminó, pero la defensa continúa. Alguien te cuestionó con dureza hace años y, desde entonces, cada pregunta neutral parece una repetición de aquello. La crítica provoca una reacción desmedida; la cercanía se interpreta como amenaza. La señal es responder con la misma intensidad sin importar la gravedad de lo que ocurre. Si un comentario menor y una traición te activan igual, esa reacción no habla solo de la otra persona. Empieza por un acto deliberado de no defenderte: deja que una crítica válida se escuche sin responder de inmediato y comprueba que la colina no se cae.",
+          "Ambas versiones terminan en la misma pregunta: nombra en una frase qué protege de verdad la colina. Si la frase se sostiene — un valor, una persona, un trabajo que importa — entonces descansa, busca apoyo y sostén con más cabeza. Si la frase no sale, llevas tiempo defendiendo la costumbre de defender. Baja el basto. Los hombres que subían la colina se marcharon hace mucho."
+        ],
+        "work": [
+          "Cada revisión un asedio, cada pregunta un ataque — o de verdad superada y sin refuerzos. Llama al aliado, suelta cuatro de las seis peleas, o retírate a propósito y con condiciones."
+        ],
+        "love": [
+          "Responder a preguntas neutrales como si fueran ataques. Deja que una crítica válida se escuche sin responder de inmediato: la colina sobrevivirá."
+        ],
+        "self": [
+          "La vigilancia reemplazando aquello que guardaba. Nombra lo que la colina protege en una frase — si la frase no se forma, la guerra es memoria."
+        ],
+        "note": [
+          "No es prueba de que defendieras en vano. Un fallo del indicador, no un veredicto — la causa puede seguir en pie aunque caiga esta forma de sostenerla."
+        ]
+      }
+    }
+  }
+}

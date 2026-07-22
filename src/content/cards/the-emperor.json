@@ -1,0 +1,134 @@
+{
+  "id": "the-emperor",
+  "number": 4,
+  "order": 4,
+  "arcana": "major",
+  "suit": null,
+  "rank": null,
+  "image": "/assets/cards/the-emperor.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "04-emperor.en.md",
+    "es": "04-emperor.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "the-emperor",
+      "name": "The Emperor",
+      "seoTitle": "The Emperor Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "The frame that lets things stand. Rules made so effort is not wasted; boundaries as protection rather than punishment. Steadiness offered as a form of…",
+      "summary": "The frame that lets things stand. Rules made so effort is not wasted; boundaries as protection rather than punishment. Steadiness offered as a form of care. The season of improvising is over; the season of building the container has begun.",
+      "imageDescription": "An armored figure sits on a massive stone throne carved with rams' heads. One hand holds an ankh-topped scepter, the other a globe — rule and world, grip and overview. Behind the throne rise bare, waterless mountains: he built where nothing grows, and something stands there anyway. Under the red robe, the armor stays on. Readiness kept private.",
+      "upright": {
+        "keywords": [
+          "structure, authority, boundaries, order that protects, steadiness as care, the frame that lets things stand"
+        ],
+        "essay": [
+          "At some point the freestyle stops working. Not dramatically — it just starts costing more than it returns: decisions re-made daily because nothing holds them, energy spent keeping things up instead of moving them forward. The Emperor is the card of that exact point, and if it has arrived, you probably already suspected.",
+          "Look at where he built: bare mountains, no river, no wheat. The Empress grows things; the Emperor makes places where things can keep standing. Neither works without the other, but this card insists on its half — the unpoetic half. Order is not the opposite of life. It is the wall that keeps the weather off it.",
+          "The structure you have been resisting is, in most readings, the one that would free you. There is a fantasy that systems cage spontaneity; in practice, the absence of systems cages it harder — everything becomes negotiation, every day starts from zero. A routine decided once is a hundred decisions you never have to make again. The throne is stone so the sitting can be effortless.",
+          "Boundaries belong to this card, and they are gentler than their reputation. A boundary is a wall with a door: it does not exile anyone, it just states where the building is. Saying no — cleanly, early, without a speech — is maintenance work on everything you have said yes to. People who never say no are not generous; they are structurally unsound.",
+          "There is also a love language here that nobody writes poems about: showing up on schedule. Reliability. The unglamorous consistency that lets other people build on you without checking the foundations first. If someone in your life offers you steadiness instead of fireworks, this card suggests reading it at its real value.",
+          "One caution: keep the frame in service of the picture. Structures exist for what they hold. The moment a rule matters more than the thing it protects, you have started building the reversed card."
+        ],
+        "work": [
+          "Put the system in place — the process that protects the craft from chaos. Decide once, document it, stop renegotiating with yourself weekly. The infrastructure nobody applauds is why the work can exist."
+        ],
+        "love": [
+          "Reliability as devotion. The unpoetic consistency — showing up, on time, again — that builds the kind of trust fireworks cannot. Boundaries stated kindly and kept."
+        ],
+        "self": [
+          "The discipline that frees. A routine as scaffolding, not sentence. Deciding who governs your days on purpose, before the loudest thing decides by default."
+        ],
+        "note": [
+          "Not tyranny. Good structure serves what it holds — the moment it serves itself, it has stopped being this card."
+        ]
+      },
+      "reversed": {
+        "summary": "Control that outlived its reason — or its opposite, the structure collapsed for want of a spine. Authority defended instead of exercised. Process worshiped over outcome. The inner regime turned punitive.",
+        "keywords": [
+          "rigidity, control past its use, domination, the throne abdicated, rules outliving their reason, self-discipline turned self-punishment"
+        ],
+        "essay": [
+          "Reversed, the Emperor fails in one of two directions, and the first job of the reading is telling which one is yours. The grip: control past its use, rules enforced because they exist, the org chart defended like territory. Or the abdication: nobody steering, structure dissolved into vibes, chaos explained as flexibility. Same throne, two ways to leave it empty.",
+          "Rules have lifespans. Most of the ones running your days were written by an earlier version of you, for problems that earlier version had — and some of those problems are solved, or gone, or were never yours to begin with. Rigidity is what happens when the rules stop being audited: the reason expires and the rule keeps collecting rent. An honest review of your own regulations is overdue in a way you can probably feel.",
+          "There is a tell for authority going wrong: it starts being defended instead of exercised. The title matters more than the function; being right matters more than the thing going right; questions read as insubordination. If disagreement anywhere in your life has started to feel like attack, the armor is wearing you.",
+          "Turned inward, this card is the inner regime — self-discipline curdled into self-punishment. The schedule that has no mercy clause. The standards that would count as abuse if a boss imposed them. Structure was supposed to serve you; check whose signature is on the current rules and whether they would pass a labor inspection.",
+          "The repair, in either direction, is the same audit: which rules still protect something alive, and which just remain? Keep the first set. Thank the second for its service and take it off the books. A frame is judged by what it lets stand — including you."
+        ],
+        "work": [
+          "Process worshiped over outcome; the meeting about the meeting. Or the opposite: no owner, no decision, everything pending forever. Both cost the same thing — the actual work."
+        ],
+        "love": [
+          "The relationship run like a garrison — inspections, protocols, the constant low hum of evaluation. Or no structure at all where some was needed: plans that never firm up, a bond that cannot bear weight because nothing holds it."
+        ],
+        "self": [
+          "Self-discipline turned self-punishment. The inner regime with no mercy clause. Rules written by a younger you, enforced against the person you actually are now."
+        ],
+        "note": [
+          "Not an argument against all authority. The misuse of it — grip or abdication. The throne itself is neutral; what fails is how it is sat."
+        ]
+      }
+    },
+    "es": {
+      "slug": "el-emperador",
+      "name": "El Emperador",
+      "seoTitle": "El Emperador en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "El marco que mantiene las cosas en pie. Normas hechas para que el esfuerzo no se desperdicie; límites que protegen, no que castigan. La constancia…",
+      "summary": "El marco que mantiene las cosas en pie. Normas hechas para que el esfuerzo no se desperdicie; límites que protegen, no que castigan. La constancia ofrecida como una forma de cuidar. Se acabó el tiempo de improvisar y empieza el de construir algo que aguante.",
+      "imageDescription": "Una figura con armadura ocupa un trono enorme de piedra tallado con cabezas de carnero. Una mano sostiene un cetro rematado en anj y la otra un orbe: la norma y el mundo, el mando y la vista de arriba. Detrás del trono se alzan montañas peladas y sin agua. Construyó donde nada crece, y aun así algo se sostiene ahí. Bajo la túnica roja, la armadura sigue puesta. Está listo, pero no lo enseña.",
+      "upright": {
+        "keywords": [
+          "estructura, autoridad, límites, el orden que protege, la constancia como cuidado, el marco que mantiene las cosas en pie"
+        ],
+        "essay": [
+          "En algún momento improvisar deja de funcionar. No de golpe, sino que empieza a costar más de lo que da: decisiones que vuelves a tomar cada día porque nada las fija, energía gastada en sostener las cosas en vez de avanzarlas. El Emperador es la carta de ese punto exacto, y si ha salido, seguramente ya lo sospechabas.",
+          "Fíjate en dónde construyó: montañas peladas, sin río, sin trigo. La Emperatriz hace crecer cosas; el Emperador hace lugares donde las cosas pueden mantenerse en pie. Ninguno de los dos sirve sin el otro, pero esta carta insiste en su mitad, la mitad sin poesía. El orden no es lo contrario de la vida. Es el muro que la resguarda de la intemperie.",
+          "La estructura que llevas rechazando es, casi siempre, la que te haría libre. Existe la fantasía de que los sistemas encierran la espontaneidad; en la práctica, la falta de sistemas la encierra más, porque todo se vuelve negociación y cada día empieza de cero. Una rutina que decides una vez son cien decisiones que ya no tienes que tomar. El trono es de piedra para que sentarse no cueste esfuerzo.",
+          "Los límites son de esta carta, y son más amables de lo que dicen. Un límite es un muro con puerta: no echa a nadie, solo señala dónde está el edificio. Decir no, claro, pronto y sin discursos, es cuidar todo aquello a lo que dijiste que sí. Quien nunca dice no no es generoso, se está cayendo por dentro.",
+          "Hay aquí, además, una forma de querer sobre la que nadie escribe poemas: llegar cuando dijiste que ibas a llegar. La fiabilidad. La constancia sin brillo que deja que otros se apoyen en ti sin tener que comprobar antes si aguantas. Si alguien en tu vida te ofrece constancia en lugar de fuegos artificiales, esta carta sugiere darle el valor que de verdad tiene.",
+          "Un aviso: que el marco esté siempre al servicio de lo que enmarca. Las estructuras existen por lo que sostienen. En el momento en que una norma importa más que aquello que protege, has empezado a construir la carta invertida."
+        ],
+        "work": [
+          "Monta el sistema, el proceso que protege el oficio del caos. Decide una vez, apúntalo y deja de renegociarlo contigo cada semana. Lo que hace posible el trabajo es justo la parte que nadie aplaude."
+        ],
+        "love": [
+          "La fiabilidad como forma de entrega. La constancia sin poesía, estar ahí, a la hora, otra vez, que crea una confianza que los fuegos artificiales no alcanzan. Límites dichos con suavidad y sostenidos."
+        ],
+        "self": [
+          "La disciplina que libera. Una rutina como andamio, no como condena. Decidir a propósito quién manda en tus días, antes de que lo decida por ti aquello que más grita."
+        ],
+        "note": [
+          "No es tiranía. La buena estructura sirve a lo que sostiene, y en cuanto empieza a servirse a sí misma, deja de ser esta carta."
+        ]
+      },
+      "reversed": {
+        "summary": "El control que ya no tiene motivo, o lo contrario, la estructura caída por falta de columna. La autoridad que se defiende en vez de ejercerse. El proceso venerado por encima del resultado. La disciplina de puertas adentro vuelta castigo.",
+        "keywords": [
+          "rigidez, el control que sobra, dominación, el trono abandonado, normas que sobreviven a su motivo, la disciplina vuelta castigo"
+        ],
+        "essay": [
+          "Invertido, el Emperador falla en una de dos direcciones, y lo primero que hace la lectura es averiguar cuál es la tuya. El puño cerrado: control que ya no hace falta, normas que se cumplen solo porque existen, el organigrama defendido como si fuera territorio. O el abandono: nadie al timón, la estructura disuelta en buen rollo, el caos disfrazado de flexibilidad. El mismo trono, dos maneras de dejarlo vacío.",
+          "Las normas caducan. Casi todas las que gobiernan tus días las escribió una versión anterior de ti, para problemas que esa versión tenía, y algunos de esos problemas ya están resueltos, o desaparecieron, o nunca fueron tuyos. La rigidez es lo que pasa cuando nadie revisa las normas: el motivo caduca y la norma sigue cobrándote. Repasar con honestidad tu propio reglamento es una tarea que llevas atrasada, y probablemente lo notas.",
+          "Hay una señal de que la autoridad va mal: empieza a defenderse en lugar de ejercerse. El cargo importa más que la función, tener razón importa más que hacer bien las cosas, las preguntas suenan a desafío. Si en algún rincón de tu vida el desacuerdo ha empezado a sentirse como un ataque, la armadura te está llevando a ti.",
+          "Vuelta hacia dentro, esta carta es la disciplina de puertas adentro, el rigor cuajado en autocastigo. El horario que no perdona ni una. Las exigencias que serían maltrato si te las pusiera un jefe. La estructura estaba para servirte; mira quién firma las normas que sigues cumpliendo y si aguantarían una inspección de trabajo.",
+          "Arreglarlo, en cualquiera de los dos casos, pasa por la misma revisión: qué normas siguen protegiendo algo vivo, y cuáles solo siguen ahí porque sí. Quédate con las primeras. A las segundas, dales las gracias por el servicio y bórralas. Un marco se juzga por lo que mantiene en pie, tú incluida."
+        ],
+        "work": [
+          "El proceso venerado por encima del resultado; la reunión para preparar la reunión. O lo contrario: nadie decide, nadie responde, todo pendiente para siempre. Las dos cosas cuestan lo mismo, el trabajo de verdad."
+        ],
+        "love": [
+          "La relación llevada como un cuartel: inspecciones, normas, el zumbido bajo y constante de estar siempre evaluando. O ninguna estructura donde hacía falta alguna: planes que nunca se concretan, un vínculo que no aguanta peso porque nada lo sostiene."
+        ],
+        "self": [
+          "La disciplina vuelta castigo. El rigor de puertas adentro que no perdona ni una. Normas que escribió una versión más joven de ti, aplicadas contra la persona que eres ahora."
+        ],
+        "note": [
+          "No es un alegato contra toda autoridad. Es su mal uso, puño cerrado o abandono. El trono en sí es neutral; lo que falla es cómo se ocupa."
+        ]
+      }
+    }
+  }
+}

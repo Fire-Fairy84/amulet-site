@@ -1,0 +1,128 @@
+{
+  "id": "three-of-pentacles",
+  "number": 3,
+  "order": 38,
+  "arcana": "minor",
+  "suit": "pentacles",
+  "rank": 3,
+  "image": "/assets/cards/three-of-pentacles.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "pentacles-03.en.md",
+    "es": "pentacles-03.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "three-of-pentacles",
+      "name": "Three of Pentacles",
+      "seoTitle": "Three of Pentacles Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "Collaboration doing what solitude can't — skill, design, and purpose at one table, the work reviewed and the reviewer welcome. Competence getting noticed…",
+      "summary": "Collaboration doing what solitude can't — skill, design, and purpose at one table, the work reviewed and the reviewer welcome. Competence getting noticed early. Build the joints between people as carefully as the stone; cathedrals are made of both.",
+      "imageDescription": "Inside a cathedral archway, a young stonemason stands on a bench, chisel in hand, paused mid-work — because a monk and an architect holding the drawings have come to confer, and all three are listening to each other. Above them, three pentacles are already carved into the finished vault: proof the collaboration works, set in stone over their heads. The mason is the youngest person in the image, and the plans are open toward him.",
+      "upright": {
+        "keywords": [
+          "the work bigger than one pair of hands, craft meeting plan meeting purpose, the apprentice consulted, review as honor, cathedral time, joints between people"
+        ],
+        "essay": [
+          "The Three of Pentacles is the suit's first crowd scene, and its cast is chosen with care: a mason, who knows how stone actually behaves; an architect, who holds the drawings; a monk, who represents what the building is for. Skill, design, purpose — three authorities that in most workplaces orbit each other with polite mutual contempt — are here at one table, and the card's radical detail is the direction of attention: the two senior figures are consulting the junior one. The mason has stopped carving to say something about the actual stone, and the people with the plans and the robes are listening. Wherever this card lands, work has reached the stage where it cannot advance alone: the craft needs the plan, the plan needs the purpose, and all three need the meeting.",
+          "The card's setting is its quiet philosophy. A cathedral is the type specimen of a particular kind of work: too large for one lifetime's hands, begun by people who would not see it finished, held together not by any single genius but by the quality of ten thousand joints — stone to stone, and worker to worker. The Three's claim is that the second kind of joint decides the first. Work done in proud silos produces walls that meet at angles nobody checked; work that passes through honest conference — the drawing questioned, the constraint surfaced, the correction received without wounded ego — produces the vault that holds for six centuries. Collaboration, in other words, is not the soft skill next to the real one. In anything bigger than a bench, it is the load-bearing craft.",
+          "There is also a smaller, warmer card inside the big one, and for many readers it is the live wire: the apprentice consulted. This is the moment a person's competence is first taken seriously by the institution — invited to the meeting that used to happen without them, asked what do you think by someone who signs things. The Three's counsel here is direct: when the plans are opened toward you, speak to them. Not deferentially, not grandly — accurately, from the stone you actually know. Careers in this suit are built at exactly this joint, and the mason who says the arch wants a deeper course here, and can show why, has done more for his future than a year of quiet excellence performed for nobody.",
+          "The working counsel is joint maintenance, three practices. Show unfinished work — the review that stings for a minute saves the wall that would have failed in a year, and the craftsman who hides work until it is perfect is protecting ego, not quality. Ask what the building is for — teams misalign not at the level of effort but at the level of purpose, and the monk's question, asked plainly in the meeting (what is this actually in service of?), re-squares more walls than any process document. And honor the other trades: the plan-holder and the purpose-keeper know things the chisel cannot, exactly as the chisel knows things the drawings miss. The three pentacles overhead are already carved. That is the card's promise about work joined this way: it outlasts everyone at the table, which was, all along, the point of tables."
+        ],
+        "work": [
+          "The meeting where skill, plan, and purpose actually confer — when the drawings open toward you, speak from the stone you know. Show unfinished work; the early sting saves the wall."
+        ],
+        "love": [
+          "Building as a pair or family is a trade with joints — the review received without wounded ego, the \"what are we actually building\" asked out loud. Angles nobody checks don't meet."
+        ],
+        "self": [
+          "Competence just got noticed — the invitation to the table is real, so occupy it accurately, neither deferential nor grand. A year of quiet excellence performed for nobody builds nothing."
+        ],
+        "note": [
+          "Not committee for its own sake — three authorities, each with real jurisdiction, is the number. And not the finished cathedral: this card is scaffolding weather. The vault comes from keeping the meeting honest."
+        ]
+      },
+      "reversed": {
+        "summary": "The collaboration failing quietly — same site, same logo, separate buildings. Feedback dodged, the expert overruled by the org chart, the flaw everyone sees and no one raises. Nothing is on fire; the angles just don't meet. Reconvene at the drawings before the vault does the announcing.",
+        "keywords": [
+          "no one pulling the same way, silos with matching logos, the review avoided, expertise talked over, mediocrity tolerated by consensus, walls meeting at unchecked angles"
+        ],
+        "essay": [
+          "Reversed, the Three of Pentacles is not the building falling down — that would at least force a meeting. It is the quieter failure state of shared work: everyone still on site, everyone still skilled, and no one pulling the same way. The mason carves to last month's measurements; the architect has revised the drawings and told half the people; the monk has stopped attending because the meetings stopped mentioning what the building is for. The org chart looks like a team. The work, examined closely, is three private projects wearing one logo — and the card's chill detail is how long this can run before anything visibly breaks, because skilled people can compensate for missing alignment right up until the day the walls are supposed to meet.",
+          "The failure has a taxonomy, and honest teams will recognize their species. There is the avoided review — work hidden until \"ready,\" which means until criticism would be too expensive to act on; feedback economies where the true sentence (this course is off) costs the speaker more than the silence costs the building. There is the overruled chisel — the person who actually knows the stone talked past by the person who owns the drawings, expertise losing to hierarchy in every collision, until the expert stops offering and starts merely complying, which every veteran of this reversal knows is the moment the real information leaves the room. And there is the politest species: mediocrity by consensus — the half-degree error that everyone has seen and no one names, because naming it would implicate the vibe, and the vibe has quietly become the thing the team actually builds and maintains.",
+          "What the reversal wants understood is that none of these is a craft problem — the carving, note, is still skillful. They are joint problems, and joints fail silently first. The half-degree in the vault is the card's whole sermon: at the moment of carving, the error is one honest sentence wide; ten courses later it is a rebuild; at the vault it is the story everyone tells afterward about why the project died. The cost of the true sentence rises with every course laid on top of it. Teams do not usually lack the diagnosis — ask anyone privately and they will draw you the half-degree freehand. They lack a place where saying it is safe and normal, which is what the upright card's meeting was.",
+          "So the counsel is unglamorous and specific: reconvene at the drawings. Not the retrospective about feelings — the actual plans on the actual table, three questions in the monk's plain style. What are we building — said aloud, because half the divergence began when the purpose went implicit. Where are we each working from — surfacing the three different versions of \"current\" that everyone believed was shared. And what is the half-degree — the flaw in plain sight, named first by whoever holds the most safety in the room, because rank buys the right to spend it on exactly this. If the meeting cannot be convened — if the drawings' owner will not open them — then the reversal is telling you which project this actually is: not the cathedral, someone's monument. Masons outlive monuments. Take the chisel where the vault is still honest."
+        ],
+        "work": [
+          "Same site, three private projects — reconvene at the actual drawings: what are we building, from which version, and who names the half-degree. Rank spends first; that's what it's for."
+        ],
+        "love": [
+          "The flaw both of you see and neither raises — one sentence wide today, a rebuild in ten courses. The cost of the true sentence only rises. Say it at carving stage."
+        ],
+        "self": [
+          "If your expertise keeps losing to the org chart, watch for the moment you stop offering and start complying — that's when the real information leaves the room. Don't be there for it."
+        ],
+        "note": [
+          "Not a skill deficit — the carving is still good; the joints are failing. And not resolved by working harder in the silo: compensation holds only until the walls are due to meet."
+        ]
+      }
+    },
+    "es": {
+      "slug": "tres-de-oros",
+      "name": "Tres de Oros",
+      "seoTitle": "Tres de Oros en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "Trabajar juntos logra lo que en solitario no se puede — destreza, diseño y propósito en una misma mesa, la obra revisada y el que revisa, bienvenido. Que…",
+      "summary": "Trabajar juntos logra lo que en solitario no se puede — destreza, diseño y propósito en una misma mesa, la obra revisada y el que revisa, bienvenido. Que tu trabajo empiece a notarse pronto. Cuida las uniones entre personas con el mismo esmero que la piedra; las catedrales están hechas de las dos.",
+      "imageDescription": "Bajo el arco de una catedral, un cantero joven está de pie sobre un banco, cincel en mano, parado a mitad de trabajo — porque un monje y un arquitecto con los planos han venido a consultarle, y los tres se escuchan. Sobre ellos, tres oros ya tallados en la bóveda terminada: la prueba de que trabajar juntos funciona, escrita en piedra sobre sus cabezas. El cantero es el más joven de la escena, y los planos están abiertos hacia él.",
+      "upright": {
+        "keywords": [
+          "la obra más grande que un solo par de manos, oficio, plano y propósito en la misma mesa, al aprendiz se le consulta, que te corrijan es un honor, tiempo de catedral, las uniones entre personas"
+        ],
+        "essay": [
+          "El Tres de Oros es la primera escena con gente del palo, y su reparto está elegido con cuidado: un cantero, que sabe cómo se comporta de verdad la piedra; un arquitecto, que sostiene los planos; un monje, que representa para qué es el edificio. Destreza, diseño, propósito — tres autoridades que en casi cualquier trabajo se toleran de lejos con desprecio educado — están aquí en una misma mesa, y el detalle radical de la carta es hacia dónde va la atención: los dos veteranos le están preguntando al joven. El cantero ha dejado de tallar para decir algo sobre la piedra real, y los de los planos y los hábitos escuchan. Caiga donde caiga esta carta, el trabajo ha llegado al punto en que ya no puede avanzar solo: el oficio necesita el plano, el plano necesita el propósito, y los tres necesitan la reunión.",
+          "Dónde ocurre la escena es su filosofía callada. Una catedral es el ejemplo perfecto de cierta clase de obra: demasiado grande para las manos de una sola vida, empezada por gente que no la vería terminada, sostenida no por ningún genio suelto sino por la calidad de diez mil uniones — piedra con piedra, y obrero con obrero. Lo que afirma el Tres es que la segunda clase de unión decide la primera. El trabajo hecho cada uno en su rincón, orgulloso, levanta muros que se juntan en ángulos que nadie comprobó; el trabajo que pasa por una charla honesta — el plano cuestionado, la limitación puesta sobre la mesa, la corrección aceptada sin que se hiera el ego — levanta la bóveda que aguanta seis siglos. Trabajar juntos, dicho de otro modo, no es una destreza secundaria frente a la de verdad. En todo lo que supere un banco de taller, es el oficio que carga el peso.",
+          "Hay además una carta más pequeña y más cálida dentro de la grande, y para mucha gente es la que da la corriente: al aprendiz se le consulta. Es el momento en que la institución se toma en serio por primera vez lo que uno sabe hacer — te invitan a la reunión que antes pasaba sin ti, alguien que firma cosas te pregunta ¿tú qué ves? El consejo del Tres aquí es directo: cuando los planos se abran hacia ti, habla. Ni con reverencia ni con grandeza — con precisión, desde la piedra que de verdad conoces. Las carreras de este palo se construyen justo en esa unión, y el cantero que dice que el arco pide aquí una hilada más profunda, y sabe explicar por qué, ha hecho más por su futuro que un año de excelencia callada hecha para nadie.",
+          "El consejo de trabajo es cuidar las uniones, tres prácticas. Enseña el trabajo a medio hacer — la revisión que escuece un minuto salva el muro que habría fallado en un año, y el artesano que esconde la obra hasta tenerla perfecta protege el ego, no la calidad. Pregunta para qué es el edificio — los equipos no se descuadran por el esfuerzo sino por el propósito, y la pregunta del monje, hecha sin rodeos en la reunión (¿esto en realidad para qué sirve?), reendereza más muros que cualquier manual de proceso. Y respeta los otros oficios: quien sostiene el plano y quien guarda el propósito saben cosas que el cincel no alcanza, igual que el cincel sabe cosas que los dibujos no ven. Los tres oros de arriba ya están tallados. Esa es la promesa de la carta sobre el trabajo hecho así: dura más que todos los que están en la mesa, que era, desde el principio, para lo que sirven las mesas."
+        ],
+        "work": [
+          "La reunión donde destreza, plano y propósito de verdad hablan entre sí — cuando los planos se abran hacia ti, habla desde la piedra que conoces. Enseña lo que no está terminado; el escozor temprano salva el muro."
+        ],
+        "love": [
+          "Construir en pareja o en familia es un oficio con uniones — la corrección que aceptas sin herirte, el «¿qué estamos construyendo?» dicho en voz alta. Los ángulos que nadie comprueba no encajan."
+        ],
+        "self": [
+          "Lo que sabes hacer acaba de notarse — la invitación a la mesa es real, así que ocúpala con precisión, ni sumisa ni grandiosa. Un año de excelencia callada hecha para nadie no construye nada."
+        ],
+        "note": [
+          "No es reunirse por reunirse — tres autoridades, cada una con su parcela real de mando, es el número. Y no es la catedral terminada: esta carta es tiempo de andamio. La bóveda sale de mantener la reunión honesta."
+        ]
+      },
+      "reversed": {
+        "summary": "Trabajar juntos se está viniendo abajo en silencio — misma obra, mismo logo, edificios separados. La crítica que se esquiva, al experto lo tumba el organigrama, el fallo que todos ven y nadie menciona. Nada arde; solo que los ángulos no encajan. Volved a juntaros ante los planos antes de que lo anuncie la bóveda.",
+        "keywords": [
+          "nadie tira del mismo lado, cada uno en su rincón con el mismo logo, la revisión que se esquiva, al que sabe se le pisa, la mediocridad aceptada por todos, muros que encajan en ángulos sin comprobar"
+        ],
+        "essay": [
+          "Invertido, el Tres de Oros no es el edificio derrumbándose — eso al menos forzaría una reunión. Es la forma más callada de fracasar del trabajo en común: todos siguen en la obra, todos siguen siendo buenos, y nadie tira del mismo lado. El cantero talla con las medidas del mes pasado; el arquitecto ha corregido los planos y se lo ha dicho a la mitad de la gente; el monje ha dejado de venir porque las reuniones dejaron de nombrar para qué es el edificio. El organigrama parece un equipo. La obra, mirada de cerca, son tres proyectos privados con un solo logo — y el detalle que hiela de la carta es cuánto puede durar esto antes de que algo se rompa a la vista, porque la gente buena tapa la falta de coordinación justo hasta el día en que los muros tienen que encajar.",
+          "El fallo tiene sus especies, y los equipos honestos reconocerán la suya. Está la revisión que se esquiva — el trabajo escondido hasta que está «listo», que quiere decir hasta que ya sale demasiado caro corregirlo; sitios donde decir la verdad (esta hilada va torcida) le cuesta más al que lo dice que lo que el silencio le cuesta al edificio. Está el cincel al que se pisa — la persona que de verdad conoce la piedra, con la voz tapada por quien es dueño de los planos, lo que sabe perdiendo contra el rango en cada choque, hasta que el experto deja de proponer y se limita a obedecer, que todo veterano de esta inversión sabe que es el momento en que la información real sale de la sala. Y está la especie más educada: la mediocridad que todos aceptan — el error de medio grado que todos han visto y nadie nombra, porque nombrarlo tocaría el buen ambiente, y el buen ambiente se ha convertido sin querer en lo único que el equipo de verdad construye y mantiene.",
+          "Lo que la inversión quiere que se entienda es que ninguno de estos es un problema de oficio — la talla, ojo, sigue siendo buena. Son problemas de unión, y las uniones fallan primero en silencio. El medio grado de la bóveda es el sermón entero de la carta: en el momento de tallar, el error mide lo que una frase honesta; diez hiladas después es rehacerlo todo; en la bóveda es la historia que todos cuentan luego sobre por qué murió el proyecto. Decir la verdad cuesta más con cada hilada que le ponen encima. A los equipos no suele faltarles el diagnóstico — pregunta a cualquiera en privado y te dibuja el medio grado de memoria. Les falta un sitio donde decirlo sea seguro y normal, que es lo que era la reunión de la carta al derecho.",
+          "Así que el consejo es sin adorno y concreto: volved a juntaros ante los planos. No la reunión sobre cómo se siente cada uno — los planos reales sobre la mesa real, tres preguntas al estilo llano del monje. Qué estamos construyendo — dicho en voz alta, porque la mitad del desvío empezó cuando el propósito se dio por sabido. Con qué versión trabaja cada uno — sacando a la luz las tres versiones distintas de «lo que vale ahora» que todos creían una sola y compartida. Y cuál es el medio grado — el fallo a plena vista, nombrado primero por quien más seguridad tenga en la sala, porque el rango se gana el derecho a gastarlo justo en esto. Si la reunión no se puede convocar — si el dueño de los planos no los abre — entonces la inversión te está diciendo qué proyecto es este en realidad: no la catedral, el monumento de alguien. Los canteros duran más que los monumentos. Llévate el cincel a donde la bóveda siga siendo honesta."
+        ],
+        "work": [
+          "Misma obra, tres proyectos privados — volved a juntaros ante los planos reales: qué construimos, con qué versión, y quién nombra el medio grado. El rango gasta primero; para eso está."
+        ],
+        "love": [
+          "El fallo que ambos veis y ninguno nombra — hoy mide lo que una frase, en diez hiladas es rehacerlo. Decir la verdad solo se pone más caro. Dilo mientras aún se está tallando."
+        ],
+        "self": [
+          "Si lo que sabes pierde siempre contra el organigrama, vigila el momento en que dejas de proponer y empiezas a obedecer — ahí es cuando la información real sale de la sala. No te quedes a verlo."
+        ],
+        "note": [
+          "No es que falte destreza — la talla sigue siendo buena; fallan las uniones. Y no se arregla trabajando más en tu rincón: aguantas tapando el fallo solo hasta que los muros tienen que encajar."
+        ]
+      }
+    }
+  }
+}

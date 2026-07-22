@@ -1,0 +1,128 @@
+{
+  "id": "two-of-wands",
+  "number": 2,
+  "order": 65,
+  "arcana": "minor",
+  "suit": "wands",
+  "rank": 2,
+  "image": "/assets/cards/two-of-wands.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "wands-02.en.md",
+    "es": "wands-02.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "two-of-wands",
+      "name": "Two of Wands",
+      "seoTitle": "Two of Wands Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "The world in the hand, not yet underfoot. Strategy before commitment; ambition doing its honest math. Deciding how big — which is a real decision, and the…",
+      "summary": "The world in the hand, not yet underfoot. Strategy before commitment; ambition doing its honest math. Deciding how big — which is a real decision, and the one currently on the table.",
+      "imageDescription": "A figure stands on a castle rampart, holding a small globe in one palm and looking out over sea and mountains. One wand is fixed to the wall behind; the other stands in hand. The castle is secure, the view is long, and nothing has been risked yet. The whole world, at this moment, weighs what the globe weighs.",
+      "upright": {
+        "keywords": [
+          "planning, dominion surveyed, the far horizon, choice of scale, ambition doing its math, the world in the hand"
+        ],
+        "essay": [
+          "You have already succeeded once — that is what the rampart means, and it changes the reading entirely. This is not a beginner's card; the castle behind you is built, the first wand is mounted on the wall like a completed campaign. The question the Two poses is the one that only arrives after a first success: was that the size of your life, or the base camp for it?",
+          "The globe in the palm is the card's most honest object. From the rampart, the world is graspable, rotatable, plannable — a thing of maps and estimates. This is the golden hour of any venture: everything is possible because nothing has been tested, and the card grants you this hour fully. Survey. Cost it out. Ambition doing real arithmetic — market, money, months, what it would take — is not procrastination. It is the difference between the Fool's leap and a route.",
+          "But the card also knows what ramparts do to people. The view is so good, and the wind so manageable, that surveying can become the occupation itself. Notice the wand already fixed to the wall: one decision was made here once, and bolted down, and became architecture. The wand in your hand is still loose. It is asking to be planted somewhere — here, at known scale, or out there, at the scale the globe suggests.",
+          "Deciding how big is the actual assignment, and no one can file it for you. Small is honorable: a life at castle scale, deep instead of wide. Large is honorable: the sea is real and ships do cross it. What the Two will not dignify is the unmade version of the choice — the horizon consulted daily like a postponed appointment. The view has been surveyed. The math is mostly done. You know, and the knowing is now waiting on you."
+        ],
+        "work": [
+          "Strategy before commitment — cost the expansion honestly, then choose the scale on purpose. The plan is nearly finished; planning is not the deliverable."
+        ],
+        "love": [
+          "Imagining the shared future concretely — dates, cities, sizes — instead of leaving it as a pleasant fog. The horizon named between you."
+        ],
+        "self": [
+          "The ambition admitted at full size, at least to yourself. How big, actually? The honest number changes what tomorrow is for."
+        ],
+        "note": [
+          "Not motion yet — the map stage, granted fully and honorably. But maps expire; the card marks the hour, not a residence."
+        ]
+      },
+      "reversed": {
+        "summary": "The plan polished instead of walked. Safety chosen and quietly resented; scale shrunk to avoid the crossing. Strategy functioning as the most respectable form of staying home.",
+        "keywords": [
+          "fear of leaving the castle, plans without departure, aim kept small, the globe set down, strategy as procrastination"
+        ],
+        "essay": [
+          "Reversed, the Two of Wands is the strategist who has quietly become a resident. The plan exists — it has versions, revisions, a folder — and its function has changed without announcement: it no longer prepares the departure; it substitutes for it. Every refinement buys another week on the rampart, and the rampart is comfortable, and the courtyard below is full of legitimate small tasks that are, conveniently, endless.",
+          "The tell is the second wand on the wall. In the upright card, one wand is fixed and one is in hand — one decision made, one pending. Here both are mounted. The choice got bolted down without ever being made; staying became policy by accumulation of days rather than by decision. The card does not call this cowardice. It calls it what it is: a choice, made in the passive voice, which is the only voice in which choices resent themselves.",
+          "Because there is resentment, low-grade and deniable, and you may recognize its signature: the flat feeling when someone else announces their crossing; the way the word \"realistic\" has started doing heavy lifting in your sentences; the aim revised downward in increments small enough that no single revision required mourning. Scale shrunk this way never registers as loss. It registers as maturity, which is the disguise it travels in.",
+          "The repair is not to leap — that was never this card's vocabulary. It is to reopen the actual question with the actual numbers: what would the crossing cost, today, at current prices? Often the honest answer is smaller than the years of avoidance implied. Sometimes the honest answer is \"too much, and I choose the castle\" — and said out loud, in the active voice, that is a real life and a fine one. What the reversed Two cannot survive is the third option it has been running on: the sea consulted daily, and never sailed, and never renounced."
+        ],
+        "work": [
+          "Strategy as procrastination — the deck rewritten instead of pitched. The expansion costed for the fourth time. Ship the plan to one real decision-maker or shelve it in the active voice."
+        ],
+        "love": [
+          "The future discussed, never scheduled. The move, the ask, the next size of the bond — polished in theory, postponed in practice."
+        ],
+        "self": [
+          "Dreams kept deliberately theoretical, where they cannot fail or be measured. The word \"realistic\" doing suspicious amounts of work."
+        ],
+        "note": [
+          "Not prudence — hiding. Prudence finishes its math and answers. The rampart was a viewpoint, never an address."
+        ]
+      }
+    },
+    "es": {
+      "slug": "dos-de-bastos",
+      "name": "Dos de Bastos",
+      "seoTitle": "Dos de Bastos en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "El mundo en la mano, todavía no bajo los pies. Estrategia antes del compromiso; ambición que hace cuentas con honestidad. Decidir hasta dónde quieres…",
+      "summary": "El mundo en la mano, todavía no bajo los pies. Estrategia antes del compromiso; ambición que hace cuentas con honestidad. Decidir hasta dónde quieres llegar: esa es la pregunta que hoy está sobre la mesa.",
+      "imageDescription": "Una figura de pie en la muralla de un castillo, sosteniendo un pequeño globo en la palma, mirando el mar y las montañas. Un bastón está fijado al muro, detrás; el otro, en la mano. El castillo es seguro, la vista es larga, y todavía no se ha arriesgado nada. El mundo entero, en este momento, pesa lo que pesa el globo.",
+      "upright": {
+        "keywords": [
+          "planificación, horizonte lejano, elegir la escala, ambición haciendo cuentas, el mundo en la mano"
+        ],
+        "essay": [
+          "Ya has conseguido algo importante; eso representa la muralla y cambia la lectura entera. Esta no es una carta de principiante: el castillo a tu espalda ya está construido y el primer bastón marca una etapa completada. El Dos plantea una pregunta que llega después del primer éxito: ¿esto era el tamaño que querías para tu vida o solo el punto de partida?",
+          "El globo en la palma es el objeto más honesto de la carta. Desde la muralla, el mundo es abarcable, giratorio, planificable — una cosa de mapas y estimaciones. Esta es la hora dorada de cualquier empresa: todo es posible porque nada se ha puesto a prueba, y la carta te concede esta hora por completo. Contempla. Saca los números. La ambición haciendo aritmética real — mercado, dinero, meses, qué haría falta — no es procrastinación. Es la diferencia entre el salto del Loco y una ruta.",
+          "Pero la carta también sabe lo que las murallas le hacen a la gente. La vista es tan buena, y el viento tan manejable, que contemplar puede volverse la ocupación misma. Fíjate en el bastón ya fijado al muro: aquí se tomó una decisión una vez, y se atornilló, y se volvió arquitectura. El bastón de tu mano todavía está suelto. Está pidiendo ser plantado en alguna parte — aquí, a la escala conocida, o allá afuera, a la escala que el globo sugiere.",
+          "Nadie puede decidir por ti el tamaño del reto. Elegir algo pequeño y profundo es válido; elegir algo grande también. Lo que el Dos no sostiene es dejar la decisión en pausa: mirar el horizonte cada día sin avanzar ni renunciar a él. Ya has observado bastante. Las cuentas están casi hechas. Ahora toca elegir."
+        ],
+        "work": [
+          "Estrategia antes del compromiso: calcula bien lo que exige crecer y elige la escala a propósito. El plan está casi terminado; ahora hay que ponerlo en marcha."
+        ],
+        "love": [
+          "Imaginar el futuro compartido en concreto — fechas, ciudades, tamaños — en lugar de dejarlo como niebla agradable. El horizonte nombrado entre los dos."
+        ],
+        "self": [
+          "Reconoce tu ambición, al menos ante ti. ¿Hasta dónde quieres llegar de verdad? La respuesta cambia lo que haces mañana."
+        ],
+        "note": [
+          "Todavía no es movimiento: es la etapa del mapa, y tiene su valor. Pero los mapas caducan; esta carta marca un momento, no un lugar donde quedarse."
+        ]
+      },
+      "reversed": {
+        "summary": "El plan se ha pulido tanto que nunca se pone en marcha. La seguridad se elige, pero se resiente en silencio; el objetivo se reduce para evitar el riesgo. La estrategia se convierte en una forma respetable de no salir de casa.",
+        "keywords": [
+          "miedo a dejar el castillo, planes sin partida, la ambición encogida, el globo apoyado, la estrategia como procrastinación"
+        ],
+        "essay": [
+          "Invertido, el Dos de Bastos es la estratega que sin ruido se volvió residente. El plan existe — tiene versiones, revisiones, una carpeta — y su función cambió sin anuncio: ya no prepara la partida; la sustituye. Cada refinamiento compra otra semana en la muralla, y la muralla es cómoda, y el patio de abajo está lleno de pequeñas tareas legítimas que son, convenientemente, interminables.",
+          "La señal es el segundo bastón fijado al muro. En la carta al derecho, uno está sujeto y el otro sigue en la mano: hay una decisión tomada y otra pendiente. Aquí los dos están fijados. Te has quedado por inercia, no por una decisión consciente. La carta no lo llama cobardía; lo llama por su nombre: una elección hecha sin asumirla, de esas que terminan pesando.",
+          "Porque hay resentimiento, de baja intensidad y negable, y quizá reconozcas su firma: la sensación plana cuando otra persona anuncia su travesía; la manera en que la palabra \"realista\" ha empezado a cargar mucho peso en tus frases; la ambición revisada a la baja en incrementos tan pequeños que ninguna revisión exigió duelo. La escala encogida así nunca se registra como pérdida. Se registra como madurez, que es el disfraz con el que viaja.",
+          "La solución no es dar un salto impulsivo. Es recuperar la pregunta con los números reales: ¿qué costaría dar ese paso hoy? A menudo será menos de lo que parecía tras años de evitarlo. Y a veces la respuesta será «demasiado, y elijo quedarme». Dicho con claridad, también es una buena decisión. Lo que este Dos no puede sostener es la tercera opción: mirar el mar cada día sin navegarlo ni decidir dejarlo atrás."
+        ],
+        "work": [
+          "La estrategia como procrastinación: la presentación se reescribe en lugar de enviarse, la expansión se calcula por cuarta vez. Preséntalo a quien puede decidir o archívalo conscientemente."
+        ],
+        "love": [
+          "El futuro conversado, nunca agendado. La mudanza, la pregunta, la siguiente talla del vínculo — pulidos en teoría, pospuestos en práctica."
+        ],
+        "self": [
+          "Sueños mantenidos en teoría, donde no pueden fallar ni medirse. La palabra «realista» justificando demasiadas renuncias."
+        ],
+        "note": [
+          "No es prudencia — es esconderse. La prudencia termina sus cuentas y responde. La muralla era un mirador, nunca una dirección postal."
+        ]
+      }
+    }
+  }
+}

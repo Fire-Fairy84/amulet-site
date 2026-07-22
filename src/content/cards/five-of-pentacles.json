@@ -1,0 +1,126 @@
+{
+  "id": "five-of-pentacles",
+  "number": 5,
+  "order": 40,
+  "arcana": "minor",
+  "suit": "pentacles",
+  "rank": 5,
+  "image": "/assets/cards/five-of-pentacles.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "pentacles-05.en.md",
+    "es": "pentacles-05.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "five-of-pentacles",
+      "name": "Five of Pentacles",
+      "seoTitle": "Five of Pentacles Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "Hardship in the suit that keeps the books — money gone, health failing, the outside of a system others are inside. Real cold, honestly drawn. And the…",
+      "summary": "Hardship in the suit that keeps the books — money gone, health failing, the outside of a system others are inside. Real cold, honestly drawn. And the card's terrible geometry: the lit window is right there. Look up; the asking is the skill this winter teaches.",
+      "imageDescription": "Two figures move through falling snow beneath a church window — stained glass, lit gold from inside, five pentacles glowing in its pattern like a tree. One figure walks on crutches; the other, barefoot, wraps a shawl and leans into the wind. The window is close enough to touch. Neither of them looks up at it. The image contains warmth, light, and help, and every eye in it is fixed on the snow.",
+      "upright": {
+        "keywords": [
+          "the lean season, snow that is not a metaphor, the lit window unseen, pride as bad insulation, two sets of footprints, help nearer than it looks"
+        ],
+        "essay": [
+          "The Five of Pentacles is the suit's winter, and the card's first decency is that it does not decorate the season. The snow is real snow. This is the card of money actually running out, of the body actually failing, of standing outside systems — employment, insurance, family, belonging — whose insides one can see through the glass. The two figures are drawn without romance: one wounded, one freezing, both moving because stopping is worse. If this card has arrived, something material is genuinely hard right now, and the deck says so plainly, first, before anything else — because people in this weather are told constantly that it could be worse, and the card's opening mercy is the opposite sentence: it is cold. You are not imagining the cold.",
+          "Then the card commits its famous cruelty, which is geometric: the window. Lit, gold, warm, close enough to throw a snowball at — and unseen. Neither figure looks up. This is the Five's central observation about hardship, and it is clinical, not moralizing: cold narrows. Scarcity — of money, of health, of hope — collapses the field of vision down to the next three steps of snow, which is efficient for surviving tonight and catastrophic for ending the winter, because the exits are almost never located in the next three steps. They are up, and to the side, and behind glowing glass — the friend who would help if asked, the program built for exactly this, the family that assumes you would call, the hardship fund nobody applies to. The help in this card is not hypothetical. It is rendered, in gold, at head height. The tragedy is angle of gaze.",
+          "Why don't they look up? The card knows, and its answer is the shawl: pride, and its quieter sibling, shame. Not looking is not oversight — it is policy. Asking would confirm the fall; walking on is the last form of standing. And the figures have each other, which cuts both ways: companionship in hardship is real wealth — two sets of footprints halve the wind — but two people can also co-sign each other's story that there is no door, that the light is for others, that we don't ask. The most weatherproof thing in the whole image is that belief. Snow melts. Not for me can last for years.",
+          "So the counsel is a single motion, and it costs more than it looks: lift the gaze. Inventory the windows honestly — the specific person, the specific program, the specific sentence (I'm not okay; I need work; I can't cover this month) — and then perform the act this card exists to teach: ask, precisely, someone who can actually help. Asking is not the opposite of dignity; it is dignity's winter form — the skill of the person who intends to survive intact. And the card keeps one note of hard comfort for the road: this is a five, the suit's middle. Winters in the earth suit are seasons, not verdicts; the ground under that snow is the same ground that grew the garden of the Nine, and it is not gone. It is dormant, and it keeps the dates better than despair does."
+        ],
+        "work": [
+          "Cold narrows to the next three steps; the exits are never there — they're the specific person, the specific fund, the specific sentence asked out loud. Lift the gaze before the pride refreezes."
+        ],
+        "love": [
+          "Two sets of footprints halve the wind — but don't co-sign each other's \"there is no door.\" One of you looking up is enough to find it for both."
+        ],
+        "self": [
+          "It is cold; you're not imagining it — that's said first. Then: asking is dignity's winter form, the skill of someone who intends to survive intact."
+        ],
+        "note": [
+          "Not a verdict — a five, the suit's middle; a season on ground that still keeps dates. And not the absence of help: the window is rendered in gold. What's absent is the upward glance."
+        ]
+      },
+      "reversed": {
+        "summary": "The winter breaking — help asked for and received, the door located, the numbers turning survivable. Recovery in the suit that counts. Two homework items travel with it: believe the warmth, and remember the window — someone else is walking past it right now.",
+        "keywords": [
+          "the door found, help accepted, warmth returning to the extremities, the season ending, the window remembered from inside, or the cold carried indoors"
+        ],
+        "essay": [
+          "Reversed, the Five of Pentacles is the door — found, opened, walked through — and the card allows itself the suit's rare good news without irony: the job offer after the long gap, the treatment that works, the loan restructured, the family's help accepted at last, the sentence I need help spoken and answered. The recovery is usually traceable to one unglamorous act: someone looked up. The window had been there; the program had been there; the friend had been there. What changed was the angle of a gaze, and then the swallowing of the shawl-pride, and then the ask. The reversal is the receipt for that transaction, and it wants the mechanism remembered, because winters recur and the skill is reusable: the exits were never in the snow ahead. They were always in the glass beside.",
+          "But the card follows its figures indoors, because it knows what veterans of lean seasons know: the body comes inside faster than the nervous system. One of the figures sits by the stove without believing in it — still budgeting the soup, still flinching at the knock, still running the outside math in an inside room. This is the cold carried indoors, and it deserves patient, specific handling rather than cheer: scarcity that lasted long enough became an operating system, and operating systems do not uninstall on the day circumstances change. The homework is small and physical, like the suit prefers: spend one comfortable sum and watch nothing collapse; leave the heating on; say yes to the second helping. The warmth has to be experienced past the flinch, repeatedly, before the hands finally unclench — and the card is gentle about the timeline. Thaw is slower than rescue. It is still thaw.",
+          "And then the reversal turns its figures around, physically, to face the glass from the inside — because the card has one more instruction, and it is the whole ethics of the suit in a single image: from in here, you can see them. The window that was invisible from the snow is transparent from the warmth, and someone is walking past it right now, eyes down, in exactly your old footprints. The person who has been outside owns a rare asset: they know precisely why the walkers don't look up, which means they know how to open a door without making it cost pride — the offer made concrete instead of vague (Tuesday, I'll drive you rather than let me know if you need anything), the help framed as normal, the asking made unnecessary. Most of the warm world never learns this skill because it has never needed the door. You have. The Five reversed, at full depth, is not just the end of your winter. It is the beginning of your tenure on the other side of the glass — stoker, door-opener, the one who remembers the snow with working memory. The suit will hand you the Six next, with its scales and its coins going hand to hand, and it will expect you to have done this homework."
+        ],
+        "work": [
+          "The recovery traces to one act — someone looked up and asked. Keep the mechanism: exits are never in the snow ahead, always in the glass beside. Reusable in every winter."
+        ],
+        "love": [
+          "Help accepted is a bond, not a debt — but thaw the nervous system on purpose: one comfortable yes at a time, past the flinch, until the hands unclench."
+        ],
+        "self": [
+          "The body comes inside faster than the mind. Scarcity became an operating system; uninstall it in small physical acts — the heating on, the second helping, nothing collapsing."
+        ],
+        "note": [
+          "Not instant — thaw is slower than rescue, and still thaw. And not private: from inside, the window is transparent. Someone's in your old footprints right now; make the offer concrete."
+        ]
+      }
+    },
+    "es": {
+      "slug": "cinco-de-oros",
+      "name": "Cinco de Oros",
+      "seoTitle": "Cinco de Oros en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "La penuria en el palo que lleva las cuentas — el dinero agotado, el cuerpo fallando, quedarte fuera de un sistema que otros habitan por dentro. Frío de…",
+      "summary": "La penuria en el palo que lleva las cuentas — el dinero agotado, el cuerpo fallando, quedarte fuera de un sistema que otros habitan por dentro. Frío de verdad, dibujado con honestidad. Y la crueldad geométrica de la carta: la ventana encendida está ahí mismo. Levanta la vista; pedir es la destreza que enseña este invierno.",
+      "imageDescription": "Dos figuras avanzan bajo la nieve al pie de una ventana de iglesia — vidriera, encendida de oro por dentro, cinco oros brillando en su dibujo como un árbol. Una figura va con muletas; la otra, descalza, se envuelve en un chal y se inclina contra el viento. La ventana está al alcance de la mano. Ninguna de las dos la mira. En la imagen hay calor, luz y ayuda, y todos los ojos que contiene están clavados en la nieve.",
+      "upright": {
+        "keywords": [
+          "la estación flaca, nieve que no es metáfora, la ventana encendida que nadie ve, el orgullo como mal abrigo, dos pares de huellas, la ayuda más cerca de lo que parece"
+        ],
+        "essay": [
+          "El Cinco de Oros es el invierno del palo, y la primera decencia de la carta es que no adorna la estación. La nieve es nieve de verdad. Esta es la carta del dinero que se acaba de verdad, del cuerpo que falla de verdad, de quedar fuera de sistemas — el trabajo, el seguro, la familia, la pertenencia — cuyo interior se ve a través del cristal. Las dos figuras están dibujadas sin romanticismo: una herida, otra helándose, ambas en movimiento porque pararse es peor. Si esta carta ha llegado, algo material está siendo de verdad difícil ahora mismo, y la baraja lo dice claro, primero, antes que nada — porque a la gente que vive este frío le repiten sin parar que podría estar peor, y la primera piedad de la carta es la frase contraria: hace frío. No te lo estás imaginando.",
+          "Luego la carta comete su crueldad famosa, que es de geometría: la ventana. Encendida, dorada, cálida, tan cerca que le tirarías una bola de nieve — y nadie la ve. Ninguna figura levanta la vista. Esta es la observación central del Cinco sobre la penuria, y es clínica, no moralista: el frío estrecha la mirada. La escasez — de dinero, de salud, de esperanza — reduce el campo de visión a los tres pasos siguientes de nieve, lo cual sirve para sobrevivir esta noche y es catastrófico para terminar el invierno, porque las salidas casi nunca están en los tres pasos siguientes. Están arriba, y a un lado, y detrás de un cristal encendido — la amiga que ayudaría si se lo pidieras, el programa hecho para esto exactamente, la familia que da por hecho que llamarías, la ayuda para emergencias que nadie solicita. La ayuda de esta carta no es hipotética. Está pintada, en oro, a la altura de la cabeza. La tragedia es hacia dónde se mira.",
+          "¿Por qué no miran arriba? La carta lo sabe, y su respuesta es el chal: el orgullo, y su hermana más callada, la vergüenza. No mirar no es un descuido — es una decisión. Pedir confirmaría la caída; seguir andando es la última forma de mantenerse en pie. Y las figuras se tienen la una a la otra, lo cual corta por los dos lados: la compañía en la penuria es riqueza de verdad — dos pares de huellas parten el viento por la mitad — pero dos personas también pueden confirmarse mutuamente el cuento de que no hay puerta, de que la luz es para otros, de que nosotros no pedimos. Lo más impermeable de toda la imagen es esa creencia. La nieve se derrite. El «no es para mí» puede durar años.",
+          "Así que el consejo es un solo gesto, y cuesta más de lo que parece: levantar la vista. Haz inventario de las ventanas con honestidad — la persona concreta, el programa concreto, la frase concreta (no estoy bien; necesito trabajo; este mes no llego) — y luego haz el acto que esta carta existe para enseñar: pide, con precisión, a alguien que de verdad pueda ayudar. Pedir no es lo contrario de la dignidad; es la forma que toma la dignidad en invierno — la destreza de quien tiene la intención de sobrevivir entero. Y la carta guarda un consuelo áspero para el camino: esto es un cinco, la mitad del palo. Los inviernos del palo de la tierra son estaciones, no sentencias; el suelo bajo esa nieve es el mismo que dio el jardín del Nueve, y no ha desaparecido. Está dormido, y guarda las fechas mejor que la desesperación."
+        ],
+        "work": [
+          "El frío estrecha la mirada a los tres pasos siguientes; las salidas nunca están ahí — están en la persona concreta, el fondo concreto, la frase concreta dicha en voz alta. Levanta la vista antes de que el orgullo se vuelva a congelar."
+        ],
+        "love": [
+          "Dos pares de huellas parten el viento por la mitad — pero no os confirméis el uno al otro que «no hay puerta». Con que uno de los dos mire arriba, basta para encontrarla para los dos."
+        ],
+        "self": [
+          "Hace frío; no te lo estás imaginando — eso se dice primero. Después: pedir es la forma que toma la dignidad en invierno, la destreza de quien piensa sobrevivir entero."
+        ],
+        "note": [
+          "No es una sentencia — es un cinco, la mitad del palo; una estación sobre un suelo que aún guarda fechas. Y no es falta de ayuda: la ventana está pintada en oro. Lo que falta es mirar hacia arriba."
+        ]
+      },
+      "reversed": {
+        "summary": "El invierno que se rompe — la ayuda pedida y recibida, la puerta encontrada, los números que vuelven a ser soportables. La recuperación en el palo que cuenta. Viajan con ella dos tareas: creer en el calor, y acordarte de la ventana — alguien está pasando por delante ahora mismo.",
+        "keywords": [
+          "la puerta encontrada, la ayuda aceptada, el calor volviendo a las manos y los pies, la estación que termina, la ventana recordada desde dentro, o el frío que te llevas a casa"
+        ],
+        "essay": [
+          "Invertido, el Cinco de Oros es la puerta — encontrada, abierta, cruzada — y la carta se permite la rara buena noticia del palo sin ironía: la oferta de trabajo tras el bache largo, el tratamiento que funciona, la deuda renegociada, la ayuda de la familia por fin aceptada, la frase «necesito ayuda» dicha y respondida. La recuperación casi siempre se puede rastrear hasta un acto sin glamur: alguien levantó la vista. La ventana ya estaba ahí; el programa ya estaba ahí; la amiga ya estaba ahí. Lo que cambió fue el ángulo de una mirada, después el orgullo que impedía pedir y, por fin, la petición. La inversión es el recibo de esa operación, y quiere que se recuerde cómo funcionó, porque los inviernos vuelven y la destreza se reutiliza: las salidas nunca estuvieron en la nieve de delante. Estuvieron siempre en el cristal de al lado.",
+          "Pero la carta sigue a sus figuras hacia dentro, porque sabe lo que saben los veteranos de las estaciones flacas: el cuerpo entra en casa antes que el sistema nervioso. Una de las figuras se sienta junto a la estufa sin creer en ella — todavía racionando la sopa, todavía dando un respingo con cada golpe en la puerta, todavía echando las cuentas de la calle en una habitación con calefacción. Esto es el frío que te llevas a casa, y merece un trato paciente y concreto, no ánimos: la escasez que dura lo suficiente se convierte en la forma por defecto de funcionar, y esa forma no se borra el día en que cambian las circunstancias. Las tareas son pequeñas y físicas, como le gusta al palo: gasta una cantidad que no te apriete y comprueba que no se derrumba nada; deja la calefacción puesta; di que sí al segundo plato. El calor hay que sentirlo pasado el respingo, una y otra vez, antes de que las manos por fin se abran — y la carta es amable con los plazos. El deshielo es más lento que el rescate. Sigue siendo deshielo.",
+          "Y luego la inversión gira a sus figuras, físicamente, para mirar el cristal desde dentro — porque a la carta le queda una instrucción, y es toda la ética del palo en una sola imagen: desde aquí, se les ve. La ventana que era invisible desde la nieve es transparente desde el calor, y alguien está pasando por delante ahora mismo, con la vista baja, en tus huellas exactas de antes. Quien ha estado fuera tiene un bien raro: sabe con precisión por qué los que caminan no miran arriba, y eso significa que sabe abrir una puerta sin cobrarla en orgullo — la oferta hecha concreta y no vaga («el martes te llevo yo» en vez de «avísame si necesitas algo»), la ayuda ofrecida como algo normal, el pedir vuelto innecesario. Casi todo el mundo cálido nunca aprende esta destreza porque nunca ha necesitado la puerta. Tú sí. El Cinco invertido, leído a fondo, no es solo el final de tu invierno. Es el principio de tu turno al otro lado del cristal — la que aviva el fuego, la que abre la puerta, la que recuerda la nieve con memoria fresca. El palo te dará el Seis a continuación, con su balanza y sus monedas pasando de mano en mano, y esperará que hayas hecho estas tareas."
+        ],
+        "work": [
+          "La recuperación se rastrea hasta un acto — alguien levantó la vista y pidió. Guarda cómo funcionó: las salidas nunca están en la nieve de delante, siempre en el cristal de al lado. Sirve para todos los inviernos."
+        ],
+        "love": [
+          "La ayuda aceptada es un lazo, no una deuda — pero deshiela el sistema nervioso a propósito: un sí que no te apriete cada vez, pasado el respingo, hasta que las manos se abran."
+        ],
+        "self": [
+          "El cuerpo entra en casa antes que la mente. La escasez se volvió tu forma por defecto de funcionar; desactívala con actos físicos pequeños — la calefacción puesta, el segundo plato, nada que se derrumbe."
+        ],
+        "note": [
+          "No es instantáneo — el deshielo es más lento que el rescate, y sigue siendo deshielo. Y no es privado: desde dentro, la ventana es transparente. Alguien va en tus huellas de antes ahora mismo; haz la oferta concreta."
+        ]
+      }
+    }
+  }
+}

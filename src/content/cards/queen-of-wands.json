@@ -1,0 +1,128 @@
+{
+  "id": "queen-of-wands",
+  "number": 13,
+  "order": 76,
+  "arcana": "minor",
+  "suit": "wands",
+  "rank": 13,
+  "image": "/assets/cards/queen-of-wands.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "wands-13.en.md",
+    "es": "wands-13.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "queen-of-wands",
+      "name": "Queen of Wands",
+      "seoTitle": "Queen of Wands Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "Confidence that warms instead of scorches — the host, the leader loved rather than obeyed, vitality made visible and shared. Sunflower in one hand, wand…",
+      "summary": "Confidence that warms instead of scorches — the host, the leader loved rather than obeyed, vitality made visible and shared. Sunflower in one hand, wand in the other: the welcome and the will, together. The cat sees everything.",
+      "imageDescription": "A queen sits facing forward — the only queen who does — a wand in one hand and a sunflower in the other, lions carved into her throne. At her feet, a black cat, also facing forward: the public warmth and its private shadow, both entirely at home. She holds fire the way other courts hold flowers.",
+      "upright": {
+        "keywords": [
+          "warmth with a spine, magnetic confidence, the sunflower and the black cat, hearth-fire leadership, visible vitality, owning the room without taking it"
+        ],
+        "essay": [
+          "The Queen of Wands is fire domesticated without being diminished — the hearth, not the wildfire, and not the candle either. Where the Knight spends fire on distance, the Queen spends it on radius: she is the person whose presence raises the temperature of a room, the host whose party works, the leader people describe as warm before they remember to say effective. The card's central claim is that these are not soft skills. Warmth at this wattage is a form of power, and the throne's carved lions know it.",
+          "Look at her hands, because the card's whole philosophy is in the grip: wand in one, sunflower in the other, held with identical ease. Will and welcome, authority and openness — most people believe these trade off against each other, and spend their lives choosing a hand. The Queen's answer is both, visibly, at once. She asks directly for what she wants and is genuinely glad you came; she holds the standard and holds the door. If the reading finds you softening your requests to stay likable, or hardening your warmth to stay respected, this card is the correction: the split was never required.",
+          "And then the black cat — the detail that keeps this card from being a greeting card. Every sunflower personality has one: the shadow familiar, the private knowledge, the instinct that reads the room's undercurrents while the smile works its surface. The cat is not a flaw in the Queen's warmth; it is its bodyguard. Confidence this open survives only because something sharp-eyed sits at its feet, noticing who drains and who feeds, which invitations are extractions, when the warmth is being farmed. The card asks you to keep both animals: sunflower turned to the light, cat facing the room. Warmth without the cat is a resource waiting to be strip-mined. The cat without warmth is just suspicion on a nice chair.",
+          "Her question for you is generous and pointed at once: what would you do this month if you fully believed you were welcome — in the room, in the field, in the life you are building? The Queen does not wait for the welcome to be issued. She sits facing forward, and the facing is the welcome, hers first. Rooms tend to agree with people who have already agreed with themselves."
+        ],
+        "work": [
+          "Lead by temperature — the standard held warmly, the ask made directly, credit radiated outward. Keep the cat: notice who farms your warmth."
+        ],
+        "love": [
+          "Wanting openly and hosting the relationship's weather — desire without apology, welcome without self-erasure. Both hands full; neither dropped."
+        ],
+        "self": [
+          "Confidence as self-issued welcome. Stop softening the ask to stay liked, or hardening the warmth to stay respected — the split was never required."
+        ],
+        "note": [
+          "Not performative positivity — the cat is in the frame on purpose. Warmth with a spine and a witness, not a smile with no security."
+        ]
+      },
+      "reversed": {
+        "summary": "The fire turned inward or turned sharp — warmth performed while depleted, charisma soured into control or jealousy, the host of everyone hosting herself never. The cat runs the court now. Something needs to be fed before it can shine.",
+        "keywords": [
+          "warmth withdrawn or weaponized, the dimmed queen, jealousy in the wings, burnout of the host, confidence turned brittle, the cat in charge"
+        ],
+        "essay": [
+          "Reversed, the Queen of Wands is what happens when the hearth keeps its schedule after the fuel runs out. The forms differ — depletion, performance, and poison — but underneath them runs one cause: warmth given long past the point where any came back.",
+          "Depletion is the commonest form. The room still gets the temperature it has learned to expect; the raising costs triple now, and no one has noticed, because the Queen's competence includes hiding the cost. The host of every gathering, the emotional infrastructure of every team, the person everyone assumes is fine because fine is her genre — dimmed, and performing brightness on reserves. The card's counsel is unglamorous: the fire needs fuel before it owes anyone light. Cancel the salon. Let a room stay cold and see who notices, and who brings wood. The ones who bring wood are the court worth keeping.",
+          "Performance is the subtler form: the warmth continuing outward as pure technique, sunflower held at the correct angle, nothing behind it. This is not hypocrisy — it is usually grief or exhaustion wearing the old costume because the costume still fits and the role is still cast. But performed warmth corrodes its performer, because every successful show confirms that the real thing was never required. If the smile has become load-bearing, the repair is one honest sentence to one safe person: I have been doing the warmth from memory. Watch what returns when the performance is allowed one intermission.",
+          "And poison is the form the tradition insists on naming: fire's generosity curdled into its rivalries — the comparison that arrives unbidden, the other woman's success experienced as theft, the court politics, charm deployed as territory defense. The tell is that the jealousy always tracks the dimming: we begrudge others precisely the light we have stopped generating. The cat has taken the throne — instinct and suspicion ruling where warmth used to — and the restoration is not to shame the cat but to reseat it: back at the feet, employed again as witness instead of regent. The heat that returns when the Queen tends her own fire first is the same heat that made comparison irrelevant. Lit people, it turns out, are famously bad at envy."
+        ],
+        "work": [
+          "Hosting the team on empty, warmth as unpaid infrastructure. Let one room stay cold; see who brings wood. Those are the colleagues."
+        ],
+        "love": [
+          "Brightness performed from memory, or charm turned to territory defense. One honest sentence to one safe person: the warmth has been running on reserves."
+        ],
+        "self": [
+          "Envy tracking your own dimming — you begrudge the light you've stopped generating. Feed your fire first; lit people are famously bad at jealousy."
+        ],
+        "note": [
+          "Not the warmth revealed as fake. Real fires bank low — the costume fitting doesn't mean the person was ever the costume."
+        ]
+      }
+    },
+    "es": {
+      "slug": "reina-de-bastos",
+      "name": "Reina de Bastos",
+      "seoTitle": "Reina de Bastos en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "Confianza que calienta en lugar de quemar — la anfitriona, la líder querida más que obedecida, la vitalidad hecha visible y compartida. Girasol en una…",
+      "summary": "Confianza que calienta en lugar de quemar — la anfitriona, la líder querida más que obedecida, la vitalidad hecha visible y compartida. Girasol en una mano, basto en la otra: la bienvenida y la voluntad, juntas. El gato lo ve todo.",
+      "imageDescription": "Una reina sentada de frente — la única reina que lo hace — un basto en una mano y un girasol en la otra, leones tallados en el trono. A sus pies, un gato negro, también de frente: la calidez pública y su sombra privada, ambas enteramente en casa. Sostiene el fuego como otras cortes sostienen flores.",
+      "upright": {
+        "keywords": [
+          "calidez con firmeza, confianza magnética, el girasol y el gato negro, liderazgo acogedor, vitalidad visible, ocupar la sala sin quitársela a nadie"
+        ],
+        "essay": [
+          "La Reina de Bastos representa un fuego cuidado sin perder fuerza: no es un incendio, pero tampoco una vela. Donde el Caballero recorre distancia, la Reina crea un espacio cálido a su alrededor. Es la persona cuya presencia transforma una sala, la anfitriona que hace que todo funcione, la líder a la que recuerdan por su calidez y su eficacia. La carta insiste en que esta calidez no es una habilidad menor: también es poder.",
+          "Mira sus manos: un basto en una y un girasol en la otra. Representan voluntad y bienvenida, autoridad y apertura. Solemos creer que hay que elegir entre ser firme o ser cálida; la Reina sostiene ambas cosas a la vez. Pide directamente lo que quiere y se alegra de que hayas venido; mantiene el estándar y deja la puerta abierta. Si suavizas tus peticiones para gustar o endureces tu trato para que te respeten, esta carta te recuerda que no tienes por qué elegir.",
+          "Y luego el gato negro — el detalle que salva a esta carta de ser una tarjeta de felicitación. Toda personalidad de girasol tiene uno: el familiar de sombra, el saber privado, el instinto que lee las corrientes de fondo de la sala mientras la sonrisa trabaja su superficie. El gato no es un defecto de la calidez de la Reina; es su guardaespaldas. Una confianza tan abierta solo sobrevive porque algo de ojos afilados se sienta a sus pies, notando quién drena y quién alimenta, qué invitaciones son extracciones, cuándo la calidez está siendo cosechada. La carta te pide conservar a los dos animales: el girasol vuelto hacia la luz, el gato de cara a la sala. La calidez sin el gato es un recurso esperando ser explotado a cielo abierto. El gato sin la calidez es solo desconfianza en una silla bonita.",
+          "Su pregunta para ti es generosa y afilada a la vez: ¿qué harías este mes si creyeras del todo que eres bienvenida — en la sala, en el campo, en la vida que estás construyendo? La Reina no espera a que la bienvenida se emita. Se sienta de frente, y el estar de frente es la bienvenida, la suya primero. Las salas tienden a estar de acuerdo con la gente que ya está de acuerdo consigo misma."
+        ],
+        "work": [
+          "Liderar por temperatura — el estándar sostenido con calidez, la petición hecha directa, el mérito irradiado hacia fuera. Conserva el gato: fíjate en quién cosecha tu calidez."
+        ],
+        "love": [
+          "Querer abiertamente y ser anfitriona del clima de la relación — deseo sin disculpa, bienvenida sin auto-borrado. Las dos manos llenas; ninguna soltada."
+        ],
+        "self": [
+          "La confianza como una bienvenida que te das a ti misma. No suavices lo que pides para gustar ni endurezcas tu calidez para que te respeten: no tienes por qué elegir."
+        ],
+        "note": [
+          "No es positividad de cara a la galería — el gato está en el cuadro a propósito. Calidez con columna y con testigo, no una sonrisa sin seguridad."
+        ]
+      },
+      "reversed": {
+        "summary": "El fuego vuelto hacia dentro o vuelto filo — la calidez actuada en pleno agotamiento, el carisma agriado en control o en celos, la anfitriona de todos que nunca se hospeda a sí misma. Ahora el gato gobierna la corte. Algo necesita ser alimentado antes de poder brillar.",
+        "keywords": [
+          "calidez retirada o usada como arma, la reina atenuada, celos entre bastidores, burnout de la anfitriona, confianza vuelta quebradiza, el gato al mando"
+        ],
+        "essay": [
+          "Invertida, la Reina de Bastos es lo que pasa cuando el hogar mantiene su horario después de acabarse la leña. Las formas difieren — agotamiento, actuación y veneno — pero por debajo corre una sola causa: calidez entregada mucho después del punto en que algo de ella volvía.",
+          "El agotamiento es la forma más común. La sala sigue recibiendo la temperatura que aprendió a esperar; subirla cuesta ahora el triple, y nadie lo ha notado, porque la competencia de la Reina incluye esconder el coste. La anfitriona de cada reunión, la infraestructura emocional de cada equipo, la persona que todos dan por bien porque bien es su género — atenuada, y actuando el brillo con las reservas. El consejo de la carta no tiene glamur: el fuego necesita leña antes de deberle luz a nadie. Cancela el salón. Deja que una sala se quede fría y mira quién lo nota, y quién trae leña. Los que traen leña son la corte que merece conservarse.",
+          "La actuación es la forma más sutil: la calidez que sigue saliendo como pura técnica, el girasol sostenido en el ángulo correcto, nada detrás. No es hipocresía — suele ser pena o cansancio con el disfraz de siempre, porque el disfraz aún queda bien y el papel sigue repartido. Pero la calidez actuada corroe a quien la actúa, porque cada función lograda confirma que la de verdad nunca hizo falta. Si la sonrisa se ha vuelto obligatoria, la reparación es una frase honesta a una persona segura: llevo un tiempo haciendo la calidez de memoria. Mira lo que vuelve cuando a la función se le permite un entreacto.",
+          "Y el veneno es la forma que la tradición insiste en nombrar: la generosidad del fuego cuajada en sus rivalidades — la comparación que llega sin ser llamada, el éxito de la otra vivido como robo, la política de corte, el encanto desplegado como defensa de territorio. El delator es que los celos siguen siempre el rastro de la atenuación: le escatimamos a las demás exactamente la luz que hemos dejado de generar. El gato ha tomado el trono — el instinto y la sospecha gobernando donde antes la calidez — y la restauración no es avergonzar al gato sino reubicarlo: de vuelta a los pies, empleado otra vez como testigo y no como regente. El calor que vuelve cuando la Reina atiende primero su propio fuego es el mismo calor que hacía irrelevante la comparación. La gente encendida, resulta, es famosamente mala para la envidia."
+        ],
+        "work": [
+          "Ser anfitriona del equipo en vacío, la calidez como infraestructura no pagada. Deja una sala fría; mira quién trae leña. Esos son los colegas."
+        ],
+        "love": [
+          "El brillo actuado de memoria, o el encanto vuelto defensa de territorio. Una frase honesta a una persona segura: la calidez lleva tiempo tirando de reservas."
+        ],
+        "self": [
+          "La envidia puede aparecer cuando tu propia luz se ha apagado. Atiende primero tu fuego: cuando estás bien alimentada, la comparación pierde fuerza."
+        ],
+        "note": [
+          "No es la calidez revelada como falsa. Los fuegos de verdad bajan a brasa — que el disfraz quede bien no significa que la persona fuera nunca el disfraz."
+        ]
+      }
+    }
+  }
+}

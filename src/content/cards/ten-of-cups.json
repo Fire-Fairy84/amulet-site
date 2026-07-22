@@ -1,0 +1,128 @@
+{
+  "id": "ten-of-cups",
+  "number": 10,
+  "order": 31,
+  "arcana": "minor",
+  "suit": "cups",
+  "rank": 10,
+  "image": "/assets/cards/ten-of-cups.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "cups-10.en.md",
+    "es": "cups-10.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "ten-of-cups",
+      "name": "Ten of Cups",
+      "seoTitle": "Ten of Cups Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "Emotional arrival — the love that became a household, the feeling that became a life. Shared plenty, domestic and unglamorous and complete. It looks…",
+      "summary": "Emotional arrival — the love that became a household, the feeling that became a life. Shared plenty, domestic and unglamorous and complete. It looks ordinary from inside; the rainbow is the card insisting it isn't.",
+      "imageDescription": "A couple stands arm in arm, free arms raised toward a rainbow in which ten cups arc across the sky. Beside them, two children dance without an audience. Behind, a modest house among trees, a stream, a low hill. Nothing in the scene is grand. Everything in it is what the grand things were for.",
+      "upright": {
+        "keywords": [
+          "the arc completed, feeling become home, family in its chosen sense, ordinary permanence, the rainbow over the small house, love as infrastructure"
+        ],
+        "essay": [
+          "The suit that began with one overflowing cup ends with ten of them in the sky above a small house — and the geometry of the finale matters. The Nine was one man and his shelf: satisfaction, personal and seated. The Ten is plural: the arc completed only when the feeling became a structure other people live inside. This is the card of emotional arrival in its domestic register — the family, by blood or by fierce choosing; the household that works; the relationship that grew roofbeams; the circle of people among whom your heart parks itself without checking the mirrors. Where the wish card granted a want, the Ten certifies something slower: the want, compounded across years into a place.",
+          "The card's most important detail is how deliberately unglamorous it is. A modest house, a stream, children dancing badly, weather. The tarot could have painted arrival as a palace and chose a cottage — because the card's actual teaching is about recognition, not acquisition. Lives that contain the Ten of Cups almost never feel like it from inside; the rainbow is visible from the road, not from the kitchen. Familiarity is arrival's camouflage: the evening routine, the person breathing next to you, the group chat of people who would drive through the night for you — all of it renders, day to day, as nothing special. The card arrives to reissue the view from outside: this, the ordinary configuration you woke up in today, is the thing the whole suit was walking toward. Some readers draw this card and think it promises a future. More often it is describing a present the reader has stopped seeing.",
+          "Note also what the rainbow is made of: the same water the suit has been crying, spilling, and walking away from for nine cards. The Ten does not arrive in lives that avoided the Five's grief or the Eight's departure — it is built downstream of them, out of them. Whatever is complete in your life is made partly of what went wrong earlier and got metabolized. That is not a flaw in the arrival. It is the material.",
+          "The card's only demand is maintenance-by-attention. Completed arcs are not static; they are re-earned in small denominations — the presence at dinner, the repair of the minor rupture, the naming of the good while it is happening. Say it out loud this week, to the people inside the arc with you: some version of we have this, and I see it. Arrival unnamed drifts back into wallpaper. Named, it holds — and the children in the picture, who are dancing anyway, dance a little longer."
+        ],
+        "work": [
+          "The team or practice that became a home — rare, and invisible from inside. Name it while it's true. Arrival at work is also maintained in small denominations."
+        ],
+        "love": [
+          "The love that grew roofbeams — household, chosen family, the bond as infrastructure. The rainbow is visible from the road, not the kitchen: let the card reissue the outside view."
+        ],
+        "self": [
+          "Check whether this card describes your present before assuming it promises a future. Familiarity is arrival's camouflage; say \"we have this\" out loud and watch it re-render."
+        ],
+        "note": [
+          "Not a palace and not a finale that ends the story — an arc that must be re-earned in small change. And not luck: it is built from metabolized rain."
+        ]
+      },
+      "reversed": {
+        "summary": "The gap between the family in the photo and the family in the rooms — harmony performed, fracture politely managed, or the dream of home used as a stick to beat the present. Real warmth may be nearer than the picture; the picture is what's in the way.",
+        "keywords": [
+          "the picture over the fracture, family strained, the performed household, arrival deferred by comparison, home as image versus home as place, the rainbow demanded"
+        ],
+        "essay": [
+          "Reversed, the Ten of Cups is the card of the picture — the image of home interfering with the fact of it, in one of three arrangements.",
+          "The first is the performed household: the family photogenic and fractured, the couple whose public warmth is their best-rehearsed number, the holiday table where everyone plays their part and no one says a true sentence. What makes this painful is not hypocrisy — most performing families are not lying so much as hoping, maintaining the picture because the picture is the last shared project. But the performance has a cost curve: every convincing show raises the price of honesty, until the gap between the photographed family and the actual one becomes the largest thing in the house, discussed by no one, known to all — including, always, the children, who read rooms long before they read words. The card's counsel is not demolition; it is one load-bearing honest sentence, delivered inside the walls instead of over them: I miss you. This isn't working. Can we stop performing and talk. Pictures crack; households, oddly, mostly don't. They are usually sturdier than the silence protecting them.",
+          "The second is the strained arc: not performance but genuine disrepair — the family in conflict, the estrangement, the household grieving or grinding through a season where the rainbow is simply not visible. Here the reversal is weather, not verdict, and its counsel is proportion: an arc built over years does not void in a bad quarter. Tend the two or three bonds that are tendable; let the stream carry what it carries; do not renegotiate permanent things at the moment of least visibility.",
+          "The third arrangement lives in one person: the postcard problem. The dream of the Ten — the family imagined, the household not yet or no longer possessed — held up nightly against the actual present, which loses on schedule. Longing for home is honorable; the malfunction is only in the accounting, when the imagined arc renders the real, partial, available warmth invisible: the friends who are already family, the table already set monthly, the two or six cups already standing in a life graded incomplete for lacking ten. The reversed card's repair is an inventory taken with the postcard face-down: list what is already functioning as home, however unofficial its paperwork. Most people partway through the suit are further along than the picture lets them feel. And arcs, the whole deck testifies, are built one honest cup at a time — by people who started counting the ones they had."
+        ],
+        "work": [
+          "The team photogenic in all-hands and cold in the rooms — one honest sentence inside the walls beats a quarter of performance. Culture cracks; teams mostly don't."
+        ],
+        "love": [
+          "The picture as the last shared project — or a real arc in a bad season. Don't renegotiate permanent things at minimum visibility; tend the tendable bonds."
+        ],
+        "self": [
+          "The postcard held against the present, which loses nightly. Inventory with the picture face-down: what already functions as home? Count the standing cups."
+        ],
+        "note": [
+          "Not proof the home was false — performance is usually hope, not lie. And not disqualification: two cups standing is a start on ten, not a failure of it."
+        ]
+      }
+    },
+    "es": {
+      "slug": "diez-de-copas",
+      "name": "Diez de Copas",
+      "seoTitle": "Diez de Copas en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "La llegada emocional — el amor que se volvió una casa, el sentimiento que se volvió una vida. Abundancia compartida, doméstica, sin brillo y completa.…",
+      "summary": "La llegada emocional — el amor que se volvió una casa, el sentimiento que se volvió una vida. Abundancia compartida, doméstica, sin brillo y completa. Desde dentro parece de lo más normal; el arcoíris es la carta insistiendo en que no lo es.",
+      "imageDescription": "Una pareja de pie, del brazo, los brazos libres alzados hacia un arcoíris donde diez copas cruzan el cielo en arco. A su lado, dos niños bailan sin que nadie los mire. Detrás, una casa modesta entre árboles, un arroyo, una colina baja. Nada en la escena es grande. Todo en ella es para lo que servían las cosas grandes.",
+      "upright": {
+        "keywords": [
+          "el arco cerrado, el sentimiento vuelto hogar, la familia que uno elige, permanencia sin ruido, el arcoíris sobre la casa pequeña, el amor como estructura"
+        ],
+        "essay": [
+          "El palo que empezó con una copa desbordándose termina con diez de ellas en el cielo, sobre una casa pequeña — y la forma de ese cierre importa. El Nueve era un hombre y su estante: satisfacción, personal y sentada. El Diez es plural: el arco solo se cierra cuando el sentimiento se vuelve una estructura donde vive más gente. Es la carta de la llegada emocional en su versión doméstica — la familia, de sangre o elegida a pulso; la casa que funciona; la relación a la que le salieron cimientos; el grupo de personas donde tu corazón aparca sin mirar los retrovisores. Donde la carta del deseo concedía un querer, el Diez confirma algo más lento: ese querer, acumulado a lo largo de años hasta volverse un lugar.",
+          "El detalle más importante de la carta es lo poco brillante que es, y a propósito. Una casa modesta, un arroyo, niños que bailan mal, tiempo cambiante. El tarot pudo pintar la llegada como un palacio y eligió una casita — porque lo que enseña de verdad va de darse cuenta, no de conseguir. Las vidas que tienen dentro el Diez de Copas casi nunca lo notan desde dentro; el arcoíris se ve desde el camino, no desde la cocina. Lo cotidiano es el disfraz de la llegada: la rutina de la noche, la persona que respira a tu lado, el chat del grupo de gente que conduciría toda la noche por ti — todo eso, día a día, parece nada del otro mundo. La carta viene a devolverte la vista desde fuera: esto, la escena corriente en la que te despertaste hoy, es hacia lo que caminaba el palo entero. Algunas personas sacan esta carta y creen que les promete un futuro. Casi siempre está describiendo un presente que han dejado de mirar.",
+          "Fíjate también en de qué está hecho el arcoíris: de la misma agua que el palo lleva nueve cartas llorando, derramando y dejando atrás. El Diez no llega a vidas que se libraron del duelo del Cinco o de la marcha del Ocho — se construye después de ellos, con ellos. Lo que en tu vida esté completo está hecho, en parte, de lo que antes salió mal y luego lo digeriste. Eso no es un defecto de la llegada. Es el material.",
+          "Lo único que la carta exige es cuidarla prestando atención. Los arcos cerrados no se sostienen solos; se vuelven a ganar en cantidades pequeñas — estar en la cena, arreglar la grieta menor, nombrar lo bueno mientras pasa. Dilo en voz alta esta semana, a la gente que está dentro del arco contigo: alguna versión de tenemos esto, y me doy cuenta. La llegada que no se nombra se va difuminando hasta volverse papel de pared. Nombrada, aguanta — y los niños del cuadro, que bailan de todos modos, bailan un rato más."
+        ],
+        "work": [
+          "El equipo o el oficio que se volvió un hogar — raro, e invisible desde dentro. Nómbralo mientras es verdad. La llegada en el trabajo también se mantiene en cantidades pequeñas."
+        ],
+        "love": [
+          "El amor al que le salieron cimientos — casa, familia elegida, el vínculo como estructura. El arcoíris se ve desde el camino, no desde la cocina: deja que la carta te devuelva la vista de fuera."
+        ],
+        "self": [
+          "Antes de dar por hecho que promete un futuro, mira si esta carta describe tu presente. Lo cotidiano es el disfraz de la llegada; di \"tenemos esto\" en voz alta y observa cómo cambia."
+        ],
+        "note": [
+          "No es un palacio ni un final que cierre la historia — un arco que hay que volver a ganar en cantidades pequeñas. Y no es suerte: está hecho de lluvia digerida."
+        ]
+      },
+      "reversed": {
+        "summary": "La distancia entre la familia de la foto y la familia de los cuartos — la armonía actuada, la grieta gestionada con buenos modales, o el sueño del hogar usado como palo para golpear el presente. El calor real puede estar más cerca que la foto; la foto es lo que estorba.",
+        "keywords": [
+          "la foto encima de la grieta, la familia tensada, el hogar actuado, la llegada aplazada por comparación, el hogar como imagen frente al hogar como lugar, el arcoíris exigido"
+        ],
+        "essay": [
+          "Invertido, el Diez de Copas es la carta de la foto — la imagen del hogar interfiriendo con el hogar de verdad, en una de tres versiones.",
+          "La primera es el hogar actuado: la familia fotogénica y rota, la pareja cuyo cariño en público es su número más ensayado, la mesa navideña donde cada uno hace su papel y nadie dice una frase de verdad. Lo que hace esto doloroso no es la hipocresía — la mayoría de las familias que actúan no mienten tanto como esperan, y mantienen la foto porque la foto es el último proyecto que les queda en común. Pero actuar sale caro, y el precio sube: cada función convincente encarece un poco más la honestidad, hasta que la distancia entre la familia de la foto y la real se vuelve lo más grande de la casa, que nadie comenta y todos saben — incluidos, siempre, los niños, que leen los cuartos mucho antes que las palabras. Lo que la carta aconseja no es demoler; es una sola frase honesta que aguante peso, dicha dentro de las paredes y no por encima de ellas: te echo de menos. Esto no funciona. ¿Podemos dejar de actuar y hablar? Las fotos se agrietan; las casas, curiosamente, casi nunca. Suelen ser más firmes que el silencio que las protege.",
+          "La segunda es el arco tensado: no actuación, sino un deterioro real — la familia en conflicto, el alejamiento, la casa de luto o arrastrándose por una temporada en que el arcoíris sencillamente no se ve. Aquí lo invertido es un mal tiempo, no una sentencia, y lo que aconseja es sentido de la proporción: un arco levantado a lo largo de años no se cae en un mal trimestre. Cuida los dos o tres vínculos que se puedan cuidar; deja que el arroyo lleve lo que lleva; no renegocies lo permanente en el momento de menos visibilidad.",
+          "La tercera versión vive en una sola persona: el problema de la postal. El sueño del Diez — la familia imaginada, el hogar que aún no se tiene o que ya no se tiene — puesto cada noche frente al presente real, que pierde la comparación como estaba previsto. Echar de menos un hogar es digno; el fallo está solo en las cuentas, cuando el arco imaginado hace invisible el calor real que sí hay a mano, aunque sea a medias: las amigas que ya son familia, la mesa que ya se pone cada mes, las dos o seis copas que ya están en pie en una vida a la que le pones un suspenso por no llegar a diez. Lo que repara la carta invertida es hacer inventario con la postal boca abajo: apunta lo que ya funciona como hogar, por informal que sea su papeleo. Casi todo el mundo a mitad del palo está más avanzado de lo que la foto le deja sentir. Y los arcos, lo confirma la baraja entera, se construyen copa honesta a copa honesta — con gente que empezó por contar las que ya tenía."
+        ],
+        "work": [
+          "El equipo fotogénico en la reunión general y frío en los cuartos — una frase honesta dentro de las paredes vale más que un trimestre de actuación. La cultura se agrieta; los equipos casi nunca."
+        ],
+        "love": [
+          "La foto como último proyecto en común — o un arco real en mala temporada. No renegocies lo permanente con visibilidad mínima; cuida los vínculos que se puedan cuidar."
+        ],
+        "self": [
+          "La postal puesta frente al presente, que pierde cada noche. Haz inventario con la foto boca abajo: ¿qué funciona ya como hogar? Cuenta las copas en pie."
+        ],
+        "note": [
+          "No es prueba de que el hogar fuera falso — actuar suele ser esperanza, no mentira. Y no es una descalificación: dos copas en pie son un comienzo de diez, no su fracaso."
+        ]
+      }
+    }
+  }
+}

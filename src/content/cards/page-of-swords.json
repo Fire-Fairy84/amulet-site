@@ -1,0 +1,128 @@
+{
+  "id": "page-of-swords",
+  "number": 11,
+  "order": 60,
+  "arcana": "minor",
+  "suit": "swords",
+  "rank": 11,
+  "image": "/assets/cards/page-of-swords.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "swords-11.en.md",
+    "es": "swords-11.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "page-of-swords",
+      "name": "Page of Swords",
+      "seoTitle": "Page of Swords Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "The quick mind waking up — curiosity, vigilance, the question that won't sit down. News, messages, the new idea learning its grip. All the suit's…",
+      "summary": "The quick mind waking up — curiosity, vigilance, the question that won't sit down. News, messages, the new idea learning its grip. All the suit's sharpness, none of its scars yet. Aim the watching at something; wind is only weather until it turns a mill.",
+      "imageDescription": "A young figure stands on uneven high ground, sword held up in both hands — the grip still being learned — while the wind bends the trees and drags clouds across the sky. The head is turned over one shoulder, away from where the blade points: watching everything, aimed at nothing yet. Birds scatter overhead. Nothing in the card is still, and nothing in it has been decided.",
+      "upright": {
+        "keywords": [
+          "curiosity with a blade, the student of truth, questions as a discipline, wind in the trees, the watcher on the hill, news incoming"
+        ],
+        "essay": [
+          "Every suit has its student, and the Page of Swords is the mind's — the one who has just been handed the Ace's blade and has not yet cut anything with it, including, so far, themselves. This is the suit's sharpness in its unwounded form: curiosity before it has hardened into position, vigilance before it has curdled into suspicion, the question asked because the asker genuinely does not know. The card almost always marks fresh mental weather — the new field, the new language, the situation you are studying from its edge — and its energy is unmistakable: quick, restless, slightly too caffeinated, magnificent at noticing and terrible, so far, at waiting.",
+          "The Page's gift deserves naming precisely, because adults lose it and then pay consultants to give it back: the beginner's question. The one everyone in the room stopped asking years ago because knowing better is a kind of tenure — but why do we do it this way, what is that actually for, who said so. The Page, having no reputation to protect, can ask it, and the suit's whole history shows that the blade's best work often starts there: most fog survives on nobody wanting to sound new. If this card has arrived, something in the reading is asking to be studied like a beginner — approached with the grip loose and the assumptions checked at the door. The over-shoulder glance is the method: watch first, and watch widely.",
+          "But the card is honest about where this energy goes wrong, and it goes wrong socially. A blade this new, this light, this fun to swing, finds its practice targets among people: the clever comment that lands as a cut, the watching that becomes watching them, information gathered the way birds gather — for the flock's chatter, not for use. The Page's shadow is the hill itself: a vantage point can become a residence, and there are minds that spend whole years observing the valley, fluent in everyone's business, participant in none of it. Curiosity without commitment is surveillance with better PR.",
+          "So the counsel comes in pairs, one for each hand on the grip. Pair every question with study — the Page who asks and then actually reads, actually practices, actually follows the answer down, is a Knight within the year; the one who only asks stays clever and stays on the hill. And pair every word with an address: say the thing to the person it concerns, not about them to the wind. The wind takes everything, and it delivers to strange doors. The blade you are holding will eventually be a Queen's, a King's — and what decides which court you reach is not how sharp it gets. It is what you practiced on."
+        ],
+        "work": [
+          "The new field studied from its edge — ask the beginner's question the room stopped asking. Then do the reading; asking without study is a hobby, not a start."
+        ],
+        "love": [
+          "Curiosity as courtship of the truth: watch, ask, don't conclude yet. Say the thing to the person, not about them — the wind delivers to strange doors."
+        ],
+        "self": [
+          "The mind's fresh start — sharp, unscarred, aimed at nothing yet. Pick one thing the watching is for. A vantage point is not an address."
+        ],
+        "note": [
+          "Not yet the argument (that's the Knight's) and not gossip by nature — by drift. And not shallowness: new is not the same as light. The grip is being learned."
+        ]
+      },
+      "reversed": {
+        "summary": "The quick mind gone sideways — the cutting remark, the story passed on, the take fired before the homework. Watchfulness soured into suspicion; cleverness doing damage retail. The words are already traveling. Decide who you'd be when they land.",
+        "keywords": [
+          "words used as knives, the clever cut, gossip on the record, vigilance gone paranoid, all takes no homework, the message better unsent"
+        ],
+        "essay": [
+          "Reversed, the Page of Swords is the student blade doing exactly what unsupervised blades do: finding the soft targets. The words-as-knives motto covers a family of small, familiar violences — the comment engineered to leave a mark and survive on technicality (\"I just said what everyone thinks\"), the story about someone repeated with one detail sharpened, the message drafted in heat and sent in heat's stupid confidence, the reply written for the audience rather than the person. None of these is a catastrophe alone. The reversal's warning is aggregate: a reputation for sharpness is built retail, cut by cut, and it is the one asset in this suit that compounds against its owner. People do not stop talking to the clever cutter. They stop saying anything that matters.",
+          "The second face of the reversal is vigilance without an object, which has a clinical name in its severe form and a household name in its common one: reading into things. The Page's over-shoulder glance, upright, was method — watch widely, then study. Reversed, the glance has become the whole posture: the read receipts audited, the tone of a two-word reply analyzed in committee, the neighbor's business known to three decimal places while one's own sits unopened. Suspicion is curiosity with the study removed and the verdict pre-installed. The tell is falsifiability: a curious mind asks questions that could surprise it. A suspicious one asks questions that can only confirm. If no answer could come back innocent, the investigation is not an investigation. It is a sentencing hearing with research theater.",
+          "The third face is the era's own: all takes, no homework. The reversed Page has an opinion at blade-speed on material it has not read, fluent in the vocabulary of every discipline and the substance of none, first to comment and unfindable when the follow-through comes due. This is the student refusing the one thing that makes pages into knights — study, the unglamorous middle part — and the cost is developmental, not social: swing forever at practice speed and practice speed becomes the ceiling.",
+          "The counsel for all three faces is the same small, humiliating, effective move: bring the blade back to the whetstone. Before the message goes — one hour, and reread it as its recipient. Before the story gets passed — the question would I say this with them in the room, and if not, the wind does not need it either. Before the take — the actual reading, the actual homework, the boring diligence that is the only known path off this hill. The Page reversed is not malicious as a rule; it is unsupervised. Supervision, fortunately, is a job you can hire yourself for."
+        ],
+        "work": [
+          "The take before the homework, the reply-all regretted — one hour on every sharp message, reread as its recipient. Diligence is the only path off this hill."
+        ],
+        "love": [
+          "Reading into things: suspicion is curiosity with the verdict pre-installed. If no answer could come back innocent, it's not a question — stop the hearing."
+        ],
+        "self": [
+          "Would you say it with them in the room? Then the wind doesn't need it either. A reputation for sharpness compounds against its owner, cut by cut."
+        ],
+        "note": [
+          "Not malice, usually — an unsupervised blade finding soft targets. But not harmless either: people don't stop talking to the cutter. They stop saying what matters."
+        ]
+      }
+    },
+    "es": {
+      "slug": "sota-de-espadas",
+      "name": "Sota de Espadas",
+      "seoTitle": "Sota de Espadas en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "La mente rápida despertando — curiosidad, vigilancia, la pregunta que no se sienta. Noticias, mensajes, la idea nueva aprendiendo su agarre. Todo el filo…",
+      "summary": "La mente rápida despertando — curiosidad, vigilancia, la pregunta que no se sienta. Noticias, mensajes, la idea nueva aprendiendo su agarre. Todo el filo del palo, ninguna de sus cicatrices todavía. Apunta el mirar a algo; el viento es solo clima hasta que mueve un molino.",
+      "imageDescription": "Una figura joven de pie en terreno desigual, la espada en alto con las dos manos — el agarre todavía aprendiéndose — mientras el viento dobla los árboles y arrastra nubes por el cielo. La cabeza vuelta por encima del hombro, lejos de donde apunta la hoja: mirándolo todo, sin apuntar a nada todavía. Pájaros dispersándose arriba. Nada en la carta está quieto, y nada en ella está decidido.",
+      "upright": {
+        "keywords": [
+          "curiosidad con hoja, la estudiante de la verdad, las preguntas como disciplina, viento en los árboles, la vigía de la colina, noticias en camino"
+        ],
+        "essay": [
+          "Cada palo tiene su estudiante, y la Sota de Espadas es la de la mente — la que acaba de recibir la hoja del As y todavía no ha cortado nada con ella, incluida, de momento, ella misma. Es el filo del palo en su forma sin herir: la curiosidad antes de endurecerse en postura, la vigilancia antes de agriarse en sospecha, la pregunta hecha porque quien pregunta de verdad no sabe. La carta marca casi siempre clima mental nuevo — el campo nuevo, el idioma nuevo, la situación que estudias desde su borde — y su energía es inconfundible: rápida, inquieta, con algo de exceso de cafeína, magnífica para notar y pésima, de momento, para esperar.",
+          "El don de la Sota merece nombrarse con precisión, porque los adultos lo pierden y luego pagan a consultores para que se lo devuelvan: la pregunta de principiante. La que todo el mundo en la sala dejó de hacer hace años porque saber de sobra es una forma de plaza fija — pero por qué lo hacemos así, para qué sirve eso en realidad, quién lo dijo. La Sota, sin reputación que proteger, puede hacerla, y toda la historia del palo muestra que el mejor trabajo de la hoja suele empezar ahí: casi toda la niebla sobrevive de que nadie quiera sonar nuevo. Si esta carta ha llegado, algo en la lectura pide ser estudiado como principiante — abordado con el agarre suelto y las suposiciones en el perchero. La mirada por encima del hombro es el método: primero mira, y mira ancho.",
+          "Pero la carta es honesta sobre dónde se tuerce esta energía, y se tuerce en lo social. Una hoja tan nueva, tan ligera, tan divertida de blandir, encuentra sus dianas de práctica entre la gente: el comentario ingenioso que aterriza como corte, el mirar que se convierte en mirarlos a ellos, la información acumulada como los pájaros acumulan — para el parloteo de la bandada, no para el uso. La sombra de la Sota es la colina misma: un mirador puede volverse residencia, y hay mentes que pasan años enteros observando el valle, fluidas en los asuntos de todos, partícipes de ninguno. La curiosidad sin compromiso es vigilancia con mejor prensa.",
+          "El consejo viene en pares, uno por cada mano en el agarre. Une cada pregunta al estudio: la Sota que pregunta, lee, practica y sigue la respuesta hasta el fondo puede convertirse en Caballero; la que solo pregunta se queda mirando desde la colina. Y dirige cada palabra a quien corresponde: habla con la persona implicada, no de ella al aire. La hoja que sostienes puede llegar a ser de Reina o de Rey; lo decisivo no es cuánto se afila, sino para qué la has usado."
+        ],
+        "work": [
+          "El campo nuevo estudiado desde su borde — haz la pregunta de principiante que la sala dejó de hacer. Y luego lee de verdad; preguntar sin estudiar es una afición, no un comienzo."
+        ],
+        "love": [
+          "La curiosidad como cortejo de la verdad: mira, pregunta, no concluyas todavía. Dile la cosa a la persona, no sobre ella — el viento reparte en puertas extrañas."
+        ],
+        "self": [
+          "El arranque fresco de la mente — afilada, sin cicatrices, sin apuntar a nada todavía. Elige una cosa para la que sirva el mirar. Un mirador no es un domicilio."
+        ],
+        "note": [
+          "Todavía no es la discusión —esa pertenece al Caballero— ni es cotilleo por naturaleza, aunque puede convertirse en ello. Tampoco es superficialidad: ser nueva no es ser ligera. El agarre se está aprendiendo."
+        ]
+      },
+      "reversed": {
+        "summary": "La mente rápida torcida — el comentario que corta, la historia pasada de boca en boca, la opinión disparada antes de los deberes. La atención agriada en sospecha; el ingenio haciendo daño al por menor. Las palabras ya están viajando. Decide quién serás cuando aterricen.",
+        "keywords": [
+          "palabras usadas como cuchillos, el corte ingenioso, el cotilleo con acta, la vigilancia vuelta paranoia, puras opiniones sin deberes, el mensaje mejor sin enviar"
+        ],
+        "essay": [
+          "Invertida, la Sota de Espadas usa las palabras para encontrar puntos débiles. Puede ser el comentario que deja marca y luego se excusa con un «solo dije lo que todos piensan», una historia repetida con un detalle cruel, un mensaje escrito en caliente o una respuesta pensada para el público y no para la otra persona. Ninguna de estas cosas parece enorme por sí sola, pero se acumulan. La fama de ser hiriente se construye corte a corte. La gente quizá no deje de hablar contigo; dejará de contarte lo que importa.",
+          "La segunda cara de la inversión es la vigilancia sin objeto, que en su forma severa tiene nombre clínico y en la común tiene nombre de andar por casa: leer de más en las cosas. La mirada por encima del hombro de la Sota, al derecho, era método — mirar ancho, luego estudiar. Invertida, la mirada se ha vuelto la postura entera: cada doble tic examinado, el tono de una respuesta de dos palabras analizado en comité, los asuntos del vecino sabidos con tres decimales mientras los propios siguen sin abrir. La sospecha es curiosidad con el estudio quitado y el veredicto preinstalado. La pista es la falsabilidad: una mente curiosa hace preguntas que podrían sorprenderla. Una suspicaz hace preguntas que solo pueden confirmar. Si ninguna respuesta pudiera absolver, la investigación no es investigación. Es una vista de sentencia con teatro de expediente.",
+          "La tercera cara es la de la época: puras opiniones, cero deberes. La Sota invertida tiene opinión a velocidad de hoja sobre material que no ha leído, fluida en el vocabulario de todas las disciplinas y en la sustancia de ninguna, primera en comentar e ilocalizable cuando toca cumplir. Es la estudiante rechazando lo único que convierte sotas en caballos — el estudio, la parte media sin glamur — y el coste es de desarrollo, no social: blande para siempre a velocidad de práctica y la velocidad de práctica se vuelve el techo.",
+          "El consejo para las tres caras es el mismo movimiento pequeño, humillante y eficaz: devolver la hoja a la piedra de afilar. Antes de que salga el mensaje — una hora, y reléelo siendo su destinatario. Antes de pasar la historia — la pregunta ¿lo diría con esa persona en la sala?, y si no, el viento tampoco lo necesita. Antes de la opinión — la lectura real, los deberes reales, la diligencia aburrida que es el único camino conocido para bajar de esta colina. La Sota invertida no es maliciosa por regla; está sin supervisar. Y supervisar, por suerte, es un puesto para el que puedes contratarte a ti misma."
+        ],
+        "work": [
+          "La opinión antes de los deberes, el responder-a-todos lamentado — una hora para cada mensaje afilado, releído siendo su destinatario. La diligencia es el único camino para bajar de esta colina."
+        ],
+        "love": [
+          "Leer de más en las cosas: la sospecha es curiosidad con el veredicto preinstalado. Si ninguna respuesta pudiera absolver, no es una pregunta — levanta la sesión."
+        ],
+        "self": [
+          "¿Lo dirías con esa persona delante? Si no, tampoco hace falta decirlo fuera. La fama de ser hiriente se construye corte a corte."
+        ],
+        "note": [
+          "No es malicia, normalmente — una hoja sin supervisión encontrando blancos blandos. Pero tampoco es inofensiva: la gente no deja de hablar con quien corta. Deja de decir lo que importa."
+        ]
+      }
+    }
+  }
+}

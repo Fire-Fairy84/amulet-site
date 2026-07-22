@@ -1,0 +1,126 @@
+{
+  "id": "eight-of-pentacles",
+  "number": 8,
+  "order": 43,
+  "arcana": "minor",
+  "suit": "pentacles",
+  "rank": 8,
+  "image": "/assets/cards/eight-of-pentacles.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "pentacles-08.en.md",
+    "es": "pentacles-08.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "eight-of-pentacles",
+      "name": "Eight of Pentacles",
+      "seoTitle": "Eight of Pentacles Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "Skill under construction — the reps, the drills, the drafts, the same motion refined by attention until it becomes mastery. Deep work chosen over the…",
+      "summary": "Skill under construction — the reps, the drills, the drafts, the same motion refined by attention until it becomes mastery. Deep work chosen over the city's noise. Unspectacular from outside, compounding from inside. Protect the bench hours; check each coin against the last.",
+      "imageDescription": "A craftsman sits at his bench carving a pentacle — his eighth. Six hang finished in a column beside him, displayed in order like a ladder of slightly better attempts; one waits at his feet. The city is visible in the far background, small and golden and left there on purpose. His whole body is bent to the coin in front of him. Nothing else in the card is happening, which is the card.",
+      "upright": {
+        "keywords": [
+          "the same star carved again, repetition with attention, the bench far from the city, hours nobody applauds, the plateau where skill lives, each coin checked against the last"
+        ],
+        "essay": [
+          "The Eight of Pentacles is the deck's monument to the least marketable virtue: repetition. Eight coins, one star, the same motion again and again — and the column of finished pentacles hanging beside the bench tells the card's whole story to anyone who looks closely, because they are not identical. The early ones are honest and slightly wrong; the recent ones are cleaner; the one under the chisel right now is being carved by hands that the previous seven built. This is the card of skill in its unglamorous manufacturing stage: the scales practiced, the drafts written, the code reviewed, the swing repeated in the empty gym. If it has arrived, the reading contains an apprenticeship — formal or private — and the card's message is the tradesman's blunt encouragement: you are in the right place, doing the right thing, and it is supposed to feel like this.",
+          "The card's first precision is the difference between repetition and drudgery, because the motions look identical and are opposites: attention. Drudgery repeats the motion; craft repeats the motion while watching it — carve, compare against the last coin, adjust, carve again. The loop is everything. A thousand mindless repetitions produce a thousand-and-first; a thousand attended ones produce a craftsman. This is why the finished coins hang where he can see them rather than in a drawer: the column is not vanity, it is instrumentation — the visible record against which today's work is checked. The counsel hiding here is practical: make your repetitions comparable. Keep the drafts. Log the sessions. Yesterday's coin is the only honest teacher of today's.",
+          "The city in the background is the card's second argument, and it was left there deliberately: skill is made in exile from the noise, and the exile is chosen daily. The city holds everything that competes with the bench — the discourse, the networking, the performance of working, the ten small urgencies that feel like productivity because they involve motion. The craftsman moved out past the walls, and the card notices what he gained: the compounding hours the city-dwellers never string together. Mastery's actual price is not talent; it is consecutive, protected, boring time — and the Eight's most useful modern translation is calendar defense: the bench hours held against every polite invasion, because a craft is built in exactly the hours that nothing defends by default.",
+          "And the card knows about the plateau, which is where most apprenticeships die. Progress in any real skill arrives in stairs, not slopes: brief thrilling climbs, then long flats where the reps continue and the coins stop improving visibly — and the flat is where the crowd quits, which is the whole secret of why mastery is rare. The Eight's craftsman is drawn mid-plateau, head down, still carving, and the card's deepest promise is addressed exactly there: the plateau is not the absence of progress; it is where progress consolidates, in the hands, below awareness, exactly like the Seven's roots grew below ground. Love the plateau — or at least outlast it — and the next stair arrives on its own schedule, made, it always turns out afterward, of all those flat and faithful coins."
+        ],
+        "work": [
+          "The reps with the loop attached: do, compare against yesterday's coin, adjust. Keep the drafts visible — the column is instrumentation, not vanity. And defend the bench hours; nothing defends them by default."
+        ],
+        "love": [
+          "The long skills — repair, listening, patience — are carved the same way: same motion, attended, repeated. The plateau in a bond isn't stagnation; it's where the practice consolidates."
+        ],
+        "self": [
+          "It's supposed to feel like this: unspectacular outside, compounding inside. You're mid-staircase on a flat step. The crowd quits here; that's the entire secret of why mastery is rare."
+        ],
+        "note": [
+          "Not drudgery — the difference is the watching, and it changes everything downstream. And not the city's performance of work: motion isn't progress. Progress is the eighth coin, checked against the seventh."
+        ]
+      },
+      "reversed": {
+        "summary": "The work continuing without the worker — quality slipping where it doesn't show yet, the job done to spec and dead. Or perfectionism hoarding one coin forever. Or the why gone from under the walls. Recover the care in one small act — or admit this was never your star.",
+        "keywords": [
+          "the motions without the care, autopilot at the bench, corners cut where they don't show yet, the one coin polished forever, craft without a why, the chisel held by nobody"
+        ],
+        "essay": [
+          "Reversed, the Eight of Pentacles is the bench with the attention gone, and its first face is the most common and the hardest to catch: autopilot. The hands still move; the output still ships; the spec is still met — and the loop is dead. No comparing, no adjusting, no watching: the eighth coin is identical to the seventh, which is identical to the sixth, and identical, in a craftsman, is the sound of something stopping. Quality slips first where it doesn't show — the unglamorous underside, the test not written, the edge case waved through — because care was always what covered the parts inspection can't reach. The card's warning is about the timeline: this face is invisible for months and structural forever. And its diagnostic is simple: when did the work last surprise you into doing it better? If no answer comes, the chisel is being held by nobody.",
+          "The second face reverses the failure: care with no shipping attached. The one coin polished for its fortieth pass, the project at ninety percent for a year, the column empty because nothing is ever finished enough to hang. This is perfectionism, and the card declines to flatter it as high standards: the upright craftsman's coins improve because they are completed — the loop requires a finished attempt to compare against, and the polisher has quietly opted out of the loop, and therefore out of improvement, by never producing a comparable unit. One coin forever is not mastery; it is hiding, at the bench, from the verdict of the next coin. The prescription is mechanical and merciless: ship the coin at good enough, start the next one, and let the improvement happen where it has only ever happened — between attempts, never within one.",
+          "The third face is the quietest: the why gone from under the work. The craft was chosen by an earlier self, or by parents, or by a market that has since moved; the skill is real, the years are real, and the star being carved means nothing to the carver anymore. Here the reversal deserves careful hands, because two conditions look identical from inside the fatigue: the plateau, which is boredom that precedes the next stair and should be outlasted — and extinction, which is the care gone because the object of care was never yours. The differential is the flicker test: put the tools down for a week, then pick them up. The plateau greets you with reluctant familiarity that warms within the hour. Extinction greets you with dread that deepens. If it is the plateau — return to the bench; the stair is close, and quitting here is the oldest mistake in the suit. If it is extinction — the card gives permission the guilt has been withholding: the hands trained on this star transfer; craftsmanship is portable and only the emblem changes; and eight coins into the wrong vocation is early, whatever the sunk years whisper. The Seven already taught that arithmetic. This card only adds: the bench itself was never the problem. Care is looking for its object. Let it look."
+        ],
+        "work": [
+          "When did the work last surprise you into doing it better? No answer = autopilot; quality is slipping where it doesn't show yet. Recover the loop on one small unit today."
+        ],
+        "love": [
+          "The bond maintained to spec and dead — motions correct, watching gone. One act of actual attention, small and specific, restarts what the routine only imitates."
+        ],
+        "self": [
+          "Plateau or extinction: put it down for a week, pick it up. Reluctant familiarity that warms = stay; the stair is close. Dread that deepens = the hands transfer; only the emblem changes."
+        ],
+        "note": [
+          "Not laziness — the hands are moving; the watcher left. And not high standards, the fortieth polish: improvement lives between attempts. One coin forever is hiding from the next."
+        ]
+      }
+    },
+    "es": {
+      "slug": "ocho-de-oros",
+      "name": "Ocho de Oros",
+      "seoTitle": "Ocho de Oros en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "El oficio en construcción — las repeticiones, los ejercicios, los borradores, el mismo gesto afinado por la atención hasta volverse maestría. Trabajo…",
+      "summary": "El oficio en construcción — las repeticiones, los ejercicios, los borradores, el mismo gesto afinado por la atención hasta volverse maestría. Trabajo hondo, elegido por encima del ruido de la ciudad. Por fuera no impresiona; por dentro suma. Protege las horas de banco; compara cada moneda con la anterior.",
+      "imageDescription": "Un artesano sentado a su banco talla un oro — el octavo. Seis cuelgan terminados en columna a su lado, ordenados como una escalera de intentos cada vez un poco mejores; otro espera a sus pies. La ciudad asoma al fondo, pequeña y dorada, dejada ahí a propósito. Todo su cuerpo está volcado sobre la moneda de delante. No pasa nada más en la carta, y eso es la carta.",
+      "upright": {
+        "keywords": [
+          "la misma estrella tallada otra vez, repetir con atención, el banco de trabajo lejos de la ciudad, horas que nadie aplaude, la meseta donde vive el oficio, cada moneda comparada con la anterior"
+        ],
+        "essay": [
+          "El Ocho de Oros es el homenaje de la baraja a la virtud que peor se vende: repetir. Ocho monedas, una estrella, el mismo gesto una y otra vez — y la columna de oros terminados que cuelga junto al banco cuenta la carta entera a quien mire de cerca, porque no son iguales. Los primeros son sinceros y salieron un poco torcidos; los últimos, más limpios; el que ahora está bajo el cincel lo tallan unas manos que hicieron los siete anteriores. Esta es la carta del oficio en su etapa de taller, la que no tiene brillo: las escalas practicadas, los borradores escritos, el código revisado, el gesto repetido en el gimnasio vacío. Si ha salido, la tirada contiene un aprendizaje — con maestro o a solas — y su mensaje es el ánimo seco del que ya lleva años en el taller: estás en el sitio correcto, haciendo lo correcto, y es normal que se sienta así.",
+          "Lo primero que la carta distingue es repetir de hacer por hacer, porque los gestos parecen iguales y son lo contrario: lo que cambia es la atención. Hacer por hacer repite el gesto; el oficio repite el gesto mirándolo — tallar, comparar con la moneda anterior, corregir, tallar de nuevo. Ese bucle lo es todo. Mil repeticiones sin cabeza producen la mil y una; mil repeticiones atendidas producen un artesano. Por eso las monedas terminadas cuelgan donde él las ve y no en un cajón: la columna no es presumir, es una herramienta — el registro visible con el que compara el trabajo de hoy. El consejo que se esconde aquí es práctico: haz que tus repeticiones se puedan comparar. Guarda los borradores. Anota las sesiones. La moneda de ayer es la única maestra honesta de la de hoy.",
+          "La ciudad del fondo es el segundo argumento de la carta, y está ahí a propósito: el oficio se hace lejos del ruido, y esa distancia se elige cada día. La ciudad contiene todo lo que compite con el banco — el debate, los contactos, aparentar que trabajas, las diez pequeñas urgencias que parecen productividad porque implican movimiento. El artesano se fue a vivir fuera de las murallas, y la carta ve lo que ganó: las horas que se acumulan y suman, esas que los de la ciudad nunca llegan a encadenar. El precio real de la maestría no es el talento; es tiempo seguido, protegido y aburrido — y la versión más útil del Ocho para hoy es defender la agenda: sostener las horas de banco frente a cada invasión educada, porque un oficio se construye justo en esas horas que nadie defiende si no las defiendes tú.",
+          "Y la carta conoce la meseta, que es donde muere casi todo aprendizaje. En cualquier oficio de verdad se avanza por escalones, no por rampas: subidas breves y emocionantes, y luego llanos largos donde las repeticiones siguen y las monedas dejan de mejorar a la vista — y en ese llano es donde la mayoría abandona, que es el secreto entero de por qué la maestría es rara. Al artesano del Ocho lo dibujan en plena meseta, cabeza gacha, tallando aún, y la promesa más honda de la carta habla justo ahí: la meseta no es falta de avance; es donde el avance se asienta, en las manos, por debajo de lo que notas, igual que las raíces del Siete crecían bajo tierra. Aprende a querer la meseta — o al menos aguántala — y el siguiente escalón llega a su propio ritmo, hecho, se ve siempre después, de todas esas monedas llanas y fieles."
+        ],
+        "work": [
+          "Las repeticiones con su bucle: haz, compara con la moneda de ayer, corrige. Ten los borradores a la vista — la columna es herramienta, no vanidad. Y defiende las horas de banco; si tú no lo haces, no las defiende nadie."
+        ],
+        "love": [
+          "Las destrezas largas — reparar, escuchar, la paciencia — se tallan igual: mismo gesto, atendido, repetido. La meseta en un vínculo no es estancamiento; es donde la práctica se asienta."
+        ],
+        "self": [
+          "Es normal que se sienta así: por fuera no impresiona, por dentro suma. Vas por la mitad de la escalera, en un peldaño llano. Aquí es donde la mayoría abandona; ese es todo el secreto de por qué la maestría es rara."
+        ],
+        "note": [
+          "No es hacer por hacer — la diferencia es mirar lo que haces, y cambia todo lo que viene después. Y no es aparentar que trabajas como en la ciudad: moverse no es avanzar. Avanzar es la octava moneda, comparada con la séptima."
+        ]
+      },
+      "reversed": {
+        "summary": "El trabajo sigue sin el trabajador — la calidad se resiente donde aún no se nota, la tarea hecha según el plano y muerta. O el perfeccionismo que retiene una moneda para siempre. O el porqué que ha desaparecido debajo del trabajo. Recupera el cuidado en un gesto pequeño — o admite que esa estrella nunca fue la tuya.",
+        "keywords": [
+          "los gestos sin el cuidado, piloto automático en el banco, atajos donde aún no se notan, la única moneda pulida para siempre, el oficio sin su porqué, el cincel que no sostiene nadie"
+        ],
+        "essay": [
+          "Invertido, el Ocho de Oros es el banco con la atención ida, y su primera cara es la más común y la más difícil de pillar: el piloto automático. Las manos aún se mueven; el producto aún sale; el plano aún se cumple — y el bucle está muerto. Ni comparar, ni corregir, ni mirar: la octava moneda es idéntica a la séptima, que es idéntica a la sexta, y en un artesano lo idéntico es el sonido de algo que se detiene. La calidad se resiente primero donde no se ve — el reverso sin brillo, la prueba que no se escribió, el caso raro que se dejó pasar — porque el cuidado era siempre lo que cubría las partes adonde la revisión no llega. El aviso de la carta es de plazos: esta cara pasa meses sin verse y luego se vuelve estructural para siempre. Y su diagnóstico es simple: ¿cuándo fue la última vez que el trabajo te sorprendió y te empujó a hacerlo mejor? Si no llega respuesta, el cincel no lo sostiene nadie.",
+          "La segunda cara le da la vuelta al fallo: cuidado sin nada que entregar. La misma moneda en su pasada número cuarenta, el proyecto al noventa por ciento durante un año, la columna vacía porque nada está nunca lo bastante terminado para colgarlo. Esto es perfeccionismo, y la carta se niega a maquillarlo como estándares altos: las monedas del artesano al derecho mejoran porque se terminan — el bucle necesita un intento acabado con el que comparar, y quien pule se ha salido del bucle sin decirlo, y por tanto de la mejora, al no producir nunca una pieza comparable. Una moneda para siempre no es maestría; es esconderse, en el banco, del veredicto de la moneda siguiente. La receta es mecánica y sin piedad: entrega la moneda en «ya está bien», empieza la siguiente, y deja que la mejora ocurra donde siempre ha ocurrido — entre intentos, nunca dentro de uno.",
+          "La tercera cara es la más callada: el porqué que desapareció debajo del trabajo. El oficio lo eligió un tú anterior, o tus padres, o un mercado que ya cambió; el oficio es real, los años son reales, y la estrella que talla ya no significa nada para quien la talla. Aquí la inversión pide manos con cuidado, porque dos cosas se ven iguales desde dentro del cansancio: la meseta, que es el aburrimiento previo al siguiente escalón y hay que aguantarlo — y el apagón, que es el cuidado ido porque aquello que cuidabas nunca fue tuyo. Para distinguirlos, la prueba del rescoldo: suelta las herramientas una semana y luego retómalas. La meseta se resiste al principio, pero en una hora vuelve a calentarse. El apagón te recibe con un desánimo que va a más. Si es la meseta — vuelve al banco; el escalón está cerca, y abandonar aquí es el error más viejo del palo. Si es apagón — la carta te da el permiso que la culpa te venía negando: las manos entrenadas en esta estrella se llevan a otra parte; el oficio es portátil y solo cambia el emblema; y llevar ocho monedas en la vocación equivocada sigue siendo pronto, murmuren lo que murmuren los años ya gastados. El Siete ya enseñó esa cuenta. Esta carta solo añade: el banco nunca fue el problema. El cuidado está buscando su objeto. Déjalo buscar."
+        ],
+        "work": [
+          "¿Cuándo fue la última vez que el trabajo te sorprendió y te empujó a hacerlo mejor? Sin respuesta = piloto automático; la calidad se resiente donde aún no se nota. Recupera el bucle hoy en una pieza pequeña."
+        ],
+        "love": [
+          "El vínculo que se mantiene según el plano y está muerto — los gestos correctos, el mirar ido. Un gesto de atención real, pequeño y concreto, reenciende lo que la rutina solo imita."
+        ],
+        "self": [
+          "Meseta o apagón: suéltalo una semana, retómalo. Si al volver se resiste pero enseguida entra en calor, quédate: el escalón está cerca. Si el desánimo va a más, lleva esas manos a otra parte; solo cambia el emblema."
+        ],
+        "note": [
+          "No es pereza — las manos se mueven; el que miraba se fue. Y no son estándares altos, la pasada número cuarenta: la mejora vive entre intentos. Una moneda para siempre es esconderse de la siguiente."
+        ]
+      }
+    }
+  }
+}

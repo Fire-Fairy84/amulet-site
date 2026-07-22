@@ -1,0 +1,5 @@
+<svg class="arcana-svg" viewBox="0 0 210 363" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="FOUR OF SWORDS">
+  <rect x="1" y="1" width="208" height="361" rx="12" fill="#0B0908" stroke="#A9B2BD" stroke-opacity="0.35"/>
+  <path d="M76.0,133.78 L82.7,153.5 L76.0,173.22 L69.3,153.5 Z" fill="#A9B2BD"/><path d="M134.0,133.78 L140.7,153.5 L134.0,173.22 L127.3,153.5 Z" fill="#A9B2BD"/><path d="M76.0,208.78 L82.7,228.5 L76.0,248.22 L69.3,228.5 Z" fill="#A9B2BD"/><path d="M134.0,208.78 L140.7,228.5 L134.0,248.22 L127.3,228.5 Z" fill="#A9B2BD"/>
+  <text x="105" y="334" text-anchor="middle" font-family="system-ui, Helvetica, sans-serif" font-size="9.5" letter-spacing="3.5" fill="#8E877B">FOUR OF SWORDS</text>
+</svg>

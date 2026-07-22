@@ -1,0 +1,28 @@
+{
+  "name": "amulet-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "ASTRO_TELEMETRY_DISABLED=1 astro dev",
+    "build": "npm run validate:content && ASTRO_TELEMETRY_DISABLED=1 astro build && npm run validate:site",
+    "preview": "ASTRO_TELEMETRY_DISABLED=1 astro preview",
+    "typecheck": "ASTRO_TELEMETRY_DISABLED=1 astro check",
+    "lint": "ASTRO_TELEMETRY_DISABLED=1 astro check",
+    "migrate:cards": "python3 scripts/migrate_cards.py",
+    "validate:content": "python3 scripts/migrate_cards.py --check",
+    "validate:site": "node scripts/validate-site.mjs"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "dependencies": {
+    "@astrojs/mdx": "7.0.3",
+    "@astrojs/sitemap": "3.7.3",
+    "astro": "7.1.3"
+  },
+  "devDependencies": {
+    "@astrojs/check": "0.9.6",
+    "typescript": "5.9.3"
+  }
+}

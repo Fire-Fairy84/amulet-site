@@ -1,0 +1,126 @@
+{
+  "id": "knight-of-pentacles",
+  "number": 12,
+  "order": 47,
+  "arcana": "minor",
+  "suit": "pentacles",
+  "rank": 12,
+  "image": "/assets/cards/knight-of-pentacles.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "pentacles-12.en.md",
+    "es": "pentacles-12.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "knight-of-pentacles",
+      "name": "Knight of Pentacles",
+      "seoTitle": "Knight of Pentacles Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "The work done every day — method, routine, the unglamorous perseverance that actually finishes things. The slowest knight and the only one guaranteed to…",
+      "summary": "The work done every day — method, routine, the unglamorous perseverance that actually finishes things. The slowest knight and the only one guaranteed to arrive. Trust the furrow; schedule what matters; don't compare your plow to anyone's gallop.",
+      "imageDescription": "A knight sits on a heavy black horse, and neither of them is moving — the deck's one stationary knight, surveying a field already plowed in straight, patient lines. The horse is no charger; it is a plow-horse in armor, strength bred for furrows, not battles. The knight holds his coin out before him, not raised in triumph, just steadily, the way one holds a level. Oak leaves, not feathers, trim the helmet. Tomorrow this image will look exactly the same, one furrow further along.",
+      "upright": {
+        "keywords": [
+          "the stationary knight, the plow-horse's strength, routine as compounding, the one who finishes, oak leaves for plumage, boring on purpose and unbeatable at it"
+        ],
+        "essay": [
+          "The four knights of the tarot are four theories of how to move, and the Knight of Pentacles is the punchline and the proof: he is not moving. While the swords knight charges and the wands knight blazes and the cups knight drifts beautifully toward the horizon, this one sits on a horse built like a foundation, looking at a field, and tomorrow he will plow the next furrow, and the day after that the next — and the card's quiet, devastating fact is that of the four, he is the only one who reliably arrives. This is the card of the day's work done daily: the practice kept, the payments made, the pages produced, the client served, the body trained on schedule regardless of weather, mood, or the availability of inspiration. If it has arrived in your reading, either this energy is present and underpraised, or it is missing and its absence explains more than anything dramatic does.",
+          "The card's economics are the suit's deepest conviction: consistency compounds and intensity doesn't. The sprint — glorious, photogenic, exhausting — produces a spike and a recovery period that usually consumes the spike. The furrow produces a field. Thirty minutes daily defeats seven brilliant hours monthly, in every domain this suit governs — money, skill, health, trust — because the mechanism that builds all four is frequency, not amplitude: systems fed small amounts on schedule, compounding in the dark like the Seven's roots. The knight's plumage makes the point botanically: oak leaves, from the tree that grows slower than every tree it outlives.",
+          "What the card defends most fiercely is the dignity of the unglamorous, because the culture will not: this knight is boring, and the boring is the achievement. He will never be the story anyone tells at dinner. He is, instead, the reason the dinner happens — the reliable colleague on whom the whole team's plans secretly rest, the partner whose steadiness is mistaken for lack of romance by people who have never been left, the friend who shows up at the hospital, and then also the following Tuesday, and the Tuesday after that. Reliability, the card insists, is not the absence of passion; it is passion that has chosen a sustainable form — love converted from weather into climate. Ask anyone who has been genuinely carried through a bad year what carried them: it is never a gesture. It is a schedule with a person attached.",
+          "The counsel is to build like this knight builds. Convert intentions into routines, because the routine is the only container intention survives in: not \"write more\" but the hour, daily, defended; not \"save\" but the transfer, automatic, on payday; not \"stay close\" but the standing call. Then trust the furrow through its long uneventful middles without demanding that it entertain you — the Eight already taught where the crowd quits. And when the comparison arrives, as it will, with somebody's gallop glittering across a feed: remember what the reader can see from outside the card that the other knights cannot. The chargers are dramatic between arrivals. This one is an arrival, in progress, every single day."
+        ],
+        "work": [
+          "Thirty minutes daily beats seven brilliant hours monthly — frequency compounds, amplitude doesn't. Convert every intention into a scheduled routine; intention survives in no other container."
+        ],
+        "love": [
+          "Steadiness mistaken for lack of romance is a diagnosis of the observer — reliability is passion in sustainable form. The hospital visit matters; the following Tuesday matters more."
+        ],
+        "self": [
+          "The furrow's long middle is supposed to be uneventful — that's it working. Don't ask the routine to entertain you; ask it to arrive, which it will, alone among the knights."
+        ],
+        "note": [
+          "Not slowness as failure — of four theories of motion, this is the one that finishes. And not lack of ambition: oak is the ambition. It just isn't legible at sprint timescales."
+        ]
+      },
+      "reversed": {
+        "summary": "The routine outliving its reason — same furrows, spent soil, the method defended against the evidence. Or the workhorse over-functioning, unthanked, quietly running down. Steady was the means; it has become the cage. Lift the head once a season; the map is in the bag.",
+        "keywords": [
+          "steady tipped into stuck, the furrow become a rut, method calcified against the map, the plod past the point, the workhorse taken for granted, plowing a field that stopped yielding"
+        ],
+        "essay": [
+          "Reversed, the Knight of Pentacles keeps plowing, and that is precisely the malfunction: the virtue has continued past the conditions that made it a virtue. Steady tipped into stuck rarely announces itself, because from inside, stuck feels identical to disciplined — the routine still runs, the furrows are still straight, the effort is still real. What has quietly changed is the relationship between the method and the world: the process is now served for its own sake, the field stopped yielding two seasons ago, the industry moved, the relationship's needs changed, the workout stopped working — and the knight's response to every such signal is the one move he knows: another furrow, straighter. The card's diagnostic question is gentle and brutal: when did you last check whether this field is still the right field? Not the work — the field. Diligence answers for the furrow's quality. Nothing in this knight's routine answers for its direction, because direction was checked once, years ago, and filed as done.",
+          "This is the same failure the Seven met as sunk cost and the Eight met as autopilot, arrived at by the most honorable road: not grief, not inattention, but loyalty to method. And its fix borrows from both cards while adding the knight's own missing move — the lifted head. Once a season, deliberately, stop the horse: is the soil still yielding (count real coins, not effort)? Has the map changed (the saddlebag holds one; when was it last consulted)? Is the routine serving the goal, or has the routine become the goal, defended with the special stubbornness of people whose identity is I am someone who keeps going? That stubbornness deserves respect and a boundary: perseverance is a virtue only in the presence of a review process. Without one it is just momentum, wearing a virtue's armor.",
+          "The reversal's second face is the horse: the workhorse over-functioning, and running down. The reliable one has been reliable so long that reliability has become invisible — the family logistics that happen automatically, the colleague who absorbs every dropped task because absorbing is what they do, the partner whose steadiness is consumed like infrastructure: noticed only in outage. The costs accrue off the books, as this suit's costs do: the maintenance the plow-horse never receives because it never breaks down, the resentment accumulating in someone whose creed forbids mentioning it, the slow discovery that dependable, unmaintained, has a failure mode — and it is not gradual. The counsel runs in both directions. To the riders of such horses: thank them specifically, and schedule their pasture — rest as a calendar entry, not a someday, because this temperament will never claim it unprompted. To the horse itself, the harder sentence: over-functioning is not generosity after the point where it enables everyone else's under-functioning; the team that cannot survive your week off has a problem your endurance is hiding, and unbreakable is not a personality — it is a maintenance schedule nobody has been keeping, including you. The knight reversed does not need a new character. He needs the head lifted, the map consulted, the horse rested — and then the same magnificent plod, pointed, this time, at a living field."
+        ],
+        "work": [
+          "Diligence answers for the furrow, never for the field — schedule the review the routine lacks: is the soil still yielding, has the map changed? Perseverance without a review process is just momentum in armor."
+        ],
+        "love": [
+          "Steadiness consumed like infrastructure — noticed only in outage. Thank the workhorse specifically, and put their pasture on the calendar; this temperament never claims rest unprompted."
+        ],
+        "self": [
+          "\"I am someone who keeps going\" is an identity, and identities defend their load. The team that can't survive your week off has a problem your endurance is hiding."
+        ],
+        "note": [
+          "Not the plod itself — the plod is the treasure; only its direction expired. And not laziness anywhere in sight: this failure was reached by loyalty. It's corrected by one lifted head."
+        ]
+      }
+    },
+    "es": {
+      "slug": "caballero-de-oros",
+      "name": "Caballero de Oros",
+      "seoTitle": "Caballero de Oros en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "El trabajo del día hecho cada día — método, rutina, la constancia sin brillo que de verdad termina las cosas. El caballero más lento y el único que tiene…",
+      "summary": "El trabajo del día hecho cada día — método, rutina, la constancia sin brillo que de verdad termina las cosas. El caballero más lento y el único que tiene la llegada asegurada. Confía en el surco; pon en el calendario lo que importa; no compares tu arado con el galope de nadie.",
+      "imageDescription": "Un caballero montado en un pesado caballo negro, y ninguno de los dos se mueve — el único caballero quieto de la baraja, mirando un campo ya arado en líneas rectas y pacientes. El caballo no es de guerra; es un caballo de tiro con armadura, fuerza criada para el surco, no para la batalla. El caballero sostiene su moneda por delante, no en alto como un trofeo, solo firme, como se sostiene un nivel. Adornan el yelmo hojas de roble, no plumas. Mañana esta imagen se verá exactamente igual, un surco más adelante.",
+      "upright": {
+        "keywords": [
+          "el caballero que no se mueve, la fuerza del caballo de tiro, la rutina que acumula, el que termina, hojas de roble en vez de plumas, aburrido a propósito e imbatible en ello"
+        ],
+        "essay": [
+          "Los cuatro caballeros del tarot son cuatro maneras de moverse, y el Caballero de Oros es el chiste y la prueba: no se mueve. Mientras el de Espadas carga y el de Bastos arde y el de Copas se deja llevar hacia el horizonte, este está sentado sobre un caballo hecho como un cimiento, mirando un campo, y mañana arará el siguiente surco, y pasado mañana el siguiente — y el hecho callado y demoledor de la carta es que, de los cuatro, es el único que llega sin falta. Esta es la carta del trabajo diario: la práctica que se mantiene, los pagos que se hacen, las páginas que se escriben, el cliente que se atiende, el cuerpo entrenado el día que toca sin importar el tiempo, el ánimo ni si aparece la inspiración. Si ha salido en tu tirada, o esta energía está presente y nadie la valora, o falta, y su ausencia explica más que cualquier cosa dramática.",
+          "Las cuentas de la carta son la convicción más honda del palo: la constancia se acumula y la intensidad no. El sprint — glorioso, fotogénico, agotador — da un pico y luego un bajón que suele comerse el pico. El surco da un campo. Treinta minutos al día les ganan a siete horas brillantes al mes, en todos los terrenos que gobierna este palo — dinero, oficio, salud, confianza — porque lo que construye los cuatro es la frecuencia, no la intensidad: sistemas alimentados con poco pero seguido, creciendo a oscuras como las raíces del Siete. Y el penacho del caballero lo remata en clave botánica: hojas de roble, del árbol que crece más despacio que todos los árboles a los que sobrevive.",
+          "Lo que la carta defiende con más fiereza es la dignidad de lo que no brilla, porque nadie más va a hacerlo: este caballero es aburrido, y lo aburrido es el logro. Nunca será la historia que alguien cuenta en una cena. Es, en cambio, la razón de que haya cena — el compañero fiable sobre el que descansan en secreto los planes de todo el equipo, la pareja cuya firmeza confunden con falta de romanticismo aquellos a quienes nunca han dejado plantados, el amigo que aparece en el hospital, y también el martes siguiente, y el otro martes. La fiabilidad, insiste la carta, no es ausencia de pasión; es pasión que ha elegido una forma que se puede sostener — amor que dejó de ser tormenta pasajera y se volvió clima estable. Pregúntale a cualquiera que haya salido en pie de un año malo qué lo sostuvo: nunca es un gesto. Es una rutina con una persona detrás.",
+          "El consejo es construir como construye este caballero. Convierte las intenciones en rutinas, porque la rutina es el único recipiente donde la intención sobrevive: no «escribir más» sino la hora, cada día, defendida; no «ahorrar» sino la transferencia, automática, el día de cobro; no «seguir cerca» sino la llamada fija. Luego confía en el surco durante sus tramos largos donde no pasa nada, sin exigirle que te entretenga — el Ocho ya enseñó dónde abandona la mayoría. Y cuando llegue la comparación, que llegará, con el galope de alguien reluciendo en una pantalla: recuerda lo que ve el lector desde fuera de la carta y los otros caballeros no pueden ver. Los caballos de guerra son dramáticos entre una llegada y otra. Este es una llegada, en curso, todos los días."
+        ],
+        "work": [
+          "Treinta minutos al día les ganan a siete horas brillantes al mes — la frecuencia se acumula; la intensidad no. Convierte cada intención en una rutina con día fijo; fuera de ese recipiente no sobrevive."
+        ],
+        "love": [
+          "Confundir la firmeza con falta de romanticismo dice más del que mira que de la pareja — la fiabilidad es pasión en una forma que se puede sostener. La visita al hospital importa; el martes siguiente importa más."
+        ],
+        "self": [
+          "El tramo largo del medio del surco tiene que transcurrir sin sobresaltos — eso es que funciona. No le pidas a la rutina que te entretenga; pídele que llegue, y llegará, la única entre los caballeros."
+        ],
+        "note": [
+          "No es lentitud como fracaso — de cuatro maneras de moverse, esta es la que termina. Y no es falta de ambición: el roble es la ambición. Solo que no se lee a la escala de un sprint."
+        ]
+      },
+      "reversed": {
+        "summary": "La rutina que sobrevive a su motivo — los mismos surcos, la tierra agotada, el método defendido contra la evidencia. O el caballo de tiro que carga de más, sin un gracias, apagándose despacio. Lo firme era el medio; se ha vuelto la jaula. Levanta la cabeza una vez por temporada; el mapa está en la alforja.",
+        "keywords": [
+          "lo firme vuelto atasco, el surco vuelto rutina muerta, el método endurecido contra el mapa, el paso que continúa más allá de su punto, el caballo de tiro que ya nadie valora, arando un campo que dejó de dar"
+        ],
+        "essay": [
+          "Invertido, el Caballero de Oros sigue arando, y esa es justo la avería: la virtud ha seguido más allá de las condiciones que la hacían virtud. Lo firme que se vuelve atasco casi nunca se anuncia, porque, desde dentro, el atasco es indistinguible de la disciplina — la rutina sigue en marcha, los surcos siguen rectos, el esfuerzo sigue siendo real. Lo que cambió en silencio es la relación entre el método y el mundo: ahora el proceso se sirve a sí mismo, el campo dejó de dar hace dos temporadas, el sector se movió, la relación necesita otra cosa, el entrenamiento dejó de servir — y la respuesta del caballero a cada una de esas señales es la única jugada que conoce: otro surco, más recto. La pregunta que la carta usa para diagnosticar es suave y brutal: ¿cuándo comprobaste por última vez si este campo sigue siendo el campo correcto? No el trabajo — el campo. La disciplina responde por la calidad del surco. Nada en la rutina de este caballero responde por su rumbo, porque el rumbo se comprobó una vez, hace años, y se archivó como resuelto.",
+          "Es el mismo fallo que el Siete conoció como coste hundido y el Ocho como piloto automático, al que se llega por el camino más honroso: no el duelo, no el descuido, sino la lealtad al método. Y su arreglo bebe de ambas cartas y añade lo que a este caballero le falta — levantar la cabeza. Una vez por temporada, a propósito, detén al caballo: ¿la tierra sigue dando (cuenta monedas de verdad, no esfuerzo)? ¿Cambió el mapa (la alforja lleva uno; ¿cuándo se miró por última vez?)? ¿La rutina sirve a la meta, o la rutina se ha vuelto la meta, defendida con la terquedad especial de quien tiene por identidad «soy de los que no paran»? Esa terquedad merece respeto y un límite: la constancia es virtud solo si hay un momento fijo para revisar. Sin él es pura inercia, con la armadura de una virtud puesta.",
+          "La segunda cara de la inversión es el caballo: el de tiro que carga de más y se está apagando. El fiable lleva tanto tiempo siendo fiable que la fiabilidad se ha vuelto invisible — la logística de casa que se hace sola, la compañera que absorbe cada tarea que se cae porque absorber es lo suyo, la pareja cuya firmeza se gasta como si fuera infraestructura: solo se nota cuando se rompe. Los costes se acumulan fuera de las cuentas, como se acumulan los costes de este palo: el mantenimiento que el caballo de tiro nunca recibe porque nunca se avería, el rencor que crece en alguien cuyo código le prohíbe mencionarlo, el descubrimiento lento de que lo fiable, sin mantenimiento, tiene una forma de fallar — y no es gradual. El consejo va en las dos direcciones. A los que montan estos caballos: dales las gracias por cosas concretas, y ponles el descanso en el calendario — el descanso como cita fija, no como un «algún día», porque este carácter nunca lo va a pedir si no se lo ponen delante. Y al caballo mismo, la frase más dura: cargar de más deja de ser generosidad en el punto en que permite que todos los demás carguen de menos; el equipo que no aguanta tu semana libre tiene un problema que tu resistencia está tapando, y ser irrompible no es una personalidad — es un plan de mantenimiento que nadie ha estado cumpliendo, tú incluida. El caballero invertido no necesita un carácter nuevo. Necesita levantar la cabeza, mirar el mapa, descansar al caballo — y luego el mismo paso magnífico, apuntado, esta vez, a un campo vivo."
+        ],
+        "work": [
+          "La disciplina responde por el surco, nunca por el campo — pon fecha a la revisión que a la rutina le falta: ¿la tierra sigue dando, cambió el mapa? Constancia sin un momento para revisar es pura inercia con armadura."
+        ],
+        "love": [
+          "La firmeza que se gasta como infraestructura — solo se nota cuando se rompe. Dale las gracias al caballo de tiro por cosas concretas, y pon su descanso en el calendario; este carácter nunca pide descanso si no se lo ofreces."
+        ],
+        "self": [
+          "«Soy de los que no paran» es una identidad, y las identidades defienden su carga. El equipo que no aguanta tu semana libre tiene un problema que tu resistencia está tapando."
+        ],
+        "note": [
+          "No es el paso sostenido en sí — el paso es el tesoro; solo caducó su rumbo. Y aquí no hay pereza por ningún lado: a este fallo se llegó por lealtad. Se corrige con levantar la cabeza."
+        ]
+      }
+    }
+  }
+}

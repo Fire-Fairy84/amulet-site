@@ -1,0 +1,136 @@
+{
+  "id": "the-hermit",
+  "number": 9,
+  "order": 9,
+  "arcana": "major",
+  "suit": null,
+  "rank": null,
+  "image": "/assets/cards/the-hermit.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "09-hermit.en.md",
+    "es": "09-hermit.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "the-hermit",
+      "name": "The Hermit",
+      "seoTitle": "The Hermit Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "Withdrawal that clarifies. One honest light instead of the crowd's noise; the answer that only arrives at walking pace. Being — or going to find — the one…",
+      "summary": "Withdrawal that clarifies. One honest light instead of the crowd's noise; the answer that only arrives at walking pace. Being — or going to find — the one who walked ahead. Stepping back to see the whole board.",
+      "imageDescription": "A cloaked elder stands on a snow peak, holding a lantern out at chest height. Inside the lantern burns a six-pointed star — not a bonfire, one star, enough for the next few steps. The other hand holds a tall staff. Below the peak, far down, the towns are still lit and loud. He can see them. He chose the altitude anyway.",
+      "upright": {
+        "keywords": [
+          "solitude with purpose, the inner search, guidance earned, the long walk, one honest light, withdrawal that clarifies"
+        ],
+        "essay": [
+          "Some questions cannot be answered at conversational speed. You have one of them right now — you know which — and you have been trying to settle it in the gaps between notifications, in borrowed opinions, in the noise of rooms. The Hermit is the card that says: this one requires altitude. Not forever. But genuinely, and soon.",
+          "Look at the lantern. It holds one star and lights perhaps three steps of path — that is the entire technology. The Hermit's insight is not a floodlit map of your life; it is enough light for the next honest step, renewed at each step. People postpone the mountain because they want the full route before departing. The card is clear about the deal: the route only draws itself under your feet, at walking pace, which is why the staff matters as much as the lamp.",
+          "Withdrawal has a bad reputation because it resembles its counterfeit. The genuine article clarifies: you come back from it knowing something you could not have learned in company — usually something you already half-knew and could not hear. The counterfeit merely avoids. The test is simple and slightly brutal: real solitude produces answers; hiding produces only more solitude.",
+          "There is a second figure implied in this card: the one who walked ahead. Sometimes the Hermit is you, taking your own counsel at altitude. Sometimes the reading is that your question already has an answerer — someone further along the exact road you are on, findable, and never asked. Pride keeps more people lost than darkness does.",
+          "And notice: the lamp is held out, at chest height, visible from below. A private search, conducted honestly, ends up lighting other people's paths — that is not its purpose, but it is reliably its result. The Hermit is not hiding from the world. He is doing the part of the work that can only be done alone, in sight of everyone.",
+          "The question underneath: what would you hear in three quiet days that you cannot hear now?"
+        ],
+        "work": [
+          "Step back to see the whole board — the strategy is invisible from inside the sprint. Or seek the one who walked ahead: the mentor exists and has been waiting to be asked."
+        ],
+        "love": [
+          "Time alone that serves the bond rather than escaping it. Coming back from the walk with something to actually say. Solitude as maintenance, announced kindly."
+        ],
+        "self": [
+          "The answer found at walking pace. Your own counsel, taken seriously in a quiet room. The inner search as scheduled work, not accident."
+        ],
+        "note": [
+          "Not hiding. The lamp is held out to be seen — the withdrawal is in service of a return."
+        ]
+      },
+      "reversed": {
+        "summary": "Alone so long the door forgot how to open. Help offered and waved off; the walk extended past any discovery. Or the opposite pole: solitude fled entirely — no quiet anywhere, terrified of an empty room. Rumination wearing reflection's costume.",
+        "keywords": [
+          "isolation calcified, withdrawal past its use, counsel refused, walls mistaken for depth, or no stillness at all"
+        ],
+        "essay": [
+          "Reversed, the Hermit has usually overstayed. The withdrawal that once clarified has calcified into residence: the door still works, but nobody has tested it in a while, and the excuses for not testing it have grown sophisticated. Solitude is a medicine with a dosage. Past the dose, it stops producing insight and starts producing only distance — and distance, unlike insight, compounds.",
+          "Check what the walls are made of. Depth and defense look identical from inside: the same quiet, the same books, the same declined invitations. The difference shows in the returns. Depth sends things back down the mountain — conclusions, changes, a person slightly more available than before. Defense sends nothing back. If the solitude has stopped producing exports, it is not a practice anymore. It is a bunker with good lighting.",
+          "Counsel refused is this card's sharpest edge. The help exists — the friend who sees it clearly, the professional whose job this is, the one who walked ahead — and has been offered, perhaps more than once, and waved off with the special politeness of someone protecting their problem. A difficulty can become an identity if it is held long enough alone. The card notes, without cruelty, how long this one has been held.",
+          "The reversal has an opposite pole, just as costly: no stillness at all. The person who cannot be in a room without a screen lit, who books every evening solid, who calls the fear of their own company a full social calendar. If quiet feels like danger, that is not evidence against quiet — it is evidence of how much is waiting there to be heard, and how long it has waited.",
+          "And name the counterfeit precisely: rumination is not reflection, though it wears the costume. Reflection walks — it moves, concludes, arrives somewhere. Rumination circles the same three rocks in worsening weather. If your alone time has been producing the same thoughts for months, you are not on the mountain. You are on a roundabout with a view of it.",
+          "The lamp still works. That is the reversed card's only insistence. It wants carrying back down — or, in the other version, carrying at all."
+        ],
+        "work": [
+          "Lone-wolfing what genuinely needs hands. The problem hoarded past the point of pride. Ask the person — the asking costs a day; the not-asking has cost months."
+        ],
+        "love": [
+          "Walls mistaken for depth. Distance served as mystery. Or no room in the schedule where the two of you can hear anything at all."
+        ],
+        "self": [
+          "Rumination in reflection's costume — the same three thoughts, circled in worsening weather. Or the fear of your own company, booked solid."
+        ],
+        "note": [
+          "Not shameful. The lamp still works; the door still opens. The dose was wrong, not the medicine."
+        ]
+      }
+    },
+    "es": {
+      "slug": "el-ermitano",
+      "name": "El Ermitaño",
+      "seoTitle": "El Ermitaño en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "El retiro que aclara. Una luz honesta en vez del ruido de la multitud, la respuesta que solo llega a paso de caminata. Ser, o ir a buscar, a quien ya…",
+      "summary": "El retiro que aclara. Una luz honesta en vez del ruido de la multitud, la respuesta que solo llega a paso de caminata. Ser, o ir a buscar, a quien ya recorrió este camino. Dar un paso atrás para ver el tablero entero.",
+      "imageDescription": "Un anciano encapuchado, de pie en un pico nevado, sostiene un farol a la altura del pecho. Dentro del farol arde una estrella de seis puntas, no una hoguera sino una estrella, la justa para los próximos pasos. La otra mano sostiene un bastón alto. Abajo del pico, muy lejos, los pueblos siguen encendidos y ruidosos. Él los ve. Eligió la altura de todos modos.",
+      "upright": {
+        "keywords": [
+          "soledad con propósito, la búsqueda interior, la guía que se gana, la caminata larga, una luz honesta, el retiro que aclara"
+        ],
+        "essay": [
+          "Hay preguntas que no se pueden responder a velocidad de conversación. Tienes una ahora mismo, y sabes cuál, y llevas tiempo intentando resolverla en los huecos entre notificaciones, con opiniones prestadas, en el ruido de las habitaciones. El Ermitaño es la carta que dice que esta necesita altura. No para siempre, pero de verdad, y pronto.",
+          "Mira el farol. Contiene una estrella y alumbra quizá tres pasos de camino, y eso es todo lo que da. Lo que el Ermitaño ve no es tu vida entera iluminada con focos, sino luz suficiente para el siguiente paso honesto, que se renueva a cada paso. La gente aplaza la montaña porque quiere la ruta completa antes de salir. La carta es clara con el trato: la ruta solo se dibuja bajo tus pies, a paso de caminata, y por eso el bastón importa tanto como la lámpara.",
+          "El retiro tiene mala fama porque se parece a su imitación. El de verdad aclara: vuelves de él sabiendo algo que no habrías aprendido acompañada, casi siempre algo que ya sabías a medias y no podías oír. La imitación solo evita. La prueba es simple y un poco brutal: la soledad de verdad produce respuestas, mientras que esconderse produce solo más soledad.",
+          "Hay una segunda figura escondida en esta carta: quien ya recorrió este camino. A veces el Ermitaño eres tú, siguiendo tu propio consejo en la altura. A veces la lectura es que tu pregunta ya tiene quien la responda, alguien más adelantado en tu mismo camino exacto, que puedes encontrar y a quien nunca has preguntado. El orgullo deja perdida a más gente que la oscuridad.",
+          "Y fíjate: la lámpara se sostiene en alto, a la altura del pecho, visible desde abajo. Una búsqueda privada, hecha con honestidad, acaba alumbrando el camino de otros. No es su propósito, pero sí es, casi siempre, su resultado. El Ermitaño no se esconde del mundo. Está haciendo la parte del trabajo que solo se puede hacer en soledad, a la vista de todos.",
+          "La pregunta de fondo: ¿qué oirías en tres días de silencio que ahora no puedes oír?"
+        ],
+        "work": [
+          "Da un paso atrás para ver el tablero entero, porque la estrategia no se ve desde dentro del sprint. O busca a quien ya recorrió este camino: el mentor existe y lleva tiempo esperando a que le preguntes."
+        ],
+        "love": [
+          "El tiempo a solas que cuida el vínculo en vez de huir de él. Volver de la caminata con algo que decir de verdad. La soledad como mantenimiento, avisada con cariño."
+        ],
+        "self": [
+          "La respuesta que se encuentra a paso de caminata. Tu propio consejo, tomado en serio en una habitación tranquila. La búsqueda interior como trabajo agendado, no como accidente."
+        ],
+        "note": [
+          "No es esconderse. La lámpara se sostiene en alto para que se vea, porque el retiro está al servicio de un regreso."
+        ]
+      },
+      "reversed": {
+        "summary": "Tanto tiempo a solas que la puerta olvidó cómo abrirse. La ayuda ofrecida y rechazada, la caminata alargada más allá de cualquier hallazgo. O lo contrario, la soledad esquivada por completo, sin silencio en ninguna parte, con terror a una habitación vacía. Darle vueltas a lo mismo disfrazado de reflexión.",
+        "keywords": [
+          "el aislamiento endurecido, el retiro que ya no sirve, el consejo rechazado, los muros confundidos con hondura, o ninguna quietud en absoluto"
+        ],
+        "essay": [
+          "Invertido, el Ermitaño casi siempre se ha quedado de más. El retiro que un día aclaraba se ha endurecido en encierro: la puerta todavía funciona, pero hace tiempo que nadie la prueba, y las excusas para no probarla se han vuelto muy elaboradas. La soledad es una medicina con su dosis. Pasada la dosis, deja de dar claridad y empieza a dar solo distancia, y la distancia, a diferencia de la claridad, se acumula con intereses.",
+          "Fíjate de qué están hechos los muros. La hondura y la defensa se ven idénticas desde dentro: el mismo silencio, los mismos libros, las mismas invitaciones rechazadas. La diferencia está en lo que devuelven. La hondura manda cosas montaña abajo, o sea conclusiones, cambios, una persona un poco más disponible que antes. La defensa no manda nada. Si la soledad dejó de devolver algo al mundo, ya no es una práctica. Es un búnker bien iluminado.",
+          "El consejo rechazado es el filo más agudo de esta carta. La ayuda existe, ya sea la amiga que lo ve claro, el profesional cuyo trabajo es justo este, o quien ya recorrió este camino, y te la han ofrecido, quizá más de una vez, y la has rechazado con esa cortesía especial de quien protege su problema. Una dificultad puede volverse una identidad si la sostienes en soledad el tiempo suficiente. La carta anota, sin crueldad, cuánto tiempo llevas sosteniendo esta.",
+          "La inversión tiene un lado opuesto, igual de caro: ninguna quietud en absoluto. Es la persona que no puede estar en una habitación sin una pantalla encendida, que llena todas las tardes hasta el borde, que llama vida social al miedo a su propia compañía. Si el silencio se siente como un peligro, eso no es una prueba contra el silencio, sino la prueba de cuánto espera ahí para ser oído y de cuánto lleva esperando.",
+          "Y nombra la imitación con precisión: darle vueltas a algo no es reflexionar, aunque lo parezca. La reflexión avanza, se mueve, concluye, llega a alguna parte. Darle vueltas es girar sobre las mismas tres piedras con un tiempo cada vez peor. Si tus ratos a solas llevan meses produciendo los mismos pensamientos, no estás en la montaña. Estás en una rotonda con vistas a ella.",
+          "La lámpara todavía funciona. Es lo único en lo que insiste la carta invertida. Quiere que la bajes de vuelta, o, en la otra versión, que la enciendas de una vez."
+        ],
+        "work": [
+          "Ir de lobo solitario en algo que de verdad necesita más manos. El problema acaparado más allá del orgullo. Pregúntale a la persona, que preguntar cuesta un día y no preguntar lleva costando meses."
+        ],
+        "love": [
+          "Los muros confundidos con hondura. La distancia vendida como misterio. O ni un hueco en la agenda donde los dos puedan oír algo."
+        ],
+        "self": [
+          "Darle vueltas a lo mismo disfrazado de reflexión, los mismos tres pensamientos, girando con un tiempo cada vez peor. O el miedo a tu propia compañía, con la agenda llena."
+        ],
+        "note": [
+          "No es vergonzoso. La lámpara funciona y la puerta se abre. La dosis estaba mal, no la medicina."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,112 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import AppStoreCTA from './AppStoreCTA.astro';
+import Breadcrumbs from './Breadcrumbs.astro';
+import CardNavigation from './CardNavigation.astro';
+import LanguageSwitcher from './LanguageSwitcher.astro';
+import RelatedCards from './RelatedCards.astro';
+import CardLayout from '../layouts/CardLayout.astro';
+import { absolute, cardIndexPath, cardPath, homePath, labels, type Language } from '../lib/i18n';
+
+type Card = CollectionEntry<'cards'>['data'];
+interface Props { card: Card; cards: Card[]; language: Language }
+const { card, cards, language } = Astro.props;
+const translation = card.translations[language];
+const otherLanguage: Language = language === 'en' ? 'es' : 'en';
+const otherTranslation = card.translations[otherLanguage];
+const t = labels[language];
+const currentPath = cardPath(language, translation.slug);
+const alternatePath = cardPath(otherLanguage, otherTranslation.slug);
+const ordered = [...cards].sort((a, b) => a.order - b.order);
+const position = ordered.findIndex((entry) => entry.id === card.id);
+const previousCard = position > 0 ? ordered[position - 1] : undefined;
+const nextCard = position < ordered.length - 1 ? ordered[position + 1] : undefined;
+const navCard = (entry: Card | undefined) => entry ? ({ slug: entry.translations[language].slug, name: entry.translations[language].name }) : undefined;
+const related = card.relatedCardIds.flatMap((id) => {
+  const entry = cards.find((candidate) => candidate.id === id);
+  return entry ? [{ slug: entry.translations[language].slug, name: entry.translations[language].name, image: entry.image, imageWidth: entry.imageWidth, imageHeight: entry.imageHeight }] : [];
+});
+const accent = card.arcana === 'major' ? 'var(--cobalt)' : card.suit === 'cups' ? 'var(--rose)' : card.suit === 'pentacles' ? 'var(--leaf)' : card.suit === 'swords' ? 'var(--vermilion)' : 'var(--lemon)';
+const suitLabel = card.suit ? t[card.suit] : undefined;
+const typeLabel = card.arcana === 'major' ? t.major : t.minor;
+const articleLd = {
+  '@context': 'https://schema.org', '@type': 'Article',
+  headline: translation.seoTitle, description: translation.seoDescription,
+  inLanguage: language, mainEntityOfPage: absolute(currentPath),
+  image: absolute(card.image), publisher: { '@type': 'Organization', name: 'AMULET', url: absolute('/') },
+};
+const breadcrumbLd = {
+  '@context': 'https://schema.org', '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: t.home, item: absolute(homePath(language)) },
+    { '@type': 'ListItem', position: 2, name: t.cardIndex, item: absolute(cardIndexPath(language)) },
+    { '@type': 'ListItem', position: 3, name: translation.name, item: absolute(currentPath) },
+  ],
+};
+const hasFacets = (value: typeof translation.upright) => value.work.length + value.love.length + value.self.length > 0;
+---
+<CardLayout
+  language={language}
+  title={translation.seoTitle}
+  description={translation.seoDescription}
+  canonicalPath={currentPath}
+  alternates={[{ language, path: currentPath }, { language: otherLanguage, path: alternatePath }]}
+  jsonLd={[articleLd, breadcrumbLd]}
+  ogType="article"
+>
+  <a class="skip-link" href="#main">{t.skip}</a>
+  <header class="content-header wrap">
+    <a class="brand" href={homePath(language)} aria-label={`AMULET — ${t.home}`}>AMULET</a>
+    <LanguageSwitcher language={language} currentPath={currentPath} alternatePath={alternatePath} />
+  </header>
+  <main id="main" class="wrap card-main" style={`--accent:${accent}`}>
+    <Breadcrumbs language={language} items={[{ label: t.home, href: homePath(language) }, { label: t.cardIndex, href: cardIndexPath(language) }, { label: translation.name }]} />
+    <article>
+      <header class="card-hero">
+        <div class="card-heading">
+          <p class="card-kicker">{typeLabel}{suitLabel ? ` · ${suitLabel}` : ''} · {t.number} {card.number}</p>
+          <h1>{translation.name}</h1>
+          <p class="card-summary">{translation.summary}</p>
+          {translation.upright.keywords.length > 0 && <p class="keywords">{translation.upright.keywords.join(' · ')}</p>}
+        </div>
+        <figure>
+          <img src={card.image} width={card.imageWidth} height={card.imageHeight} alt={translation.imageDescription ?? translation.name} fetchpriority="high" />
+          {translation.imageDescription && <figcaption>{translation.imageDescription}</figcaption>}
+        </figure>
+      </header>
+
+      <section class="meaning-block" aria-labelledby="upright-title">
+        <p class="orientation">{t.upright}</p>
+        <h2 id="upright-title">{language === 'en' ? `${translation.name} upright meaning` : `Significado de ${translation.name} al derecho`}</h2>
+        <div class="essay">{translation.upright.essay.map((paragraph) => <p>{paragraph}</p>)}</div>
+        {hasFacets(translation.upright) && <div class="facets">
+          {translation.upright.work.length > 0 && <section><h3>{t.work}</h3>{translation.upright.work.map((paragraph) => <p>{paragraph}</p>)}</section>}
+          {translation.upright.love.length > 0 && <section><h3>{t.love}</h3>{translation.upright.love.map((paragraph) => <p>{paragraph}</p>)}</section>}
+          {translation.upright.self.length > 0 && <section><h3>{t.self}</h3>{translation.upright.self.map((paragraph) => <p>{paragraph}</p>)}</section>}
+        </div>}
+        {translation.upright.note.length > 0 && <p class="meaning-note"><strong>{t.note}:</strong> {translation.upright.note.join(' ')}</p>}
+      </section>
+
+      <section class="meaning-block" aria-labelledby="reversed-title">
+        <p class="orientation">{t.reversed}</p>
+        <h2 id="reversed-title">{language === 'en' ? `${translation.name} reversed meaning` : `Significado de ${translation.name} invertida`}</h2>
+        <p class="reversed-summary">{translation.reversed.summary}</p>
+        <div class="essay">{translation.reversed.essay.map((paragraph) => <p>{paragraph}</p>)}</div>
+        {hasFacets(translation.reversed) && <div class="facets">
+          {translation.reversed.work.length > 0 && <section><h3>{t.work}</h3>{translation.reversed.work.map((paragraph) => <p>{paragraph}</p>)}</section>}
+          {translation.reversed.love.length > 0 && <section><h3>{t.love}</h3>{translation.reversed.love.map((paragraph) => <p>{paragraph}</p>)}</section>}
+          {translation.reversed.self.length > 0 && <section><h3>{t.self}</h3>{translation.reversed.self.map((paragraph) => <p>{paragraph}</p>)}</section>}
+        </div>}
+        {translation.reversed.note.length > 0 && <p class="meaning-note"><strong>{t.note}:</strong> {translation.reversed.note.join(' ')}</p>}
+      </section>
+    </article>
+    <RelatedCards language={language} cards={related} />
+    <AppStoreCTA language={language} />
+    <CardNavigation language={language} previous={navCard(previousCard)} next={navCard(nextCard)} />
+    <p class="back-to-index"><a href={cardIndexPath(language)}>← {t.allCards}</a></p>
+  </main>
+  <footer class="content-footer wrap">
+    <span>AMULET / {language === 'en' ? 'TAROT JOURNAL' : 'DIARIO DE TAROT'}</span>
+    <span><a href="/privacy/">{t.privacy}</a> · <a href="/terms/">{t.terms}</a> · <a href="mailto:esthersarasua.dev@gmail.com">{t.contact}</a></span>
+  </footer>
+</CardLayout>

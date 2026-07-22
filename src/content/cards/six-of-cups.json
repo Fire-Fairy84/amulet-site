@@ -1,0 +1,128 @@
+{
+  "id": "six-of-cups",
+  "number": 6,
+  "order": 27,
+  "arcana": "minor",
+  "suit": "cups",
+  "rank": 6,
+  "image": "/assets/cards/six-of-cups.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "cups-06.en.md",
+    "es": "cups-06.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "six-of-cups",
+      "name": "Six of Cups",
+      "seoTitle": "Six of Cups Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "The past arriving with its hands full — nostalgia, reunion, the childhood friend, the old neighborhood, kindness given the way children give it: freely…",
+      "summary": "The past arriving with its hands full — nostalgia, reunion, the childhood friend, the old neighborhood, kindness given the way children give it: freely, pointlessly, completely. Sweetness that is real. The question is what it's for.",
+      "imageDescription": "In an old walled garden, a child offers another child a cup filled with white flowers — a gift with no occasion, no exchange rate, no angle. Four more flower-cups stand in the foreground; one waits on a pedestal behind. The architecture is medieval, the light is afternoon-forever. Someone, in the far corner, is walking away with a spear, and the children have not noticed.",
+      "upright": {
+        "keywords": [
+          "memory as gift, the sweetness of the past, innocence revisited, the returning figure, kindness without ledger, home in its original sense"
+        ],
+        "essay": [
+          "After the Five's grief, the suit administers its own medicine, and the medicine is memory. The Six of Cups is the past in its sweet aspect — not the past as wound (other cards keep that file) but the past as reservoir: the place where kindness was uncomplicated, giving had no ledger, and home meant something before it meant paperwork. The card's arrivals are often literal — the childhood friend resurfacing, the return to the hometown, the smell that teleports, the reunion where everyone's face does the double exposure of then and now. When it appears, something old is extending a cup toward you, and the flowers in it are real.",
+          "The gesture at the card's center repays study: one child gives, the other receives, and the transaction has no third term — no occasion, no debt created, no strategic residue. This is the card's actual subject, more than nostalgia: the mode of exchange we practiced first and mastered before any other, in which giving was its own complete event. Adult life rationally abandons this mode; ledgers exist because trust needs bookkeeping at scale. But the Six of Cups appears to remind you that the ledgerless mode still exists in you as a competence, not just a memory — and that certain moments (this one, perhaps) call for its deliberate revival. The gift with no angle. The kindness that would embarrass a strategist. The visit with no agenda but the visiting.",
+          "What memory is for — the card's second teaching — is not residence but supply. The walled garden is a depot, not an address: you go back to retrieve things that current life has run short of — the certainty of being welcome somewhere, the evidence that you were once easily delighted, the original versions of your own warmth before it learned caution. Visited this way, the past funds the present. The people who draw strength from their history and the people trapped by it are handling the same material; the difference is entirely in the direction of travel through the garden gate.",
+          "And the card, honest as the suit demands, paints the figure walking away with the spear: guardianship departing, time passing at the garden's edge, the reminder that this light is afternoon and afternoons end. The sweetness is real and it is bounded — which is not the sad part but the operative part. Take the cup of flowers now. Call the old friend this week, not at the eventual funeral. Nostalgia's only real error is scheduling: it keeps proposing the reunion for a future in which everyone is still available."
+        ],
+        "work": [
+          "The old collaborator, the founding spirit worth retrieving — visit the past as depot, not address. And practice one ledgerless act; teams remember who gave without invoicing."
+        ],
+        "love": [
+          "Sweetness with history — the reunion, the childhood-mode tenderness inside the adult bond. Give the pointless gift. But check: is this person present-tense, or a costume memory is wearing?"
+        ],
+        "self": [
+          "Memory as reservoir — retrieve the original warmth, the easily-delighted self, the certainty of welcome. Fund the present with it; don't move in."
+        ],
+        "note": [
+          "Not an instruction to go back — a supply run, not a relocation. The garden is walled and the afternoon ends; the cup is for carrying out."
+        ]
+      },
+      "reversed": {
+        "summary": "The past overfunctioning — nostalgia become residence, comparison-shopping the present against an edited then, the old wound or old sweetness running the current show. Or the healthy exit: leaving home at last. Which way is the gate swinging?",
+        "keywords": [
+          "nostalgia as anesthesia, the past overstayed, childhood's bill arriving, stuck in the garden, refusing the present tense, or finally leaving home"
+        ],
+        "essay": [
+          "Reversed, the Six of Cups is the garden with a occupancy problem — someone living where they should be visiting, or fleeing what they should be retrieving. Its readings fan out from that single hinge.",
+          "The commonest is nostalgia as anesthesia: the past deployed against the present. The golden age narrative — of the relationship's early months, the company's founding era, the country before, the self at some prior weight or wattage — polished and replayed until the current day cannot compete and is no longer asked to. The mechanism deserves respect, because it works: memory edits ruthlessly toward sweetness, deleting the boredom and terror that were also there, and the edited cut will beat live footage every time. The tell is comparative sentences — it was better, I was happier, we used to — arriving as reflexes. The reversed card's counsel is not to renounce the garden but to audit the edit: retrieve one full memory, boredom and terror included, and watch the present regain competitive footing. The past was also just a present that has since been to post-production.",
+          "The second reading runs deeper: the unfinished business version, where what holds you in the garden is not sweetness but its absence — the childhood that shorted you, replayed in adult casting; the old relationship pattern arriving punctually in each new one; the family role, assigned at eight, still governing at forty. Here the reversal means the past is overdue for active processing rather than passive orbit: the conversation, the therapy, the letter sent or ceremonially burned. What distinguishes this from wallowing is direction — you enter the garden to close accounts, not to keep them open. Some cups from childhood arrive genuinely empty, and the adult task, unfair as it is stubborn, is to fill them from current sources rather than re-billing the original vendor forever.",
+          "And the third reading is the bright exit: leaving home, in whatever costume — the actual move, the boundary with the family of origin, the retirement of an outgrown identity, the graduation from a nostalgia that had become a rent payment. Growing up is late-arriving for everyone in at least one province of life, and when this card reverses in a spread about independence, it is usually applauding: the gate is swinging outward, and that is the direction gates are for. Take the flowers — the real inheritance, the warmth, whatever was actually good. Leave the furniture. The garden keeps; that was never in question. The question was always whether you would let the present tense begin."
+        ],
+        "work": [
+          "The founding era outcompeting the live company — \"we used to\" as a reflex. Audit the edit: one full memory, tedium included. The past also shipped late and fought."
+        ],
+        "love": [
+          "The ex as edited film, the pattern arriving punctually in new casting — or the early-months myth taxing the actual partner. Process, close accounts, or genuinely leave."
+        ],
+        "self": [
+          "Some childhood cups arrived empty; re-billing the original vendor keeps them so. Fill them from current sources. Unfair, and the only arithmetic that works."
+        ],
+        "note": [
+          "Not a ban on memory — a zoning ruling: the garden is for visiting. And sometimes not stuckness at all, but the gate swinging outward at last. That counts as upright."
+        ]
+      }
+    },
+    "es": {
+      "slug": "seis-de-copas",
+      "name": "Seis de Copas",
+      "seoTitle": "Seis de Copas en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "El pasado que llega con las manos llenas — nostalgia, reencuentro, la amiga de la infancia, el barrio de siempre, la amabilidad que dan los niños: gratis…",
+      "summary": "El pasado que llega con las manos llenas — nostalgia, reencuentro, la amiga de la infancia, el barrio de siempre, la amabilidad que dan los niños: gratis, sin motivo, entera. Una dulzura que es de verdad. La pregunta es para qué sirve.",
+      "imageDescription": "En un viejo jardín amurallado, un niño le ofrece a otro una copa llena de flores blancas — un regalo sin ocasión, sin cambio, sin doble intención. Cuatro copas floridas más en primer plano; otra espera sobre un pedestal detrás. La arquitectura es medieval, la luz es de una tarde que no termina. Alguien, en un rincón lejano, se aleja con una lanza, y los niños no lo han visto.",
+      "upright": {
+        "keywords": [
+          "la memoria como regalo, la dulzura del pasado, la inocencia recuperada, la figura que vuelve, dar sin llevar la cuenta, el hogar en su sentido original"
+        ],
+        "essay": [
+          "Tras el duelo del Cinco, el palo encuentra su propio remedio: la memoria. El Seis de Copas es el pasado en su cara dulce; no el pasado como herida —de eso se encargan otras cartas—, sino como despensa: el lugar donde ser amable era sencillo, donde dar no llevaba cuenta y donde hogar significaba algo antes de significar papeleo. Lo que trae esta carta suele ser literal: la amiga de la infancia que reaparece, la vuelta al pueblo, un olor que te transporta, la reunión donde cada cara se superpone consigo misma, la de antes y la de ahora. Cuando sale, algo antiguo te tiende una copa, y las flores que trae son de verdad.",
+          "El gesto del centro de la carta merece que lo mires: uno da, el otro recibe, y en el trato no hay nada más — ni ocasión, ni deuda que salde, ni cálculo escondido. Ese es el verdadero asunto de la carta, más que la nostalgia: la forma de dar que aprendimos primero y dominamos antes que ninguna otra, cuando dar era, por sí solo, un acontecimiento completo. La vida adulta abandona esa forma por buenas razones; las cuentas existen porque a gran escala la confianza necesita registro. Pero el Seis de Copas aparece para recordarte que esa forma sin cuentas sigue viva en ti como algo que sabes hacer, no solo como recuerdo — y que hay momentos (este, quizá) que piden ponerla a funcionar a propósito. El regalo sin cálculo. La amabilidad que dejaría en ridículo a un estratega. La visita sin más plan que visitar.",
+          "Para qué sirve la memoria — lo segundo que enseña la carta — no es para vivir en ella sino para abastecerte. El jardín amurallado es un almacén, no una dirección: vuelves a él para recuperar cosas que en tu vida de ahora escasean — la certeza de ser bienvenida en algún sitio, la prueba de que una vez te alegrabas con facilidad, las versiones originales de tu propia calidez, de antes de que aprendiera a ser cauta. Visitado así, el pasado paga el presente. Quien saca fuerza de su historia y quien se queda atrapado en ella manejan el mismo material; la única diferencia está en hacia dónde caminas al cruzar la puerta del jardín.",
+          "Y la carta, honesta como exige el palo, dibuja a la figura que se aleja con la lanza: la vigilancia que se marcha, el tiempo que pasa al borde del jardín, el aviso de que esta luz es de tarde y las tardes se acaban. La dulzura es de verdad y tiene un límite — que no es lo triste, sino lo importante. Toma la copa de flores ahora. Llama a la vieja amiga esta semana, no en el funeral que ya llegará. El único error de verdad de la nostalgia es de calendario: no deja de proponer el reencuentro para un futuro en el que todos siguen estando."
+        ],
+        "work": [
+          "El antiguo colaborador, el espíritu de los inicios que vale la pena recuperar — visita el pasado como almacén, no como dirección. Y haz un gesto sin llevar la cuenta; los equipos recuerdan quién dio sin pasar factura."
+        ],
+        "love": [
+          "Dulzura con historia — el reencuentro, la ternura de la infancia dentro del vínculo adulto. Haz el regalo sin motivo. Pero comprueba: ¿esta persona está en el presente, o es un disfraz que le has puesto a un recuerdo?"
+        ],
+        "self": [
+          "La memoria como despensa — recupera la calidez original, la parte de ti que se alegraba con facilidad, la certeza de ser bienvenida. Paga el presente con eso; no te instales dentro."
+        ],
+        "note": [
+          "No es una orden de volver — es ir a por provisiones, no mudarse. El jardín está amurallado y la tarde se acaba; la copa es para llevártela fuera."
+        ]
+      },
+      "reversed": {
+        "summary": "El pasado trabajando de más — la nostalgia convertida en vivienda, el presente comparado siempre con un ayer maquillado, la vieja herida o la vieja dulzura al mando de la función de hoy. O la salida sana: irse de casa por fin. ¿Hacia qué lado se abre la puerta?",
+        "keywords": [
+          "la nostalgia como anestesia, el pasado que se queda de más, la factura de la infancia que llega, atascada en el jardín, negarse al presente, o por fin irse de casa"
+        ],
+        "essay": [
+          "Invertido, el Seis de Copas es el jardín con un problema de ocupación — alguien viviendo donde debería estar de visita, o huyendo de lo que debería recuperar. Sus lecturas se despliegan todas desde ese único punto.",
+          "La más común es la nostalgia como anestesia: el pasado usado contra el presente. El relato de la época dorada — los primeros meses de la relación, los inicios de la empresa, el país de antes, la versión de ti con otro peso u otro brillo — pulido y repetido hasta que el día de hoy no puede competir y ya ni se lo pides. El mecanismo merece respeto, porque funciona: la memoria recorta sin piedad hacia lo dulce, borra el aburrimiento y el miedo que también estuvieron, y ese montaje limpio le gana a lo que pasa en vivo todas las veces. Se delata en las frases de comparación — se estaba mejor, yo era más feliz, antes nosotros — que salen solas. Lo que aconseja la carta invertida no es renunciar al jardín sino revisar el montaje: recupera un recuerdo entero, con aburrimiento y miedo incluidos, y mira cómo el presente vuelve a poder competir. El pasado también fue solo un presente, uno que después pasó por la sala de montaje.",
+          "La segunda lectura va más hondo: la de las cuentas pendientes, donde lo que te retiene en el jardín no es la dulzura sino su falta — la infancia que te quedó a deber, repetida ahora con actores adultos; el viejo patrón de pareja que llega puntual a cada relación nueva; el papel de familia que te tocó a los ocho años y sigue mandando a los cuarenta. Aquí la inversión significa que al pasado le toca trabajarlo de verdad, no dejarlo dando vueltas: la conversación, la terapia, la carta que se envía o se quema con ceremonia. Lo que separa esto de regodearse es la dirección — entras al jardín a cerrar cuentas, no a mantenerlas abiertas. Algunas copas de la infancia llegan de verdad vacías, y la tarea adulta, tan injusta como tozuda, es llenarlas con lo que tienes ahora en vez de reclamarle para siempre al proveedor de entonces.",
+          "Y la tercera lectura es la salida luminosa: irse de casa, con el disfraz que sea — la mudanza de verdad, el límite con la familia en la que naciste, jubilar una identidad que se te ha quedado pequeña, graduarte de una nostalgia que se había vuelto un alquiler. A todo el mundo le llega tarde el crecer en al menos una parcela de la vida, y cuando esta carta sale invertida en una tirada sobre independencia, normalmente está aplaudiendo: la puerta se abre hacia fuera, y para eso están las puertas. Llévate las flores — la herencia de verdad, la calidez, lo que sí fue bueno. Deja los muebles. El jardín se conserva; eso nunca estuvo en duda. Lo que estuvo en duda siempre fue si ibas a dejar que el presente empezara."
+        ],
+        "work": [
+          "Los inicios ganándole a la empresa viva — \"antes nosotros\" como reflejo. Revisa el montaje: un recuerdo entero, con lo tedioso incluido. El pasado también entregaba tarde y peleaba."
+        ],
+        "love": [
+          "El ex como película editada, el patrón que llega puntual con reparto nuevo — o el mito de los primeros meses cobrándole a la pareja real. Trabájalo, cierra cuentas, o vete de verdad."
+        ],
+        "self": [
+          "Algunas copas de la infancia llegaron vacías; reclamarle al proveedor de entonces las deja igual de vacías. Llénalas con lo que tienes ahora. Injusto, y la única cuenta que sale."
+        ],
+        "note": [
+          "No es una prohibición de la memoria — es una norma de urbanismo: el jardín es para visitarlo. Y a veces no es ningún atasco, sino la puerta que por fin se abre hacia fuera. Eso cuenta como al derecho."
+        ]
+      }
+    }
+  }
+}

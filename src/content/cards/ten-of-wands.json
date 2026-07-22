@@ -1,0 +1,128 @@
+{
+  "id": "ten-of-wands",
+  "number": 10,
+  "order": 73,
+  "arcana": "minor",
+  "suit": "wands",
+  "rank": 10,
+  "image": "/assets/cards/ten-of-wands.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "wands-10.en.md",
+    "es": "wands-10.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "ten-of-wands",
+      "name": "Ten of Wands",
+      "seoTitle": "Ten of Wands Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "Everything won, everything carried — the success that arrived as workload, the responsibility hoarded until it bends the spine. The town is near; the load…",
+      "summary": "Everything won, everything carried — the success that arrived as workload, the responsibility hoarded until it bends the spine. The town is near; the load is real; most of it was picked up voluntarily and can be set down the same way.",
+      "imageDescription": "A man carries all ten wands at once, bundled awkwardly in front of him so that they block his own view of the road. He is bent, moving, close — a town waits just ahead. Nothing in the picture is attacking him. Everything in the picture is his, and that is precisely the problem.",
+      "upright": {
+        "keywords": [
+          "the full load, success become burden, over-responsibility, carrying alone, the last stretch bent double, all ten at once"
+        ],
+        "essay": [
+          "The suit of fire ends not in flame but in freight. The Ten of Wands is what happens after every spark catches: the venture funded, the family grown, the reputation earned — and all of it, somehow, riding on one bent back. The card's cruelest detail is its kindest insight: no one is attacking this man. The Five's rivals, the Seven's besiegers, the Nine's approaching threat — all gone. What remains is only what he said yes to. The Ten is the card of success experienced as weight, and its first question is disarmingly literal: who decided you carry all ten?",
+          "Look at how he holds them. Not slung across the shoulders, not dragged in a cart, but bundled in front of the chest — the one grip that blocks the carrier's own eyes. This is over-responsibility's exact posture: the load held so tightly, so personally, that it becomes the entire field of vision. He can no longer see the town he is walking toward, the road he is on, or — the card's quiet joke — the fact that ten wands make a raft, a fence, a frame, anything but a burden, if they ever touch the ground again. Carried this way, even assets become blindfold.",
+          "The essay under the image is about a confusion the capable are prone to: mistaking load-bearing for love, or for worth. Somewhere back down the road, being the one who carries became the identity — and identities are the one luggage nobody audits. So the wands accreted: the task kept because delegating felt like betrayal, the obligation absorbed because someone had to, the standard maintained because you always have. Each yes was reasonable. The bundle is not. The Ten does not ask whether you can carry it — obviously you can, you are — it asks what the carrying is displacing: the view, the pace, the hands that could hold anything else.",
+          "And still: the town is close. This card is genuinely near its end, and sometimes the honest reading is simply finish the haul — deliver the load, complete the season, and then renegotiate everything before the next bundle forms. The Ten permits that. What it does not permit is the disguise: calling permanent what was supposed to be a stretch, calling virtue what is only habit. Set down what you can now. Deliver what you must. And decide — in daylight, before the next yes — which of these wands were ever actually yours."
+        ],
+        "work": [
+          "Success arrived as workload — every project yours, delegation felt as betrayal. Finish the delivery, then audit the bundle: half these wands have other owners."
+        ],
+        "love": [
+          "Carrying the relationship's whole logistics and calling it devotion. The load blocks the view of the person. Hand over wands; being helped is intimacy too."
+        ],
+        "self": [
+          "Load-bearing mistaken for worth. You can carry it — that was never the question. What is the carrying displacing? The town is close; renegotiate after delivery."
+        ],
+        "note": [
+          "Not punishment and not attack — nothing in the frame is hostile. A pile of voluntary yeses. What was picked up can be put down."
+        ]
+      },
+      "reversed": {
+        "summary": "The load released — by choice, by delegation, or by collapse. Burnout named, the yes revoked, the bundle finally audited. Lightness with a lesson in it: which wands go back in the arms, and which never do.",
+        "keywords": [
+          "the drop, delegation at last, collapse under the bundle, refusing the load, burnout named, wands hitting the ground"
+        ],
+        "essay": [
+          "Reversed, the Ten of Wands is the bundle on the ground, and everything depends on how it got there. There are two ways down for a load like this — it is set down, or it drops — and the reversed card covers both, gently for one and urgently for the other.",
+          "The set-down is the good ending: the delegation finally made, the resignation tendered from strength, the honest sentence — I can't carry this alone anymore — said before it had to be proven. If this is where you are, the card's work is to block the guilt that follows. Putting down wands that were never yours is not abandonment; it is returning stolen goods to their rightful owners, who were often waiting, oddly enough, to be allowed to carry something. Expect the world not to end. That non-ending is the lesson, and it is worth watching closely, because the next bundle will begin recruiting within days and you will want the evidence fresh.",
+          "The drop is the other ending: collapse, burnout, the body deciding what the calendar refused to. If the wands scattered rather than being placed, the priority is not to gather them — it is to resist the reflex that is already bending your knees toward the pile. The capable rebuild their burdens with astonishing speed, mostly to escape the discomfort of standing empty-handed. Stand empty-handed a while. Collapse is expensive tuition; the only way it becomes a bargain is if the lesson is actually collected: not \"carry better\" but \"carry less,\" and not \"less for now\" but a different architecture entirely — loads shared by design, not by emergency.",
+          "Either way, the reversed Ten stages the suit's final scene: a person, ten wands, and a choice made visible at last. Sort the pile in the open. A few of these are load-bearing — yours, truly, worth the spine. Several belong to other people, with names, and can be handed over this week. And some, held up to the light, are nothing but old yeses that outlived their reasons. The fire suit began with one wand full of possibility. It ends here, asking you to pick up — deliberately, this time — only what still is."
+        ],
+        "work": [
+          "Burnout arrived or narrowly dodged — either way, the audit is due. Sort the pile publicly: yours, theirs, expired. Rebuild loads by design, not emergency."
+        ],
+        "love": [
+          "The over-carrier stopped carrying — now the silence where the logistics were. Let the imbalance stay visible; it is the only way it gets renegotiated."
+        ],
+        "self": [
+          "Standing empty-handed and itching to re-bundle. Wait. Collapse's tuition is only worth it if the lesson is \"carry less,\" not \"carry better.\""
+        ],
+        "note": [
+          "Not failure of strength — strength was never in question. And not permission lost: the town is still reachable; it always was, lighter."
+        ]
+      }
+    },
+    "es": {
+      "slug": "diez-de-bastos",
+      "name": "Diez de Bastos",
+      "seoTitle": "Diez de Bastos en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "Todo ganado, todo a cuestas — el éxito que llegó como carga de trabajo, la responsabilidad acaparada hasta doblar la columna. El pueblo está cerca; el…",
+      "summary": "Todo ganado, todo a cuestas — el éxito que llegó como carga de trabajo, la responsabilidad acaparada hasta doblar la columna. El pueblo está cerca; el peso es real; casi todo se recogió voluntariamente y puede soltarse igual.",
+      "imageDescription": "Un hombre carga los diez bastos a la vez, mal atados delante de él, de modo que le tapan la vista del camino. Va doblado, en marcha, cerca — un pueblo espera justo delante. Nada en la imagen lo ataca. Todo en la imagen es suyo, y ese es precisamente el problema.",
+      "upright": {
+        "keywords": [
+          "la carga completa, el éxito convertido en peso, sobrecarga de responsabilidad, cargar en soledad, el último tramo doblada en dos, los diez a la vez"
+        ],
+        "essay": [
+          "El palo de fuego no termina en una llama, sino en una carga. El Diez de Bastos muestra lo que pasa cuando todas las chispas prenden: el proyecto crece, la familia exige más, la reputación se consolida y todo acaba sobre una sola espalda doblada. Lo más duro de la carta es también lo más amable: nadie está atacando a este hombre. Solo carga con todo aquello a lo que dijo que sí. La pregunta es muy concreta: ¿quién decidió que tenías que cargar con los diez bastos?",
+          "Mira cómo los sostiene. No cruzados a la espalda, no arrastrados en un carro, sino atados delante del pecho — el único agarre que le tapa los ojos al que carga. Esta es la postura exacta de la sobre-responsabilidad: el peso sostenido tan fuerte, tan personalmente, que se convierte en el campo de visión entero. Ya no puede ver el pueblo hacia el que camina, el camino que pisa, ni — la broma silenciosa de la carta — el hecho de que diez bastos hacen una balsa, una valla, un marco, cualquier cosa menos una carga, si alguna vez vuelven a tocar el suelo. Cargados así, hasta los bienes se vuelven venda.",
+          "El ensayo bajo la imagen trata de una confusión a la que la gente capaz es propensa: confundir cargar peso con amar, o con valer. En algún punto del camino, ser quien carga se volvió la identidad — y las identidades son el único equipaje que nadie se para a revisar. Así se acumularon los bastos: la tarea retenida porque delegar se sentía traición, la obligación absorbida porque alguien tenía que hacerlo, el estándar mantenido porque tú siempre lo has mantenido. Cada sí fue razonable. El fardo no lo es. El Diez no pregunta si puedes cargarlo — obviamente puedes, lo estás haciendo — pregunta qué desplaza el cargar: la vista, el paso, las manos que podrían sostener cualquier otra cosa.",
+          "Y aun así: el pueblo está cerca. Esta carta está genuinamente cerca de su final, y a veces la lectura honesta es simplemente termina el porte — entrega la carga, completa la temporada, y luego renegocia todo antes de que se forme el siguiente fardo. El Diez lo permite. Lo que no permite es el disfraz: llamar permanente a lo que iba a ser un tramo, llamar virtud a lo que es solo costumbre. Suelta ahora lo que puedas. Entrega lo que debas. Y decide — a plena luz, antes del próximo sí — cuáles de estos bastos fueron alguna vez realmente tuyos."
+        ],
+        "work": [
+          "El éxito llegó como carga de trabajo — cada proyecto tuyo, delegar sentido como traición. Termina la entrega y luego revisa el fardo: la mitad de estos bastos tienen otros dueños."
+        ],
+        "love": [
+          "Cargar toda la logística de la relación y llamarlo devoción. El fardo tapa la vista de la persona. Entrega bastos; ser ayudada también es intimidad."
+        ],
+        "self": [
+          "Confundir cargar con valer. Puedes hacerlo, esa nunca fue la pregunta. ¿Qué queda fuera de tu vida por llevar tanto peso? El pueblo está cerca; renegocia después de entregar."
+        ],
+        "note": [
+          "No es castigo ni ataque — nada en el cuadro es hostil. Una pila de síes voluntarios. Lo que se recogió puede soltarse."
+        ]
+      },
+      "reversed": {
+        "summary": "El peso soltado — por elección, por delegación o por derrumbe. El burnout nombrado, el sí revocado, el fardo por fin revisado. Una ligereza con lección dentro: qué bastos vuelven a los brazos, y cuáles no vuelven nunca.",
+        "keywords": [
+          "la soltada, delegar por fin, derrumbe bajo el fardo, rechazar la carga, el burnout nombrado, bastos tocando el suelo"
+        ],
+        "essay": [
+          "Invertido, el Diez de Bastos es el fardo en el suelo, y todo depende de cómo llegó ahí. Una carga así tiene dos maneras de bajar — se deja, o se cae — y la carta invertida cubre ambas, con suavidad para una y con urgencia para la otra.",
+          "Dejarla es el buen final: la delegación por fin hecha, la renuncia presentada desde la fuerza, la frase honesta — ya no puedo con esto sola — dicha antes de tener que demostrarse. Si es ahí donde estás, el trabajo de la carta es bloquear la culpa que viene después. Soltar bastos que nunca fueron tuyos no es abandono; es devolver bienes a sus dueños legítimos, que a menudo estaban esperando, curiosamente, a que se les permitiera cargar algo. Espera que el mundo no se acabe. Ese no-final es la lección, y merece mirarse de cerca, porque el siguiente fardo empezará a reclutar en cuestión de días y querrás la evidencia fresca.",
+          "Caerse es el otro final: el derrumbe, el burnout, el cuerpo decidiendo lo que el calendario se negó a decidir. Si los bastos se desperdigaron en lugar de ser colocados, la prioridad no es recogerlos — es resistir el reflejo que ya te está doblando las rodillas hacia la pila. La gente capaz reconstruye sus cargas con velocidad asombrosa, sobre todo para escapar de la incomodidad de estar con las manos vacías. Quédate con las manos vacías un rato. El derrumbe es una matrícula cara; solo sale a cuenta si la lección de verdad se recoge: no \"cargar mejor\" sino \"cargar menos\", y no \"menos por ahora\" sino una forma distinta de repartir el trabajo, pensada con calma y no solo para salir del paso.",
+          "En cualquier caso, el Diez invertido monta la escena final del palo: una persona, diez bastos, y una elección por fin visible. Clasifica la pila a la vista. Unos pocos cargan peso de verdad — tuyos, de verdad, dignos de la columna. Varios pertenecen a otras personas, con nombres, y pueden entregarse esta semana. Y algunos, mirados a contraluz, no son más que síes viejos que sobrevivieron a sus razones. El palo de fuego empezó con un basto lleno de posibilidad. Termina aquí, pidiéndote que recojas — deliberadamente, esta vez — solo lo que todavía lo está."
+        ],
+        "work": [
+          "El burnout llegó o pasó rozando — en ambos casos, toca revisar ya. Clasifica la pila a la vista: tuyo, de otros, caducado. Reparte de nuevo las cargas con calma, no en mitad de una urgencia."
+        ],
+        "love": [
+          "Quien cargaba con todo ha dejado de hacerlo y ahora se nota el silencio que deja su esfuerzo. Deja el desequilibrio a la vista: es la única forma de renegociarlo."
+        ],
+        "self": [
+          "Estás con las manos vacías y te pica volver a atar el fardo. Espera. El derrumbe solo sirve de algo si la lección es «cargar menos», no «cargar mejor»."
+        ],
+        "note": [
+          "No es un fallo de fuerza — la fuerza nunca estuvo en duda. Y no es un permiso perdido: el pueblo sigue alcanzable; siempre lo estuvo, más ligera."
+        ]
+      }
+    }
+  }
+}

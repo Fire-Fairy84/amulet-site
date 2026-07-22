@@ -1,0 +1,20 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "astro",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "cleanUrls": true,
+  "trailingSlash": true,
+  "redirects": [
+    { "source": "/tarot", "destination": "/es/cartas/", "permanent": true },
+    { "source": "/tarot/:slug", "destination": "/es/cartas/:slug/", "permanent": true },
+    { "source": "/en/tarot", "destination": "/en/cards/", "permanent": true },
+    { "source": "/en/tarot/:slug", "destination": "/en/cards/:slug/", "permanent": true }
+  ],
+  "headers": [
+    {
+      "source": "/assets/(.*)",
+      "headers": [{ "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }]
+    }
+  ]
+}

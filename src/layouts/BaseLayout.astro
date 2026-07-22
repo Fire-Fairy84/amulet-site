@@ -1,0 +1,28 @@
+---
+import SeoHead from '../components/SeoHead.astro';
+import '../styles/global.css';
+import type { Language } from '../lib/i18n';
+
+interface Alternate { language: Language; path: string }
+interface Props {
+  language: Language; bodyClass?: string; title: string; description: string;
+  canonicalPath: string; alternates?: Alternate[]; imagePath?: string; robots?: string;
+  jsonLd?: Record<string, unknown> | Record<string, unknown>[];
+  ogType?: 'website' | 'article';
+}
+const { language, bodyClass, title, description, canonicalPath, alternates, imagePath, robots, jsonLd, ogType } = Astro.props;
+---
+<!doctype html>
+<html lang={language}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300;0,400;1,400&family=Hanken+Grotesk:wght@300;400;500&display=swap" rel="stylesheet" />
+    <SeoHead title={title} description={description} canonicalPath={canonicalPath} language={language} alternates={alternates} imagePath={imagePath} robots={robots} jsonLd={jsonLd} ogType={ogType} />
+  </head>
+  <body class={bodyClass}>
+    <slot />
+  </body>
+</html>

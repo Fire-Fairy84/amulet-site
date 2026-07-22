@@ -1,0 +1,128 @@
+{
+  "id": "nine-of-cups",
+  "number": 9,
+  "order": 30,
+  "arcana": "minor",
+  "suit": "cups",
+  "rank": 9,
+  "image": "/assets/cards/nine-of-cups.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "cups-09.en.md",
+    "es": "cups-09.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "nine-of-cups",
+      "name": "Nine of Cups",
+      "seoTitle": "Nine of Cups Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "The wish card — the thing wanted, arrived; satisfaction that can be sat in front of, publicly. Emotional plenty after the suit's long road. Enjoy it…",
+      "summary": "The wish card — the thing wanted, arrived; satisfaction that can be sat in front of, publicly. Emotional plenty after the suit's long road. Enjoy it without apology; the only clause is fine print about the difference between having and tasting.",
+      "imageDescription": "A stout man sits on a small wooden bench, arms crossed with unmistakable satisfaction, in front of a curved high table draped in blue — and on it, arced behind him like a trophy shelf, nine golden cups. His seat is plain; the display is magnificent. He is not drinking from any of them. He is, visibly, complete — and he knows exactly how it looks.",
+      "upright": {
+        "keywords": [
+          "the wish granted, satisfaction owned, contentment on display, emotional plenty, the host of his own happiness, enough experienced as enough"
+        ],
+        "essay": [
+          "After the departures and marshes, the suit arrives somewhere warm: the Nine of Cups is the tarot's yes. The wish card, tradition calls it — the interview passed, the offer made, the health scare cleared, the season where wanting and having briefly hold hands. Its first message is the one satisfied people most need and least receive: you are allowed. Allowed to have it work out, allowed to be visibly pleased, allowed to sit in front of the arc of cups with your arms crossed and no disclaimer prepared. Contentment has a bad reputation among the ambitious and a worse one among the guilty, and this card, arriving, functions as a permission slip against both: what arrived was wanted honestly and worked for honestly, and enjoying it out loud completes the transaction. Joy unexpressed, like credit deflected, quietly insults everyone who helped carry it here.",
+          "But the card was painted by someone with a sense of humor, and the fine print is in the furniture. The nine cups sit on the high table behind the man — displayed, arced, dusted — and he sits on a plain bench in front of them, drinking from none. The image permits two readings and insists you check which one is yours. In the first, the man has drunk deeply and is resting in the afterglow: having become being, arrival metabolized. In the second, the cups have become a shelf — satisfaction curated for the audience, the wish granted and then immediately converted into display inventory: the relationship maintained for its photographs, the achievement referenced but no longer felt, happiness as a hosting duty. Same furniture, opposite lives. The diagnostic is private and takes one second: when did you last actually taste one of the nine?",
+          "There is also, in the man's crossed arms, a gentle warning about sufficiency's edge. Nine is not ten; this card's plenty is personal, not yet shared into structure — that is the next card's work. Satisfaction can round itself up into smugness, the crossed arms hardening from contentment into a small fortress against wanting anything further, including other people. The Nine at its best is a pause, not a policy: the wish granted is a place to sit, gratefully, briefly — not a bench to defend.",
+          "Still: those readings are the fine print, and the headline remains the headline. Something you wished for has arrived or is arriving. Sit down in front of it. Cross your arms if you like. You built the arc; the least you can do is let it hold your weight for an evening."
+        ],
+        "work": [
+          "The win landed — enjoy it in public without disclaimers; deflected satisfaction insults the helpers. Then check: still tasting it, or already curating the shelf?"
+        ],
+        "love": [
+          "Wanting and having holding hands — the relationship in a genuinely good season. Feel it rather than photograph it; the display case is the only threat in frame."
+        ],
+        "self": [
+          "Permission for contentment, unapologized. And the one-second audit: when did you last actually drink from one of the nine? Having and tasting are different verbs."
+        ],
+        "note": [
+          "Not the finish — nine is not ten; plenty unshared is a bench, not a home. And not smugness yet: crossed arms are rest, until they become a wall."
+        ]
+      },
+      "reversed": {
+        "summary": "The wish granted and wrong — or granted and unfelt, displayed and untasted. Satisfaction performed for the room, appetite grown past every sufficiency, the toast that echoes. The question underneath: what was the wish actually for?",
+        "keywords": [
+          "the hollow wish, satisfaction performed, greed past sufficiency, the taste missing, careful-what-you-wished-for, plenty that doesn't land"
+        ],
+        "essay": [
+          "Reversed, the Nine of Cups is the wish card with the wish gone wrong in one of three ways — got it and it's hollow, got it and can't feel it, or can't stop getting.",
+          "The first is the classic: careful what you wish for, delivered. The pursued thing arrived intact and turned out to be an answer to a question you had stopped asking — the promotion built for a self two versions ago, the trophy relationship, the arrival that satisfied everyone's expectations but the wisher's. This is disorienting precisely because nothing failed: the machinery of wanting worked perfectly on obsolete blueprints. The card's counsel is to run the autopsy without shame, because the finding is valuable: what was the wish for — what feeling was it hired to produce? The wish was a proxy; proxies drift; the underlying want is usually still alive and can be re-contracted to a truer vendor. Wishes are employees, not identities. This one can be let go.",
+          "The second is anhedonia at the banquet: the nine cups present, verified, objectively full — and the taste missing. Life enviable on paper and flavorless on the tongue. Here the reversal is tender rather than ironic, because the fault is not in the cups and the fix is not another acquisition. Tasting is a capacity, and capacities are depleted by exactly the campaigns that fill tables — the years of deferral, the attention spent wholly on getting, the habit of experiencing each arrival only as the launchpad for the next want. The repair is small and physical: one cup, one sitting, no phone, no audience, no simultaneous planning. Satisfaction is a skill with muscle memory. It returns with practice, and it only practices in the present tense.",
+          "The third is the broken arc: sufficiency breached by appetite. Nine cups reading as almost ten, ten as almost twelve — the moving target, the extra clause, more as a reflex rather than a decision. The reversed Nine names the pattern with unusual bluntness: past a certain point, acquisition is not desire but its malfunction — wanting's needle stuck, hoarding the symbol because the felt thing never arrives. The test is simple: has any quantity, ever, produced the sensation the next quantity is promising? If no — and it is no — then the next cup is not the missing piece; the missing piece is the sitting down. The bench in the picture is never removed, in either orientation. It waits, plain and load-rated, for the man to stop building the shelf."
+        ],
+        "work": [
+          "The promotion built for a prior self — nothing failed; the blueprint was old. Autopsy the wish: what feeling was it hired to produce? Re-contract that, not the title."
+        ],
+        "love": [
+          "The trophy bond, maintained for its photographs — or full cups you can't taste. One evening, one cup, no audience. Tasting is a muscle; it practices only in present tense."
+        ],
+        "self": [
+          "The needle stuck on more. Ask it plainly: has any quantity ever delivered what the next one promises? The missing piece is the sitting down."
+        ],
+        "note": [
+          "Not proof wishing is futile — proof the wish was a proxy. The want under it is alive and re-hirable. And the bench is still there; it was never the shelf."
+        ]
+      }
+    },
+    "es": {
+      "slug": "nueve-de-copas",
+      "name": "Nueve de Copas",
+      "seoTitle": "Nueve de Copas en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "La carta del deseo — lo que querías, ya llegado; una satisfacción que puedes disfrutar sentado, delante de todos. Abundancia emocional después del largo…",
+      "summary": "La carta del deseo — lo que querías, ya llegado; una satisfacción que puedes disfrutar sentado, delante de todos. Abundancia emocional después del largo camino del palo. Disfrútala sin pedir perdón; el único matiz es la diferencia entre tener algo y saborearlo.",
+      "imageDescription": "Un hombre corpulento sentado en un banco pequeño de madera, los brazos cruzados con una satisfacción que no disimula, ante una mesa alta y curva cubierta de tela azul — y encima, en arco a su espalda como una repisa de trofeos, nueve copas doradas. Su asiento es sencillo; lo que exhibe es magnífico. No bebe de ninguna. Está, a la vista, completo — y sabe perfectamente la imagen que da.",
+      "upright": {
+        "keywords": [
+          "el deseo cumplido, la satisfacción sin disculpas, el contento a la vista, abundancia emocional, dueño de su propia felicidad, tener bastante y vivirlo como bastante"
+        ],
+        "essay": [
+          "Tras las despedidas y los pantanos, el palo llega a un sitio cálido: el Nueve de Copas es el sí del tarot. La carta del deseo, la llama la tradición — la entrevista aprobada, la oferta hecha, el susto de salud que quedó en nada, la temporada en que querer y tener se dan la mano un momento. Su primer mensaje es el que más necesita quien está satisfecho y menos suele oír: tienes permiso. Permiso para que salga bien, permiso para estar contento a la vista, permiso para sentarte ante el arco de copas con los brazos cruzados y sin excusa preparada. El contento tiene mala fama entre los ambiciosos y peor entre los que cargan culpa, y esta carta, al salir, sirve de justificante contra los dos: lo que llegó se quiso de verdad y se trabajó de verdad, y disfrutarlo en voz alta cierra el trato. La alegría que te callas, como el mérito que desvías a otros, es un desaire callado a todos los que ayudaron a traerla hasta aquí.",
+          "Pero la pintó alguien con humor, y el matiz está en los muebles. Las nueve copas están en la mesa alta, detrás del hombre — expuestas, en arco, sin una mota de polvo — y él se sienta en un banco raso delante, sin beber de ninguna. La imagen admite dos lecturas y te obliga a comprobar cuál es la tuya. En la primera, el hombre ha bebido a fondo y descansa en el buen sabor que queda: el tener convertido en ser, la llegada ya digerida. En la segunda, las copas se han vuelto vitrina — la satisfacción montada para el público, el deseo cumplido y al instante convertido en mercancía de escaparate: la relación que se mantiene por las fotos, el logro que se menciona pero ya no se siente, la felicidad como obligación de anfitrión. Los mismos muebles, vidas opuestas. El diagnóstico es privado y tarda un segundo: ¿cuándo saboreaste de verdad una de las nueve por última vez?",
+          "Hay también, en esos brazos cruzados, un aviso suave sobre el límite de tener bastante. Nueve no es diez; la abundancia de esta carta es tuya, todavía sin repartir ni convertir en algo estable — ese es el trabajo de la carta siguiente. La satisfacción puede endurecerse hasta la suficiencia engreída, los brazos cruzados pasando del contento a una pequeña muralla contra querer nada más, otra gente incluida. El Nueve en su mejor versión es una pausa, no una postura fija: el deseo cumplido es un sitio donde sentarte, con gratitud, un rato — no un banco que defender.",
+          "Aun así: esas lecturas son la letra pequeña, y lo grande sigue siendo lo grande. Algo que deseabas ha llegado o está llegando. Siéntate delante. Cruza los brazos si quieres. Tú levantaste ese arco; lo mínimo es dejar que aguante tu peso una noche."
+        ],
+        "work": [
+          "La victoria llegó — disfrútala en público sin peros; restarle importancia es un desaire a quienes ayudaron. Luego comprueba: ¿aún la saboreas, o ya la estás montando en vitrina?"
+        ],
+        "love": [
+          "Querer y tener dándose la mano — la relación en una temporada de verdad buena. Siéntela en vez de fotografiarla; la vitrina es la única amenaza que hay en la escena."
+        ],
+        "self": [
+          "Permiso para el contento, sin disculparte. Y una revisión de un segundo: ¿cuándo bebiste de verdad de una de las nueve? Tener y saborear son verbos distintos."
+        ],
+        "note": [
+          "No es la meta — nueve no es diez; la abundancia que no se comparte es un banco, no un hogar. Y todavía no es engreimiento: los brazos cruzados son descanso, hasta que se vuelven muro."
+        ]
+      },
+      "reversed": {
+        "summary": "El deseo cumplido y errado — o cumplido y no sentido, exhibido y sin saborear. La satisfacción fingida para la sala, el apetito que ya rebasó todo lo suficiente, el brindis que suena a hueco. La pregunta de fondo: ¿para qué era ese deseo en realidad?",
+        "keywords": [
+          "el deseo hueco, la satisfacción fingida, la codicia más allá de lo suficiente, el sabor que falta, cuidado-con-lo-que-deseas, abundancia que no llega a asentarse"
+        ],
+        "essay": [
+          "Invertido, el Nueve de Copas es la carta del deseo con el deseo torcido de una de tres formas — lo conseguí y está hueco, lo conseguí y no lo siento, o no puedo parar de conseguir.",
+          "La primera es la clásica: cuidado con lo que deseas, servido en bandeja. Lo que perseguías llegó entero y resultó ser la respuesta a una pregunta que ya habías dejado de hacerte — el ascenso pensado para quien eras hace dos versiones, la relación trofeo, la llegada que cumplió las expectativas de todos menos las de quien la deseó. Desorienta justamente porque nada falló: la maquinaria de querer funcionó a la perfección sobre un plano caducado. El consejo de la carta es hacer la autopsia sin vergüenza, porque lo que encuentras vale la pena: ¿para qué era el deseo — qué sensación se suponía que iba a darte? El deseo era un intermediario; los intermediarios se desvían del encargo; el querer que hay debajo suele seguir vivo y puedes volver a encargárselo a alguien más fiel. Los deseos son empleados, no identidades. A este puedes despedirlo.",
+          "La segunda es no disfrutar en pleno banquete: las nueve copas presentes, comprobadas, objetivamente llenas — y el sabor que no aparece. La vida envidiable sobre el papel e insípida en la lengua. Aquí lo invertido es tierno más que irónico, porque el fallo no está en las copas y la solución no es adquirir otra cosa. Saborear es una capacidad, y las capacidades se agotan justo con los esfuerzos que llenan mesas — los años de aplazarlo todo, la atención gastada entera en conseguir, la costumbre de vivir cada llegada solo como trampolín del siguiente querer. La reparación es pequeña y física: una copa, sentarte, sin teléfono, sin público, sin planear otra cosa a la vez. La satisfacción es una destreza con memoria muscular. Vuelve con práctica, y solo se practica en presente.",
+          "La tercera es el arco roto: lo suficiente reventado por el apetito. Nueve copas leídas como casi diez, diez como casi doce — la meta que se aleja, la cláusula de más, el más como reflejo y no como decisión. El Nueve invertido nombra el patrón con una franqueza rara: pasado cierto punto, acumular no es deseo sino su avería — la aguja del querer trabada, amontonando el símbolo porque lo que de verdad se siente nunca llega. La prueba es simple: ¿alguna cantidad, alguna vez, te dio la sensación que la siguiente cantidad promete? Si no — y es no — entonces la próxima copa no es la pieza que falta; la pieza que falta es sentarse. El banco del cuadro no se retira nunca, en ninguna posición. Espera, raso y firme bajo cualquier peso, a que el hombre deje de montar la repisa."
+        ],
+        "work": [
+          "El ascenso pensado para quien fuiste antes — nada falló; el plano estaba caducado. Autopsia del deseo: ¿qué sensación se suponía que iba a darte? Vuelve a buscar eso, no el cargo."
+        ],
+        "love": [
+          "El vínculo trofeo, mantenido por las fotos — o copas llenas que no puedes saborear. Una noche, una copa, sin público. Saborear es un músculo; solo se practica en presente."
+        ],
+        "self": [
+          "La aguja trabada en el más. Pregúntale sin rodeos: ¿alguna cantidad te dio alguna vez lo que la siguiente promete? La pieza que falta es sentarse."
+        ],
+        "note": [
+          "No es prueba de que desear no sirva — es prueba de que el deseo era un intermediario. El querer que hay debajo está vivo y se le puede volver a encargar. Y el banco sigue ahí; nunca fue la repisa."
+        ]
+      }
+    }
+  }
+}

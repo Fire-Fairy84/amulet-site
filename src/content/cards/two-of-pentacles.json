@@ -1,0 +1,126 @@
+{
+  "id": "two-of-pentacles",
+  "number": 2,
+  "order": 37,
+  "arcana": "minor",
+  "suit": "pentacles",
+  "rank": 2,
+  "image": "/assets/cards/two-of-pentacles.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "pentacles-02.en.md",
+    "es": "pentacles-02.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "two-of-pentacles",
+      "name": "Two of Pentacles",
+      "seoTitle": "Two of Pentacles Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "The double life managed — job and dream, work and family, two claims both real and both kept airborne. Balance revealed as rhythm, not stillness: constant…",
+      "summary": "The double life managed — job and dream, work and family, two claims both real and both kept airborne. Balance revealed as rhythm, not stillness: constant small corrections, one coin in hand at a time. Going better than it feels. Juggling is a phase, though, not a career.",
+      "imageDescription": "A young figure dances on one foot at the shoreline, juggling two coins bound together by a band of green ribbon looped into an infinity sign. Behind, on a sea of genuinely enormous waves, two ships climb and plunge — and neither founders. Nothing in the card is stable, and nothing in it is falling. The juggler, alone in the whole anxious deck, is grinning.",
+      "upright": {
+        "keywords": [
+          "balance as motion, the two-coin dance, one in hand at a time, the infinity band, ships riding real waves, competence wearing a grin"
+        ],
+        "essay": [
+          "The Two of Pentacles is the deck's honest portrait of most actual lives, which is why it looks less like a garden and more like a circus act performed on wet sand. Two coins, one juggler: the day job and the fledgling business, the newborn and the deadline, the aging parent and the marriage, the body's needs and the calendar's. The card's first mercy is its refusal to call this a problem. The waves behind are enormous and the ships ride them; the ground is uneven and the dancer dances on it; the whole image says, with a grin, that instability is not emergency — it is the ordinary weather of a full life, and there exists a competence, learnable and even joyful, for living inside it.",
+          "The physics of that competence is the card's real teaching, and jugglers state it plainly: you never hold both. Balance, this Two insists, is not the static achievement the word implies — not the perfected schedule, the finally-even scales, the life sorted once and staying sorted. It is rhythm: one coin in the hand, receiving full attention for its half-second, while the other rides the arc, trusted to gravity and timing. The people who manage two worlds well are not dividing attention — division is how both things get half a mind and the anxious middle gets the rest. They are alternating wholly: entirely at the desk during the desk's hour, entirely at the dinner during dinner. The green band that ties the coins into an infinity sign is the deck's blessing on the arrangement: the two are one system, each funding the other — the job feeding the dream, the family giving the work its point — as long as the loop keeps moving.",
+          "The grin deserves its own paragraph, because it is doing structural work. The juggler is not gritting through; he is playing, and the play is not denial — it is technique. Held rigid, a juggle fails; the shoulders lock, the timing dies. The card arrives, often, for someone managing two worlds adequately and narrating it as constant failure — behind at each, they report, guilty at both. The Two's correction: look at the ships. They are climbing the waves, both of them. The evidence says the system is working; only the feeling says otherwise, and the feeling is measuring against a stillness that was never on offer.",
+          "Its one warning is written in the waves' scale: this is a weather pattern, not a climate. Juggling is a phase with a purpose — the transition funded, the season of double duty survived — and the band holds two coins, not five. The dancer who is still performing this exact step years later has stopped transitioning and started performing; and every yes added to the loop is subtracted from the arc's margin. So the counsel is the juggler's own: keep the rhythm, honor the half-second of full attention, laugh because it helps the shoulders — and know which coin, eventually, this dance is for. The Two keeps things airborne. It is the later cards of this suit that build somewhere to set them down."
+        ],
+        "work": [
+          "Alternate wholly, never divide: entirely this task in its hour, entirely the other in its own. The guilt is measuring against a stillness that was never on offer — check the ships instead."
+        ],
+        "love": [
+          "The season of double duty — presence is rhythm, not amount. The half-second of full attention, given cleanly, beats the whole distracted evening."
+        ],
+        "self": [
+          "Going better than it feels: instability is weather, not emergency. But count the coins honestly — the band holds two. Every extra yes comes out of the arc."
+        ],
+        "note": [
+          "Not chaos — look again: nothing is falling. And not a permanent identity: juggling is a phase with a purpose. Know which coin the dance is eventually for."
+        ]
+      },
+      "reversed": {
+        "summary": "The juggle past its limit — the drop, the double-booking, the promise to three people of the same hour. Overcommitment running on reflex; the smile now part of the act. What fell tells the truth about the load. Set one coin down on purpose, before gravity keeps choosing.",
+        "keywords": [
+          "the ball dropped, overcommitment as reflex, the grin gone rictus, seas boarding the ships, yes as a habit, gravity making the choice"
+        ],
+        "essay": [
+          "Reversed, the Two of Pentacles is the drop — and the card's interest is not in the fallen coin but in what the fall reveals, because a dropped ball is the most honest document an overcommitted life produces. Notice, first, what fell: under real load, we do not drop at random. The thing that hit the sand — the friendship unanswered for a month, the checkup twice rescheduled, the project that was supposedly the point of all this — fell because, in the body's brutal accounting, it was the one whose consequences arrive slowest. The urgent survived; the important is in the sand. That is not a character flaw; it is triage physics. But read the pattern across a season and it becomes a map of what is actually being sacrificed to keep the act running — and it is rarely what the juggler would have chosen on paper.",
+          "The mechanism underneath is almost always the same, and the reversal names it without mercy: yes as a reflex. Somewhere the juggle stopped being a strategy and became an identity — the reliable one, the one who copes, the one who can always take one more — and identities do not audit their load; they defend it. Each incoming request is answered by the persona before the calendar is consulted. The tell is the rictus: the grin of the upright card was play, loose-shouldered, and this one is performance, held because the audience — boss, family, the internal committee — is presumed to require it. If putting something down feels not like relief but like exposure, the act is no longer about the coins. It is about being seen to keep them up.",
+          "The card's counsel is a single, deeply uncomfortable act of agency: set a coin down on purpose. Not drop — set down: choose, announce, and place. The difference between a drop and a deliberate landing is total, even when the object is the same — the commitment resigned with notice versus the one abandoned by collapse; the standing dinner suspended for a named season versus the friend quietly lost. Gravity is currently making your priority decisions, and gravity's judgment is terrible: it drops whatever consequences arrive slowest, which — see above — is usually what matters most. Reclaiming the choice means one honest pass through the inventory with the question this suit keeps asking: which of these is a real coin, and which am I keeping airborne out of reflex, guilt, or costume? Then the conversation the rictus has been avoiding — I cannot do this one; here is when I can, or that I never can. What follows, jugglers report, is not the audience's contempt. It is one beat of silence, and then the strange, specific lightness of an arc with room in it again — and the discovery that the ships, which were shipping water while you performed, mostly needed only this: fewer things in the air, and the sailor's whole attention back on the actual sea."
+        ],
+        "work": [
+          "What fell is the map: gravity drops whatever punishes slowest — usually the important, never the urgent. Set one commitment down with notice, before the collapse does it messily."
+        ],
+        "love": [
+          "The month-unanswered friend, the twice-moved dinner — triage physics, not character. But read the pattern: it's a ledger of what's really being spent to keep the act up."
+        ],
+        "self": [
+          "If putting something down feels like exposure rather than relief, the act is about being seen coping. One beat of silence from the audience, then lightness — that's the trade."
+        ],
+        "note": [
+          "Not failure of skill — no rhythm survives unlimited load. And not solved by juggling faster: the fix is subtraction, announced. Yes-as-reflex is the thing to drop."
+        ]
+      }
+    },
+    "es": {
+      "slug": "dos-de-oros",
+      "name": "Dos de Oros",
+      "seoTitle": "Dos de Oros en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "La doble vida que se lleva a la vez — el empleo y el sueño, el trabajo y la familia: dos exigencias, las dos reales, las dos en el aire. El equilibrio no…",
+      "summary": "La doble vida que se lleva a la vez — el empleo y el sueño, el trabajo y la familia: dos exigencias, las dos reales, las dos en el aire. El equilibrio no es quietud, es ritmo: correcciones pequeñas y constantes, una moneda en la mano cada vez. Va mejor de lo que se siente por dentro. Aunque hacer malabares es una etapa, no una forma de vida.",
+      "imageDescription": "Una figura joven baila sobre un pie a la orilla del mar, haciendo malabares con dos monedas unidas por una cinta verde curvada en forma de infinito. Detrás, sobre un mar de olas enormes, dos barcos suben y bajan — y ninguno se hunde. Nada en la carta está firme, y nada está cayendo. La malabarista, la única en toda esta baraja de nervios, sonríe de oreja a oreja.",
+      "upright": {
+        "keywords": [
+          "el equilibrio como movimiento, la danza de las dos monedas, una en la mano cada vez, la cinta de infinito, barcos aguantando olas de verdad, la destreza con una sonrisa"
+        ],
+        "essay": [
+          "El Dos de Oros es el retrato honesto que la baraja hace de casi cualquier vida real, y por eso se parece menos a un jardín y más a un número de circo hecho sobre arena mojada. Dos monedas, una malabarista: el empleo y el negocio que empieza, el bebé y la fecha de entrega, el padre que envejece y el matrimonio, lo que pide el cuerpo y lo que pide el calendario. Lo primero que hace bien la carta es no llamar a esto un problema. Las olas de detrás son enormes y los barcos las aguantan; el suelo es desigual y la bailarina baila encima; la imagen entera dice, con una sonrisa, que la inestabilidad no es una emergencia — es el clima normal de una vida llena, y existe una destreza, que se aprende y hasta da gusto, para vivir dentro de ella.",
+          "Cómo funciona esa destreza es lo que de verdad enseña la carta, y los malabaristas lo dicen sin rodeos: nunca sostienes las dos a la vez. El equilibrio, insiste este Dos, no es el logro fijo que sugiere la palabra — no es el horario perfecto, la balanza por fin nivelada, la vida ordenada de una vez y para siempre. Es ritmo: una moneda en la mano, con toda tu atención durante su medio segundo, mientras la otra recorre el arco por el aire, entregada a la gravedad y al compás. Quien lleva bien dos mundos no está repartiendo la atención — repartir es la forma de que las dos cosas se lleven media cabeza y el resto se lo quede el nervio del medio. Está alternando por entero: entero en el escritorio durante la hora del escritorio, entero en la cena durante la cena. La cinta verde que ata las monedas en signo de infinito es la bendición de la baraja sobre el asunto: las dos son un solo sistema, cada una sostiene a la otra — el empleo alimenta el sueño, la familia le da sentido al trabajo — mientras el bucle no deje de girar.",
+          "La sonrisa merece su propio párrafo, porque cumple una función. La malabarista no aguanta con los dientes apretados; está jugando, y el juego no es negación — es técnica. En tensión, el malabarismo falla; los hombros se bloquean, el compás se muere. La carta llega, muchas veces, para alguien que lleva dos mundos bastante bien y lo cuenta como un fracaso continuo — que va tarde en los dos, dice, y que se siente culpable en ambos. Lo que corrige el Dos: mira los barcos. Están subiendo las olas, los dos. Los hechos dicen que el sistema funciona; solo lo dice de otra manera el sentimiento, y el sentimiento se está comparando con una quietud que nunca fue posible.",
+          "Su única advertencia está en el tamaño de las olas: esto es un temporal, no un clima. El malabarismo es una etapa con un fin — pagar la transición, sobrevivir a la temporada de doble turno — y la cinta ata dos monedas, no cinco. La bailarina que sigue haciendo este mismo paso años después dejó de estar en transición y se puso a actuar; y cada nuevo sí que entra en el bucle le quita margen al arco. Así que el consejo es el del propio malabarista: guarda el ritmo, respeta el medio segundo de atención completa, ríe porque suelta los hombros — y ten claro para qué moneda es, al final, esta danza. El Dos mantiene las cosas en el aire. Son las cartas siguientes de este palo las que construyen un sitio donde dejarlas."
+        ],
+        "work": [
+          "Alterna por entero, no repartas: entero en esta tarea durante su hora, entero en la otra durante la suya. La culpa te compara con una quietud que nunca fue posible — mira los barcos."
+        ],
+        "love": [
+          "La temporada de doble turno — estar presente es ritmo, no cantidad. El medio segundo de atención completa, dado limpio, vale más que la tarde entera con la cabeza en otra parte."
+        ],
+        "self": [
+          "Va mejor de lo que se siente por dentro: la inestabilidad es clima, no emergencia. Pero cuenta las monedas con honestidad — la cinta ata dos. Cada sí de más sale del arco."
+        ],
+        "note": [
+          "No es caos — mira otra vez: nada está cayendo. Y no es una identidad para siempre: el malabarismo es una etapa con un fin. Ten claro para qué moneda es, al final, la danza."
+        ]
+      },
+      "reversed": {
+        "summary": "El malabarismo pasado de su límite — la caída, la doble reserva, la misma hora prometida a tres personas. El sí que sale solo, en piloto automático; la sonrisa ya es parte del número. Lo que se cayó dice la verdad sobre la carga. Deja una moneda a propósito, antes de que la gravedad siga eligiendo.",
+        "keywords": [
+          "la moneda que se cayó, decir que sí por reflejo, la sonrisa vuelta mueca, el agua entrando en los barcos, el sí como costumbre, la gravedad decidiendo por ti"
+        ],
+        "essay": [
+          "Invertido, el Dos de Oros es la caída — y lo que le interesa a la carta no es la moneda caída sino lo que la caída revela, porque una moneda en el suelo es la prueba más honesta que da una vida sobrecargada de compromisos. Fíjate, primero, en qué se cayó: bajo carga real, no soltamos al azar. Lo que dio contra la arena — la amistad sin contestar desde hace un mes, la revisión médica aplazada dos veces, el proyecto que supuestamente era el sentido de todo esto — se cayó porque, en la cuenta brutal que lleva el cuerpo, era aquello cuyas consecuencias tardan más en llegar. Lo urgente sobrevivió; lo importante está en la arena. No es un defecto de carácter; es física de urgencias: primero lo que sangra. Pero mira el patrón a lo largo de una temporada y se convierte en un mapa de lo que de verdad estás sacrificando para que el número siga en marcha — y casi nunca es lo que la malabarista habría elegido sobre el papel.",
+          "El mecanismo de debajo es casi siempre el mismo, y la inversión lo nombra sin piedad: el sí por reflejo. En algún momento el malabarismo dejó de ser una estrategia y se volvió una identidad — la persona fiable, la que aguanta, la que siempre puede con una más — y las identidades no revisan su carga; la defienden. Cada petición que entra la contesta el personaje antes de mirar el calendario. La señal es la mueca: la sonrisa de la carta al derecho era juego, de hombros sueltos, y esta es actuación, sostenida porque se da por hecho que el público — el jefe, la familia, el juez que llevas dentro — la exige. Si dejar algo no se siente como alivio sino como quedar en evidencia, el número ya no va de las monedas. Va de que te vean manteniéndolas en el aire.",
+          "El consejo de la carta es un solo gesto, y muy incómodo: deja una moneda a propósito. No soltarla — dejarla: elegir, avisar y colocarla. La diferencia entre una caída y un aterrizaje decidido es total, aunque el objeto sea el mismo — el compromiso al que renuncias avisando frente al que se cae por derrumbe; la cena de siempre suspendida durante una temporada con nombre frente a la amiga que pierdes en silencio. La gravedad está tomando ahora mismo tus decisiones de prioridad, y la gravedad juzga fatal: suelta lo que tarda más en pasar factura, que — ya lo has visto — suele ser lo que más importa. Recuperar la elección significa pasar una vez, con honestidad, por el inventario, con la pregunta que este palo no deja de hacer: ¿cuál de estas es una moneda de verdad, y cuál mantengo en el aire por reflejo, por culpa o por quedar bien? Y luego, la conversación que la mueca llevaba evitando — esta no puedo; te digo cuándo podré, o que no podré nunca. Lo que viene después, cuentan los malabaristas, no es el desprecio del público. Es un compás de silencio, y luego la ligereza rara y concreta de un arco que vuelve a tener sitio — y darte cuenta de que los barcos, que hacían agua mientras actuabas, necesitaban sobre todo esto: menos cosas en el aire, y toda la atención del marinero de vuelta en el mar de verdad."
+        ],
+        "work": [
+          "Lo que se cayó es el mapa: la gravedad suelta lo que tarda más en pasar factura — casi siempre lo importante, nunca lo urgente. Deja un compromiso avisando, antes de que el derrumbe lo haga a lo bruto."
+        ],
+        "love": [
+          "La amiga sin contestar desde hace un mes, la cena movida dos veces — física de urgencias, no carácter. Pero mira el patrón: es la cuenta de lo que de verdad estás gastando para sostener el número."
+        ],
+        "self": [
+          "Si dejar algo se siente como quedar en evidencia y no como alivio, el número va de que te vean pudiendo con todo. Un compás de silencio del público, y luego la ligereza — ese es el trato."
+        ],
+        "note": [
+          "No es falta de destreza — ningún ritmo aguanta una carga sin límite. Y no se arregla haciendo malabares más rápido: se arregla restando, y avisando. El sí por reflejo es lo que hay que soltar."
+        ]
+      }
+    }
+  }
+}

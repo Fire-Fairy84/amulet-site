@@ -1,0 +1,128 @@
+{
+  "id": "five-of-swords",
+  "number": 5,
+  "order": 54,
+  "arcana": "minor",
+  "suit": "swords",
+  "rank": 5,
+  "image": "/assets/cards/five-of-swords.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "swords-05.en.md",
+    "es": "swords-05.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "five-of-swords",
+      "name": "Five of Swords",
+      "seoTitle": "Five of Swords Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "The victory that cost the war — the argument won and the room lost, the point proven onto scorched earth. Someone is collecting swords while everyone…",
+      "summary": "The victory that cost the war — the argument won and the room lost, the point proven onto scorched earth. Someone is collecting swords while everyone worth fighting beside walks toward the sea. Which figure are you? The card works from all three positions.",
+      "imageDescription": "A man gathers swords from the ground with an unmistakable smirk, wind tearing the clouds behind him. Two figures walk away toward the water — one slumped, one with a hand to his face. The winner holds three swords and is collecting two more. He has the weapons, the field, and the last word. What he does not have, visibly, is anyone left to share the field with.",
+      "upright": {
+        "keywords": [
+          "the hollow victory, winning at cost, conflict that scorched the field, the smirk and the departing backs, being right versus being finished, swords collected from the defeated"
+        ],
+        "essay": [
+          "The Five of Swords is the deck's autopsy of winning, and its question is the one victors never ask at the moment of victory: what exactly did you get? The man holds five swords — all of them, both his and theirs — and the card inventories his winnings with an accountant's coldness: weapons he cannot use alone, a field nobody else will stand on, and a wind picking up. The two departing figures took the only assets that were ever worth having: their willingness to be there.",
+          "The card's first station is the winner's, and it reads him precisely. This is not evil; it is escalation's end state — the argument that stopped being about the thing and became about winning, the point pursued past the point of the point. Everyone fluent in words knows this slope: somewhere mid-conflict, being right detaches from being effective, and the mouth keeps scoring after the score stopped mattering. The smirk is real, and it has a half-life of about an hour. Then the field is just empty. If you recognize yourself bending to collect the fifth sword, the card's counsel is arithmetic, not shame: count the total. Wins that cost the relationship, the trust, the team, the years — these are purchases, and the Five's whole function is to show the receipt while returns are still possible.",
+          "The second station is the departing backs, and the card blesses them more than tradition admits. Walking away mid-defeat looks like losing and often is the only winning available: the argument that cannot be won because its winner has stopped arguing about anything real; the fight whose entry fee is becoming someone you dislike. The figures heading to the water are not fleeing — they are declining, which is a power. Some fields should be conceded exactly as they are: swords left where they fell, the smirking man awarded full custody of the ashes.",
+          "And the third station is the field itself: the aftermath this card so often simply describes — the team after the brutal reorg, the family after the will was contested, the couple after the fight where unforgivable true things were said with maximum accuracy. Conflict of the Five's kind does not end when it ends; the wind in the card keeps blowing after the swords are gathered. What the card asks from this position is honest triage: what here is actually recoverable, what is performing recoverability, and what does the departing figure on the left — the one with the hand to his face — need before he is asked to come back? Not every scorched field regrows. The ones that do, regrow from the one thing the winner never collected: somebody's willingness to walk back onto it. Guard yours carefully. Spend it only where the fighting has actually stopped."
+        ],
+        "work": [
+          "The reorg won, the room lost — count the total: weapons you can't use alone, a field no one will stand on. Or be the departing back: some arguments are declined, not lost."
+        ],
+        "love": [
+          "True things said with maximum accuracy as ammunition — being right detached from being effective. The receipt is still returnable; the smirk has an hour's half-life."
+        ],
+        "self": [
+          "The inner prosecutor who wins every case and empties every room. Ask what the fifth sword is for. Willingness to return is the only asset on this field."
+        ],
+        "note": [
+          "Not evil — escalation's end state. And walking away is not losing: declining is a power, and full custody of ashes is a prize worth conceding."
+        ]
+      },
+      "reversed": {
+        "summary": "The end of the war's logic — remorse arriving, the apology drafted, swords put down or finally left behind. Repair possible where both parties stopped needing to win. Or the shadow: the grudge maintained past all function, the field visited daily in memory. Disarm or depart — but stop rebuilding the battle.",
+        "keywords": [
+          "the aftermath acknowledged, swords laid down, apology and repair, the grudge released or calcified, returning to the field, the war nobody won ending at last"
+        ],
+        "essay": [
+          "Reversed, the Five of Swords is the field afterward — and it splits along the oldest line in conflict: those who put the swords down, and those who keep visiting the war.",
+          "Putting them down is the repair reading, and it has an exact anatomy. Remorse arrives — usually at the hour the smirk expires — and with it the winner's hardest recognition: the apology that counts will cost the victory. Not \"I'm sorry it escalated,\" which keeps the winnings, but the disarmed version: I was more interested in winning than in us, and I saw it, and I'm returning the swords. Repair after a Five-of-Swords conflict runs only on that fuel — the named thing, the returned advantage, the demonstrated change in what the person is willing to lose next time. If you are owed such an apology, the card's counsel is to wait for the real one and not prosecute for it, since demanded remorse is just the war by other means. If you owe it: the departing figures are still within earshot longer than pride estimates. Call out before the water.",
+          "The card also covers the honest settlement without reunion: some fields are closed rather than repaired. The reversal can simply mark the conflict's logic finally exhausting itself — the lawsuit settled, the divorce finalized, the feud grown too old to feed — with no restoration attempted and none owed. Ending a war without winning it is a skill, and the card grades it generously: the person who walks off the field last, leaving the swords, has lost nothing that was still worth having.",
+          "But the reversal's shadow is the third figure the image hides: the one still fighting a finished war. The grudge as daily devotional; the argument re-run in the shower with improved lines, years on; the injury curated until it is less a memory than a residence, the enemy long gone and still, somehow, winning — because a person who organizes their inner life around an old opponent has granted that opponent rent-free command of the garrison. The card names the mechanism without contempt: grudges persist because they protect — against the grief under the anger, against the humiliation that never got witnessed, against the terrifying possibility that it mattered less to them than to you. And its prescription is not forgiveness on schedule, which cannot be commanded, but disarmament by increments: the story told one fewer time this month; the rehearsal interrupted once, on purpose; the sword — just one — left at the field's edge on the way out. Wars end officially with treaties. They end actually when the last person stops attending. Be, at last, the one who doesn't show up."
+        ],
+        "work": [
+          "The apology that costs the victory is the only one that repairs — \"I wanted to win more than I wanted the team.\" Or settle without reunion: closed fields count as endings."
+        ],
+        "love": [
+          "Call out before they reach the water — pride overestimates how far they've walked. And demanded remorse is the war by other means; wait for the disarmed version."
+        ],
+        "self": [
+          "The shower argument with improved lines, years on — the enemy commands the garrison rent-free. Disarm by increments: tell the story one fewer time this month."
+        ],
+        "note": [
+          "Not forgiveness on schedule — that can't be commanded. Just stop attending the war. Treaties end it officially; absence ends it actually."
+        ]
+      }
+    },
+    "es": {
+      "slug": "cinco-de-espadas",
+      "name": "Cinco de Espadas",
+      "seoTitle": "Cinco de Espadas en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "La victoria que costó la guerra — la discusión ganada y la sala perdida, el argumento demostrado sobre tierra quemada. Alguien recoge espadas mientras…",
+      "summary": "La victoria que costó la guerra — la discusión ganada y la sala perdida, el argumento demostrado sobre tierra quemada. Alguien recoge espadas mientras todos los que valía la pena tener al lado caminan hacia el mar. ¿Cuál figura eres? La carta funciona desde las tres posiciones.",
+      "imageDescription": "Un hombre recoge espadas del suelo con una sonrisa torcida inconfundible, el viento desgarrando las nubes detrás. Dos figuras se alejan hacia el agua — una hundida, otra con la mano en la cara. El ganador sostiene tres espadas y está recogiendo dos más. Tiene las armas, el campo y la última palabra. Lo que no tiene, visiblemente, es a nadie con quien compartir el campo.",
+      "upright": {
+        "keywords": [
+          "la victoria hueca, ganar con coste, el conflicto que quemó el campo, la sonrisa torcida y las espaldas que se van, tener razón contra haber terminado, espadas recogidas de los vencidos"
+        ],
+        "essay": [
+          "El Cinco de Espadas es la autopsia que la baraja le hace al ganar, y su pregunta es la que los vencedores nunca hacen en el momento de la victoria: ¿qué conseguiste exactamente? El hombre sostiene cinco espadas — todas, las suyas y las de ellos — y la carta inventaría sus ganancias con frialdad de contable: armas que no puede usar solo, un campo en el que nadie más quiere estar, y un viento que arrecia. Las dos figuras que se van se llevaron los únicos activos que valían algo: su disposición a estar ahí.",
+          "La primera estación de la carta es la del ganador, y lo lee con precisión. Esto no es maldad; es el estado final de la escalada — la discusión que dejó de tratar de la cosa y pasó a tratar de ganar, el argumento perseguido más allá del punto del argumento. Todo el que tiene facilidad de palabra conoce esta pendiente: en algún punto del conflicto, tener razón se despega de ser eficaz, y la boca sigue anotando puntos después de que el marcador dejó de importar. La sonrisa torcida es real, y tiene una vida media de una hora. Después el campo está simplemente vacío. Si te reconoces agachándote a recoger la quinta espada, el consejo de la carta es aritmética, no vergüenza: cuenta el total. Las victorias que cuestan la relación, la confianza, el equipo, los años — son compras, y toda la función del Cinco es enseñar el recibo mientras las devoluciones aún son posibles.",
+          "La segunda estación es la de las espaldas que se van, y la carta las bendice más de lo que la tradición admite. Marcharse en mitad de la derrota parece perder y a menudo es el único ganar disponible: la discusión que no puede ganarse porque su ganador ha dejado de discutir sobre nada real; la pelea cuya entrada cuesta convertirse en alguien que te desagrada. Las figuras que van hacia el agua no huyen — declinan, que es un poder. Algunos campos deben cederse exactamente como están: las espadas dejadas donde cayeron, el hombre de la sonrisa premiado con la custodia completa de las cenizas.",
+          "Y la tercera estación es el campo mismo: la secuela que esta carta tantas veces simplemente describe — el equipo tras la reestructuración brutal, la familia tras el testamento disputado, la pareja tras la pelea donde se dijeron cosas verdaderas imperdonables con precisión máxima. El conflicto de la clase del Cinco no termina cuando termina; el viento de la carta sigue soplando después de recogidas las espadas. Lo que la carta pide desde esta posición es triaje honesto: qué de esto es realmente recuperable, qué está actuando la recuperabilidad, y qué necesita la figura de la izquierda — la de la mano en la cara — antes de que se le pida volver. No todo campo quemado rebrota. Los que sí, rebrotan de lo único que el ganador nunca recogió: la disposición de alguien a volver a pisarlo. Guarda la tuya con cuidado. Gástala solo donde la pelea haya parado de verdad."
+        ],
+        "work": [
+          "La reestructuración ganada, la sala perdida — cuenta el total: armas que no puedes usar solo, un campo donde nadie quiere estar. O sé la espalda que se va: algunas discusiones se declinan, no se pierden."
+        ],
+        "love": [
+          "Cosas verdaderas dichas con precisión máxima como munición — tener razón despegado de ser eficaz. El recibo aún admite devolución; la sonrisa tiene una hora de vida media."
+        ],
+        "self": [
+          "El fiscal interior que gana todos los casos y vacía todas las salas. Pregunta para qué es la quinta espada. La disposición a volver es el único activo de este campo."
+        ],
+        "note": [
+          "No es maldad — es el estado final de la escalada. Y marcharse no es perder: declinar es un poder, y la custodia completa de las cenizas es un premio que vale la pena ceder."
+        ]
+      },
+      "reversed": {
+        "summary": "El fin de la lógica de la guerra — el remordimiento llegando, la disculpa borrador, las espadas depuestas o por fin dejadas atrás. La reparación posible donde ambas partes dejaron de necesitar ganar. O la sombra: el rencor mantenido más allá de toda función, el campo visitado a diario en la memoria. Desarma o parte — pero deja de reconstruir la batalla.",
+        "keywords": [
+          "la secuela reconocida, espadas depuestas, disculpa y reparación, el rencor soltado o calcificado, volver al campo, la guerra que nadie ganó terminando por fin"
+        ],
+        "essay": [
+          "Invertido, el Cinco de Espadas es el campo después — y se divide por la línea más vieja del conflicto: los que deponen las espadas, y los que siguen visitando la guerra.",
+          "Deponerlas es la lectura de la reparación, y tiene anatomía exacta. El remordimiento llega — normalmente a la hora en que caduca la sonrisa — y con él el reconocimiento más difícil del ganador: la disculpa que cuenta costará la victoria. No \"siento que se nos fuera de las manos\", que conserva las ganancias, sino la versión desarmada: me interesaba más ganar que nosotros, lo vi, y devuelvo las espadas. La reparación tras un conflicto de Cinco de Espadas solo corre con ese combustible — la cosa nombrada, la ventaja devuelta, el cambio demostrado en lo que la persona está dispuesta a perder la próxima vez. Si te deben una disculpa así, el consejo de la carta es esperar la de verdad y no procesar para conseguirla, porque el remordimiento exigido es la guerra por otros medios. Si la debes tú: las figuras que se van siguen al alcance de la voz más tiempo del que el orgullo estima. Llama antes del agua.",
+          "La carta también cubre el acuerdo honesto sin reunión: algunos campos se cierran en lugar de repararse. La inversión puede marcar simplemente que la lógica del conflicto por fin se agotó — el pleito acordado, el divorcio firmado, la disputa demasiado vieja para alimentarla — sin restauración intentada ni debida. Terminar una guerra sin ganarla es una destreza, y la carta la califica con generosidad: quien sale del campo el último, dejando las espadas, no ha perdido nada que aún valiera la pena tener.",
+          "Pero la sombra de la inversión es la tercera figura que la imagen esconde: la que sigue peleando una guerra terminada. El rencor como devocionario diario; la discusión repetida en la ducha con las líneas mejoradas, años después; la herida curada como museo hasta ser menos un recuerdo que una residencia, el enemigo ido hace mucho y aun así, de algún modo, ganando — porque quien organiza su vida interior alrededor de un viejo oponente le ha concedido el mando de la guarnición sin cobrarle alquiler. La carta nombra el mecanismo sin desprecio: los rencores persisten porque protegen — del duelo bajo la rabia, de la humillación que nunca tuvo testigo, de la posibilidad aterradora de que a ellos les importara menos que a ti. Y su receta no es el perdón con calendario, que no puede ordenarse, sino el desarme por incrementos: la historia contada una vez menos este mes; el ensayo interrumpido una vez, a propósito; la espada — solo una — dejada al borde del campo a la salida. Las guerras terminan oficialmente con tratados. Terminan de verdad cuando la última persona deja de asistir. Sé, por fin, la que no se presenta."
+        ],
+        "work": [
+          "La disculpa que cuesta la victoria es la única que repara — \"quería ganar más de lo que quería al equipo\". O acuerda sin reunión: los campos cerrados cuentan como finales."
+        ],
+        "love": [
+          "Llama antes de que lleguen al agua — el orgullo sobreestima cuánto han caminado. Y el remordimiento exigido es la guerra por otros medios; espera la versión desarmada."
+        ],
+        "self": [
+          "La discusión de la ducha con líneas mejoradas, años después — el enemigo manda en la guarnición sin pagar alquiler. Desarma por incrementos: cuenta la historia una vez menos este mes."
+        ],
+        "note": [
+          "No es perdón con calendario — eso no se ordena. Solo deja de asistir a la guerra. Los tratados la terminan oficialmente; la ausencia la termina de verdad."
+        ]
+      }
+    }
+  }
+}

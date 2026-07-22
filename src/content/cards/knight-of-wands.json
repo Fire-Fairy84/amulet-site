@@ -1,0 +1,128 @@
+{
+  "id": "knight-of-wands",
+  "number": 12,
+  "order": 75,
+  "arcana": "minor",
+  "suit": "wands",
+  "rank": 12,
+  "image": "/assets/cards/knight-of-wands.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "wands-12.en.md",
+    "es": "wands-12.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "knight-of-wands",
+      "name": "Knight of Wands",
+      "seoTitle": "Knight of Wands Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "The bold move made — the departure, the launch, the declaration at full gallop. Passion with commitment behind it, magnetic and fast. Trust the direction…",
+      "summary": "The bold move made — the departure, the launch, the declaration at full gallop. Passion with commitment behind it, magnetic and fast. Trust the direction more than the speed; speed, here, was never in doubt.",
+      "imageDescription": "A knight in armor trimmed with salamanders rides a horse caught mid-rear — the animal wants to run even more than the rider does. The desert behind them holds three distant pyramids: monuments passed, not visited. Everything in the image leans forward. Nothing in it has ever once looked back.",
+      "upright": {
+        "keywords": [
+          "velocity with a rider, charisma in motion, the bold move, passion committed, leaving in order to arrive, the charge"
+        ],
+        "essay": [
+          "The page studied the wand; the knight has stopped studying. This is fire in its committed adolescence — enthusiasm that has acquired a horse, a direction, and a departure date. Where the Page of Wands asks permission to be new, the Knight has already left: the resignation letter sent, the ticket bought, the confession made before the fear finished its sentence. The card almost always marks the moment when deliberation has done all it usefully can, and what remains is the charge.",
+          "The Knight's gift is genuine and rare: the capacity to move before conditions are perfect, which — since conditions are never perfect — is often the only way anything begins. Watch what this energy does to a room. Charisma is mostly commitment made visible; people follow the Knight not because the plan is sound but because the leaving is real, and realness recruits. If the reading finds you circling a decision you have already privately made, this card is the horse rearing under you: mount properly or dismount honestly, but stop standing in the stirrup.",
+          "Its risk is built into its anatomy, and the card is honest about it: the horse wants the run more than any particular destination. Fire at knight-speed can mistake motion for meaning — the departure so vivid that arrival is never quite planned, the passion so total this month that its object is almost interchangeable. The pyramids in the background are the card's sly comment: enormous, ancient, worth a lifetime's study — and the Knight passes them at a gallop, points of scenery. Some of what you are riding past, at this speed, will turn out to have been the destination.",
+          "So the counsel is not to slow down — telling this card to slow down is telling weather to reconsider — but to aim while moving. One destination, named out loud before departure. One person authorized to ask, in a month, whether the direction still holds. The Knight who accepts that much harness loses nothing of the fire and gains the one thing pure velocity cannot supply: somewhere to arrive. The charge is magnificent. Make it a journey, and it becomes a life."
+        ],
+        "work": [
+          "The launch, the leap, the resignation from strength — deliberation is done; commit at full speed. Name the destination out loud before departure."
+        ],
+        "love": [
+          "Pursuit with real commitment behind it — the declaration, the grand move, distance closed fast. Magnetic and sincere. Check that the object isn't interchangeable."
+        ],
+        "self": [
+          "The privately-made decision waiting for public legs. Mount or dismount; stop standing in the stirrup. Aim while moving — one goal, one witness."
+        ],
+        "note": [
+          "Not recklessness by definition — commitment at speed. But not arrival either: the gallop is a means; the pyramids you're passing may be the point."
+        ]
+      },
+      "reversed": {
+        "summary": "The charge misfiring — the bold move blocked, botched, or revealed as flight. Speed without traction; a pattern of departures with no arrivals. The horse is riding the rider. Someone needs to take the reins back.",
+        "keywords": [
+          "the stalled charge, passion interrupted, recklessness exposed, all departure no arrival, the horse riding the rider, burnout at speed"
+        ],
+        "essay": [
+          "Reversed, the Knight of Wands is velocity with a diagnosis. Something in the charge has failed — and the failures sort into three, each asking a different question of the rider.",
+          "The first is the external stall: the visa denied, the funding delayed, the bold move ready and the road closed. For a temperament built entirely around momentum, waiting is not an inconvenience; it is an identity crisis. The reversed Knight paces, re-sends, forces — and the forcing is where the real damage happens, because doors opened by shoulder tend to close on the way through. The discipline here is unfamiliar but simple: a blocked charge is stored, not spent. Train, provision, map — everything about a campaign except launching it. The riders who survive are not the ones who never stall; they are the ones who stall without discharging the whole cargo into the nearest wall.",
+          "The second is the exposed charge: the move made at full commitment and revealed, mid-air, as wrong — the job leapt to before it was checked, the promise made at gallop-speed, the relationship entered as a departure from somewhere else. This is the card's tender spot, and it deserves precision: the error was almost never the speed. It was the aim, and aim can be corrected without renouncing fire. What the botched charge teaches, if anything is allowed to teach the Knight, is the difference between leaving and going — between motion powered by what is behind you and motion drawn by what is ahead. Flight photographs identically to pursuit. The heart can always tell them apart, given one honest minute.",
+          "The third failure is the pattern: a résumé of departures, a gallery of magnificent starts, and nowhere — looking back across the desert — a single arrival. Here the horse has been riding the rider for years, and the reversal is an intervention. The question it brings is not why do you keep leaving but what would you have to feel if you stayed — because serial velocity is usually anesthesia, and the thing it numbs is always waiting exactly where the horse refuses to stand still. Stand still once, on purpose, past the discomfort. What catches up with you there is not the disaster the speed was promising. It is just the rest of you, arriving."
+        ],
+        "work": [
+          "The launch blocked, or made and revealed as flight forward. Store the charge: train, map, provision. Doors forced by shoulder close on the way through."
+        ],
+        "love": [
+          "Pursuit that was really departure from somewhere else — or the pattern of magnificent starts, no arrivals. Leaving and going feel identical at speed; check which this was."
+        ],
+        "self": [
+          "The horse riding the rider. Not \"why do I keep leaving\" but \"what would I feel if I stayed.\" Stand still once, past the discomfort, and let the rest of you arrive."
+        ],
+        "note": [
+          "Not proof that fire fails. The error is almost never speed — it is aim, and aim corrects without renouncing the gallop."
+        ]
+      }
+    },
+    "es": {
+      "slug": "caballero-de-bastos",
+      "name": "Caballero de Bastos",
+      "seoTitle": "Caballero de Bastos en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "La jugada audaz hecha — la partida, el lanzamiento, la declaración a galope tendido. Pasión con compromiso detrás, magnética y rápida. Confía más en la…",
+      "summary": "La jugada audaz hecha — la partida, el lanzamiento, la declaración a galope tendido. Pasión con compromiso detrás, magnética y rápida. Confía más en la dirección que en la velocidad; la velocidad, aquí, nunca estuvo en duda.",
+      "imageDescription": "Un caballero con armadura ribeteada de salamandras monta un caballo capturado a medio encabritarse — el animal quiere correr aún más que el jinete. En el desierto de atrás, tres pirámides lejanas: monumentos pasados de largo, no visitados. Todo en la imagen se inclina hacia delante. Nada en ella ha mirado atrás ni una vez.",
+      "upright": {
+        "keywords": [
+          "velocidad con dirección, carisma en movimiento, la jugada audaz, pasión comprometida, salir para avanzar, el impulso"
+        ],
+        "essay": [
+          "La sota estudiaba el basto; el Caballero ha dejado de estudiar. Es el fuego que ya tiene montura, dirección y fecha de salida. Donde la Sota de Bastos pide permiso para ser nueva, el Caballero ya se ha ido: la renuncia está enviada, el billete comprado, la confesión hecha antes de que el miedo termine su frase. Esta carta suele aparecer cuando deliberar ya ha hecho todo lo útil y toca actuar.",
+          "El don del Caballero es genuino y raro: la capacidad de moverse antes de que las condiciones sean perfectas. Como rara vez lo son, esa suele ser la única manera de empezar. El carisma nace del compromiso visible: la gente sigue al Caballero no porque el plan sea perfecto, sino porque el paso es real. Si llevas tiempo dando vueltas a una decisión que ya tomaste en privado, esta carta te invita a elegir: avanza con decisión o desmonta con honestidad, pero deja de quedarte a medio camino.",
+          "Su riesgo viene de serie: el caballo puede querer la carrera más que llegar a algún lugar. Esta energía puede confundir movimiento con sentido: la salida es tan intensa que nunca se planea la llegada, y una pasión parece total aunque su objeto sea intercambiable. Las pirámides del fondo lo recuerdan: algo valioso puede quedar atrás si pasas demasiado deprisa. A esta velocidad, quizá dejes atrás justo aquello que buscabas.",
+          "El consejo no es frenar, sino elegir una dirección mientras avanzas. Nombra tu destino en voz alta antes de partir y deja que alguien te pregunte dentro de un mes si sigues en ese camino. El Caballero que acepta esa pequeña guía no pierde su fuego y gana algo que la velocidad sola no da: un lugar al que llegar. Convierte el impulso en un viaje."
+        ],
+        "work": [
+          "El lanzamiento, el salto, la renuncia desde la fuerza — la deliberación terminó; comprométete a toda velocidad. Nombra el destino en voz alta antes de partir."
+        ],
+        "love": [
+          "Cortejo con compromiso real detrás — la declaración, el gesto grande, la distancia cerrada rápido. Magnético y sincero. Comprueba que el objeto no sea intercambiable."
+        ],
+        "self": [
+          "La decisión tomada en privado esperando piernas públicas. Monta o desmonta; deja de estar de pie en el estribo. Apunta en movimiento — una meta, un testigo."
+        ],
+        "note": [
+          "No es imprudencia por definición — es compromiso a velocidad. Pero tampoco es llegada: el galope es un medio; las pirámides que pasas de largo pueden ser el asunto."
+        ]
+      },
+      "reversed": {
+        "summary": "El impulso falla: la jugada audaz se bloquea, sale mal o se revela como una huida. Hay velocidad, pero no avance; se repiten las salidas sin llegada. El caballo manda al jinete. Hay que recuperar las riendas.",
+        "keywords": [
+          "impulso bloqueado, pasión interrumpida, imprudencia expuesta, salidas sin llegada, el caballo manda al jinete, agotamiento por exceso de velocidad"
+        ],
+        "essay": [
+          "Invertido, el Caballero de Bastos habla de una velocidad que necesita diagnóstico. Algo ha fallado y puede tomar tres formas, cada una con una pregunta distinta.",
+          "La primera forma es un bloqueo externo: un visado denegado, financiación que se retrasa, una jugada lista pero un camino cerrado. Para alguien guiado por el impulso, esperar puede sentirse como una crisis de identidad. El Caballero da vueltas, insiste y fuerza, pero ahí suele empezar el daño: las puertas abiertas a golpes suelen cerrarse después. La disciplina es sencilla, aunque cueste: guarda la energía para más adelante. Entrena, prepara recursos y revisa el mapa sin precipitar el lanzamiento.",
+          "La segunda forma es una decisión tomada con total compromiso que se revela equivocada: un trabajo aceptado sin comprobarlo, una promesa hecha con prisa, una relación iniciada para escapar de otra cosa. El problema casi nunca es la velocidad, sino la dirección. Y la dirección se puede corregir sin apagar el fuego. La carta distingue entre ir hacia algo e irse de algo: desde fuera se parecen, pero si te das un minuto de honestidad, sabes cuál de las dos era.",
+          "El tercer fallo es el patrón: un currículum de partidas, una galería de comienzos magníficos, y en ninguna parte — mirando atrás por el desierto — una sola llegada. Aquí el caballo lleva años montando al jinete, y la inversión es una intervención. La pregunta que trae no es por qué sigues yéndote sino qué tendrías que sentir si te quedaras — porque la velocidad en serie suele ser anestesia, y lo que adormece espera siempre exactamente donde el caballo se niega a estarse quieto. Quédate quieta una vez, a propósito, más allá de la incomodidad. Lo que te alcanza ahí no es el desastre que la velocidad prometía. Es solo el resto de ti, llegando."
+        ],
+        "work": [
+          "Un lanzamiento bloqueado o una salida que se revela como huida hacia delante. No fuerces la puerta: prepárate, entrena y revisa el plan. Las puertas que se abren a golpes suelen cerrarse detrás de ti."
+        ],
+        "love": [
+          "El cortejo que en realidad era salida de otra parte — o el patrón de comienzos magníficos sin llegadas. Irse e ir se sienten idénticos a velocidad; comprueba cuál fue este."
+        ],
+        "self": [
+          "El caballo montando al jinete. No \"por qué sigo yéndome\" sino \"qué sentiría si me quedara\". Quédate quieta una vez, más allá de la incomodidad, y deja que el resto de ti llegue."
+        ],
+        "note": [
+          "No es prueba de que el fuego falle. El error casi nunca es la velocidad — es la puntería, y la puntería se corrige sin renunciar al galope."
+        ]
+      }
+    }
+  }
+}

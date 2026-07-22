@@ -1,0 +1,43 @@
+---
+import { absolute, SITE_URL, type Language } from '../lib/i18n';
+
+interface Alternate { language: Language; path: string }
+interface Props {
+  title: string;
+  description: string;
+  canonicalPath: string;
+  language: Language;
+  alternates?: Alternate[] | undefined;
+  imagePath?: string | undefined;
+  robots?: string | undefined;
+  jsonLd?: Record<string, unknown> | Record<string, unknown>[] | undefined;
+  ogType?: 'website' | 'article' | undefined;
+}
+const {
+  title, description, canonicalPath, language, alternates = [],
+  imagePath = '/assets/app-icon.png', robots = 'index, follow', jsonLd, ogType = 'website',
+} = Astro.props;
+const canonical = absolute(canonicalPath);
+const image = absolute(imagePath);
+---
+<title>{title}</title>
+<meta name="description" content={description} />
+<meta name="robots" content={robots} />
+<link rel="canonical" href={canonical} />
+{alternates.map((item) => <link rel="alternate" hreflang={item.language} href={absolute(item.path)} />)}
+<link rel="alternate" hreflang="x-default" href={SITE_URL + '/'} />
+<meta property="og:type" content={ogType} />
+<meta property="og:site_name" content="AMULET" />
+<meta property="og:title" content={title} />
+<meta property="og:description" content={description} />
+<meta property="og:url" content={canonical} />
+<meta property="og:image" content={image} />
+<meta property="og:locale" content={language === 'en' ? 'en_US' : 'es_ES'} />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content={title} />
+<meta name="twitter:description" content={description} />
+<meta name="twitter:image" content={image} />
+<link rel="icon" href="/assets/app-icon.png" />
+<link rel="apple-touch-icon" href="/assets/app-icon.png" />
+<meta name="theme-color" content="#0b0908" />
+{jsonLd && <script is:inline type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}

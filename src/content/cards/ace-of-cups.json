@@ -1,0 +1,128 @@
+{
+  "id": "ace-of-cups",
+  "number": 1,
+  "order": 22,
+  "arcana": "minor",
+  "suit": "cups",
+  "rank": 1,
+  "image": "/assets/cards/ace-of-cups.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "cups-01.en.md",
+    "es": "cups-01.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "ace-of-cups",
+      "name": "Ace of Cups",
+      "seoTitle": "Ace of Cups Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "The beginning of feeling — new love, new tenderness, the heart reopening after a closed season. Offered, not achieved; the only task is reception. What…",
+      "summary": "The beginning of feeling — new love, new tenderness, the heart reopening after a closed season. Offered, not achieved; the only task is reception. What arrives exceeds its container by design.",
+      "imageDescription": "A hand emerges from a cloud holding a single cup, and the cup cannot contain what it has been given: five streams pour over its rim into a lily pond below. A dove descends toward the water. The hand does not grip the cup. It presents it — to no one visible, which is to say, to whoever is looking.",
+      "upright": {
+        "keywords": [
+          "the offered cup, feeling at its source, emotional beginning, receptivity, the heart's aperture opening, more than the vessel holds"
+        ],
+        "essay": [
+          "Every suit opens with a gift from nowhere, and the cup is the strangest gift of the four: not a tool, not a weapon, not a coin — a capacity. The Ace of Cups is the offer of feeling itself, arriving the way feeling actually arrives: unearned, unscheduled, slightly excessive. The five streams pouring over the rim are the card's thesis in miniature. Emotion at its source is always more than its container; if what you have started to feel seems disproportionate to its cause, that is not an error in the feeling. That is the signature of an ace.",
+          "The hand presents rather than grips, and this changes what the card asks of you. Aces are invitations, not accomplishments — the new love that has not yet been spoken, the friendship suddenly deeper than its category, the creative tenderness toward a project, the wholly unglamorous miracle of waking up one day able to feel again after a season of flatness. None of these, at ace-stage, require managing. They require what the pond requires of rain: openness at the moment of arrival. Most emotional beginnings are not rejected; they are declined by inattention — the aperture noticed a beat too late, the softness explained away as a mood. The card's entire counsel at this stage is receive it consciously. Say inwardly: something is beginning. That sentence is the cup held out.",
+          "The dove matters. In the old iconography it descends with a wafer toward the water — spirit entering feeling, blessing what the intellect will later want to audit. The Ace of Cups asks for a short moratorium on the audit. There will be cards for discernment; the suit is full of pierced hearts and walked-away-from banquets, and their lessons hold. But a beginning evaluated at the moment of its arrival is a beginning half-refused. Let the water be water first.",
+          "And the practical note, because aces are also simply news: something is being offered near you now — a reconciliation possible, an intimacy available, a person or practice through which feeling wants to re-enter your life. It will look ordinary. The cup always does; it is the pouring that is not. Accept it before you understand it. Understanding is downstream of the yes."
+        ],
+        "work": [
+          "Feeling re-entering the work — the project you're tender toward, the colleague become friend. Say yes before the audit; meaning at work starts as mood."
+        ],
+        "love": [
+          "The opening — new love, or the heart reopening inside old love. Offered, not earned. Receive it consciously: name to yourself that something has begun."
+        ],
+        "self": [
+          "Capacity returning after flatness. Disproportion is the ace's signature, not an error. Let the water be water before the intellect files it."
+        ],
+        "note": [
+          "Not yet a relationship, a promise, or a plan — a source, not a structure. And not to be graded on day one: evaluation this early is refusal in disguise."
+        ]
+      },
+      "reversed": {
+        "summary": "The offer declined or unable to land — feeling blocked, suppressed, or leaking sideways. Love available and unreceived, often from oneself. The capacity remains; the aperture is what closed.",
+        "keywords": [
+          "the cup declined or spilled, feeling blocked, self-withheld love, emptiness where fullness was offered, the aperture closed, emotion turned inward and souring"
+        ],
+        "essay": [
+          "Reversed, the Ace of Cups is not an empty cup — it is a full one that cannot pour, or pours where nothing catches it. The distinction governs everything: this card's reversal is almost never about absence of feeling. It is about blocked delivery, and blocks have locations, and locations can be worked on.",
+          "Sometimes the block is at intake: love arriving and bouncing. The compliment deflected before it lands, the tenderness received as pressure, the friendship offered and held at document's length. A heart can be closed for excellent historical reasons — the last several things that got in did damage — but the border policy outlives the war, and what began as protection matures into a food shortage. The reversed ace marks the moment the shortage becomes visible: surrounded by potable feeling, declining all of it, calling the decline discernment. One receiving, done badly, on purpose — letting a kindness land without repaying, deflecting, or explaining it — is how the aperture relearns its job.",
+          "Sometimes the block is at the source: the feeling itself suppressed until it stops announcing itself. Flatness, functional numbness, the strange grief of being unable to cry at the thing that deserves crying. Numbness is not the absence of emotion; it is emotion held below the waterline at great muscular cost, and its cure is rarely direct. You do not command feeling to resume. You lower the threshold: music that worked before, the friend with whom crying is unremarkable, the page no one will read. Water finds any opening. Supply the opening; do not also supervise it.",
+          "And sometimes the cup is spilling sideways — feeling leaking as everything but itself: the sentimentality that avoids actual intimacy, the tears at commercials but not conversations, the love poured into what cannot love back because it cannot reject either. Sideways delivery is still delivery; the card honors it as evidence the source is alive. But it asks the harder question underneath: what would you have to risk to pour this at its intended address? The pond in the picture never disappears. Capacity survives every season of refusal — that is the reversed ace's stubborn good news. The rain is patient. The next opening counts."
+        ],
+        "work": [
+          "Meaning leaking sideways — devotion poured into what can't refuse it, flatness toward what could. Lower the threshold; let one thing at work matter out loud."
+        ],
+        "love": [
+          "Love available and bounced at the door — the kindness deflected, care read as pressure. Practice one bad, unrepaid receiving. The aperture relearns by use."
+        ],
+        "self": [
+          "Numbness as full cup held underwater. Don't command feeling; supply openings — the music, the safe friend, the unread page — and don't supervise them."
+        ],
+        "note": [
+          "Not an empty cup, and not a dead pond. Blocked delivery, not absent capacity — the distinction is the hope, and it is load-bearing."
+        ]
+      }
+    },
+    "es": {
+      "slug": "as-de-copas",
+      "name": "As de Copas",
+      "seoTitle": "As de Copas en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "El principio del sentir: amor nuevo, ternura nueva, el corazón que vuelve a abrirse tras una temporada cerrado. Se ofrece, no se conquista, y lo único que…",
+      "summary": "El principio del sentir: amor nuevo, ternura nueva, el corazón que vuelve a abrirse tras una temporada cerrado. Se ofrece, no se conquista, y lo único que toca es recibir. Lo que llega desborda su recipiente, y así tiene que ser.",
+      "imageDescription": "Una mano sale de una nube sosteniendo una sola copa, y la copa no da abasto para lo que le han puesto dentro: cinco chorros se derraman por el borde hacia un estanque de nenúfares. Una paloma baja hacia el agua. La mano no aprieta la copa, la ofrece: a nadie en concreto, o sea, a quien esté mirando.",
+      "upright": {
+        "keywords": [
+          "la copa que se ofrece, el sentir en su origen, un comienzo emocional, receptividad, el corazón que se abre, más de lo que cabe en la copa"
+        ],
+        "essay": [
+          "Cada palo empieza con un regalo que aparece de la nada, y la copa es el regalo más raro de los cuatro: no una herramienta, no un arma, no una moneda, sino una capacidad. El As de Copas ofrece el sentir mismo, y llega como llega el sentimiento de verdad: sin ganártelo, sin avisar, un poco pasado de rosca. Los cinco chorros que se derraman por el borde resumen la carta entera. La emoción en su origen siempre es más de lo que cabe en su recipiente, y si lo que has empezado a sentir te parece desmesurado para lo poco que lo provoca, eso no es un fallo del sentimiento. Es la marca de un as.",
+          "La mano ofrece en vez de agarrar, y eso cambia lo que la carta te pide. Los ases son invitaciones, no logros: el amor nuevo que aún no se ha dicho, la amistad que de golpe es más honda que su etiqueta, el cariño por un proyecto que empiezas, el milagro nada glamuroso de despertar un día capaz de sentir otra vez tras una temporada plano. Nada de esto, en fase de as, hay que gestionarlo. Pide lo que el estanque le pide a la lluvia: estar abierto en el momento en que llega. La mayoría de los comienzos emocionales no se rechazan; se dejan pasar por no prestar atención: el momento de apertura que notas un segundo tarde, la ternura que despachas como si fuera solo un estado de ánimo. Todo el consejo de la carta en esta fase es recíbelo a conciencia. Dite por dentro: algo está empezando. Esa frase es la copa que te tienden.",
+          "La paloma cuenta. En la iconografía antigua baja con una hostia hacia el agua: el espíritu entrando en el sentimiento, bendiciendo lo que la cabeza querrá poner en duda más tarde. El As de Copas te pide que aparques un rato ese examen. Ya habrá cartas para el discernimiento; el palo está lleno de corazones atravesados y banquetes de los que alguien se levanta y se va, y sus lecciones sirven. Pero un comienzo juzgado en el momento mismo en que llega es un comienzo medio rechazado. Deja que el agua sea agua primero.",
+          "Y el apunte práctico, porque los ases también son sin más una noticia: hay algo ofreciéndose cerca de ti ahora, una reconciliación posible, una intimidad al alcance, una persona o una práctica por la que el sentir quiere volver a entrar en tu vida. Va a parecer de lo más normal. La copa siempre lo parece; lo que no es normal es que se derrame. Acéptalo antes de entenderlo. Entenderlo viene después del sí."
+        ],
+        "work": [
+          "El sentir volviendo al trabajo: el proyecto que te ablanda, la colega que se hace amiga. Di que sí antes de examinarlo; el sentido en el trabajo empieza como estado de ánimo."
+        ],
+        "love": [
+          "La apertura: amor nuevo, o el corazón que vuelve a abrirse dentro del amor de siempre. Se ofrece, no se gana. Recíbelo a conciencia: date cuenta, en voz interior, de que algo ha empezado."
+        ],
+        "self": [
+          "La capacidad que vuelve tras el vacío plano. Que sea desmesurado es la marca del as, no un error. Deja que el agua sea agua antes de que la cabeza la archive."
+        ],
+        "note": [
+          "Todavía no es una relación, ni una promesa, ni un plan: es un origen, no una estructura. Y no se le pone nota el primer día: juzgarlo tan pronto es rechazo disfrazado."
+        ]
+      },
+      "reversed": {
+        "summary": "La oferta rechazada, o que no consigue aterrizar: el sentir bloqueado, aguantado o escapándose por otro lado. Amor que está disponible y no se recibe, muchas veces de uno mismo. La capacidad sigue intacta; lo que se cerró fue la apertura.",
+        "keywords": [
+          "la copa rechazada o volcada, el sentir bloqueado, amor que uno se niega a sí mismo, vacío donde se ofrecía llenura, la apertura cerrada, la emoción que se vuelve hacia dentro y se agria"
+        ],
+        "essay": [
+          "Invertido, el As de Copas no es una copa vacía, sino una copa llena que no puede verter, o que vierte donde nada la recoge. Esa diferencia lo decide todo: la inversión de esta carta casi nunca va de falta de sentimiento. Va de una entrega bloqueada, y los bloqueos están en algún sitio, y en ese sitio se puede trabajar.",
+          "A veces el bloqueo está en la entrada: el amor llega y rebota. El cumplido que se esquiva antes de que aterrice, la ternura que se recibe como una exigencia, la amistad que se ofrece y se mantiene a distancia prudencial. Un corazón puede estar cerrado por razones muy buenas de su historia (las últimas cosas que entraron hicieron daño), pero las fronteras siguen cerradas mucho después de que acabe la guerra, y lo que empezó como protección acaba convertido en hambre. El as invertido marca el momento en que esa hambre se hace visible: rodeado de sentir que se puede beber, rechazándolo todo, y llamando discernimiento a ese rechazo. Recibir algo, hecho mal y a propósito, dejar que un gesto amable aterrice sin devolverlo, sin esquivarlo ni explicarlo, es como la apertura vuelve a aprender su oficio.",
+          "A veces el bloqueo está en el origen: el sentimiento aguantado hasta que deja de dar señales. Vacío plano, un entumecimiento que aún te deja funcionar, la pena rara de no poder llorar ante lo que merece llanto. El entumecimiento no es que no haya emoción; es emoción sostenida a pulso por debajo de la superficie, a un coste enorme, y su cura casi nunca es directa. Al sentir no se le da la orden de volver. Se baja el listón: la música que antes funcionaba, la amiga con la que llorar no es un acontecimiento, la página que no va a leer nadie. El agua encuentra cualquier resquicio. Abre el resquicio, y no te quedes además vigilándolo.",
+          "Y a veces la copa se derrama de lado: el sentir escapándose disfrazado de cualquier cosa menos de sí mismo, el sentimentalismo que esquiva la intimidad de verdad, las lágrimas con los anuncios pero no en las conversaciones, el amor volcado en lo que no puede corresponder porque tampoco puede rechazar. Verter de lado sigue siendo verter; la carta lo respeta como prueba de que el origen está vivo. Pero por debajo hace la pregunta más difícil: ¿qué tendrías que arriesgar para verter esto hacia donde de verdad va dirigido? El estanque del dibujo no desaparece nunca. La capacidad sobrevive a todas las temporadas de rechazo, y esa es la buena noticia terca del as invertido. La lluvia tiene paciencia. La próxima vez que se abra, cuenta."
+        ],
+        "work": [
+          "El sentido escapándose de lado: la entrega volcada en lo que no puede rechazarla, y el vacío plano hacia lo que sí. Baja el listón; deja que una cosa del trabajo te importe en voz alta."
+        ],
+        "love": [
+          "Amor disponible que rebota en la puerta: la amabilidad que se esquiva, el cariño que se lee como exigencia. Practica recibir una sola vez, mal y sin devolver nada. La apertura vuelve a aprender usándose."
+        ],
+        "self": [
+          "El entumecimiento como una copa llena sostenida bajo el agua. No le des la orden al sentir; abre resquicios (la música, la amiga segura, la página sin lector) y no te quedes vigilándolos."
+        ],
+        "note": [
+          "No es una copa vacía, ni un estanque muerto. Es entrega bloqueada, no capacidad que falta, y esa diferencia es la esperanza, y aguanta todo el peso."
+        ]
+      }
+    }
+  }
+}

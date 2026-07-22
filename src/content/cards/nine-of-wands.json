@@ -1,0 +1,128 @@
+{
+  "id": "nine-of-wands",
+  "number": 9,
+  "order": 72,
+  "arcana": "minor",
+  "suit": "wands",
+  "rank": 9,
+  "image": "/assets/cards/nine-of-wands.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "wands-09.en.md",
+    "es": "wands-09.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "nine-of-wands",
+      "name": "Nine of Wands",
+      "seoTitle": "Nine of Wands Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "Almost through — guarded, bruised, holding the line with the last of the reserve. Experience become both armor and posture. The next push may be the final…",
+      "summary": "Almost through — guarded, bruised, holding the line with the last of the reserve. Experience become both armor and posture. The next push may be the final one; the wound is proof of distance covered, not a forecast.",
+      "imageDescription": "A man stands with one wand held close, head bandaged, eyes sideways at whatever comes next. Behind him, eight wands planted upright in a row — a fence made of every fight he has already had. He is tired in the way only nearly-finished people are tired. He is also, unmistakably, still standing.",
+      "upright": {
+        "keywords": [
+          "last-reserve resilience, the guarded gain, wounded but standing, vigilance earned, one more push, the fence of past battles"
+        ],
+        "essay": [
+          "The Nine of Wands is the suit's late hour: the gains of eight cards stacked behind one tired defender, and something — the card will not say what — approaching again. Its first statement is simply a portrait, and an honorable one: this is what persistence actually looks like from inside. Not the montage, not the summit photo. A bandage, a sideways glance, a grip that has forgotten how to loosen. If you feel like this, the card's opening word is that you are not failing. You are far along. These two states are indistinguishable from within, and the Nine exists to tell them apart.",
+          "Look at the fence. Eight wands, planted — every previous struggle of the suit converted into perimeter. This is what experience is for: the fights you survived become structure, and structure is why you are still here. The man is not defending open ground anymore; he is defending accumulated ground, which is a different and better problem than the Seven's lonely hilltop. Whatever is coming will meet not just him but everything he has already built and endured. The card counts that fence as strength even when its owner has stopped noticing it.",
+          "But the same glance that guards him also narrows him. The bandaged watchfulness of the Nine is earned — and it is expensive. Vigilance at this stage tends to overfit: trained on the last eight attacks, it reads the ninth arrival as hostile before checking. Some of what approaches late in a long effort is not another blow. It is help, or news, or the end itself, arriving unannounced like everything else did. The discipline the card asks for is precise: keep the guard and keep one eye capable of surprise. Wounded is not the same as under attack. Check before bracing.",
+          "And then its famous arithmetic: this close to done, the costs of quitting and finishing finally invert. Stopping now purchases rest but sells the entire fence at a loss; one more considered push spends reserves that were, in truth, saved for exactly this. Not one more push forever — the Ten is waiting to say what over-carrying costs. One more push here, where the line you are holding is real, the ground behind you is yours, and the hour, though it hides it well, is late in your favor."
+        ],
+        "work": [
+          "The project at mile nine — depleted, defended, close. Don't renegotiate the goal from inside exhaustion. One considered push; the fence of past work holds."
+        ],
+        "love": [
+          "Guarded after old wounds — the flinch before the fact. The bandage is history, not prophecy. Check whether what approaches is another blow before bracing."
+        ],
+        "self": [
+          "Still standing is a result, not a consolation prize. Resilience with a posture problem: keep the perimeter, unlearn the flinch."
+        ],
+        "note": [
+          "Not defeat and not paranoia vindicated. Late-stage fatigue reads as hopelessness from inside — the position says otherwise."
+        ]
+      },
+      "reversed": {
+        "summary": "The reserve spent past empty — persistence become self-harm, guard become cage. Or the fence failing at the last hour. Help is being refused on principle. The war may be over; the stance has not heard.",
+        "keywords": [
+          "depletion past the line, defensiveness calcified, refusing help at the wall, the push too many, collapse of the guard, paranoia outliving the war"
+        ],
+        "essay": [
+          "Reversed, the Nine of Wands is the upright card a few weeks later, with nothing done differently — which is the whole diagnosis. Endurance is a strategy with an expiry date, and this card marks the date passed. The reserve the upright Nine spent carefully is now being spent anyway, automatically, on standing still; the guard that once protected the gains now mostly protects the guarding.",
+          "The first form is depletion denied. Mile nine became mile eleven, twelve, fourteen — the finish keeps moving, or was never fixed, and \"one more push\" has become a rolling policy rather than a decision. Persistence has a counterfeit, and this is it: continuing because stopping has become unimaginable, not because continuing leads anywhere. The test is unpleasant and quick — ask what, specifically, the next push wins. If the answer is a real threshold, rest first and push after; the order matters and exhausted pushes buy less per unit than any other kind. If the answer will not form — if the push is just what you do now — then the brave act available is not endurance. It is stopping in daylight, on purpose, while there is enough left to stop well.",
+          "The second form is the guard outliving the war. Reversed, the bandaged watchfulness hardens into a worldview: everything approaching is an attacker, everyone offering is angling, rest itself feels like an ambush. Notice the figure refusing water. Help declined at the wall is the card's sharpest image, because the refusal always has good grammar — I'm fine, almost done, faster to do it myself. Underneath is a belief the long fight installed: that being helped and being defeated feel identical. They are not. Accepting reinforcement at mile nine is how mile ten happens; the fence was never meant to keep out supply lines.",
+          "What the reversal asks, finally, is a change of question. The upright Nine asks can I hold. The reversed Nine asks what is the holding for, now — and it insists on the now, because the answer that was true at mile three has often quietly expired. Re-answer it honestly and everything clarifies: rest becomes strategy, help becomes logistics, and if the war turns out to be over, the man can at last put down the wand and use both hands for something else."
+        ],
+        "work": [
+          "\"One more push\" as rolling policy — the finish line unfixed, help declined on autopilot. Name what the next push wins, or stop in daylight on purpose."
+        ],
+        "love": [
+          "Guardedness hardened into worldview — care read as angle, rest as ambush. Being helped is not being defeated. Take the water."
+        ],
+        "self": [
+          "Spending past empty on standing still. The question is no longer \"can I hold\" but \"what is the holding for, now.\" Re-answer it; the old answer expired."
+        ],
+        "note": [
+          "Not weakness confirmed. Refusing help was never strength — the fence was built to protect gains, not to keep out supply lines."
+        ]
+      }
+    },
+    "es": {
+      "slug": "nueve-de-bastos",
+      "name": "Nueve de Bastos",
+      "seoTitle": "Nueve de Bastos en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "Casi al otro lado: en guardia, magullada, sosteniendo la línea con las últimas reservas. La experiencia se ha convertido en armadura. El siguiente…",
+      "summary": "Casi al otro lado: en guardia, magullada, sosteniendo la línea con las últimas reservas. La experiencia se ha convertido en armadura. El siguiente esfuerzo puede ser el último; la herida prueba lo que has recorrido, no predice lo que viene.",
+      "imageDescription": "Un hombre de pie, un basto pegado al cuerpo, la cabeza vendada, los ojos de lado hacia lo que venga. Detrás, ocho bastos plantados en fila — una valla hecha de todas las peleas que ya tuvo. Está cansado como solo se cansa la gente que casi ha terminado. También está, inconfundiblemente, todavía en pie.",
+      "upright": {
+        "keywords": [
+          "resiliencia de última reserva, lo ganado bajo guardia, herido pero en pie, vigilancia ganada, un empujón más, la valla de las batallas pasadas"
+        ],
+        "essay": [
+          "El Nueve de Bastos es la hora tardía del palo: lo ganado en ocho cartas apilado detrás de un defensor cansado, y algo — la carta no dirá qué — acercándose otra vez. Su primera afirmación es simplemente un retrato, y uno honorable: así es la persistencia vista desde dentro. No el montaje, no la foto en la cumbre. Una venda, una mirada de reojo, un agarre que olvidó cómo aflojarse. Si te sientes así, la primera palabra de la carta es que no estás fallando. Estás lejos ya. Los dos estados son indistinguibles desde dentro, y el Nueve existe para distinguirlos.",
+          "Mira la valla. Ocho bastos, plantados — cada lucha previa del palo convertida en perímetro. Para esto sirve la experiencia: las peleas que sobreviviste se vuelven estructura, y la estructura es la razón de que sigas aquí. El hombre ya no defiende campo abierto; defiende terreno acumulado, que es un problema distinto y mejor que la colina solitaria del Siete. Lo que venga se encontrará no solo con él sino con todo lo que ya construyó y aguantó. La carta cuenta esa valla como fuerza incluso cuando su dueño ha dejado de verla.",
+          "Pero la misma mirada que lo guarda también lo estrecha. La vigilancia vendada del Nueve es ganada — y es cara. La vigilancia en esta etapa tiende a sobreajustarse: entrenada con los últimos ocho ataques, lee la novena llegada como hostil antes de comprobar. Parte de lo que se acerca al final de un esfuerzo largo no es otro golpe. Es ayuda, o noticias, o el final mismo, llegando sin avisar como todo lo demás. La disciplina que pide la carta es precisa: conserva la guardia y conserva un ojo capaz de sorpresa. Herida no es lo mismo que bajo ataque. Comprueba antes de ponerte en tensión.",
+          "Y luego su aritmética famosa: tan cerca del final, los costes de abandonar y de terminar por fin se invierten. Parar ahora compra descanso pero vende la valla entera a pérdida; un empujón más, considerado, gasta reservas que en verdad se ahorraron exactamente para esto. No un empujón más para siempre — el Diez espera para decir lo que cuesta cargar de más. Un empujón más aquí, donde la línea que sostienes es real, el terreno a tu espalda es tuyo, y la hora, aunque lo disimula bien, es tardía a tu favor."
+        ],
+        "work": [
+          "El proyecto en el kilómetro nueve — agotada, a la defensiva, cerca. No renegocies la meta desde dentro del agotamiento. Un empujón considerado; la valla del trabajo pasado aguanta."
+        ],
+        "love": [
+          "En guardia por heridas viejas — el respingo antes del hecho. La venda es historia, no profecía. Comprueba si lo que se acerca es otro golpe antes de tensarte."
+        ],
+        "self": [
+          "Seguir en pie es un resultado, no un premio de consolación. Resiliencia con un problema de postura: conserva el perímetro, desaprende el respingo."
+        ],
+        "note": [
+          "No es derrota ni paranoia confirmada. La fatiga de última etapa se lee como desesperanza desde dentro — la posición dice otra cosa."
+        ]
+      },
+      "reversed": {
+        "summary": "La reserva está agotada: la persistencia se vuelve daño y la guardia, jaula. Puede que la valla falle en el último momento o que rechaces ayuda por principio. Tal vez la guerra ya terminó, pero tu cuerpo aún no se ha enterado.",
+        "keywords": [
+          "agotamiento pasado de la raya, defensividad calcificada, rechazar ayuda contra el muro, el empujón de más, derrumbe de la guardia, la paranoia que sobrevive a la guerra"
+        ],
+        "essay": [
+          "Invertido, el Nueve de Bastos es la carta derecha unas semanas después, sin haber hecho nada distinto — y ese es el diagnóstico entero. Aguantar es una estrategia con fecha de caducidad, y esta carta marca la fecha vencida. La reserva que el Nueve derecho gastaba con cuidado ahora se gasta igual, automáticamente, en quedarse quieto; la guardia que antes protegía lo ganado ahora protege sobre todo el acto de guardar.",
+          "La primera forma es el agotamiento negado. El kilómetro nueve se volvió el once, el doce, el catorce — la meta no deja de moverse, o nunca estuvo fijada, y \"un empujón más\" ha pasado de decisión a política permanente. La persistencia tiene una falsificación, y es esta: continuar porque parar se ha vuelto inimaginable, no porque continuar lleve a alguna parte. La prueba es desagradable y rápida — pregunta qué gana, en concreto, el próximo empujón. Si la respuesta es un umbral real, descansa primero y empuja después; el orden importa, y los empujones agotados compran menos por unidad que ningún otro tipo. Si la respuesta no se forma — si empujar es simplemente lo que haces ahora — entonces el acto valiente disponible no es aguantar. Es parar a plena luz, a propósito, mientras queda suficiente para parar bien.",
+          "La segunda forma es la guardia que sobrevive a la guerra. Invertida, la vigilancia se convierte en una forma de ver el mundo: todo lo que se acerca parece un ataque, toda ayuda parece tener una segunda intención y hasta descansar se siente como una emboscada. Fíjate en la figura rechazando el agua. La ayuda rechazada es la imagen más afilada de la carta, porque el rechazo siempre suena razonable: «estoy bien», «ya casi acabo», «es más rápido si lo hago yo». Debajo hay una creencia que instala una pelea larga: que dejarse ayudar y ser derrotada son lo mismo. No lo son. Aceptar refuerzos en el kilómetro nueve es lo que permite llegar al diez; la valla nunca estuvo pensada para dejar fuera el apoyo.",
+          "Lo que la inversión pide, al final, es un cambio de pregunta. El Nueve derecho pregunta puedo aguantar. El invertido pregunta para qué es el aguante, ahora — e insiste en el ahora, porque la respuesta que era verdad en el kilómetro tres a menudo ha caducado en silencio. Vuelve a responderla con honestidad y todo se aclara: el descanso se vuelve estrategia, la ayuda se vuelve logística, y si resulta que la guerra ha terminado, el hombre puede por fin bajar el basto y usar las dos manos para otra cosa."
+        ],
+        "work": [
+          "\"Un empujón más\" como política permanente — la meta sin fijar, la ayuda declinada en automático. Nombra qué gana el próximo empujón, o para a plena luz, a propósito."
+        ],
+        "love": [
+          "La guardia se ha convertido en una forma de ver el mundo: el cariño parece una intención oculta y el descanso, una trampa. Dejarse ayudar no es perder. Acepta el agua."
+        ],
+        "self": [
+          "Gastar más allá del vacío en quedarse quieta. La pregunta ya no es \"puedo aguantar\" sino \"para qué es el aguante, ahora\". Respóndela de nuevo; la respuesta vieja caducó."
+        ],
+        "note": [
+          "No es debilidad confirmada. Rechazar ayuda nunca fue fuerza — la valla se construyó para proteger lo ganado, no para dejar fuera los suministros."
+        ]
+      }
+    }
+  }
+}

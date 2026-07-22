@@ -1,0 +1,134 @@
+{
+  "id": "wheel-of-fortune",
+  "number": 10,
+  "order": 10,
+  "arcana": "major",
+  "suit": null,
+  "rank": null,
+  "image": "/assets/cards/wheel-of-fortune.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "10-wheel-of-fortune.en.md",
+    "es": "10-wheel-of-fortune.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "wheel-of-fortune",
+      "name": "The Wheel of Fortune",
+      "seoTitle": "The Wheel of Fortune Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "The season shifting on its own clock. Timing mattering more than effort, this once — catch the turn. Chance as a real force with real dates. Position on…",
+      "summary": "The season shifting on its own clock. Timing mattering more than effort, this once — catch the turn. Chance as a real force with real dates. Position on the rim is temporary in both directions; the pattern, not the moment, is the information.",
+      "imageDescription": "A great wheel hangs in open sky, ringed with letters and symbols, a sphinx seated calm on top. Figures rise on one side of the rim and descend on the other — nobody stays anywhere on a wheel. In the four corners, winged creatures sit reading open books, taking notes through every revolution. The clouds move; the hub does not.",
+      "upright": {
+        "keywords": [
+          "turning point, cycles, luck as a real force, what changes without permission, timing over effort, the season shifting"
+        ],
+        "essay": [
+          "Something in your situation is turning that you did not schedule and cannot pause. The Wheel is the card of weather rather than of choices — the reminder, mildly offensive to competent people, that some of what happens to you was never on your desk. You did not cause this turn. You will not cause the next one either. What is yours is smaller and more interesting: the response.",
+          "The figures on the rim are the card's honest joke. The one rising feels chosen; the one descending feels punished; both are simply standing on a wheel. Whatever position you currently occupy — the streak, the drought, the season of doors opening or sticking — the Wheel offers one piece of intelligence about it: temporary. This is terrible news and excellent news, delivered in the same word, and which one you hear says a great deal about where on the rim you are standing.",
+          "Timing deserves rehabilitation. Effort is the respectable religion, but everyone quietly knows a season when the same work that once bounced suddenly landed — same skill, same person, different hour. The card says this is one of those hours, or close to one. When the wheel is turning your way, the strategy is not to deserve it harder. It is to be on it: available, ready, with your yes prepared in advance.",
+          "Note the creatures in the corners, reading through every revolution. Something in the scene keeps records; something in you does too. The rises and falls that feel like chaos in the first person compose, over enough turns, into pattern — and pattern is the part of luck you are allowed to study. What season keeps returning? What do you reliably do at the top? At the bottom? The journal knows things the day cannot.",
+          "The hub does not move. Every wheel has one. Whatever in your life sits at the center — the practice, the person, the few square meters of self that stay put while circumstances revolve — that is what the card quietly points at while everyone watches the rim. Rim positions change owners hourly. Hub positions are chosen.",
+          "The question underneath: which season is this, honestly — and what does this season, specifically, make possible that the last one refused?"
+        ],
+        "work": [
+          "Timing over effort, this once — the market, the mood, the moment turned. Catch it: ship, ask, apply while the wheel favors motion. The same request lands differently this month."
+        ],
+        "love": [
+          "The phase changing under both of you — not a verdict, a season. Weathering the turn together instead of blaming each other for the weather."
+        ],
+        "self": [
+          "What looks like fate reading, on inspection, as pattern. Your recurring seasons, finally tracked instead of endured. The hub located; the rim allowed to spin."
+        ],
+        "note": [
+          "Not pure chaos. Cycles have shape, and they return — which is precisely why they can be learned."
+        ]
+      },
+      "reversed": {
+        "summary": "Fighting a season instead of dressing for it. Bad luck that is partly a loop you keep re-entering; the same lesson arriving in new costumes. The downswing resisted so thoroughly it cannot finish and leave.",
+        "keywords": [
+          "resistance to the turn, the downswing, the same lesson circling back, fighting the season, the loop re-entered"
+        ],
+        "essay": [
+          "Reversed, the Wheel finds you gripping a spoke. The turn is happening — it was always going to happen — and a great deal of your current exhaustion is not the season itself but the fight against its existence. There is a specific tiredness that comes from arguing with weather. You may recognize it: it produces no change, and it is somehow still full-time work.",
+          "Some of what you are calling bad luck deserves the name; the card does not pretend otherwise. Chance is real and some seasons are simply low. But the reversed Wheel asks you to audit the portion that is not chance: the loop. The situation that keeps recurring with different names attached — the same kind of colleague, the same fight in new relationships, the same month of the project where everything stalls. When the scenery repeats this precisely, you are not unlucky. You are enrolled in a course, and attendance appears to be mandatory until the material is learned.",
+          "The lesson that circles back is never hiding. It is usually the thing you already suspect, delivered again at slightly higher volume. Each revolution costs more than the last — that is not the wheel being cruel; that is tuition increasing until the student appears. Name what this loop keeps trying to teach, out loud, in one sentence. You will notice you can.",
+          "There is also dignity to recover at the bottom of the arc. The low season is not the whole wheel, though from inside it composes the entire visible sky. Mistaking the downswing for the permanent state of things is the most common misreading of a life — and the corner creatures, checking their books, could show you the last three times you were certain the wheel had stopped, dated and disproven.",
+          "What resisting actually costs: the season cannot finish. Winters end on schedule when they are allowed to be winters — dressed for, planned around, waited out with some grace. Fought, they extend. The fastest way through the turn you are gripping against is, inconveniently, to let the wheel carry you to where it was already going."
+        ],
+        "work": [
+          "Forcing the old plan into a changed market; the strategy that worked last season, reapplied harder. Or the recurring stall — same phase, every project — that has your fingerprints on it."
+        ],
+        "love": [
+          "The same fight, relitigated on schedule, with better vocabulary each round. The pattern that predates this person and will outlast them too, unless named."
+        ],
+        "self": [
+          "The low arc mistaken for the whole wheel. The lesson circling back in new costume, tuition rising. What is this loop teaching, and why is the course still running?"
+        ],
+        "note": [
+          "Not punishment. The wheel turns for everyone — the loop, though, is yours, and therefore yours to close."
+        ]
+      }
+    },
+    "es": {
+      "slug": "la-rueda-de-la-fortuna",
+      "name": "La Rueda de la Fortuna",
+      "seoTitle": "La Rueda de la Fortuna en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "La estación cambia según su propio reloj. Por esta vez, el momento pesa más que el esfuerzo: atrapa el giro. El azar como fuerza real, con fechas reales.…",
+      "summary": "La estación cambia según su propio reloj. Por esta vez, el momento pesa más que el esfuerzo: atrapa el giro. El azar como fuerza real, con fechas reales. La posición en el aro es pasajera en las dos direcciones, y lo que informa no es el momento, sino el patrón.",
+      "imageDescription": "Una gran rueda suspendida en el cielo abierto, rodeada de letras y símbolos, con una esfinge sentada en calma en lo alto. Unas figuras suben por un lado del aro y bajan por el otro, porque en una rueda nadie se queda en su sitio. En las cuatro esquinas, criaturas aladas leen libros abiertos y toman notas en cada vuelta. Las nubes se mueven; el eje no.",
+      "upright": {
+        "keywords": [
+          "punto de giro, ciclos, la suerte como fuerza real, lo que cambia sin permiso, el momento por encima del esfuerzo, la estación que rota"
+        ],
+        "essay": [
+          "Algo en tu situación está girando sin que tú lo hayas planeado y sin que puedas frenarlo. La Rueda es la carta del clima, no la de las decisiones, el recordatorio, un poco molesto para la gente competente, de que parte de lo que te pasa nunca estuvo en tus manos. Este giro no lo provocaste tú. El siguiente tampoco. Lo tuyo es más pequeño y más interesante: cómo respondes.",
+          "Las figuras del aro son la broma honesta de la carta. La que sube se siente elegida, la que baja se siente castigada, y las dos están simplemente de pie sobre una rueda. Sea cual sea tu posición ahora, la buena racha, la sequía, la temporada de puertas que se abren o se atascan, la Rueda te da un solo dato sobre ella: es pasajera. Es una noticia pésima y una noticia excelente, dichas con la misma palabra, y cuál de las dos oigas dice mucho de en qué parte del aro estás.",
+          "El momento oportuno merece que lo tomemos en serio. El esfuerzo es la religión respetable, pero todos conocemos en silencio alguna temporada en que el mismo trabajo que antes rebotaba de pronto encajó, con la misma habilidad, la misma persona y otro momento. La carta dice que este es uno de esos momentos, o está cerca. Cuando la rueda gira a tu favor, la jugada no es merecerlo esforzándote más. Es estar montada en ella, disponible, lista, con el sí preparado de antemano.",
+          "Fíjate en las criaturas de las esquinas, que leen a lo largo de cada vuelta. Algo en la escena lleva un registro, y algo en ti también. Las subidas y bajadas que vividas por dentro parecen puro caos, con las vueltas suficientes forman un patrón, y el patrón es la parte de la suerte que sí puedes estudiar. ¿Qué estación vuelve una y otra vez? ¿Qué haces, sin falta, cuando estás arriba? ¿Y cuando estás abajo? El diario sabe cosas que el día no sabe.",
+          "El eje no se mueve. Toda rueda tiene uno. Lo que en tu vida ocupe el centro, la práctica, la persona, los pocos metros cuadrados de ti que se quedan quietos mientras las circunstancias dan vueltas, eso es lo que la carta señala en voz baja mientras todos miran el aro. En el aro, cada hora cambia quién está arriba y quién abajo. El centro, en cambio, lo eliges tú.",
+          "La pregunta de fondo: ¿qué estación es esta, de verdad, y qué permite esta estación, precisamente, que la anterior te negaba?"
+        ],
+        "work": [
+          "Por esta vez, el momento pesa más que el esfuerzo, porque el mercado, el ánimo y la ocasión giraron. Aprovéchalo: publica, pide, preséntate mientras la rueda favorece el movimiento. La misma petición cae distinto este mes."
+        ],
+        "love": [
+          "La fase cambia bajo los pies de los dos, y no es un veredicto sino una estación. Aguantar el giro juntos en lugar de echarse la culpa por el clima."
+        ],
+        "self": [
+          "Lo que parecía destino, mirado de cerca, se lee como patrón. Tus estaciones que se repiten, por fin anotadas en vez de solo sufridas. El centro localizado, con el aro girando libre."
+        ],
+        "note": [
+          "No es puro caos. Los ciclos tienen forma, y vuelven, que es justo la razón de que se puedan aprender."
+        ]
+      },
+      "reversed": {
+        "summary": "Pelear contra una estación en vez de adaptarse a ella. La mala suerte que en parte es un bucle en el que sigues cayendo, la misma lección que llega con disfraces nuevos. La caída, resistida con tanto empeño que no puede terminar y marcharse.",
+        "keywords": [
+          "resistencia al giro, la caída, la misma lección de vuelta, pelear contra la estación, el bucle en el que vuelves a caer"
+        ],
+        "essay": [
+          "Invertida, la Rueda te encuentra agarrada a un radio. El giro está pasando, siempre iba a pasar, y buena parte de tu agotamiento de ahora no es la estación en sí, sino la pelea contra el hecho de que exista. Hay un cansancio muy concreto que da discutir con el clima. Quizá lo reconozcas: no cambia nada, y aun así, de algún modo, es un trabajo a tiempo completo.",
+          "Parte de lo que llamas mala suerte lo es de verdad, y la carta no finge lo contrario. El azar existe y hay estaciones sencillamente malas. Pero la Rueda invertida te pide revisar la parte que no es azar: el bucle. La situación que se repite con otros nombres, el mismo tipo de compañero, la misma pelea en cada relación nueva, el mismo mes del proyecto en que todo se atasca. Cuando el decorado se repite con esta precisión, no tienes mala suerte. Estás matriculada en un curso, y la asistencia parece obligatoria hasta que te aprendas la lección.",
+          "La lección que vuelve nunca está escondida. Suele ser lo que ya sospechas, servido otra vez un poco más fuerte. Cada vuelta cuesta más que la anterior, y no es que la rueda sea cruel, sino que es la matrícula que sube hasta que aparece la estudiante. Di en voz alta, en una sola frase, qué intenta enseñarte este bucle. Verás que puedes.",
+          "También hay una dignidad que recuperar en el punto más bajo. La estación mala no es toda la rueda, aunque desde dentro ocupe todo el cielo que alcanzas a ver. Confundir la caída con el estado permanente de las cosas es la forma más común de leer mal una vida, y las criaturas de las esquinas, si consultan sus libros, podrían enseñarte las últimas tres veces que estuviste segura de que la rueda se había parado, con fecha y con el desmentido al lado.",
+          "Lo que de verdad cuesta resistirse: que la estación no puede terminar. Los inviernos acaban a su hora cuando se les deja ser inviernos, o sea que te abrigas, te organizas y los esperas con algo de calma. Peleados, se alargan. La forma más rápida de salir del giro al que te agarras es, por incómodo que resulte, dejar que la rueda te lleve adonde ya iba."
+        ],
+        "work": [
+          "Forzar el plan viejo en un mercado que cambió, la estrategia de la temporada pasada aplicada otra vez con más fuerza. O el atasco de siempre, la misma fase en cada proyecto, que lleva tu firma."
+        ],
+        "love": [
+          "La misma pelea, reabierta puntual, con mejor vocabulario en cada ronda. El patrón que ya estaba antes de esta persona y que seguirá después de ella, salvo que lo nombres."
+        ],
+        "self": [
+          "La caída confundida con toda la rueda. La lección de vuelta con disfraz nuevo, la matrícula subiendo. ¿Qué enseña este bucle, y por qué sigue dándose el curso?"
+        ],
+        "note": [
+          "No es un castigo. La rueda gira para todo el mundo, pero el bucle es tuyo, y por eso te toca a ti cerrarlo."
+        ]
+      }
+    }
+  }
+}

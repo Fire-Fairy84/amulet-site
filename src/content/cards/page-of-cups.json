@@ -1,0 +1,128 @@
+{
+  "id": "page-of-cups",
+  "number": 11,
+  "order": 32,
+  "arcana": "minor",
+  "suit": "cups",
+  "rank": 11,
+  "image": "/assets/cards/page-of-cups.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "cups-11.en.md",
+    "es": "cups-11.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "page-of-cups",
+      "name": "Page of Cups",
+      "seoTitle": "Page of Cups Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "The unexpected feeling surfacing — a crush, a hunch, an image demanding to be made, tenderness from an unlikely quarter. Whimsical, unarmored, easy to…",
+      "summary": "The unexpected feeling surfacing — a crush, a hunch, an image demanding to be made, tenderness from an unlikely quarter. Whimsical, unarmored, easy to dismiss and wrong to. The fish is a message; the page's genius is not laughing at it.",
+      "imageDescription": "A young figure in a flowered tunic stands at the shore, holding a single cup — out of which a fish looks back, unannounced and unbothered. The page, instead of startling, regards the fish with something like delighted attention. Behind them the sea moves. The whole card is one small absurd event being taken exactly seriously enough.",
+      "upright": {
+        "keywords": [
+          "the fish in the cup, feeling's apprentice, intuition surfacing, tenderness offered awkwardly, creative whimsy, the message from under the water"
+        ],
+        "essay": [
+          "Every page is an apprentice, and this one apprentices in the suit's native craft: receiving. The Page of Cups is the moment feeling surfaces somewhere unauthorized — the fish appearing in the cup, which is to say: the crush at the wrong age, the tears during the ordinary film, the hunch with no data behind it, the sudden pull to write or paint or call someone, arriving without paperwork in a life that had its emotions filed. The card's entire teaching is in the page's face: not alarm, not mockery — attention. Something alive has shown up in the vessel. The page's move, and yours, is to look at it before deciding what it is.",
+          "This card guards the doorway where intuition enters, and it knows the doorway's enemy: sophistication. The inner voice that says too old for this, too silly, not a real signal — the voice that would have tipped the fish back into the sea before it spoke. Cups-intuition rarely arrives dressed for the boardroom; it comes as whim, image, mood, a joke that lands strangely deep, a dream that follows you to lunch. Dismissing it for its costume is the standard error of intelligent people, and the Page exists as the correction: the signal-to-costume ratio of feelings is not knowable at arrival. Give the fish a hearing. Write the odd idea down. Say the tender thing even though your delivery will be clumsy — pages are clumsy; it is the credential of their sincerity.",
+          "There is also, in the flowered tunic and the shoreline setting, a statement about emotional beginnings at any age. The Page of Cups is not necessarily young; it is new — the person learning to feel again after numbness, the adult having their first honest crush in a decade, the professional discovering an artistic pull twenty years into a sensible career. Apprenticeship in feeling restarts whenever depth does, and it always restarts at page-rank: awkward, disproportionate, slightly embarrassing. The card's kindness is to rank that state correctly — not as regression, but as the first form of everything the suit later builds. The Two's exchange, the Ten's household: all of it begins as a fish in a cup, regarded with delight instead of dropped.",
+          "Practically, the card often carries literal news of the heart's kind: the message from an admirer, the invitation with feeling in it, the child or childlike person bearing something true, the creative prompt that will grow if watered this week. Whatever it is, it is small, alive, and easily tipped back into the sea. The entire assignment is the page's posture: hold the cup steady, and listen to the fish."
+        ],
+        "work": [
+          "The hunch with no data yet, the creative pull twenty years into a sensible career — give it a hearing before the boardroom voice files it. Write the odd idea down today."
+        ],
+        "love": [
+          "Tenderness offered clumsily — the crush, the message, the feeling at the wrong age. Clumsiness is sincerity's credential at this rank. Say it anyway."
+        ],
+        "self": [
+          "Feeling's apprenticeship restarts whenever depth does — awkward, disproportionate, slightly embarrassing. That's not regression; it's the first form of everything the suit builds."
+        ],
+        "note": [
+          "Not childishness and not yet love or vocation — a fish in a cup: small, alive, unclassified. The only error available is tipping it back unheard."
+        ]
+      },
+      "reversed": {
+        "summary": "The message unheard — intuition suppressed and souring into moods, tenderness swallowed until it ferments, or feeling used as a permanent weather system that excuses everything and delivers nothing. The fish is still talking. Someone put the cup down.",
+        "keywords": [
+          "the fish dismissed, intuition swallowed, emotional immaturity, moods without messages, escapism's shallows, the sulking apprentice"
+        ],
+        "essay": [
+          "Reversed, the Page of Cups mishandles the fish in one of three ways: refusing it, drowning in it, or weaponizing it.",
+          "Refusal is the quiet one. The hunch arrives and is overruled; the tears are held at the eye's border and reabsorbed; the creative flicker is filed under later. This looks like maturity and costs like it doesn't: intuition suppressed does not vanish — it degrades into mood. The unheard message becomes free-floating irritability, the unfelt grief becomes weather, the uncreated thing becomes a restlessness that shops, scrolls, and snacks. If you have been mysteriously heavy lately, the reversed page suggests an unopened envelope: some feeling flagged for review weeks ago and never granted its meeting. The repair is administrative and small — give the fish its hearing, retroactively. What was I about to feel when I changed the subject? Ask it on paper. The answer is usually still there, patient as tide.",
+          "Drowning is the opposite mishandling: whimsy without a shore. Feeling as the whole method — decisions made purely by mood, boundaries dissolved by every sad story, the daydream expanded until it replaces the day. The suit's water is a depth, not an address, and the page who wades out and stays becomes the person others cannot rely on and eventually cannot find: charming, fluid, and never quite there for the hard appointment. The card's counsel here is a shoreline: one commitment kept regardless of mood, weekly, as practice. Feeling matures not by being obeyed or refused but by being consulted — a voice at the table, not the chair.",
+          "Weaponizing is the sulk: sensitivity converted into leverage. The hurt performed at theatrical scale, the mood deployed until the room reorganizes around it, tenderness kept on the tariff schedule — I was vulnerable with you, now you owe. This is the page's shadow at its least charming, and its origin is usually honest: somewhere back, real feeling went unheard so often that only staged feeling got a response. But the tactic eats its own supply — audiences learn, discount, and leave — and the fish, the actual message under all the theater, goes permanently undelivered. The way back is unstaged smallness: one true feeling, said plainly, at conversational volume, with nothing demanded in return. It will feel like disarmament. It is — and it is also the only known way to be heard for real, which was the original want, before the theater got built."
+        ],
+        "work": [
+          "Mysteriously heavy for weeks — check for the unopened envelope: what were you about to feel when you changed the subject? The hunch you overruled is still on file."
+        ],
+        "love": [
+          "Tenderness on the tariff schedule, or moods run as leverage — the theater gets responses and eats the audience. One true feeling, said plainly, nothing demanded."
+        ],
+        "self": [
+          "Whimsy needs a shoreline: one commitment kept regardless of mood, weekly. Feeling is a voice at the table, not the chair."
+        ],
+        "note": [
+          "Not sensitivity condemned — sensitivity mishandled. The fish was never the problem; the problem is the cup set down, or the sea moved into."
+        ]
+      }
+    },
+    "es": {
+      "slug": "sota-de-copas",
+      "name": "Sota de Copas",
+      "seoTitle": "Sota de Copas en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "El sentimiento que asoma cuando no lo esperabas — un enamoramiento, una corazonada, una imagen que pide ser hecha, ternura que llega por donde no toca.…",
+      "summary": "El sentimiento que asoma cuando no lo esperabas — un enamoramiento, una corazonada, una imagen que pide ser hecha, ternura que llega por donde no toca. Caprichoso, sin defensas, fácil de descartar y un error hacerlo. El pez es un mensaje; el don de la sota es no reírse de él.",
+      "imageDescription": "Una figura joven con túnica de flores, de pie en la orilla, sostiene una sola copa — y desde dentro un pez le devuelve la mirada, sin avisar y tan tranquilo. La sota, en vez de sobresaltarse, mira al pez con algo parecido a una atención encantada. Detrás, el mar se mueve. La carta entera es un pequeño absurdo tomado justo con la seriedad que merece.",
+      "upright": {
+        "keywords": [
+          "el pez en la copa, aprendiz del sentir, la intuición asomando, ternura ofrecida con torpeza, capricho creativo, el mensaje que llega desde debajo del agua"
+        ],
+        "essay": [
+          "Toda sota es aprendiz, y esta aprende el oficio propio del palo: recibir. La Sota de Copas es el momento en que el sentimiento asoma donde nadie le dio permiso — el pez apareciendo en la copa, es decir: el enamoramiento a la edad que no toca, las lágrimas en la película más tonta, la corazonada sin un solo dato detrás, las ganas repentinas de escribir o pintar o llamar a alguien, que aparecen sin avisar en una vida que tenía las emociones archivadas y en orden. Toda la enseñanza de la carta está en la cara de la sota: ni alarma, ni burla — atención. Algo vivo se ha presentado en la copa. Lo que hace la sota, y lo que haces tú, es mirarlo antes de decidir qué es.",
+          "Esta carta guarda la puerta por donde entra la intuición, y conoce al enemigo de esa puerta: creerse por encima. La voz de dentro que dice ya estoy mayor para esto, es una tontería, no es nada serio, no es señal de verdad — es la voz que habría devuelto el pez al mar antes de dejarlo hablar. La intuición de copas casi nunca llega con traje de reunión seria; llega como capricho, imagen, estado de ánimo, un chiste que cae más hondo de lo que debería, un sueño que te persigue hasta la hora de comer. Descartarla por su pinta es el error típico de la gente lista, y la Sota existe para corregirlo: cuánto vale de verdad un sentimiento no se sabe en cuanto llega. Deja hablar al pez. Apunta la idea rara. Di la cosa tierna aunque te salga torpe — las sotas son torpes; esa torpeza es la prueba de que van en serio.",
+          "Hay también, en la túnica de flores y la orilla, algo que decir sobre empezar a sentir a cualquier edad. La Sota de Copas no es necesariamente joven; es nueva: la persona que aprende a sentir otra vez después de años en blanco, la adulta con su primer enamoramiento honesto en diez años, el profesional que descubre ganas de crear tras veinte años de una carrera sensata. El aprendizaje de sentir vuelve a empezar cada vez que vuelve la profundidad, y siempre empieza como una sota: torpe, exagerado, un poco vergonzoso. La bondad de la carta está en colocar bien ese estado, no como un retroceso, sino como la primera forma de todo lo que el palo construye después. El intercambio del Dos, el hogar del Diez: todo empieza como un pez en una copa, mirado con deleite en vez de tirado de vuelta al agua.",
+          "En lo práctico, la carta suele traer noticias literales del corazón: el mensaje de alguien que te admira, la invitación con sentimiento dentro, el niño o la persona con alma de niño que trae algo verdadero, el impulso creativo que crecerá si lo riegas esta semana. Sea lo que sea, es pequeño, está vivo, y es fácil devolverlo al mar. La tarea entera es la postura de la sota: sostén la copa firme, y escucha al pez."
+        ],
+        "work": [
+          "La corazonada que aún no tiene datos, las ganas de crear a veinte años de una carrera sensata — dale audiencia antes de que la voz de la razón la archive. Apunta hoy la idea rara."
+        ],
+        "love": [
+          "Ternura ofrecida con torpeza — el enamoramiento, el mensaje, el sentimiento a la edad que no toca. En este rango, la torpeza es la prueba de que va en serio. Dilo igual."
+        ],
+        "self": [
+          "El aprendizaje de sentir vuelve a empezar cada vez que vuelve a empezar la hondura — torpe, exagerado, un poco vergonzoso. No es un retroceso; es la primera forma de todo lo que el palo construye."
+        ],
+        "note": [
+          "No es una niñería y todavía no es amor ni vocación — un pez en una copa: pequeño, vivo, sin clasificar. El único error posible es devolverlo al agua sin oírlo."
+        ]
+      },
+      "reversed": {
+        "summary": "El mensaje sin oír — la intuición callada que se agria en estados de ánimo, la ternura tragada hasta pudrirse, o el sentimiento usado como un clima permanente que todo lo excusa y nada entrega. El pez sigue hablando. Alguien dejó la copa en el suelo.",
+        "keywords": [
+          "el pez descartado, la intuición tragada, inmadurez emocional, estados de ánimo sin mensaje, el agua poco honda del escapismo, el aprendiz enfurruñado"
+        ],
+        "essay": [
+          "Invertida, la Sota de Copas maneja mal el pez de una de tres maneras: rechazándolo, ahogándose en él, o usándolo como arma.",
+          "El rechazo es la forma silenciosa. Llega la corazonada y se descarta; las lágrimas se quedan al borde del ojo y vuelven adentro; la chispa creativa se archiva bajo «más tarde». Esto parece madurez, pero tiene un coste: la intuición callada no desaparece, se convierte en estado de ánimo. El mensaje que no escuchas se vuelve mal humor sin motivo, el duelo no sentido se vuelve una nube y lo que no creas se vuelve una inquietud que compra, hace scroll y picotea. Si últimamente andas pesada sin saber por qué, la sota invertida apunta a una carta sin abrir: algún sentimiento que apartaste hace semanas y al que nunca diste su momento. La reparación es pequeña y sencilla: dale al pez su audiencia, aunque sea tarde. «¿Qué estaba a punto de sentir cuando cambié de tema?». Pregúntatelo por escrito. La respuesta suele seguir ahí, paciente como la marea.",
+          "Ahogarse es lo contrario: capricho sin orilla. El sentimiento como método único — decisiones tomadas solo por el ánimo del momento, límites que se disuelven con cada historia triste, el ensueño que crece hasta reemplazar el día entero. El agua del palo es una hondura, no una dirección donde mudarse, y la sota que se mete y se queda se vuelve la persona con la que los demás no pueden contar y a la que al final ni encuentran: encantadora, escurridiza, y nunca del todo presente para la cita difícil. Aquí el consejo de la carta es una orilla: un compromiso que cumples pase lo que pase con tu ánimo, cada semana, como práctica. El sentimiento madura cuando no lo obedeces ni lo rechazas, sino que lo consultas — una voz más en la mesa, no quien manda.",
+          "Usarlo como arma es la rabieta: la sensibilidad convertida en palanca. El dolor actuado a lo grande, el ánimo desplegado hasta que la sala entera se reordena a su alrededor, la ternura cobrada como un peaje — me abrí contigo, ahora me lo debes. Esta es la sombra de la sota en su versión menos encantadora, y su origen suele ser honesto: en algún momento atrás, el sentimiento de verdad quedó sin oír tantas veces que solo el sentimiento montado como escena conseguía respuesta. Pero la táctica se come su propia fuente — el público aprende, deja de creerlo y se va — y el pez, el mensaje real debajo de todo el teatro, se queda sin entregar para siempre. La vuelta es pequeñez sin escenario: un sentimiento verdadero, dicho llano, en voz de conversación, sin pedir nada a cambio. Se sentirá como bajar la guardia. Lo es — y es también la única forma conocida de que te oigan de verdad, que era lo que querías desde el principio, antes de montar el teatro."
+        ],
+        "work": [
+          "Pesada desde hace semanas sin saber por qué — busca la carta sin abrir: ¿qué estabas a punto de sentir cuando cambiaste de tema? La corazonada a la que le quitaste la razón sigue en el expediente."
+        ],
+        "love": [
+          "La ternura cobrada como peaje, o los ánimos usados como palanca — el teatro consigue respuestas y se come al público. Un sentimiento verdadero, dicho llano, sin pedir nada."
+        ],
+        "self": [
+          "El capricho necesita una orilla: un compromiso que cumples pase lo que pase con tu ánimo, cada semana. El sentimiento es una voz más en la mesa, no quien manda."
+        ],
+        "note": [
+          "No es la sensibilidad condenada — es la sensibilidad mal manejada. El pez nunca fue el problema; el problema es la copa dejada en el suelo, o el mar convertido en casa."
+        ]
+      }
+    }
+  }
+}

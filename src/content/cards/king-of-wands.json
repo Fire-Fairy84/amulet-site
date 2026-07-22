@@ -1,0 +1,128 @@
+{
+  "id": "king-of-wands",
+  "number": 14,
+  "order": 77,
+  "arcana": "minor",
+  "suit": "wands",
+  "rank": 14,
+  "image": "/assets/cards/king-of-wands.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "wands-14.en.md",
+    "es": "wands-14.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "king-of-wands",
+      "name": "King of Wands",
+      "seoTitle": "King of Wands Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "Fire in its mastery — the vision held for years, the boldness that now signs its name, leadership that lights others' torches rather than burning alone.…",
+      "summary": "Fire in its mastery — the vision held for years, the boldness that now signs its name, leadership that lights others' torches rather than burning alone. Ready to rise, choosing when. The circle of the salamander: begun, sustained, completed.",
+      "imageDescription": "A king sits at the edge of his throne, torso turned, ready to stand — the least seated of all the kings. His wand rests on the ground like a staff of office, not a weapon. On his throne and cape, salamanders: and here, uniquely, they bite their own tails, the fire's circle finally closed. A live salamander waits beside the throne, unhurried.",
+      "upright": {
+        "keywords": [
+          "vision with tenure, fire governed, the leader who delegates the flame, entrepreneurial maturity, bold and accountable, the salamander complete"
+        ],
+        "essay": [
+          "The suit that began with a page holding a stick in the desert ends with a man who could rule from horseback but has chosen a chair — barely. The King of Wands sits the way fire sits: at the edge, turned, one order from standing. This is the card of vision with tenure: not the spark (the page has it), not the charge (the knight's), not the warmth (the queen's), but the sustained will that turns a decade of those into an institution. The king's fire is no smaller than theirs. It is simply, at last, governed — and governed fire is the only kind that builds.",
+          "The mark of this maturity is delegation of the flame. Early fire must do everything itself; the king's defining act is lighting other people's torches and letting them carry the light imperfectly. Watch for the difference in a leader: the knight-leader is the best performer in the room and the room stalls without him; the king-leader has made himself progressively unnecessary to everything except the direction. If the reading finds you unable to hand off the work you love, this card is the promotion you keep declining: your fire's next form is not more output. It is heat that other people work by.",
+          "His salamanders bite their tails, and the detail is the whole degree: fire that completes its circles. The king's authority comes less from vision — visions are cheap in this suit — than from a public record of finished arcs: the thing announced, built, shipped, and stood behind when it cracked. Boldness with a return address. That is why his risks read as leadership while the same risks, unsigned, read as gambling. When this card asks you to be audacious, and it does, the audacity comes with the king's one condition: sign it. Take the swing in your own name, where the consequences know where you live.",
+          "And note what the card is not: not the empire card, not conquest, not fire annexing everything adjacent. The king sits in one kingdom, deliberately his. Mature fire has learned the discipline that young fire calls betrayal — the no that protects the yes, the ambition narrowed until it can be honored. His question is the suit's final exam: of everything you could still ignite, what is the one fire you are willing to tend for years? Answer it, and the rest of the wands organize themselves into kindling for exactly that."
+        ],
+        "work": [
+          "Lead by direction, not performance — light torches, delegate the flame, make yourself unnecessary to everything but the vision. Sign your risks."
+        ],
+        "love": [
+          "The committed fire — passion with tenure, boldness with a return address. Choosing one hearth for years and finding it deepens rather than dims."
+        ],
+        "self": [
+          "The final exam of the suit: of all you could ignite, which one fire will you tend for years? The no that protects that yes is not betrayal."
+        ],
+        "note": [
+          "Not conquest, not the empire. One kingdom, deliberately chosen. And not the end of boldness — the end of unsigned boldness."
+        ]
+      },
+      "reversed": {
+        "summary": "Governed fire ungoverning — the visionary turned bottleneck, the standard turned whip, boldness aged into either tyranny or nostalgia. Torches unlit on purpose. The kingdom dims to match its king.",
+        "keywords": [
+          "the tyrant's spark, vision hoarded, expectation without mentorship, the king who won't stand or won't sit, arrogance of the once-bold, fire ruling instead of serving"
+        ],
+        "essay": [
+          "Reversed, the King of Wands fails at the exact point of his mastery: the governing. The fire is still real — this card's reversals are never about absence of flame — but the relationship between the fire and the ruling has broken, in one of three recognizable ways.",
+          "The first is the bottleneck king: vision hoarded as control. Every decision routed through him, every torch lit personally or not at all, delegation preached and revoked in the same week. The tell is a team that has stopped bringing ideas — not because they lack fire but because the king's fire audits theirs to death. Leaders reversed this way usually believe they are maintaining standards; what they are maintaining is their own necessity, which is a different asset with a worse chart. The repair is one real handoff: a decision that matters, given away completely, mistakes included — and the discipline of watching it be done differently without retaking it. Kingdoms grow at exactly the rate their kings tolerate imperfect torch-carrying.",
+          "The second is the whip: fire's expectations without fire's mentorship. The reversed king demands knight-speed and queen-warmth from everyone while supplying no ignition — the standard raised, the path unlit, disappointment distributed as motivation. Under this regime people do not become bold; they become careful, which is the opposite, and the king reads their carefulness as further proof they need the whip. If you lead anything and the people around you have grown cautious, the card suggests the thermostat is yours. Boldness downstream of you is purchased with tolerated failure, publicly modeled — nothing else buys it.",
+          "The third is quieter and saddest: the abdicated fire. The king who conquered once and now curates the conquest — the founder retelling the founding, the early risk become late risk-aversion, the edge-of-seat posture stiffened into a man who neither stands nor truly sits. Nostalgia is fire's retirement fraud: it pays out the feeling of boldness without requiring any. The reversal here is an unignorable memo: the kingdom does not need your history, it needs your next act — smaller than the founding, probably, and present tense, necessarily. The salamander that left the throne's side has not gone far. It waits, as fire always waits, for the king to want it more than the record of having had it."
+        ],
+        "work": [
+          "The bottleneck — every torch lit personally or not at all, teams gone careful under the audit. Hand off one real decision, mistakes included, and don't retake it."
+        ],
+        "love": [
+          "Standards without warmth, the whip without the hearth — or the founder of the relationship curating its founding. The next act is owed, present tense."
+        ],
+        "self": [
+          "Boldness aged into nostalgia — the edge-of-seat posture stiffened. The record of having had fire is not fire. What is the next signed risk?"
+        ],
+        "note": [
+          "Not the flame gone out — reversed kings never lack fire. The break is in the governing: fire ruling the king instead of serving the kingdom."
+        ]
+      }
+    },
+    "es": {
+      "slug": "rey-de-bastos",
+      "name": "Rey de Bastos",
+      "seoTitle": "Rey de Bastos en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "El fuego en su madurez: una visión sostenida durante años, audacia asumida en primera persona y liderazgo que enciende a otras personas en lugar de arder…",
+      "summary": "El fuego en su madurez: una visión sostenida durante años, audacia asumida en primera persona y liderazgo que enciende a otras personas en lugar de arder en solitario. Está listo para actuar y elige cuándo. El ciclo ha empezado, se ha sostenido y se completa.",
+      "imageDescription": "Un rey sentado al borde de su trono, el torso girado, listo para levantarse — el menos sentado de todos los reyes. Su basto descansa en el suelo como bastón de mando, no como arma. En su trono y su capa, salamandras: y aquí, únicamente aquí, se muerden la cola — el círculo del fuego por fin cerrado. Una salamandra viva espera junto al trono, sin prisa.",
+      "upright": {
+        "keywords": [
+          "visión sostenida, fuego bien dirigido, el líder que delega, madurez emprendedora, audaz y responsable, el ciclo completo"
+        ],
+        "essay": [
+          "El palo que empezó con una sota sosteniendo un basto en el desierto termina con un rey que podría gobernar a caballo, pero ha elegido sentarse. El Rey de Bastos se sienta al borde del trono, listo para levantarse. Esta es la carta de la visión sostenida: no la chispa de la sota, ni el impulso del Caballero, ni la calidez de la Reina, sino la voluntad que mantiene todo eso durante años y lo convierte en algo sólido. Su fuego no es menor; está bien dirigido, y por eso puede construir.",
+          "La marca de esta madurez es la delegación de la llama. El fuego joven tiene que hacerlo todo él mismo; el acto que define al rey es encender las antorchas de otros y dejar que lleven la luz imperfectamente. Busca la diferencia en un líder: el líder-caballo es el mejor ejecutante de la sala y la sala se atasca sin él; el líder-rey se ha vuelto progresivamente innecesario para todo excepto la dirección. Si la lectura te encuentra incapaz de entregar el trabajo que amas, esta carta es el ascenso que llevas tiempo rechazando: la siguiente forma de tu fuego no es más producción. Es calor con el que trabajan otros.",
+          "Las salamandras se muerden la cola: el fuego completa sus ciclos. La autoridad del Rey no viene solo de tener visión, sino de haber llevado proyectos hasta el final: anunciarlos, construirlos, publicarlos y sostenerlos cuando se complican. Por eso sus riesgos se leen como liderazgo. Cuando esta carta te pide audacia, añade una condición: asúmela en tu propio nombre y acepta sus consecuencias.",
+          "Y fíjate en lo que la carta no es: no es la carta del imperio, ni conquista, ni el fuego anexionando todo lo adyacente. El rey se sienta en un reino, deliberadamente suyo. El fuego maduro ha aprendido la disciplina que el fuego joven llama traición — el no que protege al sí, la ambición estrechada hasta poder honrarse. Su pregunta es el examen final del palo: de todo lo que aún podrías encender, ¿cuál es el único fuego que estás dispuesta a atender durante años? Respóndela, y el resto de los bastos se organizan solos como leña para exactamente eso."
+        ],
+        "work": [
+          "Lidera por dirección, no por ejecución — enciende antorchas, delega la llama, hazte innecesaria para todo menos la visión. Firma tus riesgos."
+        ],
+        "love": [
+          "El fuego comprometido: una pasión que se mantiene con el tiempo y una audacia que asume sus consecuencias. Elegir un solo hogar durante años y descubrir que se profundiza en lugar de apagarse."
+        ],
+        "self": [
+          "El examen final del palo: de todo lo que podrías encender, ¿qué único fuego atenderás durante años? El no que protege ese sí no es traición."
+        ],
+        "note": [
+          "No es conquista, no es el imperio. Un reino, deliberadamente elegido. Y no es el fin de la audacia — es el fin de la audacia sin firmar."
+        ]
+      },
+      "reversed": {
+        "summary": "El fuego gobernado desgobernándose — el visionario vuelto cuello de botella, el estándar vuelto látigo, la audacia envejecida en tiranía o en nostalgia. Antorchas sin encender a propósito. El reino se atenúa hasta igualar a su rey.",
+        "keywords": [
+          "la chispa del tirano, visión acaparada, exigencia sin mentoría, el rey que ni se levanta ni se sienta, arrogancia del que fue audaz, el fuego gobernando en vez de servir"
+        ],
+        "essay": [
+          "Invertido, el Rey de Bastos falla en el punto exacto de su maestría: el gobernar. El fuego sigue siendo real — las inversiones de esta carta nunca tratan de ausencia de llama — pero la relación entre el fuego y el mando se ha roto, de una de tres maneras reconocibles.",
+          "La primera es el rey cuello de botella: la visión acaparada como control. Cada decisión pasando por él, cada antorcha encendida personalmente o no encendida, la delegación predicada y revocada la misma semana. El delator es un equipo que ha dejado de traer ideas — no porque le falte fuego sino porque el fuego del rey somete el suyo a examen hasta apagarlo. Los líderes invertidos así suelen creer que mantienen estándares; lo que mantienen es su propia necesidad, que es otro activo con peor gráfica. La reparación es una entrega real: una decisión que importe, cedida por completo, errores incluidos — y la disciplina de mirar cómo se hace distinto sin retomarla. Los reinos crecen exactamente al ritmo al que sus reyes toleran antorchas mal llevadas.",
+          "La segunda es el látigo: las exigencias del fuego sin la mentoría del fuego. El rey invertido pide velocidad de caballo y calidez de reina a todo el mundo sin suministrar ignición — el estándar subido, el camino sin luz, la decepción repartida como motivación. Bajo este régimen la gente no se vuelve audaz; se vuelve cuidadosa, que es lo contrario, y el rey lee su cuidado como prueba adicional de que necesitan el látigo. Si lideras algo y la gente a tu alrededor se ha vuelto cautelosa, la carta sugiere que el termostato es tuyo. La audacia río abajo de ti se compra con fracaso tolerado, modelado en público — ninguna otra cosa la compra.",
+          "La tercera es más silenciosa y más triste: el fuego abdicado. El rey que conquistó una vez y ahora es curador de la conquista — el fundador recontando la fundación, el riesgo temprano vuelto aversión tardía, la postura de borde de silla envarada en un hombre que ni se levanta ni de verdad se sienta. La nostalgia es el fraude de jubilación del fuego: paga la sensación de audacia sin exigir ninguna. La inversión aquí es un memorándum inignorable: el reino no necesita tu historia, necesita tu próximo acto — más pequeño que la fundación, probablemente, y en presente, necesariamente. La salamandra que se fue del costado del trono no ha ido lejos. Espera, como espera siempre el fuego, a que el rey la quiera más que al registro de haberla tenido."
+        ],
+        "work": [
+          "El cuello de botella — cada antorcha tiene que encenderla él o no se enciende, y el equipo se vuelve cauteloso bajo su mirada. Cede una decisión real, errores incluidos, y no la retomes."
+        ],
+        "love": [
+          "Exigencia sin calidez, el látigo sin el hogar — o el fundador de la relación curando su fundación. El próximo acto se debe, en presente."
+        ],
+        "self": [
+          "La audacia se ha convertido en nostalgia. Recordar que tuviste fuego no equivale a tenerlo ahora. ¿Cuál es el próximo riesgo que estás dispuesta a asumir?"
+        ],
+        "note": [
+          "No es la llama apagada — a los reyes invertidos nunca les falta fuego. La rotura está en el gobernar: el fuego mandando sobre el rey en vez de servir al reino."
+        ]
+      }
+    }
+  }
+}

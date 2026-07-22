@@ -1,0 +1,128 @@
+{
+  "id": "four-of-cups",
+  "number": 4,
+  "order": 25,
+  "arcana": "minor",
+  "suit": "cups",
+  "rank": 4,
+  "image": "/assets/cards/four-of-cups.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "cups-04.en.md",
+    "es": "cups-04.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "four-of-cups",
+      "name": "Four of Cups",
+      "seoTitle": "Four of Cups Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "The flat season — enough on the table and no appetite for it; offers arriving into a field of \"no thanks.\" Saturation, withdrawal, or genuine…",
+      "summary": "The flat season — enough on the table and no appetite for it; offers arriving into a field of \"no thanks.\" Saturation, withdrawal, or genuine reassessment: the reading turns on which. Meanwhile a fourth cup waits at the edge of vision.",
+      "imageDescription": "A man sits beneath a tree, arms crossed, eyes down, before three standing cups he has evidently lost interest in. From a small cloud at his side, a hand offers a fourth cup — and he does not see it, or will not. The grass is green. The tree is generous. Everything about the scene is fine, which is exactly the problem.",
+      "upright": {
+        "keywords": [
+          "apathy amid plenty, the refused offer, emotional saturation, contemplation or sulking, the fourth cup unseen, wanting elsewhere"
+        ],
+        "essay": [
+          "After the Three's party, the hangover — not of wine but of feeling. The Four of Cups is emotional saturation: the state in which perfectly good things arrive and produce nothing. The invitation you leave on read, the opportunity that would have thrilled you two years ago, the relationship pleasant enough that its pleasantness has become invisible. Three cups stand full and the man cannot be bothered — and the card's genius is refusing to tell you, at first glance, whether he is wrong.",
+          "Because sometimes this state is legitimate and even necessary. Feeling has seasons, and after intensity — the celebration, the crisis, the deep exchange — comes an integrative flatness where the system digests. The crossed arms can be the posture of real contemplation: a person taking inventory, checking whether the wants they have been pursuing are still theirs. Wanting nothing on the menu is occasionally the first sign of having outgrown the restaurant. If the apathy is recent, roughly proportionate, and quiet rather than bitter, the card may simply be granting permission: sit under the tree. Digest. Appetite interrogated too aggressively lies.",
+          "But the card keeps a second file, and it is thicker. Apathy is also the sulk that outlived its cause; the withdrawal that began as rest and calcified into a stance; the discontent that has stopped being information about the cups and become a policy about all cups. The tell is the fourth one — the offer at the frame's edge, actively arriving, unseen. Saturated people miss new offers innocently. Entrenched people refuse to see them, because noticing an offer would obligate them to re-enter the economy of wanting, and the sulk has become load-bearing: as long as nothing is worth wanting, nothing can disappoint. That is not peace. That is insurance, paid for in a currency — time, aliveness, the fourth cup — that does not refund.",
+          "The card's practical test is small and reliable: name the offer you are currently not-seeing. Everyone in a Four of Cups season has one — the check-in text unanswered, the idea that knocked twice, the person whose bids for attention you have been filing as noise. You do not have to accept it. You have to look at it, directly, once, and decline it awake if you decline it. The difference between contemplation and sulking is exactly this: contemplation can see the cloud. Ask what is being offered from just outside your current field of vision — and notice how much effort it has been taking to keep it just outside."
+        ],
+        "work": [
+          "Competent and flat — the projects fine, the appetite gone. Distinguish digestion from entrenchment: name the offer you've been filing as noise, and look at it once."
+        ],
+        "love": [
+          "Pleasantness gone invisible; bids for attention left on read. The fourth cup is often the partner's newest attempt. Decline awake or accept awake — just see it."
+        ],
+        "self": [
+          "Saturation after intensity is legitimate — sit under the tree. But sulk that outlives its cause becomes policy. As long as nothing's worth wanting, nothing can disappoint: that's insurance, not peace."
+        ],
+        "note": [
+          "Not depression's whole story and not ingratitude — a season of closed intake. The cups are full; the fault, for now, is not in the cups."
+        ]
+      },
+      "reversed": {
+        "summary": "The intake reopening — interest stirring, an offer finally noticed, appetite's first honest twitch after the flat season. Take the small yes seriously. Or, unheeded: withdrawal fossilizing. The same card; the hinge is whether the eyes lift.",
+        "keywords": [
+          "appetite returning, the fourth cup finally seen, emergence from withdrawal, the yes after the long no, stagnation ending — or deepening past reach"
+        ],
+        "essay": [
+          "Reversed, the Four of Cups is the flat season at its hinge — and it swings both ways, so the first task is to feel which way yours is moving.",
+          "The hopeful reading is emergence, and it is the more common one: after the months of no, something registers. Not fireworks — reversal-of-apathy never announces itself with fireworks. It is smaller and more specific: a flicker of curiosity about a stranger's project, an old appetite returning unannounced at a market stall, the sudden noticing that the light is good today. These are the fourth cup entering vision, and the card's entire counsel is to treat the twitch as signal, not noise. Follow the flicker at the scale it arrives — read the article, take the walk, answer the text — without demanding it justify itself as a Direction. Appetite recovering from saturation is like a limb recovering from numbness: it comes back in pins and needles, and the pins and needles are not the problem. They are the circulation resuming. People abort their own emergence constantly by testing each small want against the question \"but is this the thing?\" — a question no reawakening appetite can survive. Want small things badly first. The big wanting is downstream.",
+          "The darker reading is the entrenchment completed: the sulk fossilized into a self. Here the man has stopped being a person having a flat season and become a connoisseur of insufficiency — fluent in why each cup is not quite it, his refusals now his primary craft. The reversed card marks the stage where help stops being offerable: the cloud-hand does not withdraw in the image, but clouds have budgets, and offers unmet for long enough reroute themselves to addresses where they land. This is not punishment; it is just hydraulics. The card's mercy is that even here it prescribes the identical first move as the hopeful reading, because there is only ever one: lift the eyes. Not gratitude, which is too many steps away. Not enthusiasm. Just the physical act of looking at what is being offered, today, by your actual life — the three standing cups included, which have been full this whole time and have never once been tasted by the person guarding them.",
+          "One further honesty, either direction: the tree is not the world. The Four's little lawn is a fine place to digest and a poor place to live, and the difference is measured in seasons, not in feelings. If you cannot tell whether you are resting or rotting, the grass knows. Check what is yellowing in your exact shape."
+        ],
+        "work": [
+          "The flicker of interest after months of flat — follow it at the scale it arrives, without demanding it be a Direction. Appetite returns in pins and needles."
+        ],
+        "love": [
+          "The bid finally noticed; the yes after the long no. Answer at flicker-scale — the text, the walk, the small plan. Don't test small wants against \"is this the thing?\""
+        ],
+        "self": [
+          "Emergence or fossilization — the hinge is whether the eyes lift. Want small things badly first; big wanting is downstream. And check the grass: what's yellowing in your shape?"
+        ],
+        "note": [
+          "Not a demand for enthusiasm — one step only: look at the offer. And not infinite patience either: clouds have budgets, and unmet offers reroute."
+        ]
+      }
+    },
+    "es": {
+      "slug": "cuatro-de-copas",
+      "name": "Cuatro de Copas",
+      "seoTitle": "Cuatro de Copas en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "La temporada plana: tienes de sobra en la mesa y ningún apetito; las ofertas se estrellan contra un \"no, gracias\". Saturación, retirada o una revisión…",
+      "summary": "La temporada plana: tienes de sobra en la mesa y ningún apetito; las ofertas se estrellan contra un \"no, gracias\". Saturación, retirada o una revisión sincera de tus deseos: la lectura depende de cuál sea. Mientras tanto, una cuarta copa espera al borde de tu vista.",
+      "imageDescription": "Un hombre sentado bajo un árbol, los brazos cruzados, la mirada baja, frente a tres copas que evidentemente han dejado de interesarle. Desde una nube pequeña a su lado, una mano le ofrece una cuarta copa, y él no la ve, o no quiere verla. La hierba está verde. El árbol da buena sombra. Todo en la escena está bien, que es justo el problema.",
+      "upright": {
+        "keywords": [
+          "apatía en medio de la abundancia, la oferta rechazada, saturación emocional, contemplación o enfurruñamiento, la cuarta copa que no se ve, querer estar en otra parte"
+        ],
+        "essay": [
+          "Después de la fiesta del Tres, la resaca: no de vino, sino de sentir. El Cuatro de Copas es la saturación emocional, ese estado en que llegan cosas perfectamente buenas y no despiertan nada. La invitación que dejas en visto, la oportunidad que hace dos años te habría emocionado, la relación tan agradable que su agrado ya no se nota. Tres copas están llenas frente a él y al hombre le da igual, y lo genial de la carta es que, de entrada, no te dice si se equivoca.",
+          "Porque a veces este estado es legítimo, e incluso necesario. Sentir tiene sus temporadas, y después de la intensidad (la celebración, la crisis, la conversación honda) llega una calma sin relieve en la que asimilas lo vivido. Los brazos cruzados pueden ser la postura de la contemplación de verdad: alguien haciendo balance, comprobando si lo que perseguía sigue siendo suyo. No querer nada de la carta es, a veces, la primera señal de que ya se te quedó pequeño el restaurante. Si la apatía es reciente, más o menos proporcionada, y callada en vez de amarga, puede que la carta solo te esté dando permiso: siéntate bajo el árbol. Asimila. El apetito, si lo interrogas con demasiada dureza, miente.",
+          "Pero la carta guarda un segundo expediente, y es más grueso. La apatía es también el enfado que duró más que su motivo; la retirada que empezó como descanso y se endureció en actitud; el descontento que dejó de decirte algo sobre estas copas y se convirtió en una norma contra todas las copas. La señal es la cuarta: la oferta al borde del cuadro, que está llegando de verdad, sin que nadie la vea. Quien está saturado se pierde las ofertas nuevas sin querer. Quien está atrincherado se niega a verlas, porque fijarse en una oferta lo obligaría a volver al juego de querer, y el enfado ya sostiene toda la estructura: mientras nada valga la pena, nada puede decepcionar. Eso no es paz. Es un seguro, pagado con una moneda (tiempo, estar vivo, la cuarta copa) que no se devuelve.",
+          "La prueba práctica de la carta es pequeña y de fiar: dile en voz alta cuál es la oferta que ahora mismo no estás viendo. Todo el que atraviesa una temporada de Cuatro de Copas tiene una: el \"¿cómo estás?\" sin contestar, la idea que llamó a la puerta dos veces, la persona cuyos intentos de acercarse llevas apartando como si fueran ruido. No tienes que aceptarla. Tienes que mirarla, de frente, una vez, y rechazarla con los ojos abiertos, si la rechazas. La diferencia entre contemplar y enfurruñarse es exactamente esta: quien contempla puede ver la nube. Pregúntate qué te están ofreciendo desde justo fuera de tu vista, y fíjate en el esfuerzo que te estaba costando mantenerlo ahí fuera."
+        ],
+        "work": [
+          "Cumples, pero sin ganas: los proyectos van bien, el apetito no está. Distingue asimilar de atrincherarte: di cuál es la oferta que apartabas como ruido, y mírala una vez."
+        ],
+        "love": [
+          "El agrado que ya no se nota; los intentos de acercarse dejados en visto. La cuarta copa suele ser el último intento de tu pareja. Recházalo o acéptalo con los ojos abiertos, pero míralo."
+        ],
+        "self": [
+          "La saturación tras la intensidad es legítima: siéntate bajo el árbol. Pero el enfado que dura más que su motivo se vuelve norma. Mientras nada valga la pena, nada decepciona: eso es un seguro, no es paz."
+        ],
+        "note": [
+          "No es toda la historia de una depresión, ni es ingratitud: es una temporada con la puerta cerrada. Las copas están llenas; el fallo, por ahora, no está en las copas."
+        ]
+      },
+      "reversed": {
+        "summary": "La puerta que se reabre: el interés que se mueve, una oferta por fin vista, el primer tirón sincero del apetito tras la temporada plana. Tómate en serio el sí pequeño. O, si no lo escuchas: la retirada que se vuelve piedra. La misma carta; todo depende de si la mirada se levanta.",
+        "keywords": [
+          "el apetito que vuelve, la cuarta copa por fin vista, la salida de la retirada, el sí después del largo no, el bloqueo que termina o que se hunde fuera de alcance"
+        ],
+        "essay": [
+          "Invertido, el Cuatro de Copas es la temporada plana en su punto de giro, y gira hacia los dos lados, así que lo primero es notar hacia cuál se mueve la tuya.",
+          "La lectura con esperanza es la salida, y es la más frecuente: tras los meses de no, algo se enciende. Nada espectacular, porque que la apatía se dé la vuelta nunca es algo espectacular. Es más pequeño y más concreto: un chispazo de curiosidad por el proyecto de un desconocido, un antojo viejo que vuelve sin avisar en un puesto del mercado, darte cuenta de pronto de que hoy hay buena luz. Eso es la cuarta copa entrando en tu vista, y todo el consejo de la carta es tratar ese tirón como una señal, no como ruido. Sigue el chispazo hasta donde llegue (lee el artículo, da el paseo, contesta el mensaje) sin exigirle que se justifique como si fuera un Rumbo. El apetito recuperándose de la saturación es como un brazo que se te ha dormido y despierta: vuelve con hormigueo, y el hormigueo no es el problema. Es la circulación que se reanuda. La gente aborta su propia salida a cada rato sometiendo cada deseo pequeño a la pregunta \"pero ¿es esto lo mío?\", una pregunta que ningún apetito recién despierto sobrevive. Quiere cosas pequeñas con muchas ganas primero. El querer grande viene después.",
+          "La lectura más oscura es la trinchera terminada: el enfado convertido en piedra, hecho ya un modo de ser. Aquí el hombre ha dejado de ser alguien que pasa una temporada plana y se ha vuelto un experto en lo que falta: sabe explicar por qué cada copa no acaba de ser, y rechazar se le ha vuelto el oficio. La carta invertida marca el punto en que ya no se puede ofrecer ayuda: la mano de la nube no se retira en la imagen, pero las nubes tienen su límite, y las ofertas ignoradas demasiado tiempo se van a otras direcciones donde sí las reciben. No es un castigo; es pura física. La misericordia de la carta es que incluso aquí receta el mismo primer paso que la lectura con esperanza, porque solo hay uno: levantar la mirada. No gratitud, que queda a demasiados pasos. No entusiasmo. Solo el acto físico de mirar lo que tu vida de verdad te está ofreciendo, hoy, las tres copas incluidas, que han estado llenas todo este tiempo y que quien las guarda no ha probado ni una sola vez.",
+          "Una última verdad, gire hacia donde gire: el árbol no es el mundo. El pequeño césped del Cuatro es un buen sitio para asimilar y un mal sitio para vivir, y la diferencia se mide en temporadas, no en sentimientos. Si no sabes distinguir si estás descansando o pudriéndote, la hierba lo sabe. Mira qué se está amarilleando con tu forma exacta."
+        ],
+        "work": [
+          "El chispazo de interés tras meses de temporada plana: síguelo hasta donde llegue, sin exigirle que sea un Rumbo. El apetito vuelve con hormigueo."
+        ],
+        "love": [
+          "El intento por fin visto; el sí después de un largo no. Responde con algo pequeño: un mensaje, un paseo, un plan sencillo. No sometas los deseos pequeños a la pregunta \"¿es esto lo mío?\"."
+        ],
+        "self": [
+          "Salir o volverse piedra: todo depende de si la mirada se levanta. Quiere cosas pequeñas con muchas ganas primero; el querer grande viene después. Y revisa la hierba: ¿qué se está amarilleando con tu forma?"
+        ],
+        "note": [
+          "No es una exigencia de entusiasmo: es un solo paso, mirar la oferta. Y tampoco es paciencia infinita: las nubes tienen su límite, y las ofertas ignoradas se van a otra parte."
+        ]
+      }
+    }
+  }
+}

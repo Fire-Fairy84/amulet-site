@@ -1,0 +1,126 @@
+{
+  "id": "eight-of-swords",
+  "number": 8,
+  "order": 57,
+  "arcana": "minor",
+  "suit": "swords",
+  "rank": 8,
+  "image": "/assets/cards/eight-of-swords.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "swords-08.en.md",
+    "es": "swords-08.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "eight-of-swords",
+      "name": "Eight of Swords",
+      "seoTitle": "Eight of Swords Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "The trap that is partly real and partly believed — restricted, yes, but by a fence with a gap and bindings with slack. Powerlessness as a learned posture…",
+      "summary": "The trap that is partly real and partly believed — restricted, yes, but by a fence with a gap and bindings with slack. Powerlessness as a learned posture outliving its facts. The first step is available and unglamorous: work a hand free. Test the fence.",
+      "imageDescription": "A woman stands bound and blindfolded in a loose ring of eight swords planted in wet ground. Her castle — someone's castle — sits on the cliff behind her. But the bindings, examined, are loose; the blindfold, tied by other hands, could be worked free; the swords fence three sides and leave the fourth open. Nothing in the picture will release her. Everything in the picture would permit it.",
+      "upright": {
+        "keywords": [
+          "the loose bindings, imprisonment by belief, the fence that isn't locked, blindfold and wet ground, restriction real and exaggerated at once, the first step available"
+        ],
+        "essay": [
+          "The Eight of Swords is the deck's most careful card about powerlessness, because it insists on drawing both truths at once. The woman is genuinely bound — someone did this to her; the blindfold is not a metaphor she invented; the ground is cold and the swords are sharp. And the bindings are loose, the fence has a gap, and nothing prevents the first shuffle forward except information she cannot currently access — because the blindfold's whole function is to keep the situation's actual dimensions unknown. The card refuses both easy readings: not \"it's all in your head,\" which insults the real ropes, and not \"you are helpless,\" which the image simply contradicts.",
+          "Its subject is the specific prison of believed constraint. Most cages of adult life are built of true facts assembled into a false conclusion: the job that genuinely demands much, concluded into I cannot leave; the family pattern that genuinely wounded, concluded into I am like this; the finances, the market, the age, the history — each strand real, the resulting mummy-wrap an inference no one ever fact-checked. The Eight's arrival marks the moment for the audit: which of these constraints, tested this month, would actually hold? The card's bet — placed with the fence's open side — is fewer than the blindfold reports.",
+          "The wet ground matters: this is not a comfortable card counseling contentment. Standing still here has costs — cold, rising damp, the castle's distant indifference — and the discomfort is precisely the resource. Fully comfortable prisoners do not test bindings. If the situation has become painful enough to consult the cards about, it has become painful enough to fund the experiment the card prescribes: one constraint, chosen, tested against reality at small scale. Ask the forbidden question and see what actually happens. Update the résumé without deciding anything. Say the unsayable sentence to one safe person. The bindings are not defeated by heroics; they are defeated by evidence.",
+          "And a word about the blindfold's authorship: other hands tied it. The stories about what you cannot do were mostly installed, not written — by the family, the industry, the ex, the era — and the card does not blame the wearer for wearing what was tied on in the dark. It only notes, with its quiet fourth side open, that installed things can be worked loose by the person wearing them, and that this — not rescue, which the castle conspicuously fails to send — is how anyone has ever left this field: one worked-free hand, one lifted corner of cloth, one shuffling step onto ground that turns out, tested, to hold."
+        ],
+        "work": [
+          "The job concluded into \"I can't leave\" from true-but-partial facts — audit the fence: one constraint tested small this month. Update the résumé without deciding anything."
+        ],
+        "love": [
+          "Bound by installed stories — what the family, the ex, the pattern tied on in the dark. Other hands tied it; yours can work it loose. Say the unsayable to one safe person."
+        ],
+        "self": [
+          "Powerlessness as learned posture outliving its facts. Not \"all in your head\" — the ropes were real. But test which still hold: evidence beats heroics."
+        ],
+        "note": [
+          "Not helplessness — the fourth side is open. And not fantasy either: the bindings existed. The card's precision is both at once."
+        ]
+      },
+      "reversed": {
+        "summary": "The constraint seen through — bindings worked loose, the first step taken, the fence revealed as mostly gaps. Freedom with an aftertaste: fury at the time served. Or the shadow: the prison redecorated and defended, release declined because the cage had become load-bearing.",
+        "keywords": [
+          "the release, blindfold off, self-freed, seeing the open side at last, or the deeper burrowing — bindings retied for safety"
+        ],
+        "essay": [
+          "Reversed, the Eight of Swords is the moment after the blindfold — and it divides at what the eyes do with the new information.",
+          "The release reading is the common one, and its texture surprises people: freedom of this kind arrives less as triumph than as a complicated cocktail — relief, disorientation, and a specific retrospective fury: it was this loose the whole time? The card's counsel for the newly-freed covers all three. The relief: trust it; the step you took was real and the ground held, exactly as the open side always implied. The disorientation: expect it and walk anyway — a person who has navigated by constraint for years experiences open ground as vertigo, because every direction being possible feels, for a while, indistinguishable from no direction existing. Choose smally and immediately; freedom is stabilized by use, not by contemplation. And the fury — at the years, at the hands that tied the cloth, at yourself for not testing sooner: let it burn exactly long enough to be information, then retire it. The sentence it wants you to sign — I wasted all that time — is one more binding, tied posthumously. You left when leaving became possible for the person you were. That person also deserves the castle.",
+          "The shadow reading must be said plainly because no one else will say it: sometimes the reversal shows the prisoner declining release. The bindings retied more comfortably; the fence renamed a boundary, a practice, a realism; the offered exit debated until it expires. This happens for a reason the card treats with respect: long constraint reorganizes an identity around itself, and release threatens everything organized — the sympathy that attends the bound, the exemptions from risk, the entire architecture of a life built to fit the cage's dimensions. Freedom, for the long-bound, is not a gift; it is a renovation, and the psyche quotes the cost accurately and flinches. The reversed card does not shame the flinch. It only refuses the vocabulary swap: a cage renamed is a cage, and the years spent decorating it bill at the same rate as the years spent bound. Its question is the gentlest form of the hard thing: what would you have to become if you were free — and is the avoidance of that becoming worth the wet ground? The swords, it notes in closing, have no opinion. They never did. They are just swords, planted by someone long gone, in a field with an open side, on the road to a castle that — this was always the strangest part — has your name somewhere in its books."
+        ],
+        "work": [
+          "Out, and furious it was that loose all along — retire the fury after it informs. \"I wasted time\" is one more binding, tied posthumously. Choose smally; freedom stabilizes by use."
+        ],
+        "love": [
+          "The exit debated until it expires, the cage renamed a boundary — release is a renovation and the psyche flinches at the quote. What would you have to become, free?"
+        ],
+        "self": [
+          "Open ground reads as vertigo after years of navigating by constraint. Every direction possible feels like no direction. Walk anyway; smallness is the compass."
+        ],
+        "note": [
+          "Not shame for the years bound — you left when leaving became possible for who you were. And not shame for the flinch: just no vocabulary swaps. A renamed cage is a cage."
+        ]
+      }
+    },
+    "es": {
+      "slug": "ocho-de-espadas",
+      "name": "Ocho de Espadas",
+      "seoTitle": "Ocho de Espadas en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "La trampa es en parte real y en parte asumida: hay límites, sí, pero la valla tiene huecos y las ataduras están flojas. La sensación de no poder puede…",
+      "summary": "La trampa es en parte real y en parte asumida: hay límites, sí, pero la valla tiene huecos y las ataduras están flojas. La sensación de no poder puede sobrevivir incluso cuando cambian las circunstancias. El primer paso es sencillo: afloja una mano y prueba la valla.",
+      "imageDescription": "Una mujer de pie, atada y con los ojos vendados, en un anillo suelto de ocho espadas clavadas en suelo mojado. Su castillo — el castillo de alguien — se alza en el acantilado detrás. Pero las ataduras, examinadas, están flojas; la venda, atada por otras manos, podría aflojarse; las espadas cercan tres lados y dejan el cuarto abierto. Nada en la imagen la liberará. Todo en la imagen lo permitiría.",
+      "upright": {
+        "keywords": [
+          "las ataduras flojas, prisión por creencia, la valla sin cerradura, venda y suelo mojado, restricción real y exagerada a la vez, el primer paso disponible"
+        ],
+        "essay": [
+          "El Ocho de Espadas es la carta más cuidadosa de la baraja sobre la impotencia, porque insiste en dibujar las dos verdades a la vez. La mujer está genuinamente atada — alguien le hizo esto; la venda no es una metáfora que ella inventó; el suelo está frío y las espadas afiladas. Y las ataduras están flojas, la valla tiene un hueco, y nada impide el primer paso arrastrado hacia delante excepto información a la que ahora no puede acceder — porque la función entera de la venda es mantener desconocidas las dimensiones reales de la situación. La carta rechaza las dos lecturas fáciles: ni \"está todo en tu cabeza\", que insulta a las cuerdas reales, ni \"estás indefensa\", que la imagen sencillamente contradice.",
+          "Esta carta habla de la prisión de las limitaciones que damos por hechas. Muchas jaulas de la vida adulta nacen de hechos reales que desembocan en una conclusión falsa: un trabajo exigente se convierte en «no puedo irme»; una herida familiar, en «yo soy así». Las finanzas, la edad o la historia pueden ser límites reales, pero no siempre justifican la conclusión que extraemos. El Ocho invita a comprobarlos: ¿cuál de estas barreras seguiría en pie si la pusieras a prueba este mes? Probablemente menos de las que imaginas.",
+          "El suelo mojado importa: esta no es una carta cómoda aconsejando conformidad. Quedarse quieta aquí tiene costes — el frío, la humedad subiendo, la indiferencia lejana del castillo — y la incomodidad es precisamente el recurso. Los prisioneros del todo cómodos no prueban las ataduras. Si la situación se ha vuelto lo bastante dolorosa como para consultarle a las cartas, se ha vuelto lo bastante dolorosa como para financiar el experimento que la carta receta: una restricción, elegida, probada contra la realidad a escala pequeña. Haz la pregunta prohibida y mira qué pasa de verdad. Actualiza el currículum sin decidir nada. Di la frase indecible a una persona segura. Las ataduras no se vencen con heroísmo; se vencen con evidencia.",
+          "Y una palabra sobre la autoría de la venda: la ataron otras manos. Las historias sobre lo que no puedes hacer fueron en su mayoría instaladas, no escritas — por la familia, el sector, el ex, la época — y la carta no culpa a quien lleva puesto lo que le ataron a oscuras. Solo nota, con su silencioso cuarto lado abierto, que lo instalado puede aflojarlo la persona que lo lleva, y que esto — no el rescate, que el castillo conspicuamente no envía — es como cualquiera ha salido alguna vez de este campo: una mano aflojada, una esquina de tela levantada, un paso arrastrado sobre un suelo que resulta, probado, sostener."
+        ],
+        "work": [
+          "El razonamiento que llega a «no puedo irme» a partir de hechos verdaderos pero parciales — revisa la valla: una restricción probada en pequeño este mes. Actualiza el currículum sin decidir nada."
+        ],
+        "love": [
+          "Atada por historias instaladas — lo que la familia, el ex, el patrón ataron a oscuras. Otras manos lo ataron; las tuyas pueden aflojarlo. Di lo indecible a una persona segura."
+        ],
+        "self": [
+          "Una impotencia aprendida que sigue presente aunque las circunstancias hayan cambiado. No es «todo está en tu cabeza»: las cuerdas fueron reales. Pero comprueba cuáles siguen atando; la evidencia vale más que el heroísmo."
+        ],
+        "note": [
+          "No es indefensión — el cuarto lado está abierto. Y tampoco fantasía: las ataduras existieron. La precisión de la carta es ambas cosas a la vez."
+        ]
+      },
+      "reversed": {
+        "summary": "La restricción vista de parte a parte — ataduras aflojadas, el primer paso dado, la valla revelada como mayormente huecos. Libertad con regusto: furia por el tiempo cumplido. O la sombra: la prisión redecorada y defendida, la liberación declinada porque la jaula se había vuelto estructural.",
+        "keywords": [
+          "la liberación, la venda fuera, autoliberada, ver por fin el lado abierto, o el madrigueo más hondo — las ataduras reatadas por seguridad"
+        ],
+        "essay": [
+          "Invertido, el Ocho de Espadas es el momento después de la venda — y se divide en lo que los ojos hacen con la información nueva.",
+          "La lectura de la liberación es la común, y su textura sorprende: la libertad de esta clase llega menos como triunfo que como un cóctel complicado — alivio, desorientación, y una furia retrospectiva específica: ¿estaba así de flojo todo el tiempo? El consejo de la carta para la recién liberada cubre las tres. El alivio: confía en él; el paso que diste fue real y el suelo sostuvo, exactamente como el lado abierto siempre implicó. La desorientación: espérala y camina de todos modos — una persona que ha navegado por restricción durante años vive el campo abierto como vértigo, porque que toda dirección sea posible se siente, por un tiempo, indistinguible de que no exista ninguna. Elige en pequeño y de inmediato; la libertad se estabiliza con el uso, no con la contemplación. Y la furia — por los años, por las manos que ataron la tela, por ti misma por no probar antes: déjala arder exactamente lo justo para ser información, y luego jubílala. La frase que quiere que firmes — perdí todo ese tiempo — es una atadura más, atada póstumamente. Te fuiste cuando irse se volvió posible para la persona que eras. Esa persona también merece el castillo.",
+          "La lectura de sombra debe decirse llanamente porque nadie más la dirá: a veces la inversión muestra a la prisionera declinando la liberación. Las ataduras reatadas más cómodas; la valla renombrada límite, práctica, realismo; la salida ofrecida debatida hasta que caduca. Esto pasa por una razón que la carta trata con respeto: la restricción larga reorganiza una identidad a su alrededor, y la liberación amenaza todo lo organizado — la simpatía que acompaña a la atada, las exenciones del riesgo, la arquitectura entera de una vida construida a la medida de la jaula. La libertad, para quien lleva mucho atada, no es un regalo; es una reforma, y la psique presupuesta el coste con precisión y se encoge. La carta invertida no avergüenza el respingo. Solo rechaza el cambio de vocabulario: una jaula renombrada es una jaula, y los años gastados decorándola facturan a la misma tarifa que los años pasados atada. Su pregunta es la forma más suave de la cosa dura: ¿qué tendrías que volverte si fueras libre — y evitar ese volverte vale el suelo mojado? Las espadas, anota al cerrar, no tienen opinión. Nunca la tuvieron. Son solo espadas, clavadas por alguien que se fue hace mucho, en un campo con un lado abierto, camino de un castillo que — esto fue siempre lo más extraño — tiene tu nombre en alguna parte de sus libros."
+        ],
+        "work": [
+          "Fuera, y furiosa de que estuviera así de flojo — jubila la furia cuando haya informado. \"Perdí tiempo\" es una atadura más, atada póstumamente. Elige en pequeño; la libertad se estabiliza con el uso."
+        ],
+        "love": [
+          "La salida debatida hasta que caduca, la jaula renombrada límite — la liberación es una reforma y la psique se encoge ante el presupuesto. ¿Qué tendrías que volverte, libre?"
+        ],
+        "self": [
+          "El campo abierto se lee como vértigo tras años navegando por restricción. Toda dirección posible se siente como ninguna. Camina igualmente; la pequeñez es la brújula."
+        ],
+        "note": [
+          "No es vergüenza por los años atada — te fuiste cuando fue posible para quien eras. Y no es vergüenza por el respingo: solo nada de cambios de vocabulario. Una jaula renombrada es una jaula."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "id": "three-of-cups",
+  "number": 3,
+  "order": 24,
+  "arcana": "minor",
+  "suit": "cups",
+  "rank": 3,
+  "image": "/assets/cards/three-of-cups.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "cups-03.en.md",
+    "es": "cups-03.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "three-of-cups",
+      "name": "Three of Cups",
+      "seoTitle": "Three of Cups Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "The circle, gathered — friendship operating at full capacity, joy multiplied by witnesses, the harvest celebrated by the people who helped raise it.…",
+      "summary": "The circle, gathered — friendship operating at full capacity, joy multiplied by witnesses, the harvest celebrated by the people who helped raise it. Community as achievement, not backdrop. Raise the cup; name what it's for.",
+      "imageDescription": "Three women dance in a loose circle, cups raised toward a point above all their heads — toasting not each other but something they share. Around their feet, the harvest: pumpkins, grapes, the season's actual abundance. No one leads the dance. That is the difficult, invisible technology of the card.",
+      "upright": {
+        "keywords": [
+          "friendship as structure, celebration shared, the chosen circle, community's harvest, joy that requires witnesses, the third cup"
+        ],
+        "essay": [
+          "The Two was a mirror; the Three is a circle — and the geometry change matters more than it looks. Two people can complete each other's sentences; three people create something none of them owns: a middle, a commons, a place to put the cup where everyone can reach it. The Three of Cups is the card of chosen community at its working best — the friends who function as infrastructure, the group where joy goes to be multiplied and grief goes to be divided. Its appearance is often literal: the reunion, the wedding table, the group chat that constitutes a place. But its argument is structural: this is not a garnish on the real relationships. For most lives, it is the load-bearing wall.",
+          "Notice what the women toast: not each other — a point above all their heads. Sustainable circles organize around a shared third thing: the history, the craft, the cause, the table itself. Friendships aimed only at each other tend to curdle into audit; friendships aimed at a common elsewhere can run for decades. If your circle has been drifting, the card's repair is not more contact but a renewed third point — the project, the trip, the standing table that gives the friendship somewhere to look besides itself.",
+          "The harvest at their feet does quiet work in the image. This is not celebration in the abstract — something was grown, and the growers are the dancers. The Three of Cups insists that joy has better yields when the people raising the cups are the people who raised the crop: the cohort that survived the same year, the friends who kept you fed through the season this card finds you at the end of. Which is also its instruction about attendance. Show up to the harvests of your people — the small ones especially, the ones that feel skippable. A circle is not maintained by affection. It is maintained by presence at each other's minor festivals, and it is exactly those attendances that determine who is still in the circle when a year needs surviving.",
+          "And no one leads the dance. The card's deepest note, easy to miss under the cups: peer joy, unranked. No host and guests, no star and audience — the circle at its best is the one social form where status goes slack. If you cannot remember the last time you were in a room like that, this card is not describing your life. It is prescribing for it."
+        ],
+        "work": [
+          "The cohort, not the org chart — peers who survived the same year. Celebrate the shipped thing with the people who shipped it; skipped harvests quietly close circles."
+        ],
+        "love": [
+          "The relationship inside its village — friends who hold the couple, joy with witnesses. Beware love that requires leaving the circle; thriving loves feed on it."
+        ],
+        "self": [
+          "Joy is a group technology — some feelings only exist at three or more. Attend the minor festivals of your people. Presence, not affection, maintains the circle."
+        ],
+        "note": [
+          "Not networking and not the crowd — the chosen few, unranked. And not garnish: for most lives this is the load-bearing wall, funded by showing up."
+        ]
+      },
+      "reversed": {
+        "summary": "The circle failing at its function — drift, exclusion, the friendship become surveillance, the table where you now perform. Or simple isolation: the harvest with no one to raise it toward. Diagnose the middle before blaming the members.",
+        "keywords": [
+          "the circle frayed, third wheel, gossip in the round, celebration gone sour, isolation from the table, community outgrown or lost"
+        ],
+        "essay": [
+          "Reversed, the Three of Cups is the circle malfunctioning — and circles fail in more distinct ways than couples do, so the card asks for a careful reading of exactly what broke.",
+          "Drift is the gentlest failure and the most common: no rupture, just entropy. The standing table stopped standing; the group chat thinned to logistics; everyone assumed everyone else was maintaining the middle, and the middle, unmaintained, closed. The reversed Three often means only this — and its repair is embarrassingly available: one person has to be undignified enough to reconvene the circle on purpose. Be that person. Send the specific date, not the vague intention. Circles do not die of conflict nearly as often as they die of nobody being willing to go first twice.",
+          "Exclusion is the sharper failure: the circle intact and you outside it — the party seen afterward in photographs, the invitation that stopped coming, the third wheel's specific arithmetic of being present and unaccounted for. This ache is evolutionarily old and disproportionately loud, and the card's first aid is proportion: being outside one circle is data about one circle, not a verdict on your membership in the species. Its second aid is harder: check whether the exclusion is real or ambient — half of adult exclusion is two other people also assuming they weren't quite wanted. Ask directly once. The answer, either way, returns you to solid ground.",
+          "Then there are the corrosions from inside: the circle that has become a surveillance system — gossip as the third point everyone toasts, belonging maintained by agreeing about the absent; the celebration that has gone compulsory, joy performed on schedule for a group that would not notice its absence; the friendships preserved in a formaldehyde of history, where you attend as the person you were at twenty because the circle has no role for who you are now. The reversed Three permits what the upright never has to: the audit. A circle is for something — multiplied joy, divided grief, accurate witness. Name what yours is currently for. If the honest answer is habit, or ranking, or the containment of everyone's growth, then outgrowing it is not betrayal. It is the harvest doing what harvests do: ending one season so the field can carry another. Leave the table kindly, keep the two or three true threads, and trust that the form recurs. People who have once known a real circle always recognize the next one forming."
+        ],
+        "work": [
+          "The cohort turned surveillance — bonding by agreeing about the absent — or you outside a circle that closed. Ask directly once; reconvene on purpose, with a date."
+        ],
+        "love": [
+          "The couple cut off from its village, or the village toasting the couple's costume. Rejoin the circles that see you accurately; love thins without witnesses."
+        ],
+        "self": [
+          "Loneliness with a harvest and no one to raise it toward. Be undignified enough to go first twice. Circles die of nobody reconvening, not of conflict."
+        ],
+        "note": [
+          "Not proof you belong nowhere — one circle's data, not the species' verdict. And outgrowing a table is not betrayal; seasons end so fields can carry the next."
+        ]
+      }
+    },
+    "es": {
+      "slug": "tres-de-copas",
+      "name": "Tres de Copas",
+      "seoTitle": "Tres de Copas en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "El círculo, reunido: la amistad a pleno rendimiento, la alegría multiplicada por quienes la ven, la cosecha celebrada por quienes ayudaron a levantarla.…",
+      "summary": "El círculo, reunido: la amistad a pleno rendimiento, la alegría multiplicada por quienes la ven, la cosecha celebrada por quienes ayudaron a levantarla. La comunidad como logro, no como adorno. Alza la copa; di por qué brindas.",
+      "imageDescription": "Tres mujeres bailan en un corro suelto, las copas alzadas hacia un punto por encima de sus cabezas: no brindan la una por la otra, sino por algo que comparten. A sus pies, la cosecha: calabazas, uvas, la abundancia real de la estación. Nadie manda en el baile. Ahí está lo difícil y lo invisible de la carta: sostener un círculo sin que nadie lo dirija.",
+      "upright": {
+        "keywords": [
+          "la amistad como estructura, celebrar juntas, el círculo que eliges, la cosecha de todas, la alegría que necesita testigos, la tercera copa"
+        ],
+        "essay": [
+          "El Dos era un espejo; el Tres es un corro, y cambiar de geometría importa más de lo que parece. Dos personas se terminan las frases; tres crean algo que no es de ninguna: un centro, un terreno común, un sitio donde dejar la copa al alcance de todas. El Tres de Copas es la carta de la comunidad elegida funcionando en su mejor forma: las amigas que son cimiento, el grupo donde la alegría se multiplica y la pena se reparte. Suele aparecer de forma literal: el reencuentro, la mesa de la boda, el chat de grupo que ya es un lugar en sí mismo. Pero lo que dice va más al fondo: esto no es el adorno de las relaciones de verdad. En casi todas las vidas, es el muro que aguanta el peso.",
+          "Fíjate por qué brindan las mujeres: no la una por la otra, sino por un punto por encima de todas. Los círculos que duran se ordenan alrededor de una tercera cosa compartida: la historia común, el oficio, la causa, la mesa misma. Las amistades que solo se miran entre sí acaban agriándose en control mutuo; las que apuntan a algo de fuera pueden durar décadas. Si tu círculo se ha ido enfriando, lo que la carta propone no es hablarse más, sino recuperar ese tercer punto: el proyecto, el viaje, la mesa fija que le da a la amistad algo que mirar que no sea ella misma.",
+          "La cosecha a sus pies hace un trabajo callado en la imagen. Esto no es celebrar en el vacío: algo se cultivó, y las que bailan son las que lo cultivaron. El Tres de Copas insiste en que la alegría da más fruto cuando quienes alzan las copas son quienes levantaron la cosecha: el grupo que sobrevivió al mismo año, las amigas que te mantuvieron en pie durante la temporada en cuyo final te encuentra esta carta. De ahí también su consejo sobre estar presente. Ve a las cosechas de los tuyos, sobre todo a las pequeñas, esas que dan pereza y parece que se pueden saltar. Un círculo no se sostiene con cariño. Se sostiene apareciendo en las fiestas menores de las demás, y son justo esas veces que apareciste las que deciden quién sigue en el círculo cuando llega un año que hay que aguantar.",
+          "Y nadie manda en el baile. La nota más honda de la carta, fácil de perder bajo las copas: alegría entre iguales, sin jerarquías. Sin anfitriona ni invitadas, sin estrella ni público, el círculo en su mejor versión es el único trato social donde el rango se afloja. Si no recuerdas la última vez que estuviste en una sala así, esta carta no está describiendo tu vida. Te la está recetando."
+        ],
+        "work": [
+          "El grupo, no el organigrama: los iguales que sobrevivieron al mismo año. Celebra lo que sacaste con la gente que lo sacó contigo; las cosechas que te saltas cierran círculos sin ruido."
+        ],
+        "love": [
+          "La relación dentro de su pueblo: amigas que sostienen a la pareja, alegría con testigos. Desconfía del amor que te pide dejar el círculo; los amores que crecen se alimentan de él."
+        ],
+        "self": [
+          "La alegría se juega en grupo: hay sentimientos que solo existen de tres para arriba. Ve a las fiestas menores de los tuyos. Lo que mantiene el círculo es aparecer, no el cariño."
+        ],
+        "note": [
+          "No es hacer contactos ni es la multitud: son los pocos que eliges, sin rangos. Y no es un adorno: en casi todas las vidas es el muro que aguanta el peso, y se paga apareciendo."
+        ]
+      },
+      "reversed": {
+        "summary": "El círculo fallando en lo suyo: se enfría, te deja fuera, la amistad se vuelve vigilancia, la mesa donde ahora representas un papel. O simple soledad: la cosecha y nadie a quien alzársela. Mira qué le pasa al centro antes de culpar a la gente.",
+        "keywords": [
+          "el círculo deshilachado, el que sobra, el chisme como pegamento, la fiesta agriada, quedarte fuera de la mesa, la comunidad que se te quedó pequeña o que perdiste"
+        ],
+        "essay": [
+          "Invertido, el Tres de Copas es el círculo estropeado, y los círculos fallan de más maneras que las parejas, así que la carta pide leer con cuidado qué se rompió exactamente.",
+          "Enfriarse es el fallo más suave y el más común: no hay ruptura, solo abandono. La mesa fija dejó de ser fija; el chat de grupo se quedó en pura logística; todas dieron por hecho que otra mantenía el centro, y el centro, sin nadie que lo cuide, se cerró. El Tres invertido suele significar solo esto, y arreglarlo está al alcance de la mano, aunque cueste el orgullo: alguien tiene que tragarse la vergüenza y volver a convocar al círculo a propósito. Sé esa persona. Manda la fecha concreta, no la buena intención vaga. Los círculos no mueren de conflicto ni de lejos tanto como mueren de que nadie quiere dar el primer paso dos veces seguidas.",
+          "Que te dejen fuera es el fallo más afilado: el círculo entero y tú fuera, la fiesta que ves después en fotos, la invitación que dejó de llegar, esa cuenta exacta del que sobra: estás presente y no cuentas. Ese dolor es muy antiguo y suena mucho más fuerte de lo que le toca, y lo primero que hace la carta es ponerlo en su sitio: quedar fuera de un círculo dice algo sobre ese círculo, no dicta si perteneces a la especie humana. Lo segundo que propone cuesta más: comprueba si te dejan fuera de verdad o solo te lo parece. La mitad de las veces que un adulto se siente excluido, hay otras dos personas que también dan por hecho que sobran. Pregunta claro, una vez. La respuesta, sea la que sea, te devuelve a suelo firme.",
+          "Y luego están las podredumbres desde dentro: el círculo convertido en sistema de vigilancia, el chisme como el tercer punto por el que todas brindan, la pertenencia que se mantiene poniéndose de acuerdo sobre quién falta; la celebración vuelta obligación, la alegría fingida por calendario para un grupo que no notaría si faltaras; las amistades embalsamadas en su propia historia, donde apareces como la persona que eras a los veinte porque el círculo no tiene sitio para quien eres ahora. El Tres invertido permite hacer algo que la carta al derecho no pide: revisar qué queda de verdad. Un círculo sirve para algo: multiplicar la alegría, repartir la pena, verte con precisión. Di para qué sirve ahora mismo el tuyo. Si la respuesta sincera es costumbre, o rango, o que unas frenen el crecimiento de otras, entonces que se te quede pequeño no es traición. Es la cosecha haciendo lo que hacen las cosechas: cerrar una temporada para que el campo pueda dar la siguiente. Deja la mesa con cariño, quédate con los dos o tres hilos verdaderos, y confía en que la forma se repite. Quien ha conocido una vez un círculo de verdad reconoce siempre el siguiente cuando empieza a formarse."
+        ],
+        "work": [
+          "El grupo vuelto vigilancia, el vínculo hecho de ponerse de acuerdo sobre quién falta, o tú fuera de un círculo que se cerró. Pregunta claro, una vez; vuelve a convocar a propósito, con fecha."
+        ],
+        "love": [
+          "La pareja aislada de su pueblo, o el pueblo brindando por el disfraz de la pareja. Vuelve a los círculos que te ven tal como eres; el amor se afina sin testigos."
+        ],
+        "self": [
+          "Soledad con cosecha y nadie a quien alzársela. Trágate el orgullo y da tú el primer paso dos veces. Los círculos mueren porque nadie vuelve a convocar, no de conflicto."
+        ],
+        "note": [
+          "No es prueba de que no pertenezcas a ningún sitio: dice algo de un círculo, no dicta el veredicto de la especie. Y que una mesa se te quede pequeña no es traición; las temporadas terminan para que el campo dé la siguiente."
+        ]
+      }
+    }
+  }
+}

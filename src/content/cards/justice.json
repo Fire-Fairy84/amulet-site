@@ -1,0 +1,134 @@
+{
+  "id": "justice",
+  "number": 11,
+  "order": 11,
+  "arcana": "major",
+  "suit": null,
+  "rank": null,
+  "image": "/assets/cards/justice.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "11-justice.en.md",
+    "es": "11-justice.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "justice",
+      "name": "Justice",
+      "seoTitle": "Justice Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "Outcomes proportionate to actions. The decision made on evidence, not appetite; the account honestly squared. Giving and getting what is actually owed —…",
+      "summary": "Outcomes proportionate to actions. The decision made on evidence, not appetite; the account honestly squared. Giving and getting what is actually owed — no more, and no less, which is the harder half.",
+      "imageDescription": "A crowned figure sits enthroned between two pillars, a sword upright in the right hand, scales held level in the left. Behind, a purple veil — something stays private even here. The sword points up, not at anyone. The scales are not being balanced; they simply are balanced, which took longer.",
+      "upright": {
+        "keywords": [
+          "fairness, cause and effect, truth weighed, accountability, the clear verdict, what is actually owed"
+        ],
+        "essay": [
+          "The books balance eventually. Not always on the schedule you would choose, and rarely with ceremony, but this card insists on the arithmetic: what was put in is what comes out, adjusted for time. If something in your life is currently paying out — well or badly — Justice invites you to trace the deposit. It is usually findable, and usually yours.",
+          "The sword is upright. This matters more than anything else in the image: it is not pointed at a defendant, not swinging, not avenging. An upright blade is a tool for cutting things apart cleanly — the facts from the feelings, the story from the evidence, what happened from what you have been telling people happened. Before any verdict, Justice does separation work, and most situations arrive at her bench still glued together.",
+          "Accountability has a precise meaning here, and it runs in both directions. Owning your part means all of it — the contribution you made to the mess, counted honestly. It also means only it. There is a popular counterfeit of responsibility that consists of absorbing everything, apologizing for weather, carrying other people's ledgers as a form of virtue. The scales read that as inaccuracy, not kindness. Your column has a bottom line; theirs does too.",
+          "The verdict this card asks of you is usually one you have been avoiding delivering — to someone else, or to yourself. The clear call. The plain sentence that has been sitting fully drafted behind the veil for weeks: this is not fair, or this was my doing, or both, in order. The relief on the other side of an honest verdict is one of the most underrated feelings available, and the card knows you know the sentence already.",
+          "One more thing about the level scales: they were not always level. Balance is not a temperament; it is a result — of weighing, discarding, reweighing, at some cost. People who deliver fair judgments cheaply are usually delivering something else. If your call has been slow, that is not necessarily weakness. Some things take exactly as long as they take to weigh.",
+          "The question underneath: what would you decide today if you were only allowed to use the evidence?"
+        ],
+        "work": [
+          "The audit, the contract, the fair call. Terms stated plainly and honored; credit assigned where the work happened. The negotiation where you ask for the actual number."
+        ],
+        "love": [
+          "Balance kept honestly — not scorekeeping, which is its counterfeit. Owning your part in the pattern, and handing back the parts that were never yours."
+        ],
+        "self": [
+          "The clean verdict on your own conduct: what was yours, what was not, in exact proportion. The excuse retired; the over-apology also retired."
+        ],
+        "note": [
+          "Not revenge. The sword is upright, not swung. Proportion is the entire discipline — getting even is a different card, and it is not in this deck."
+        ]
+      },
+      "reversed": {
+        "summary": "The reckoning avoided. A genuine injustice — done to you, or by you — left unaddressed while the interest compounds. The story tilted to keep its narrator comfortable; the excuse working overtime.",
+        "keywords": [
+          "the un-squared account, bias, unfairness absorbed or committed, dishonesty with oneself, the tilted story"
+        ],
+        "essay": [
+          "Reversed, Justice is an account left open on purpose. Something happened — a wrong done to you, a wrong you did, a bargain that was never fair from the first handshake — and the reckoning it requires keeps being rescheduled. Unsquared accounts do not close themselves. They compound quietly, charging interest in resentment, avoidance, and the low persistent hum of a thing unfinished.",
+          "Start with the tilt you can control: the story. Every narrator tilts; that is what narrating is. But there is a degree of tilt past which the story stops being a perspective and becomes a shelter — the version where you are only the weather's victim, or only the innocent party, or where the thing that happened simply is not mentioned, like the object behind the veil. You know which scene your telling skips. The skip is the location of the work.",
+          "If the injustice is real and incoming — the unequal terms, the credit taken, the pattern of small unfairnesses tolerated because objecting felt expensive — the card's news is that tolerance has costs too, and they have been accruing. Fairness withheld from you does not become fair through your patience with it. At some point the objection must be filed, calmly, with the sword upright: this is not proportionate, and here is what would be.",
+          "If the injustice is yours — and the reversed card asks you to at least check — the mechanism is usually not villainy but bookkeeping: the harm minimized, the context inflated, the apology delivered in a currency easier than the one owed. Repair has an exchange rate, and underpaying it keeps the account open no matter how settled it looks from your side of the table.",
+          "The way back is unglamorous: sit down with the ledger. One honest hour, the actual events in order, your column and theirs, no adjectives. The scales do not need you to be good. They need you to weigh — and the moment the weighing restarts, this card turns back over."
+        ],
+        "work": [
+          "Unequal terms tolerated too long; the invoice unsent, the objection unfiled. Or credit quietly taken — check whose name ended up on what."
+        ],
+        "love": [
+          "The imbalance both of you can see and neither will weigh. The apology paid in a cheaper currency than the one owed."
+        ],
+        "self": [
+          "The story tilted to keep you comfortable in it. The excuse doing overtime; the one scene your telling always skips."
+        ],
+        "note": [
+          "Not hopeless. The ledger opens whenever you sit down to it — the scales resume the moment the weighing does."
+        ]
+      }
+    },
+    "es": {
+      "slug": "la-justicia",
+      "name": "La Justicia",
+      "seoTitle": "La Justicia en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "Los resultados van a la medida de los actos. La decisión se toma con las pruebas, no con las ganas, y la cuenta se salda de forma honesta. Dar y recibir…",
+      "summary": "Los resultados van a la medida de los actos. La decisión se toma con las pruebas, no con las ganas, y la cuenta se salda de forma honesta. Dar y recibir lo que de verdad se debe, ni más ni menos, que es la parte difícil.",
+      "imageDescription": "Una figura coronada, sentada en su trono entre dos columnas, con una espada en alto en la mano derecha y una balanza en equilibrio en la izquierda. Detrás, un velo púrpura: algo sigue siendo privado incluso aquí. La espada apunta hacia arriba, no hacia nadie. La balanza no está equilibrándose; ya está equilibrada, y eso costó más tiempo.",
+      "upright": {
+        "keywords": [
+          "equidad, causa y efecto, la verdad sopesada, hacerse cargo, el veredicto claro, lo que de verdad se debe"
+        ],
+        "essay": [
+          "Las cuentas terminan cuadrando. No siempre en el plazo que tú elegirías, y casi nunca con solemnidad, pero esta carta insiste en el cálculo: lo que entró es lo que sale, ajustado por el tiempo. Si algo en tu vida te está dando un resultado ahora mismo, bueno o malo, la Justicia te invita a buscar de dónde viene. Casi siempre se encuentra, y casi siempre es tuyo.",
+          "La espada está en alto. Esto importa más que nada en la imagen: no apunta a ninguna acusada, no cae sobre nadie, no venga nada. Una hoja en alto sirve para separar las cosas con limpieza: los hechos de las emociones, la historia de las pruebas, lo que pasó de lo que llevas tiempo contando que pasó. Antes de cualquier veredicto, la Justicia separa, y casi todas las situaciones llegan ante ella todavía enredadas.",
+          "Hacerse cargo tiene aquí un sentido preciso, y va en las dos direcciones. Asumir tu parte significa toda tu parte, lo que aportaste al lío, contado con honestidad. Y significa también solo tu parte. Hay una versión falsa de la responsabilidad que consiste en cargar con todo, pedir perdón hasta por el clima, echarte encima las culpas ajenas como si eso fuera ser buena persona. La balanza lee eso como un error de cuentas, no como bondad. Tu parte tiene un total, y la suya también.",
+          "El veredicto que esta carta te pide suele ser uno que llevas tiempo evitando dar, a otra persona o a ti. Es la conclusión clara. La frase sencilla que lleva semanas escrita entera detrás del velo: esto no es justo, o esto lo hice yo, o las dos, en ese orden. El alivio que hay al otro lado de un veredicto honesto es de los más subestimados que existen, y la carta sabe que la frase ya la tienes.",
+          "Una cosa más sobre la balanza en equilibrio: no siempre estuvo así. El equilibrio no es un carácter, es un resultado, el de sopesar, descartar y volver a sopesar, con algún desgaste. Quien reparte juicios justos a la ligera suele estar repartiendo otra cosa. Si tu decisión ha tardado, no es necesariamente por debilidad. Hay cosas que tardan justo lo que tardan en sopesarse.",
+          "La pregunta de fondo: ¿qué decidirías hoy si solo pudieras usar las pruebas?"
+        ],
+        "work": [
+          "La revisión, el contrato, la decisión limpia. Las condiciones dichas con claridad y cumplidas, el mérito puesto donde de verdad se trabajó. La negociación en la que pides la cifra real."
+        ],
+        "love": [
+          "El equilibrio que se sostiene con honestidad, no llevar la cuenta de quién hizo qué, que es su versión falsa. Asumir tu parte de lo que se repite, y devolver las partes que nunca fueron tuyas."
+        ],
+        "self": [
+          "El veredicto limpio sobre tu propia conducta: qué fue tuyo y qué no, en la proporción exacta. La excusa retirada, y el perdón que te das de más, también retirado."
+        ],
+        "note": [
+          "No es venganza. La espada está en alto, quieta. La proporción es toda la disciplina: desquitarse es otra carta, y no está en esta baraja."
+        ]
+      },
+      "reversed": {
+        "summary": "El ajuste de cuentas que se aplaza. Una injusticia real, que sufres o que cometes, sin resolver mientras la deuda crece. La historia contada de un solo lado para que quien la cuenta esté cómodo, con la excusa a pleno rendimiento.",
+        "keywords": [
+          "la cuenta sin saldar, el sesgo, la injusticia que aguantas o cometes, el engaño a ti misma, la historia contada de un solo lado"
+        ],
+        "essay": [
+          "Invertida, la Justicia es una cuenta que se deja abierta a propósito. Algo pasó, un daño que te hicieron, un daño que hiciste, un trato que nunca fue justo desde el apretón de manos, y el ajuste que hace falta se sigue aplazando. Las cuentas sin saldar no se cierran solas. Van creciendo en silencio, cobrando intereses en forma de rencor, de evasión, y de ese zumbido bajo y constante de algo que quedó a medias.",
+          "Empieza por lo que sí controlas: cómo cuentas la historia. Todo el que narra la inclina un poco, porque narrar es eso. Pero hay un punto a partir del cual la historia deja de ser un punto de vista y se convierte en un escondite: la versión en la que solo eres víctima de las circunstancias, o solo la parte inocente, o donde lo que pasó directamente no se menciona, como el objeto detrás del velo. Tú sabes qué escena se salta tu manera de contarlo. Ese salto es justo donde está el trabajo.",
+          "Si la injusticia es real y te la están haciendo a ti, las condiciones desiguales, el mérito que se llevó otro, el goteo de pequeñas injusticias que aguantas porque quejarte salía caro, la carta te avisa de que aguantar también cuesta, y de que la factura lleva tiempo subiendo. Lo injusto no se vuelve justo porque tú tengas paciencia con ello. En algún momento hay que plantar la queja, con calma, con la espada en alto: esto no es proporcionado, y esto es lo que sí lo sería.",
+          "Si la injusticia es tuya, y la carta invertida te pide que al menos lo compruebes, la causa no suele ser maldad sino cómo llevas las cuentas: el daño que minimizas, el contexto que inflas, la disculpa que das más barata de lo que debías. Reparar tiene su precio, y pagar de menos deja la cuenta abierta por muy zanjada que la veas desde tu lado de la mesa.",
+          "El camino de vuelta no tiene ningún brillo: siéntate con las cuentas delante. Una hora honesta, los hechos en orden, tu parte y la suya, sin adjetivos. La balanza no necesita que seas buena. Necesita que peses, y en cuanto el pesaje se reanuda, esta carta vuelve a girarse al derecho."
+        ],
+        "work": [
+          "Condiciones desiguales que aguantas demasiado tiempo, la factura sin enviar, la queja sin plantear. O el mérito que se llevó otro sin hacer ruido: mira qué nombre acabó en cada cosa."
+        ],
+        "love": [
+          "El desequilibrio que los dos ven y ninguno quiere sopesar. La disculpa pagada más barata de lo que se debía."
+        ],
+        "self": [
+          "La historia contada de un solo lado para que estés cómoda dentro. La excusa a pleno rendimiento, la única escena que tu manera de contarlo siempre se salta."
+        ],
+        "note": [
+          "No es un caso perdido. Las cuentas se abren en cuanto te sientas con ellas: la balanza se reanuda en el momento en que se reanuda el pesaje."
+        ]
+      }
+    }
+  }
+}

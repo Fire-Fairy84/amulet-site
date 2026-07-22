@@ -1,0 +1,128 @@
+{
+  "id": "queen-of-swords",
+  "number": 13,
+  "order": 62,
+  "arcana": "minor",
+  "suit": "swords",
+  "rank": 13,
+  "image": "/assets/cards/queen-of-swords.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "swords-13.en.md",
+    "es": "swords-13.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "queen-of-swords",
+      "name": "Queen of Swords",
+      "seoTitle": "Queen of Swords Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "The clear eye with a warm palm — truth-telling matured past cruelty, sympathy matured past being fooled. She hears the whole story and believes the true…",
+      "summary": "The clear eye with a warm palm — truth-telling matured past cruelty, sympathy matured past being fooled. She hears the whole story and believes the true parts. Boundaries without heat, questions without traps. Clarity like this was purchased; respect the price.",
+      "imageDescription": "The queen sits in profile — the only one of the four who does not face the room — with her sword vertical in one hand and the other hand extended, open, palm up: come, and tell it to me straight. Clouds mass low in the sky, below her seat; a single bird crosses high above. Her crown is cut with butterflies, and from her wrist hangs a tassel like a cord that was once tied to something and has been, cleanly, cut.",
+      "upright": {
+        "keywords": [
+          "clarity that was paid for, kind but unfooled, the open hand and the upright blade, boundaries stated once, the precise question, grief become discernment"
+        ],
+        "essay": [
+          "The Queen of Swords is what the suit's blade becomes when it stops charging and sits down — and the tradition is blunt about the tuition: this is the tarot's widow, the one whose clarity was not studied but survived into. Something was lost — a marriage, an illusion, a decade, a version of the self that believed politely — and the cut cord hangs from her wrist as receipt, not as wound; the Ten's beach is somewhere in this queen's biography. That is what separates her sight from the Page's cleverness and the Knight's velocity: she is not sharp for sport. She knows exactly what the blade costs, having paid, which is why hers stays vertical — held, never swung.",
+          "Her posture is the card's whole teaching, and it takes both hands to state it. The sword up: nothing gets past her — not the flattering version, not the rehearsed account, not the self-pity dressed as analysis; she has told herself enough comfortable lies in her time to recognize the genre at any distance. And the other hand open: come anyway. This is the deck's standing proof that lucidity and kindness are not a trade-off but a pair — that the truest welcome is the one with no illusions in it, because being seen accurately and received anyway is the only reception that proves anything. People leave her presence corrected and, strangely, comforted. Sympathy that can be fooled is worth little; hers is worth everything, because it has met the facts.",
+          "Her instruments are famously quiet. The precise question — the one that collapses a forty-minute story into its actual subject, asked without heat: and what did you want to happen? The clean edit: what she cuts from a plan, a draft, a self-account is what was never load-bearing, and everyone feels the structure improve. And the boundary stated once, in declarative weather — I won't be spoken to that way; I'm not available for this — without volume, without a campaign, without the seventeen cushioning apologies. She does not repeat herself, and this, it turns out, is why she is believed the first time.",
+          "If she has arrived in your reading, she is either present or prescribed. Present: someone near you sees this clearly — stop performing for them, it has never once worked, and their open hand is the safest place your unedited account will ever land. Prescribed: the situation needs her seat — above the clouds, note, not among them; feelings are weather to be seen accurately, not denied — and her two hands. Say the true thing kindly. Ask the precise question. State the boundary once. And keep the palm open while the blade stays up: the whole art is that neither hand ever does the other's job."
+        ],
+        "work": [
+          "The clean edit and the precise question — cut what was never load-bearing, ask \"what did you want to happen.\" State the boundary once, without cushions; once is why it's believed."
+        ],
+        "love": [
+          "Kind but unfooled: the truest welcome has no illusions in it. Stop performing for the one who sees clearly — their open hand is where the unedited account belongs."
+        ],
+        "self": [
+          "Clarity purchased by loss is still clarity — the cord was cut, not broken. Sit above the clouds to see them; that's altitude, not coldness."
+        ],
+        "note": [
+          "Not the ice queen of the stereotype — the second hand is open, and it's half the card. And not cruelty: she never swings the blade. It stands, and things measure themselves against it."
+        ]
+      },
+      "reversed": {
+        "summary": "Clarity gone cold — the lesson over-learned, sympathy revoked wholesale, everyone pre-convicted of the old crime. Or the tongue as scalpel for its own sake. The seeing is still accurate; the sentence no longer fits any current defendant. Reopen the hand first.",
+        "keywords": [
+          "the edge with no warmth left, the open hand closed, the wound promoted to judge, cynicism as armor, standards as a fortress, the correction that serves the corrector"
+        ],
+        "essay": [
+          "Reversed, the Queen of Swords keeps the blade and loses the palm — and the card is exact about the sequence, because it is a sequence: the clarity stays fully operational while the welcome quietly closes, and for a long while nobody notices, least of all her, because accurate is still accurate. The reversal is not blindness. It is jurisdiction creep: the wound that taught her to see has been promoted to judge, and now presides over cases it was never assigned — every new person tried for the old crime, every kindness audited for the invoice that must be hidden in it, every warm thing held at blade's length until it cools enough to be assessed safely, which is to say, until it is no longer warm.",
+          "Cynicism, this card wants it said plainly, is not intelligence — it is armor wearing intelligence's uniform. The reversed Queen's worldview has the great advantage of being unfalsifiable: expect the worst and you are either confirmed or pleasantly surprised, and both outcomes feed the system. But unfalsifiable is precisely what her upright sword was never allowed to be. The upright Queen believed the true parts of every story, which required admitting there were true parts; the reversed one has replaced discernment — this specific person, weighed — with policy: people disappoint. Policy is so much faster than seeing. That is the whole seduction, and the tell is the speed: real discernment takes a moment, because it is looking. The verdict that arrives instantly was not reached. It was retrieved.",
+          "Sometimes the reversal is not the fortress but the scalpel: the tongue gone freelance. The correction issued because being right is the last reliable pleasure; the flaw named publicly because naming flaws is the one intimacy still permitted; the wit that keeps a room at exactly arm's length, laughing and unarmed and never once closer. Watch where the precision lands: the upright Queen cuts what is false in the account. The reversed one cuts what is tender in the speaker. Same blade, same skill, opposite target — and the second use blunts the first, because people shown that their soft parts get cut simply stop bringing them, and a Queen of Swords with no true accounts to hear is just a woman alone with a sword.",
+          "The way back is smaller than it should have to be, and harder. Not thawing on schedule, not optimism — the reversed Queen cannot be argued out; she has heard all arguments, and hers are better. It is one act, performable tonight: the hand reopened before it feels safe, for one unguarded sentence — I miss you; that hurt; I don't actually know. The blade stays up; it was never the problem; the boundary survives the warmth. What has to move is the palm, because the palm was always the half of her that did the healing — including, the card notes as gently as this suit can manage, hers."
+        ],
+        "work": [
+          "Policy has replaced seeing — \"people disappoint\" is retrieval, not judgment. Weigh this colleague, this offer, on its own scale. Instant verdicts were never reached."
+        ],
+        "love": [
+          "The audit of every kindness for its hidden invoice is the wound presiding over the wrong case. One unguarded sentence tonight — the boundary will survive the warmth."
+        ],
+        "self": [
+          "Cynicism is armor in intelligence's uniform, and unfalsifiable by design. The tell is speed: real discernment pauses to look. What arrives instantly was pre-decided."
+        ],
+        "note": [
+          "Not clarity's fault — the seeing still works; the welcome closed. And not permanent: the blade was never the problem. It's the palm that heals, and it reopens by choice."
+        ]
+      }
+    },
+    "es": {
+      "slug": "reina-de-espadas",
+      "name": "Reina de Espadas",
+      "seoTitle": "Reina de Espadas en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "El ojo claro con la palma cálida — el decir verdad madurado más allá de la crueldad, la compasión madurada más allá del engaño. Escucha la historia entera…",
+      "summary": "El ojo claro con la palma cálida — el decir verdad madurado más allá de la crueldad, la compasión madurada más allá del engaño. Escucha la historia entera y cree las partes verdaderas. Límites sin acaloramiento, preguntas sin trampa. Una claridad así se compró; respeta el precio.",
+      "imageDescription": "La reina se sienta de perfil — la única de las cuatro que no mira a la sala — con la espada vertical en una mano y la otra extendida, abierta, palma arriba: ven y cuéntamelo sin rodeos. Las nubes se amontonan bajas, por debajo de su asiento; un solo pájaro cruza muy alto. Su corona está tallada con mariposas, y de su muñeca cuelga una borla como un cordón que estuvo atado a algo y ha sido, limpiamente, cortado.",
+      "upright": {
+        "keywords": [
+          "claridad que se pagó, amable pero sin engaño, la mano abierta y la hoja vertical, límites dichos una vez, la pregunta precisa, el duelo vuelto discernimiento"
+        ],
+        "essay": [
+          "La Reina de Espadas es en lo que se convierte la hoja cuando deja de cargar y se sienta. La tradición la presenta como la viuda del tarot: alguien cuya claridad no se aprendió en teoría, sino a través de la experiencia. Algo se perdió —un matrimonio, una ilusión, una década, una versión de sí misma—, y el cordón de su muñeca habla de ello sin convertirlo en herida abierta. Eso es lo que la separa de la curiosidad de la Sota y de la velocidad del Caballero: no es afilada por deporte. Sabe lo que cuesta una espada y por eso la sostiene erguida, sin blandirla.",
+          "Su postura es la enseñanza entera de la carta, y hacen falta las dos manos para enunciarla. La espada arriba: nada se le escapa — ni la versión halagadora, ni el relato ensayado, ni la autocompasión vestida de análisis; se ha contado suficientes mentiras cómodas en su día como para reconocer el género a cualquier distancia. Y la otra mano abierta: ven de todos modos. Es la prueba permanente de la baraja de que lucidez y bondad no son una disyuntiva sino un par — de que la bienvenida más verdadera es la que no lleva ilusiones dentro, porque ser vista con exactitud y, aun así, recibida es la única acogida que demuestra algo. La gente sale de su presencia corregida y, extrañamente, consolada. La compasión que puede engañarse vale poco; la suya lo vale todo, porque ha conocido los hechos.",
+          "Sus instrumentos son célebres por silenciosos. La pregunta precisa — la que desploma una historia de cuarenta minutos en su asunto real, hecha sin acaloramiento: ¿y qué querías tú que pasara? La edición limpia: lo que corta de un plan, de un borrador, de un relato de uno mismo es lo que nunca sostuvo carga, y todos sienten mejorar la estructura. Y el límite dicho una vez, en clima declarativo — no se me habla así; para esto no estoy disponible — sin volumen, sin campaña, sin las diecisiete disculpas de amortiguación. No se repite, y resulta que esto es la razón de que la crean a la primera.",
+          "Si ha llegado a tu lectura, está presente o está recetada. Presente: alguien cerca de ti ve con esta claridad — deja de actuar para esa persona, no ha funcionado ni una vez, y su mano abierta es el lugar más seguro donde aterrizará jamás tu relato sin editar. Recetada: la situación necesita su asiento — por encima de las nubes, fíjate, no entre ellas; los sentimientos son clima que se ve con exactitud, no que se niega — y sus dos manos. Di lo verdadero con bondad. Haz la pregunta precisa. Di el límite una vez. Y mantén la palma abierta mientras la hoja sigue arriba: el arte entero está en que ninguna mano haga jamás el trabajo de la otra."
+        ],
+        "work": [
+          "La edición limpia y la pregunta precisa — corta lo que nunca sostuvo carga, pregunta «¿qué querías que pasara?». Di el límite una vez, sin amortiguadores; decirlo una vez es lo que hace que lo crean."
+        ],
+        "love": [
+          "Amable pero sin engaño: la bienvenida más verdadera no lleva ilusiones dentro. Deja de actuar para quien ve claro — su mano abierta es el sitio del relato sin editar."
+        ],
+        "self": [
+          "La claridad comprada con pérdida sigue siendo claridad — el cordón se cortó, no se rompió. Siéntate por encima de las nubes para verlas; eso es altitud, no frialdad."
+        ],
+        "note": [
+          "No es la reina de hielo del estereotipo — la segunda mano está abierta, y es media carta. Y no es crueldad: nunca blande la hoja. Está en pie, y las cosas se miden contra ella."
+        ]
+      },
+      "reversed": {
+        "summary": "La claridad se ha enfriado: una lección del pasado se aplica a todo el mundo y la compasión se retira por completo. O la lengua se vuelve un bisturí usado sin necesidad. La mirada sigue siendo aguda, pero el juicio ya no corresponde a la persona que tienes delante. Empieza por reabrir la mano.",
+        "keywords": [
+          "el filo al que no le queda calor, la mano abierta cerrada, la herida ascendida a jueza, el cinismo como armadura, los estándares como fortaleza, la corrección que sirve a quien corrige"
+        ],
+        "essay": [
+          "Invertida, la Reina de Espadas conserva la espada pero cierra la mano. Su claridad sigue funcionando mientras la cercanía se apaga, y puede tardar en darse cuenta. No es ceguera: es una herida antigua ocupando el lugar del juicio. Cada persona nueva se juzga por un daño anterior; cada gesto amable se mira buscando una trampa; todo lo cálido se mantiene a distancia hasta que deja de sentirse seguro.",
+          "El cinismo no es inteligencia; es una armadura que se parece a ella. Esperar siempre lo peor parece protegerte porque cualquier resultado confirma la postura. Pero el discernimiento exige mirar a cada persona y situación concreta. Una frase como «la gente siempre decepciona» es más rápida que observar, pero no es más sabia. El juicio que llega de inmediato no se ha formado ahora: viene del pasado.",
+          "A veces la inversión no es la fortaleza sino el bisturí: la lengua por libre. La corrección emitida porque tener razón es el último placer fiable; el defecto nombrado en público porque nombrar defectos es la única intimidad aún permitida; el ingenio que mantiene a la sala exactamente a un brazo de distancia, riendo y desarmada y ni una vez más cerca. Mira dónde aterriza la precisión: la Reina al derecho corta lo falso del relato. La invertida corta lo tierno de quien habla. Misma hoja, misma destreza, blanco opuesto — y el segundo uso desafila el primero, porque la gente a la que se le muestra que sus partes blandas se cortan sencillamente deja de traerlas, y una Reina de Espadas sin relatos verdaderos que escuchar es solo una mujer a solas con una espada.",
+          "El camino de vuelta es más pequeño de lo que parecería justo, y más difícil. No es deshielo con calendario, no es optimismo — a la Reina invertida no se la convence; ha oído todos los argumentos, y los suyos son mejores. Es un acto, ejecutable esta noche: la mano reabierta antes de que se sienta seguro, para una sola frase sin guardia — te echo de menos; eso dolió; en realidad no lo sé. La hoja sigue arriba; nunca fue el problema; el límite sobrevive al calor. Lo que tiene que moverse es la palma, porque la palma fue siempre la mitad de ella que curaba — incluida, anota la carta con toda la suavidad que este palo alcanza, ella."
+        ],
+        "work": [
+          "La política sustituyó al ver — «la gente decepciona» es archivo, no juicio. Pesa a este colega — o esta oferta — en su propia balanza. Los veredictos instantáneos nunca se alcanzaron."
+        ],
+        "love": [
+          "Examinar cada gesto amable en busca de su factura oculta es la herida presidiendo la causa equivocada. Una frase sin guardia esta noche — el límite sobrevivirá al calor."
+        ],
+        "self": [
+          "El cinismo es armadura con uniforme de inteligencia, e infalsable a propósito. La pista es la velocidad: el discernimiento real se detiene a mirar. Lo instantáneo estaba predecidido."
+        ],
+        "note": [
+          "No es culpa de la claridad — la vista sigue funcionando; se cerró la bienvenida. Y no es permanente: la hoja nunca fue el problema. La que cura es la palma, y se reabre por decisión."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "id": "four-of-pentacles",
+  "number": 4,
+  "order": 39,
+  "arcana": "minor",
+  "suit": "pentacles",
+  "rank": 4,
+  "image": "/assets/cards/four-of-pentacles.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "pentacles-04.en.md",
+    "es": "pentacles-04.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "four-of-pentacles",
+      "name": "Four of Pentacles",
+      "seoTitle": "Four of Pentacles Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "The holding pattern — money saved, boundaries kept, control established, often after real scarcity. Nothing here is lost; nothing here moves. Count the…",
+      "summary": "The holding pattern — money saved, boundaries kept, control established, often after real scarcity. Nothing here is lost; nothing here moves. Count the limbs: all four are employed in defense. Safety is real, and it is currently the only thing being produced.",
+      "imageDescription": "A man sits on a stone bench outside the city walls, and his whole body is an inventory: both arms wrapped around one coin pressed to his chest, one foot planted on each of two coins on the ground, a fourth coin balanced on top of his crown. The posture is completely secure and completely occupied — no hand free to greet, no foot free to walk, and the head doing its part by holding still. Behind him, at his back, the city goes on being lived in.",
+      "upright": {
+        "keywords": [
+          "security achieved and over-defended, every limb employed in holding, the crown that carries instead of thinks, saving grown into hoarding, the city at his back, safe and a little stuck"
+        ],
+        "essay": [
+          "The Four of Pentacles is routinely read as the miser, and the reading is too easy — because the first honest thing about this card is that the coins are real and were probably hard-won. Somebody saved this. The card often arrives after chaos: the debt cleared, the emergency fund finally funded, the boundaries installed after years without any, the life consolidated into something that cannot be taken by one bad month. Earth is the suit of security, and the Four is security achieved — a legitimate season, sometimes a medically necessary one. The deck does not sneer at the person holding tight. It just asks them, gently, to conduct one audit: the posture.",
+          "Count the limbs. Two arms around the coin at the chest. Two feet pinning the coins on the ground. The crown — the deck's symbol for sovereign thought — repurposed as a shelf. The audit's finding is arithmetic, not moral: every limb this man owns is employed in holding, which means the holding is no longer something he does; it is everything he does. He cannot shake a hand, accept a gift, build, gesture, or walk, and he cannot think freely with the head balancing an asset. This is the card's precise definition of the line between saving and hoarding, and it has nothing to do with the amount: saving is when the coins serve the life. Hoarding is when the life staffs the coins.",
+          "And the grip, once learned, generalizes — this is the card's quiet second act. The hands that learned to hold money this way begin holding everything in the same fist: the schedule defended to the minute, the relationship monitored like an account, the grudge maintained because releasing it feels like a loss, the opinions kept past their sell-by because changing one's mind reads as theft. Underneath, almost always, is a scarcity memory outliving its facts — the lean year, the precarious childhood, the betrayal — still setting the grip strength decades after the circumstances changed. The fear was calibrated once, honestly, to a real famine. Nobody told the hands the famine ended.",
+          "The counsel is not release — telling this card to open all four limbs at once is both useless and unkind. It is one limb. Choose the cheapest coin — the smallest held thing whose holding costs most: the standing invitation always declined, the tenner that would tip generously, the apology withheld like capital — and free the single limb that holds it. Watch what happens, which is, reliably, nothing bad; the sky's failure to fall is the only argument the old fear accepts, and it accepts it slowly, at the rate of one opened hand at a time. The city, remember, is behind him — the whole card's geometry says it: he faces away from every person he is guarding the coins for or against. Security was supposed to buy a seat at that table. Spend one coin on the seat."
+        ],
+        "work": [
+          "Consolidation was the right season — but audit the posture: if every hour is spent defending what exists, nothing new is being built. Free one limb; delegate one held thing."
+        ],
+        "love": [
+          "The relationship monitored like an account, affection released in fixed installments — the grip learned on money generalizes. One opened hand, and watch the sky not fall."
+        ],
+        "self": [
+          "The scarcity was real once; check the date on it. Fear calibrated to an old famine is setting today's grip strength. Nobody told the hands it ended."
+        ],
+        "note": [
+          "Not greed as caricature — this is defense, usually with an honest origin story. And not wrong to have saved: the coins serve the life or the life staffs the coins. That's the whole test."
+        ]
+      },
+      "reversed": {
+        "summary": "The fist opening — by choice: generosity, the first real spending on life, control finally lent out. Or by force: the loss that pried the fingers back. Or the swing: hoard to splurge with no stop between. The question is the same in all three — who is deciding the grip now?",
+        "keywords": [
+          "the grip loosening for better or worse, generosity returning, the hoard breached by life, from fist to open palm — or from fist to spray, control lost or finally lent out"
+        ],
+        "essay": [
+          "Reversed, the Four of Pentacles is the grip changing, and the card is scrupulously neutral about direction — for better or worse is the honest motto, because open describes both a gift and a robbery. The reading turns on one question: did the fingers open, or were they opened?",
+          "The better version is one of the suit's quiet victories, easy to miss because it looks like small transactions: the man on the bench sets down one coin and does something with the freed hand. Picks up a dinner bill. Funds the course. Says take the car. Delegates — actually delegates, without the shadow audit afterward. Lets the partner see the accounts; lets the friend see the fear. In relationships, this is control lent out at interest: the discovery, staggering to the long-clenched, that trust placed in a competent other returns more security than it cost, because two watchers sleep better than one clencher. The reversal at its best is not the opposite of the Four's caution; it is caution graduating — the realization that a fortress is only worth holding if the drawbridge sometimes comes down, and that the coins, pinned underfoot all those years, were not appreciating. They were just dark.",
+          "The worse version arrives uninvited: the market turn, the diagnosis, the redundancy, the theft — life prying the fingers back one by one, taking a coin the grip had organized itself around. The pain here is double, and the card is honest about both layers: the loss itself, and the identity that held it. The clencher discovers that the holding had become the self, and with a coin gone he does not know his own posture. What the reversal offers this face is cold but real: the hands are open now. It was not chosen; it is still true; and open hands, whatever opened them, are the only kind that can receive. Most stories of unexpected help, second acts, and strangers' kindness begin exactly here — at the bench, palms up, involuntarily available at last.",
+          "And there is the third face, which the card watches with something like clinical interest: the swing. The lifelong clench that fails not into openness but into spray — the hoarder become spendthrift overnight, the decade of denial converted into one catastrophic season of yes to everything. This is not liberation, and the card is firm about why: it is the same disorder at the other amplitude. The clench and the splurge share a root — a grip that has never learned pressure, only position; a person for whom money has never been a tool, only a feeling to be either suppressed or discharged. The counsel for all three faces converges on the same discipline: chosen pressure. Open by decision, at a rate — one coin, one trust, one drawbridge at a time, with the hand's owner, not the old fear and not the new giddiness, setting the grip. The Four upright asked whose life the coins serve. The reversal asks the harder follow-up: whose hand is this, and it is answered — this suit never tires of saying it — not once, but every time the fingers move."
+        ],
+        "work": [
+          "Delegation without the shadow audit — control lent to a competent other returns more security than it cost. If loss forced the opening: palms up is also how help arrives."
+        ],
+        "love": [
+          "The drawbridge down at a chosen rate: let them see the accounts, then the fear. Two watchers sleep better than one clencher."
+        ],
+        "self": [
+          "Watch the swing — hoard to splurge is the same disorder at the other amplitude. The skill was never clench or release; it's pressure, chosen, each time the fingers move."
+        ],
+        "note": [
+          "Not loss by definition — half these openings are graduations. And not liberation if it's spray: yes-to-everything is the old fist discharging, still nobody's hand."
+        ]
+      }
+    },
+    "es": {
+      "slug": "cuatro-de-oros",
+      "name": "Cuatro de Oros",
+      "seoTitle": "Cuatro de Oros en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "El punto muerto — dinero ahorrado, límites guardados, control asentado, a menudo tras una escasez de verdad. Aquí nada se pierde; aquí nada se mueve.…",
+      "summary": "El punto muerto — dinero ahorrado, límites guardados, control asentado, a menudo tras una escasez de verdad. Aquí nada se pierde; aquí nada se mueve. Cuenta los miembros: los cuatro están ocupados en defender. La seguridad es real, y por ahora es lo único que se produce.",
+      "imageDescription": "Un hombre está sentado en un banco de piedra a las afueras de la ciudad, y su cuerpo entero es un inventario: los dos brazos rodeando una moneda apretada contra el pecho, un pie sobre cada una de las dos monedas del suelo, una cuarta moneda en equilibrio sobre la corona. La postura es del todo segura y del todo ocupada — ni una mano libre para saludar, ni un pie libre para caminar, y la cabeza haciendo su parte al quedarse quieta. Detrás de él, a su espalda, la ciudad sigue viva.",
+      "upright": {
+        "keywords": [
+          "la seguridad conseguida y defendida de más, cada miembro ocupado en sujetar, la corona que carga en vez de pensar, el ahorro vuelto acaparamiento, la ciudad a su espalda, a salvo y un poco atascado"
+        ],
+        "essay": [
+          "Al Cuatro de Oros se le lee siempre como el avaro, y esa lectura es demasiado fácil — porque lo primero honesto de esta carta es que las monedas son reales y seguramente costó ganarlas. Alguien ahorró esto. La carta suele llegar después del caos: la deuda saldada, el fondo de emergencia por fin con dinero dentro, los límites puestos tras años sin ninguno, la vida reunida en algo que un mal mes ya no puede llevarse. La tierra es el palo de la seguridad, y el Cuatro es la seguridad ya conseguida — una etapa legítima, a veces necesaria por salud. La baraja no se burla de quien aprieta. Solo le pide, con suavidad, que revise una cosa: la postura.",
+          "Cuenta los miembros. Dos brazos alrededor de la moneda del pecho. Dos pies sujetando las monedas del suelo. La corona — el símbolo que la baraja usa para el pensamiento libre — reducida a estante. Lo que sale de la cuenta es aritmético, no moral: cada miembro que este hombre tiene está ocupado en sujetar, lo que significa que sujetar ya no es algo que hace; es todo lo que hace. No puede dar la mano, aceptar un regalo, construir, hacer un gesto ni caminar, y no puede pensar libre con la cabeza haciendo de balanza a un bien. Esta es la definición exacta que la carta da de la frontera entre ahorrar y acaparar, y no tiene nada que ver con la cantidad: ahorras cuando las monedas sirven a la vida. Acaparas cuando la vida está al servicio de las monedas.",
+          "Y el puño, una vez aprendido, se contagia — este es el segundo acto callado de la carta. Las manos que aprendieron a sujetar así el dinero empiezan a sujetarlo todo con el mismo puño: la agenda defendida al minuto, la relación vigilada como una cuenta bancaria, el rencor guardado porque soltarlo se siente como perder algo, las opiniones conservadas más allá de su fecha porque cambiar de idea parece un robo. Debajo, casi siempre, hay un recuerdo de escasez que ha sobrevivido a los hechos que lo causaron — el año de vacas flacas, la infancia precaria, la traición — todavía fijando la fuerza del puño décadas después de que las cosas cambiaran. El miedo se calibró una vez, con motivo, para un hambre real. Nadie avisó a las manos de que el hambre terminó.",
+          "El consejo no es soltar — decirle a esta carta que abra los cuatro miembros a la vez es tan inútil como cruel. Es un miembro. Elige la moneda más barata — la cosa retenida más pequeña cuyo retener sale más caro: la invitación que sigue en pie y siempre rechazas, el billete que sería una buena propina, la disculpa guardada como si fuera dinero — y libera el único miembro que la sujeta. Mira qué pasa, que sin falta no es nada malo; que el cielo no se caiga es el único argumento que el miedo viejo acepta, y lo acepta despacio, al ritmo de una mano abierta cada vez. La ciudad, recuerda, está detrás de él — toda la geometría de la carta lo dice: le da la espalda a cada persona para la que, o contra la que, guarda las monedas. La seguridad tenía que servir para ganarse un sitio en esa mesa. Gasta una moneda en el sitio."
+        ],
+        "work": [
+          "Consolidar era la etapa correcta — pero revisa la postura: si cada hora se va en defender lo que ya existe, no se construye nada nuevo. Libera un miembro; delega una cosa que estás reteniendo."
+        ],
+        "love": [
+          "La relación vigilada como una cuenta bancaria, el afecto entregado a plazos fijos — el puño aprendido con el dinero se contagia. Abre una mano, y mira cómo el cielo no se cae."
+        ],
+        "self": [
+          "La escasez fue real una vez; mira la fecha que tiene. Un miedo calibrado para un hambre vieja está fijando la fuerza del puño de hoy. Nadie avisó a las manos de que terminó."
+        ],
+        "note": [
+          "No es la codicia de caricatura — es defensa, casi siempre con una historia detrás que se entiende. Y no está mal haber ahorrado: o las monedas sirven a la vida, o la vida está al servicio de las monedas. Esa es toda la prueba."
+        ]
+      },
+      "reversed": {
+        "summary": "El puño abriéndose — por decisión propia: generosidad, el primer gasto de verdad en la vida, el control por fin cedido. O a la fuerza: la pérdida que dobló los dedos hacia atrás. O el bandazo: del tesoro al derroche sin parada en medio. La pregunta es la misma en los tres — ¿quién decide ahora el puño?",
+        "keywords": [
+          "el puño aflojándose para bien o para mal, la generosidad que vuelve, el tesoro que la vida abre a la fuerza, del puño a la mano abierta — o del puño al derroche, el control perdido o por fin cedido"
+        ],
+        "essay": [
+          "Invertido, el Cuatro de Oros es el puño cambiando, y la carta es del todo neutral sobre hacia dónde — para bien o para mal es el lema honesto, porque una mano abierta describe igual un regalo que un robo. La lectura gira sobre una pregunta: ¿los dedos se abrieron, o se los abrieron?",
+          "La versión buena es una de las victorias calladas del palo, fácil de pasar por alto porque parece cosa de pequeñas transacciones: el hombre del banco deja una moneda y hace algo con la mano que le queda libre. Paga una cena. Paga el curso. Dice llévate el coche. Delega — delega de verdad, sin la revisión a escondidas de después. Deja que la pareja vea las cuentas; deja que la amiga vea el miedo. En las relaciones, esto es control cedido que da réditos: el descubrimiento, asombroso para quien lleva años apretando, de que la confianza puesta en alguien competente devuelve más seguridad de la que costó, porque dos que vigilan duermen mejor que un puño solo. La versión invertida en su mejor cara no es lo contrario de la cautela del Cuatro; es la cautela subiendo de nivel — entender que una fortaleza solo vale la pena si el puente levadizo baja de vez en cuando, y que las monedas, clavadas bajo los pies todos esos años, no estaban revalorizándose. Solo estaban a oscuras.",
+          "La versión mala llega sin avisar: el vuelco del mercado, el diagnóstico, el despido, el robo — la vida doblando los dedos hacia atrás uno a uno, llevándose una moneda alrededor de la cual el puño se había organizado. El dolor aquí es doble, y la carta es honesta con las dos capas: la pérdida en sí, y la identidad que la sujetaba. Quien apretaba descubre que el sujetar se había vuelto su yo, y con una moneda de menos ya no reconoce su propia postura. Lo que la versión invertida le ofrece a esta cara es frío pero real: ahora las manos están abiertas. No lo eligió; sigue siendo verdad; y las manos abiertas, las abriera lo que las abriera, son las únicas que pueden recibir. Casi todas las historias de ayuda inesperada, de segundas oportunidades, de bondad de un desconocido, empiezan justo aquí — en el banco, las palmas hacia arriba, por fin disponibles sin quererlo.",
+          "Y está la tercera cara, que la carta observa con algo parecido a curiosidad clínica: el bandazo. El puño de toda la vida que no falla hacia abrirse sino hacia soltarlo todo de golpe — el acaparador vuelto manirroto de la noche a la mañana, la década de negarse convertida en una temporada catastrófica de decir sí a todo. Esto no es liberarse, y la carta es tajante con el motivo: es el mismo trastorno en el otro extremo. Apretar y derrochar comparten raíz — un puño que nunca aprendió a dosificar la fuerza, solo a estar cerrado o abierto; una persona para quien el dinero nunca fue una herramienta, solo una emoción que hay que aguantar o descargar. El consejo para las tres caras va a parar a la misma disciplina: abrir con medida. Abrir por decisión, a un ritmo — una moneda, una confianza, un puente levadizo cada vez, y que sea el dueño de la mano, no el miedo viejo ni el mareo nuevo, quien decida el puño. El Cuatro al derecho preguntaba a qué vida sirven las monedas. La versión invertida hace la pregunta siguiente, más dura: ¿de quién es esta mano?, y se responde —este palo no se cansa de decirlo— no una vez, sino cada vez que los dedos se mueven."
+        ],
+        "work": [
+          "Delegar sin la revisión a escondidas de después — el control cedido a alguien competente devuelve más seguridad de la que costó. Si la pérdida forzó la apertura: con las palmas hacia arriba es también como llega la ayuda."
+        ],
+        "love": [
+          "El puente levadizo bajado al ritmo que tú eliges: que vean las cuentas, luego el miedo. Dos que vigilan duermen mejor que un puño solo."
+        ],
+        "self": [
+          "Cuidado con el bandazo — del tesoro al derroche es el mismo trastorno en el otro extremo. La destreza nunca fue apretar o soltar; es dosificar la fuerza, con decisión, cada vez que los dedos se mueven."
+        ],
+        "note": [
+          "No es pérdida por definición — la mitad de estas aperturas son ascensos. Y no es liberarse si es soltarlo todo de golpe: el sí-a-todo es el viejo puño descargándose, todavía la mano de nadie."
+        ]
+      }
+    }
+  }
+}

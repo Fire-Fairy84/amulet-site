@@ -1,0 +1,128 @@
+{
+  "id": "seven-of-swords",
+  "number": 7,
+  "order": 56,
+  "arcana": "minor",
+  "suit": "swords",
+  "rank": 7,
+  "image": "/assets/cards/seven-of-swords.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "swords-07.en.md",
+    "es": "swords-07.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "seven-of-swords",
+      "name": "Seven of Swords",
+      "seoTitle": "Seven of Swords Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "Strategy over confrontation — the indirect route, the solo move, the thing done quietly because doing it loudly would kill it. Sometimes theft, sometimes…",
+      "summary": "Strategy over confrontation — the indirect route, the solo move, the thing done quietly because doing it loudly would kill it. Sometimes theft, sometimes wisdom, always alone. Two swords were left behind: even cunning has limits it chose.",
+      "imageDescription": "A man tiptoes away from a camp of bright tents, carrying five swords bundled awkwardly in his arms, glancing back with an expression somewhere between glee and calculation. Two swords remain planted behind him. In the far distance, a small group stands around a fire, unaware — or just possibly, aware and letting him go. Every reading of this card begins with the same question: what exactly is he doing, and is it yours?",
+      "upright": {
+        "keywords": [
+          "the strategic taking, cunning over confrontation, the sidestep, five swords carried and two left, acting alone, the plan nobody was told"
+        ],
+        "essay": [
+          "The Seven of Swords is the deck's most morally unsettled card, and its refusal to settle is the teaching. A man leaves a camp with five swords that may or may not be his, by a route that is certainly not the front gate. The tradition reads him as thief, spy, tactician, deserter, and lone genius — and the card's actual position is that the same behavior is all of these, depending on facts the image withholds: whose camp, whose swords, what war.",
+          "Start with the defensible readings, because they are real and the card protects them. Not every contest should be fought frontally; not every plan survives being announced. There are rooms where honesty is spent like ammunition against you, negotiations where showing your position is losing it, workplaces and families where the direct route is a wall with spikes and the side path is simply the door that works. The Seven upright often endorses exactly this: keep the plan quiet until it can stand; work around the blocker instead of through him; take what is yours without waiting for a permission that was never coming. Strategy is not a sin. The suit of the mind includes the mind's oldest tool: indirection.",
+          "But the card keeps the glance backward in the frame, and the glance is the tell. Whatever this man is doing, part of him is checking whether it is being seen — and that check is the card's diagnostic gift to you. Actions that survive witnesses are strategy; actions that require the dark are usually something else wearing strategy's clothes. The honest audit takes one question: if the camp woke up, what would you say? If there is a sentence — I took what was mine; I left because staying was dying; I couldn't tell you yet, and here is why — the sidestep holds. If the imagined waking produces only scrambling, the card has already told you what you needed to know, and told you early, while the tents are still close enough to walk back to.",
+          "And do not miss the two swords left planted. Five carried, two abandoned — the card's most overlooked detail and its quietest wisdom. Every indirect route costs something; every solo operation leaves assets behind: the ally not recruited, the credit unclaimed, the full victory traded for the feasible extraction. The Seven's realism is that cunning is a partial art — it gets you out with most of what matters, never all. Choose the two swords you can live without before the move, not after. The people who regret this card's operations are rarely sorry they went. They are sorry about what they didn't notice they were leaving until it was planted behind them in the dark."
+        ],
+        "work": [
+          "The plan kept quiet until it can stand — working around the blocker, the exit prepared before it's announced. Legitimate. But run the waking-camp test: what would you say?"
+        ],
+        "love": [
+          "The indirect route where directness gets spent against you — or something sneakier wearing its clothes. Actions that survive witnesses are strategy; the ones needing dark are not."
+        ],
+        "self": [
+          "Acting alone as competence — and as habit that leaves two swords behind every time: the ally not asked, the help not taken. Choose your abandoned swords on purpose."
+        ],
+        "note": [
+          "Not automatically theft — the card withholds whose swords they are on purpose. And not free: cunning is a partial art. It gets most, never all."
+        ]
+      },
+      "reversed": {
+        "summary": "The covert operation ending — exposed by others, or surrendered by choice. Confession as the superior extraction. The deceived party may be in the mirror. And check for the deepest version: sneaking as a permanent posture, long after anyone was watching.",
+        "keywords": [
+          "the plan exposed, coming clean, the con collapsing, self-deception caught, returning the swords, or the sneak internalized past all witnesses"
+        ],
+        "essay": [
+          "Reversed, the Seven of Swords is the end of the quiet route, and it ends in one of three ways: caught, confessed, or — the subtlest — revealed to have been pointless all along.",
+          "Caught is the loud ending: the plan exposed, the trail found, the glance backward finally meeting eyes. The card's counsel for the exposed is unexpected: the worst move now is the second operation — the cover-up, the counter-story, the tiptoe from the tiptoe. Deceptions compound like debt, and the discovered deceiver's one asset is that the discovery ended the compounding. Pay the principal: full acknowledgment, uninflated and unminimized, before the interest resumes. People forgive found-out far more readily than they forgive the escalating architecture built to avoid being found out. What they never forgive is being made to do the finding twice.",
+          "Confessed is the strong ending, and the card holds it up deliberately: the man turning around on his own, swords held out, walking back into the camp before anyone woke. Voluntary disclosure is the one form of this card that converts cunning into trust — the secret plan announced before it hardened, the workaround brought to the person it went around, the taken thing returned with the sentence I did this, and here is why, and I'd rather lose the advantage than keep the weight. It costs the whole extraction. It buys the only thing five swords never carry: the standing to be believed next time. If you are mid-operation and this card arrives reversed, it is likely marking the last exit before confession stops being available at pre-discovery prices.",
+          "And the third ending is the one that needs no other people at all: the sneak internalized. Deception's longest con is always the one run on the operator — the rationalization so rehearsed it files as fact, the double life whose accounting consumes the life, the person who has managed their own image so long that the manager no longer knows what the client actually wants. Here the reversed card functions as a mirror held at an angle: whom, exactly, is the current maneuver deceiving — and check the mirror before answering. The tell of self-deception is exhaustion without external cause: running an internal counterintelligence operation is the most expensive standing program a psyche can fund. The demobilization is one honest sentence, said first only to yourself, with nobody to outmaneuver: here is what I am actually doing, and here is what I actually want. The camp, it turns out, was never the enemy's. It was always yours — and you are allowed to walk back in through the front, in daylight, carrying everything."
+        ],
+        "work": [
+          "Exposed: pay the principal — full acknowledgment before the interest resumes. The cover-up is a second operation, and it's the one they never forgive."
+        ],
+        "love": [
+          "The voluntary turn-around — the workaround confessed to the person it went around, at pre-discovery prices. It costs the advantage and buys being believed next time."
+        ],
+        "self": [
+          "Exhaustion without external cause: you're funding an internal counterintelligence program. One sentence, to yourself first — what am I actually doing, and what do I actually want?"
+        ],
+        "note": [
+          "Not doom for the caught — discovery ends the compounding; that's an asset. And the camp was never the enemy's: the front gate has been open the whole time."
+        ]
+      }
+    },
+    "es": {
+      "slug": "siete-de-espadas",
+      "name": "Siete de Espadas",
+      "seoTitle": "Siete de Espadas en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "La estrategia sobre la confrontación — la ruta indirecta, la jugada en solitario, la cosa hecha en silencio porque hacerla a voces la mataría. A veces…",
+      "summary": "La estrategia sobre la confrontación — la ruta indirecta, la jugada en solitario, la cosa hecha en silencio porque hacerla a voces la mataría. A veces robo, a veces sabiduría, siempre a solas. Dos espadas quedaron atrás: hasta la astucia tiene límites que eligió.",
+      "imageDescription": "Un hombre se aleja de puntillas de un campamento de tiendas brillantes, cargando cinco espadas mal abrazadas, mirando atrás con una expresión entre el regocijo y el cálculo. Dos espadas quedan clavadas tras él. A lo lejos, un grupo pequeño rodea un fuego, ajeno — o quizá, solo quizá, enterado y dejándolo ir. Toda lectura de esta carta empieza con la misma pregunta: qué está haciendo exactamente, y si es lo tuyo.",
+      "upright": {
+        "keywords": [
+          "la toma estratégica, la astucia sobre la confrontación, el quiebro, cinco espadas cargadas y dos dejadas, actuar en solitario, el plan que no se contó a nadie"
+        ],
+        "essay": [
+          "El Siete de Espadas es la carta moralmente menos resuelta de la baraja, y su negativa a resolverse es la enseñanza. Un hombre deja un campamento con cinco espadas que pueden ser suyas o no, por una ruta que desde luego no es la puerta principal. La tradición lo lee como ladrón, espía, táctico, desertor y genio solitario — y la posición real de la carta es que la misma conducta es todas esas cosas, según hechos que la imagen se guarda: de quién es el campamento, de quién las espadas, qué guerra.",
+          "Empieza por las lecturas defendibles, porque son reales y la carta las protege. No toda contienda debe pelearse de frente; no todo plan sobrevive a ser anunciado. Hay salas donde la honestidad se gasta como munición en tu contra, negociaciones donde enseñar tu posición es perderla, trabajos y familias donde la ruta directa es un muro con pinchos y el sendero lateral es simplemente la puerta que funciona. El Siete derecho respalda a menudo exactamente esto: guarda el plan en silencio hasta que pueda sostenerse; rodea al que bloquea en lugar de atravesarlo; toma lo que es tuyo sin esperar un permiso que nunca iba a llegar. La estrategia no es un pecado. El palo de la mente incluye la herramienta más vieja de la mente: la indirección.",
+          "Pero la carta conserva la mirada hacia atrás, y esa mirada delata algo. Sea lo que sea que hace este hombre, quiere comprobar si lo ven. Aquí cabe una pregunta honesta: si el campamento despertara, ¿qué dirías? Las acciones que podrían explicarse ante otros pueden ser estrategia; las que solo funcionan en la oscuridad suelen ser otra cosa disfrazada. Si puedes decir «tomé lo que era mío», «me fui porque quedarme me destruía» o «aún no podía contarlo, por esto», tu decisión se sostiene. Si solo te salen excusas, la carta ya te ha dado la respuesta.",
+          "Y no te pierdas las dos espadas que quedaron clavadas. Cinco cargadas, dos abandonadas — el detalle más pasado por alto de la carta y su sabiduría más callada. Toda ruta indirecta cuesta algo; toda operación en solitario deja activos atrás: el aliado no reclutado, el mérito sin reclamar, la victoria completa cambiada por la extracción viable. El realismo del Siete es que la astucia es un arte parcial — te saca con la mayor parte de lo que importa, nunca con todo. Elige las dos espadas sin las que puedes vivir antes de la jugada, no después. La gente que lamenta las operaciones de esta carta rara vez lamenta haber ido. Lamenta lo que no notó que dejaba hasta que quedó clavado a su espalda en la oscuridad."
+        ],
+        "work": [
+          "El plan guardado hasta que pueda sostenerse — rodear al que bloquea, la salida preparada antes de anunciarse. Legítimo. Pero haz la prueba del campamento despierto: ¿qué dirías?"
+        ],
+        "love": [
+          "La ruta indirecta donde lo directo se gasta en tu contra — o algo más turbio con su ropa. Las acciones que sobreviven a testigos son estrategia; las que necesitan oscuridad, no."
+        ],
+        "self": [
+          "Actuar sola como competencia — y como costumbre que deja dos espadas atrás cada vez: el aliado no pedido, la ayuda no tomada. Elige tus espadas abandonadas a propósito."
+        ],
+        "note": [
+          "No es robo automáticamente — la carta se guarda de quién son las espadas a propósito. Y no es gratis: la astucia es un arte parcial. Consigue la mayor parte, nunca todo."
+        ]
+      },
+      "reversed": {
+        "summary": "El plan secreto termina: otras personas lo descubren o tú decides explicarlo. A veces confesar es la mejor salida. La persona engañada puede ser también quien se mira al espejo. Revisa, además, si el secreto se ha convertido en una costumbre incluso cuando ya nadie te vigila.",
+        "keywords": [
+          "el plan expuesto, sincerarse, la estafa derrumbándose, el autoengaño pillado, devolver las espadas, o el sigilo interiorizado más allá de todo testigo"
+        ],
+        "essay": [
+          "Invertido, el Siete de Espadas es el fin de la ruta silenciosa, y termina de una de tres maneras: pillado, confesado, o — la más sutil — revelado como inútil desde el principio.",
+          "Ser descubierta es el final ruidoso: el plan queda expuesto y ya no puedes fingir que nadie lo ve. Ahora, lo peor sería añadir otra capa de encubrimiento o inventar una versión alternativa. Reconoce lo ocurrido de forma completa, sin exagerarlo ni minimizarlo. La gente suele perdonar antes un error descubierto que una mentira cada vez más grande para ocultarlo. Lo que resulta difícil de perdonar es tener que descubrir la misma verdad dos veces.",
+          "Confesado es el final fuerte, y la carta lo sostiene en alto deliberadamente: el hombre girándose por su cuenta, las espadas tendidas, caminando de vuelta al campamento antes de que nadie despertara. La revelación voluntaria es la única forma de esta carta que convierte la astucia en confianza — el plan secreto anunciado antes de endurecerse, el rodeo llevado ante la persona rodeada, la cosa tomada devuelta con la frase hice esto, este es el porqué, y prefiero perder la ventaja a quedarme el peso. Cuesta la extracción entera. Compra lo único que cinco espadas no cargan nunca: la reputación para ser creído la próxima vez. Si estás en plena operación y esta carta llega invertida, probablemente marca la última salida antes de que confesar deje de estar disponible a precio de pre-descubrimiento.",
+          "Y el tercer final no necesita a nadie más: el sigilo interiorizado. La estafa más larga del engaño es siempre la que se le hace al operador — la racionalización tan ensayada que se archiva como hecho, la doble vida cuya contabilidad se come la vida, la persona que lleva tanto tiempo gestionando su propia imagen que el gestor ya no sabe qué quiere el cliente. Aquí la carta invertida funciona como un espejo en ángulo: ¿a quién, exactamente, engaña la maniobra actual? — y mira el espejo antes de responder. El delator del autoengaño es el agotamiento sin causa externa: mantener una operación de contraespionaje interna es el programa permanente más caro que una psique puede financiar. La desmovilización es una frase honesta, dicha primero solo a ti misma, sin nadie a quien burlar: esto es lo que estoy haciendo en realidad, y esto es lo que quiero en realidad. El campamento, resulta, nunca fue del enemigo. Siempre fue tuyo — y tienes permiso para volver a entrar por delante, a plena luz, cargándolo todo."
+        ],
+        "work": [
+          "Si te han descubierto, reconoce lo ocurrido antes de que crezca. El encubrimiento es un segundo engaño, y suele ser el que más cuesta perdonar."
+        ],
+        "love": [
+          "El giro voluntario — el rodeo confesado a la persona rodeada, a precio de pre-descubrimiento. Cuesta la ventaja y compra ser creída la próxima vez."
+        ],
+        "self": [
+          "Agotamiento sin causa externa: estás financiando un programa de contraespionaje interno. Una frase, primero a ti misma — ¿qué estoy haciendo en realidad, y qué quiero en realidad?"
+        ],
+        "note": [
+          "No es una condena por haber sido descubierta: aún puedes detener el daño. Y quizá el campamento nunca fue enemigo; la puerta principal llevaba abierta todo el tiempo."
+        ]
+      }
+    }
+  }
+}

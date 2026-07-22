@@ -1,0 +1,5 @@
+<svg class="arcana-svg" viewBox="0 0 210 363" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="FOUR OF WANDS">
+  <rect x="1" y="1" width="208" height="361" rx="12" fill="#0B0908" stroke="#FF4B2E" stroke-opacity="0.35"/>
+  <path d="M76.0,133.78 L90.2,167.3 L61.8,167.3 Z" fill="#FF4B2E"/><path d="M134.0,133.78 L148.2,167.3 L119.8,167.3 Z" fill="#FF4B2E"/><path d="M76.0,208.78 L90.2,242.3 L61.8,242.3 Z" fill="#FF4B2E"/><path d="M134.0,208.78 L148.2,242.3 L119.8,242.3 Z" fill="#FF4B2E"/>
+  <text x="105" y="334" text-anchor="middle" font-family="system-ui, Helvetica, sans-serif" font-size="9.5" letter-spacing="3.5" fill="#8E877B">FOUR OF WANDS</text>
+</svg>

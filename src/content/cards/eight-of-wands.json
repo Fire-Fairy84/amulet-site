@@ -1,0 +1,128 @@
+{
+  "id": "eight-of-wands",
+  "number": 8,
+  "order": 71,
+  "arcana": "minor",
+  "suit": "wands",
+  "rank": 8,
+  "image": "/assets/cards/eight-of-wands.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "wands-08.en.md",
+    "es": "wands-08.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "eight-of-wands",
+      "name": "Eight of Wands",
+      "seoTitle": "Eight of Wands Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "Speed after stall — the replies arriving, the plan unblocked, events compressing weeks into days. Momentum you ride rather than steer. Say yes quickly…",
+      "summary": "Speed after stall — the replies arriving, the plan unblocked, events compressing weeks into days. Momentum you ride rather than steer. Say yes quickly, aim once, and let the things land.",
+      "imageDescription": "Eight wands cross an open sky in parallel, tips angled down toward a green landscape with a river — the only card in the suit with no people in it. Nothing holds them, nothing opposes them. Whatever was going to be argued about has been argued; now there is only flight, and the ground coming up to meet it.",
+      "upright": {
+        "keywords": [
+          "sudden motion, news in flight, acceleration, the unblocked channel, alignment, things landing all at once"
+        ],
+        "essay": [
+          "After six cards of wanting, planning, waiting, celebrating, competing and defending, the suit of fire suddenly empties of people — and moves. The Eight of Wands is pure transmission: the email answered in minutes, the deal that closes in a week after stalling for a quarter, the message sent and the phone lighting up. Nothing in the image resists anything. For once, the interesting question is not what should I do but can I keep up.",
+          "The card's signature sensation is compression. Events that were spaced politely across a season arrive in the same afternoon; every channel unblocks at once, and the queue you were patiently standing in simply dissolves. This is disorienting in a specific way — we build our sense of control around intervals, around the pause between action and consequence, and the Eight deletes the pause. The counsel is not calm, exactly. It is economy: in high wind, make few motions and make them count. Answer the thing that is actually asked. Send the version you have. Decisions age badly at this speed; a good yes today outruns a perfect yes on Thursday.",
+          "Notice, though, that the wands were aimed before they flew. Flight looks like freedom but behaves like consequence — everything now in the air was launched by choices made back in the slow cards, and its direction was fixed at release. The Eight is a poor moment for redesign and a superb one for follow-through. If the trajectory is right, feed it and get out of its way. If something is flying that should not be — the message sent in heat, the process started in doubt — know that mid-air corrections are nearly impossible, and what can be adjusted is the landing: who is standing where, what is soft, what is said the moment things touch down.",
+          "And they will touch down. The tips angle earthward; the river and the ground wait. This speed is a phase, not a climate — nothing about the Eight is sustainable, which is precisely its value and its warning at once. Ride it fully while it lasts. Do not sign a lease at this velocity, and do not mistake the wind for your own wings — the difference becomes visible, always, on landing."
+        ],
+        "work": [
+          "The unblocked quarter — replies, approvals, movement all at once. Ship the version you have; batch nothing. Follow through now, redesign later."
+        ],
+        "love": [
+          "The fast current — messages flying, plans compressing, distance closing quickly. Enjoy the velocity and check the aim: direction was set at launch."
+        ],
+        "self": [
+          "Momentum after stagnation. Few motions, made to count. Not the season for new commitments — for landing the ones already in the air."
+        ],
+        "note": [
+          "Not a climate — a gust. And not steering: what flies now was aimed earlier. You govern the landing, not the flight."
+        ]
+      },
+      "reversed": {
+        "summary": "Motion interrupted or motion without aim — the reply that won't come, the launch that keeps slipping, the flurry of activity adding up to nothing. Either the channel is blocked or the sender never aimed. Find which before pushing.",
+        "keywords": [
+          "delay, the stalled send, momentum scattered, too fast to land, missed connections, speed without direction"
+        ],
+        "essay": [
+          "Reversed, the Eight of Wands breaks in one of two opposite ways, and they are treated with opposite medicine — so diagnosis is the whole game. Either the motion stopped, or the motion never had a destination.",
+          "The stall is the familiar version: the reply that does not come, the paperwork in transit for weeks, the almost-closed thing that will not close. Waiting of this kind has a particular cruelty — it is not a no, so nothing can be grieved; it is not a yes, so nothing can be built; it is a corridor. Two disciplines help. First, separate the channels you can act on from the ones you cannot: send the follow-up, make the call, remove the friction that is yours to remove — once — and then stop re-sending what has already been sent, because anxiety's favorite disguise is productivity. Second, refuse to read delay as verdict. Slow mail is not sad news walking; the corridor is dark because corridors are, not because of what waits at the end. Most delays are about the channel, not about you.",
+          "The other version hides better because it photographs like health: enormous velocity, no vector. Everything is urgent, everything is in flight, the calendar is a blur — and if you freeze the frame and ask where the eight wands are actually headed, no two of them agree. Busyness at this pitch is often not ambition but its avoidance: as long as everything is moving, no single thing has to be chosen, and choosing is the scary part. The medicine is embarrassingly small. Ground one wand. Pick the single message that matters most and see it all the way to landing — sent, received, answered, done — before lifting the next. Momentum scattered across eight targets is a rounding error on each; gathered on one, it is the whole card upright again.",
+          "Either way, the reversal is rarely fatal and never permanent. Wind resumes; channels reopen, usually without explaining themselves. What the pause is for — if it insists on happening — is the one thing high speed forbade: checking the aim. When the wands lift again, and they will, it matters enormously where they were pointed while they lay still."
+        ],
+        "work": [
+          "The launch that keeps slipping, or a sprint with no vector. Chase once, then stop re-sending. Ground one priority and fly it to done."
+        ],
+        "love": [
+          "The unanswered message, the plan that won't confirm. Delay is the channel, not the verdict. One clear signal beats a flurry of small ones."
+        ],
+        "self": [
+          "Urgency as avoidance — everything moving so nothing must be chosen. Freeze the frame; pick one wand; land it entirely."
+        ],
+        "note": [
+          "Not a no. The corridor is not the destination — stalled mail says nothing about its contents, and wind, historically, resumes."
+        ]
+      }
+    },
+    "es": {
+      "slug": "ocho-de-bastos",
+      "name": "Ocho de Bastos",
+      "seoTitle": "Ocho de Bastos en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "Velocidad después del estancamiento: llegan respuestas, el plan avanza y en pocos días sucede lo que antes habría tomado semanas. Es un impulso que…",
+      "summary": "Velocidad después del estancamiento: llegan respuestas, el plan avanza y en pocos días sucede lo que antes habría tomado semanas. Es un impulso que conviene aprovechar, no controlar. Decide con agilidad y deja que las cosas lleguen a puerto.",
+      "imageDescription": "Ocho bastos cruzan en paralelo un cielo abierto, las puntas inclinadas hacia un paisaje verde con un río — la única carta del palo sin gente. Nada los sostiene, nada se les opone. Lo que había que discutir ya se discutió; ahora solo hay vuelo, y el suelo subiendo a su encuentro.",
+      "upright": {
+        "keywords": [
+          "movimiento súbito, noticias en camino, aceleración, vía libre, alineación, todo llega a la vez"
+        ],
+        "essay": [
+          "Después de seis cartas de querer, planear, esperar, celebrar, competir y defender, el palo de fuego se vacía de pronto de gente — y se mueve. El Ocho de Bastos es transmisión pura: el correo respondido en minutos, el trato que se cierra en una semana tras un trimestre atascado, el mensaje enviado y el teléfono encendiéndose. Nada en la imagen se resiste a nada. Por una vez, la pregunta interesante no es qué debería hacer sino puedo seguir el ritmo.",
+          "La sensación característica de esta carta es la aceleración. Lo que parecía repartido a lo largo de semanas sucede de golpe; se abren varios canales a la vez y la espera se disuelve. Puede desorientar, porque solemos apoyarnos en la pausa entre la acción y el resultado. El consejo no es detenerlo todo, sino simplificar: haz pocos movimientos y hazlos bien. Responde a lo que realmente te preguntan y envía la versión que ya tienes. A esta velocidad, un buen sí hoy vale más que un sí perfecto el jueves.",
+          "Fíjate, eso sí, en que los bastos fueron apuntados antes de volar. El vuelo parece libertad pero se comporta como consecuencia — todo lo que ahora está en el aire lo lanzaron decisiones tomadas en las cartas lentas, y su dirección quedó fijada al soltarlo. El Ocho es un mal momento para rediseñar y uno espléndido para ejecutar. Si la trayectoria es buena, aliméntala y apártate de su camino. Si vuela algo que no debería — el mensaje enviado en caliente, el proceso iniciado en la duda — sabe que las correcciones en pleno vuelo son casi imposibles, y lo que sí puede ajustarse es el aterrizaje: quién está de pie y dónde, qué es blando, qué se dice en el momento en que las cosas tocan tierra.",
+          "Y tocarán tierra. Las puntas se inclinan hacia el suelo; el río y el campo esperan. Esta velocidad es una fase, no un clima — nada del Ocho es sostenible, y eso es exactamente su valor y su advertencia a la vez. Móntala del todo mientras dure. No firmes un contrato a esta velocidad, y no confundas el viento con tus propias alas — la diferencia se hace visible, siempre, al aterrizar."
+        ],
+        "work": [
+          "El trimestre desbloqueado — respuestas, aprobaciones, movimiento a la vez. Publica la versión que tienes; no acumules nada. Ejecuta ahora, rediseña después."
+        ],
+        "love": [
+          "La corriente rápida — mensajes volando, planes comprimiéndose, la distancia cerrándose deprisa. Disfruta la velocidad y revisa la puntería: la dirección se fijó en el lanzamiento."
+        ],
+        "self": [
+          "Impulso tras el estancamiento. Pocos movimientos, hechos para contar. No es la estación de nuevos compromisos — sino de aterrizar los que ya están en el aire."
+        ],
+        "note": [
+          "No es un estado permanente, sino una racha. Lo que ahora avanza se puso en marcha antes. Puedes cuidar cómo llega, no controlar todo el trayecto."
+        ]
+      },
+      "reversed": {
+        "summary": "Movimiento interrumpido o movimiento sin puntería — la respuesta que no llega, el lanzamiento que se resbala una y otra vez, la ráfaga de actividad que no suma nada. O el canal está bloqueado o quien envió nunca apuntó. Averigua cuál antes de empujar.",
+        "keywords": [
+          "demora, el envío atascado, impulso disperso, demasiado rápido para aterrizar, conexiones perdidas, velocidad sin dirección"
+        ],
+        "essay": [
+          "Invertido, el Ocho de Bastos se rompe de una de dos maneras opuestas, y se tratan con medicinas opuestas — así que el diagnóstico es todo el juego. O el movimiento se detuvo, o el movimiento nunca tuvo destino.",
+          "El atasco es la versión conocida: la respuesta que no llega, el papeleo en tránsito durante semanas, lo casi-cerrado que no se cierra. Esta clase de espera tiene una crueldad particular — no es un no, así que nada puede llorarse; no es un sí, así que nada puede construirse; es un pasillo. Ayudan dos disciplinas. Primera, separa los canales donde puedes actuar de los que no: manda el seguimiento, haz la llamada, quita la fricción que es tuya — una vez — y luego deja de reenviar lo ya enviado, porque el disfraz favorito de la ansiedad es la productividad. Segunda, niégate a leer la demora como veredicto. El correo lento no es una mala noticia caminando; el pasillo está oscuro porque los pasillos lo están, no por lo que espera al final. La mayoría de las demoras hablan del canal, no de ti.",
+          "La otra versión se esconde mejor porque en la foto parece salud: velocidad enorme, ningún vector. Todo es urgente, todo está en vuelo, el calendario es un borrón — y si congelas el fotograma y preguntas adónde van de verdad los ocho bastos, no hay dos que coincidan. El ajetreo a este tono no suele ser ambición sino su evitación: mientras todo se mueva, ninguna cosa concreta tiene que elegirse, y elegir es la parte que asusta. La medicina es humillantemente pequeña. Aterriza un basto. Elige el único mensaje que más importa y acompáñalo hasta el final — enviado, recibido, respondido, hecho — antes de levantar el siguiente. El impulso repartido entre ocho dianas es un error de redondeo en cada una; reunido en una sola, es la carta entera derecha otra vez.",
+          "En ambos casos, la inversión rara vez es fatal y nunca permanente. El viento vuelve; los canales reabren, normalmente sin dar explicaciones. Para lo que sirve la pausa — si insiste en ocurrir — es para lo único que la alta velocidad prohibía: revisar la puntería. Cuando los bastos se levanten otra vez, y se levantarán, importará enormemente hacia dónde apuntaban mientras estaban quietos."
+        ],
+        "work": [
+          "El lanzamiento que se resbala, o un sprint sin vector. Persigue una vez, luego deja de reenviar. Aterriza una prioridad y llévala en vuelo hasta hecho."
+        ],
+        "love": [
+          "El mensaje sin respuesta, el plan que no se confirma. La demora es el canal, no el veredicto. Una señal clara le gana a una ráfaga de señales pequeñas."
+        ],
+        "self": [
+          "La urgencia como evitación — todo moviéndose para que nada tenga que elegirse. Congela el fotograma; elige un basto; aterrízalo entero."
+        ],
+        "note": [
+          "No es un no. El pasillo no es el destino — el correo atascado no dice nada de su contenido, y el viento, históricamente, vuelve."
+        ]
+      }
+    }
+  }
+}

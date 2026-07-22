@@ -1,0 +1,128 @@
+{
+  "id": "ace-of-wands",
+  "number": 1,
+  "order": 64,
+  "arcana": "minor",
+  "suit": "wands",
+  "rank": 1,
+  "image": "/assets/cards/ace-of-wands.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "wands-01.en.md",
+    "es": "wands-01.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "ace-of-wands",
+      "name": "Ace of Wands",
+      "seoTitle": "Ace of Wands Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "The first want, still clean. Energy looking for a shape; an opening to seize while it is hot. The idea worth starting today — not the finished fire, one…",
+      "summary": "The first want, still clean. Energy looking for a shape; an opening to seize while it is hot. The idea worth starting today — not the finished fire, one match, struck.",
+      "imageDescription": "A hand reaches out of a cloud, gripping a living wand — still sprouting, leaves peeling off and drifting like small flames. Below, a river, a castle far off on a hill: the built world, at a distance. The hand offers. Nothing in the image installs, explains, or guarantees.",
+      "upright": {
+        "keywords": [
+          "spark, raw desire, creative ignition, the yes before the plan, appetite returning, one match"
+        ],
+        "essay": [
+          "Before the plan, before the budget, before the sensible questions, there is a want — and this card catches it at the only moment it is ever pure. Something has lit up in you recently: an idea, a person, a direction, a project that arrived with its own heat. The Ace asks you to notice that the heat came first, unargued. Desire of this kind is data. It knows something about you that your planning does not.",
+          "The hand offers the wand from a cloud; it does not plant it, water it, or promise the castle. That distant castle matters: it is what built desire eventually becomes, and it is far, and the card refuses to discuss the distance today. Aces are not contracts. They are ignitions, and the entire question they pose is whether you will let the spark touch anything flammable before it cools.",
+          "Because ignition has a shelf life — that is the card's urgency, and it is real. Not everything must be seized; but sparks left admired in the drawer do not keep. What they become instead is nostalgia for a start, which is among the heavier things a person can carry. The window for cheap action — the note, the sketch, the message, the first ugly version — is open now, and it is measured in days, not quarters.",
+          "So feed it small, today. The Ace does not ask for the campaign; it asks for kindling — twenty minutes, one page, one call. The fire that changes things is never the match. But there is no fire of any size that did not begin as one, held to something that could catch."
+        ],
+        "work": [
+          "The idea worth starting today, at kindling scale. The first ugly version before the enthusiasm cools. Not the roadmap — the match."
+        ],
+        "love": [
+          "Attraction, plain and new — the pull before the story about the pull. Worth one honest signal while it is still warm."
+        ],
+        "self": [
+          "Appetite returning — for making, for wanting, for the specific thing. Treat it as information, not interruption."
+        ],
+        "note": [
+          "Not the finished fire. One match — the guarantee was never included, and doesn't need to be."
+        ]
+      },
+      "reversed": {
+        "summary": "The spark that will not catch — wrong timing, wrong fuel, or a want you talked yourself into. Enthusiasm evaporating on contact with the actual. Not dead: unlit, which is a different diagnosis.",
+        "keywords": [
+          "false start, damp tinder, desire without traction, delay, wanting to want, the spark that will not catch"
+        ],
+        "essay": [
+          "You struck the match and nothing took. The reversed Ace is that specific disappointment — the start that did not start, the excitement that evaporated the moment it touched the actual work, the launch postponed so many times it quietly became vapor. The card's first mercy is diagnostic: this is not a verdict on you. Fires fail for reasons, and the reasons are findable.",
+          "Check the fuel first. Some wants are borrowed — absorbed from a feed, a friend, an old version of you — and borrowed desire never catches, because there is nothing underneath for it to reach. The test is unglamorous: when you imagine the thing done, unwitnessed, with no one to tell — does any warmth remain? If yes, the want is yours and the problem is elsewhere. If no, you have been trying to want something, which is honest work, and completed: you now know.",
+          "Then check the timing and the tinder. A real want can meet a wrong season — no room, no rest, everything damp with obligation. The reversed card is not always \"abandon\"; often it is \"shelter the spark and change the conditions.\" A want kept dry through a bad season lights instantly in a good one. What kills it is not waiting. It is being struck repeatedly against wet wood until striking itself becomes the discouragement.",
+          "One strike settles it: the smallest possible test, this week, at a dose too low to fail. Twenty minutes of the actual thing — not the planning of it. If something catches, however faintly, feed it. If genuinely nothing — no warmth, no pull, only the sense of duty performing enthusiasm — then set the wand down with some ceremony. Unlit is not shameful. It is the useful answer, and it frees the hand for the next match."
+        ],
+        "work": [
+          "Launches postponed into vapor; the project that dies at contact with its first real task. Test with one small strike — then feed it or file it."
+        ],
+        "love": [
+          "Interest that flickers out on approach. Or wanting the wanting — the relationship desired more than the person."
+        ],
+        "self": [
+          "Wanting to want: the borrowed ambition, the enthusiasm performed. Check whose spark this was originally."
+        ],
+        "note": [
+          "Not dead — unlit. Change the fuel or the season before you conclude anything about the fire."
+        ]
+      }
+    },
+    "es": {
+      "slug": "as-de-bastos",
+      "name": "As de Bastos",
+      "seoTitle": "As de Bastos en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "El primer deseo, todavía limpio. Energía que busca una forma; una oportunidad que conviene aprovechar mientras está viva. La idea que merece empezar hoy…",
+      "summary": "El primer deseo, todavía limpio. Energía que busca una forma; una oportunidad que conviene aprovechar mientras está viva. La idea que merece empezar hoy: no el fuego terminado, sino la cerilla encendida.",
+      "imageDescription": "Una mano sale de una nube, sujetando un bastón vivo — todavía brotando, con hojas que se desprenden y flotan como llamas pequeñas. Abajo, un río, un castillo lejano en una colina: el mundo construido, a distancia. La mano ofrece. Nada en la imagen instala, explica ni garantiza.",
+      "upright": {
+        "keywords": [
+          "chispa, deseo en bruto, impulso creativo, el sí antes del plan, las ganas de volver, una cerilla"
+        ],
+        "essay": [
+          "Antes del plan, del presupuesto y de las preguntas sensatas, aparece un deseo. Esta carta lo recoge en su momento más puro. Hace poco se te ha encendido algo: una idea, una persona, una dirección, un proyecto que llegó con su propio calor. El As te invita a reconocer que ese impulso apareció antes que los argumentos. También es información: puede revelarte algo que tus planes aún no ven.",
+          "La mano ofrece el bastón desde una nube; no lo planta, no lo riega, no promete el castillo. Ese castillo lejano importa: es aquello en lo que el deseo construido acaba convirtiéndose, y está lejos, y la carta se niega a discutir la distancia hoy. Los ases no son contratos. Son igniciones, y toda la pregunta que plantean es si dejarás que la chispa toque algo inflamable antes de enfriarse.",
+          "Pero la chispa no dura para siempre. No todo impulso merece seguirse, pero los que solo se admiran desde lejos terminan convertidos en nostalgia. Ahora está abierta la ventana de la acción sencilla: una nota, un boceto, un mensaje, una primera versión imperfecta. Se mide en días, no en trimestres.",
+          "Así que aliméntala en pequeño, hoy. El As no pide la campaña; pide astillas — veinte minutos, una página, una llamada. El fuego que cambia las cosas nunca es la cerilla. Pero no hay fuego de ningún tamaño que no empezara siendo una, acercada a algo que podía prender."
+        ],
+        "work": [
+          "La idea que merece empezar hoy, aunque sea en pequeño. Haz una primera versión imperfecta antes de que el entusiasmo se enfríe. No hace falta la hoja de ruta: basta con la cerilla."
+        ],
+        "love": [
+          "La atracción, simple y nueva — el tirón antes de la historia sobre el tirón. Merece una señal honesta mientras aún está tibia."
+        ],
+        "self": [
+          "Las ganas de hacer, de querer, de volver a algo concreto. Tómalas como información, no como una interrupción."
+        ],
+        "note": [
+          "No es el fuego terminado. Una cerilla — la garantía nunca vino incluida, y no hace falta."
+        ]
+      },
+      "reversed": {
+        "summary": "La chispa que no prende: quizá es mal momento, mal combustible o un deseo que intentaste convencerte de sentir. El entusiasmo se evapora al tocar la realidad. No está muerto; todavía no ha arrancado. Y no es lo mismo.",
+        "keywords": [
+          "arranque en falso, yesca húmeda, deseo sin impulso, demora, querer querer, la chispa que no prende"
+        ],
+        "essay": [
+          "Encendiste la cerilla y nada prendió. El As invertido es esa decepción concreta — el comienzo que no comenzó, la emoción que se evaporó al tocar el trabajo real, el lanzamiento pospuesto tantas veces que sin ruido se volvió vapor. La primera clemencia de la carta es diagnóstica: esto no es un veredicto sobre ti. Los fuegos fallan por razones, y las razones pueden encontrarse.",
+          "Revisa primero el combustible. Hay deseos prestados —tomados de las redes, de una amiga o de una versión antigua de ti— y rara vez prenden porque no tienen una necesidad propia debajo. La prueba es sencilla: cuando imaginas el proyecto terminado, sin testigos ni nadie a quien contárselo, ¿sigue quedando ilusión? Si sí, el deseo es tuyo y el problema está en otra parte. Si no, has descubierto algo útil: estabas intentando quererlo, no queriéndolo de verdad.",
+          "Después revisa el momento y la yesca. Un querer real puede toparse con una estación equivocada — sin espacio, sin descanso, todo húmedo de obligaciones. La carta invertida no siempre es \"abandona\"; muchas veces es \"resguarda la chispa y cambia las condiciones\". Un querer mantenido seco durante una mala estación prende al instante en una buena. Lo que lo mata no es esperar. Es ser golpeado una y otra vez contra madera mojada hasta que el propio golpear se convierte en el desánimo.",
+          "Haz la prueba más pequeña posible esta semana, tan pequeña que no dé miedo: veinte minutos de hacerlo, no de planearlo. Si algo prende, aunque sea poco, aliméntalo. Si no queda nada —ni ilusión ni curiosidad, solo obligación disfrazada de entusiasmo— deja el bastón en el suelo. No es un fracaso: es una respuesta útil que te deja libre para la siguiente chispa."
+        ],
+        "work": [
+          "Lanzamientos pospuestos hasta el vapor; el proyecto que muere al contacto con su primera tarea real. Prueba con un golpe pequeño — y luego aliméntalo o archívalo."
+        ],
+        "love": [
+          "El interés que parpadea y se apaga al acercarse. O querer el querer — la relación deseada más que la persona."
+        ],
+        "self": [
+          "Querer querer: la ambición prestada, el entusiasmo actuado. Revisa de quién era esta chispa originalmente."
+        ],
+        "note": [
+          "No está muerta — está sin encender. Cambia el combustible o la estación antes de concluir nada sobre el fuego."
+        ]
+      }
+    }
+  }
+}

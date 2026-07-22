@@ -1,0 +1,134 @@
+{
+  "id": "the-empress",
+  "number": 3,
+  "order": 3,
+  "arcana": "major",
+  "suit": null,
+  "rank": null,
+  "image": "/assets/cards/the-empress.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "03-empress.en.md",
+    "es": "03-empress.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "the-empress",
+      "name": "The Empress",
+      "seoTitle": "The Empress Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "What thrives when tended and then left to its pace. Creation as care, not force; the project, bond or body that needs feeding rather than pushing. Comfort…",
+      "summary": "What thrives when tended and then left to its pace. Creation as care, not force; the project, bond or body that needs feeding rather than pushing. Comfort treated as infrastructure, not reward. Rest counted as growth.",
+      "imageDescription": "A crowned woman reclines at ease on deep cushions in the middle of a wheat field. A river runs behind her and drops in a small waterfall — moving water, nothing stagnant. Her robe is patterned with pomegranates; twelve stars circle her crown; a heart-shaped shield leans against the cushions bearing the sign of Venus. The wheat is tall. Nobody is standing over it.",
+      "upright": {
+        "keywords": [
+          "growth, nurture, abundance, the body, the slow ripening, creation as care, comfort as infrastructure"
+        ],
+        "essay": [
+          "Something in your life is growing at its own speed, and you have been checking on it daily as if checking were water. The Empress is the card that takes the kettle out of your hand. Wheat does not ripen faster under supervision; some things are insulted by urgency.",
+          "Notice her posture — she reclines. She is the only figure in the deck's early arcana who is fully at ease, and it is not laziness. It is the posture of someone who did the planting, did it properly, and understands that the middle part of growing belongs to time, not to her. There is a competence in leaving things alone that looks, from the outside, exactly like doing nothing. It is not the same discipline as pushing. It is rarer.",
+          "You know how to force. Most people who pull this card do; forcing is how they got everything so far. The Empress introduces the other skill: feeding, watering, making room. Not making progress — making room, and letting the progress happen inside it. If the plan lately has been \"try harder,\" the card is quietly suggesting \"try warmer.\"",
+          "The body is in this card, and it has probably been sending invoices — the sleep negotiated down, the appetite that comes and goes strangely, the shoulder that keeps its own records. The Empress reads those as data, not weakness. Comfort is not the reward you get after the work; it is part of the machinery that does the work. A depleted field grows nothing, however motivated the farmer.",
+          "One edge deserves light: the person who tends everything can forget she is also a field. Giving can become an identity that leaves nothing to give from — generosity running on fumes and calling itself love. The garden includes the gardener. That is not indulgence; it is arithmetic.",
+          "The question underneath: what, in your care right now, needs feeding rather than pushing — and are you on that list?"
+        ],
+        "work": [
+          "The project that needs feeding, not deadlines. Sustainable pace as strategy, not indulgence. Growth that compounds quietly while you resist the urge to dig it up and check the roots."
+        ],
+        "love": [
+          "Warmth that makes room. Care given without invoices attached; the bond as a place where things can grow slowly without being asked for progress reports."
+        ],
+        "self": [
+          "Rest as growth, not as pause between growths. The body readmitted as an ally with information. Feeding yourself with the same seriousness you feed everything else."
+        ],
+        "note": [
+          "Not idleness. Tending is work — it just refuses to look dramatic while it happens."
+        ]
+      },
+      "reversed": {
+        "summary": "Care gripping into control — or the well of making run dry. Giving so much there is nothing left to grow from. The body ignored while everyone else gets watered. Fallow mistaken for barren.",
+        "keywords": [
+          "smothering, care gripped into control, creative block, the neglected body, the fallow field, giving on empty"
+        ],
+        "essay": [
+          "Reversed, the Empress is usually one of two failures of care, and they look opposite while sharing a root. The first: care gripped into control — watering daily something that is drowning, hovering over what needs air, loving something so attentively it cannot breathe. Attention past a certain dose becomes pressure, and pressure reads as doubt to the thing receiving it.",
+          "The second: the well run dry. The creative block that this card marks is almost never absent talent; it is depleted soil. You have been harvesting yourself season after season without a fallow year, and the ground has finally, sensibly, gone quiet. Fallow is not a verdict. It is a season with a function, and it ends.",
+          "There is a version of giving that has become an identity, and identities are expensive to maintain. If your generosity has started running on fumes — care delivered on schedule while something in you files for shortage — the card is naming the ledger, not accusing you. Giving from empty is not nobler than giving from full. It is just quieter about its costs, until it is not.",
+          "The body keeps the most honest books in this card. Meals skipped in service of other people's nourishment; sleep treated as negotiable; the field unwatered while you carry water everywhere else. Whatever you are tending, you are tending it with a body, and that body has been underwritten by promises it is starting to call in.",
+          "The repair is not intensity — intensity is what caused this. It is fallow on purpose: rest without deliverables, time that produces nothing and is not asked to. The soil rebuilds itself when nobody is standing on it. So do you."
+        ],
+        "work": [
+          "Micromanaging what needs air, or burnout read as laziness. The creative dry spell that is soil, not talent. Schedule the fallow before the field schedules it for you."
+        ],
+        "love": [
+          "Nurture that will not let go; care with a grip in it. Or the over-giver's quiet resentment, compounding monthly. Love that needs the other to stay small enough to tend."
+        ],
+        "self": [
+          "Running on empty and calling it generosity. The body's invoices marked unread. Being everyone's garden and nobody's gardener — including your own."
+        ],
+        "note": [
+          "Not permanent barrenness. Fallow is a season. The ground remembers how to grow; it is waiting to be left alone long enough to prove it."
+        ]
+      }
+    },
+    "es": {
+      "slug": "la-emperatriz",
+      "name": "La Emperatriz",
+      "seoTitle": "La Emperatriz en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "Lo que prospera cuando lo cuidas y luego lo dejas a su ritmo. Crear como cuidado y no a la fuerza; el proyecto, el vínculo o el cuerpo que necesita…",
+      "summary": "Lo que prospera cuando lo cuidas y luego lo dejas a su ritmo. Crear como cuidado y no a la fuerza; el proyecto, el vínculo o el cuerpo que necesita alimento, no que lo aprieten. La comodidad como base necesaria, no como premio. El descanso que también cuenta como crecimiento.",
+      "imageDescription": "Una mujer coronada descansa a sus anchas sobre cojines hondos en medio de un campo de trigo. A su espalda corre un río que cae en una pequeña cascada: agua en movimiento, nada estancado. Su túnica está estampada de granadas, doce estrellas rodean la corona y un escudo con forma de corazón se apoya en los cojines con el signo de Venus. El trigo está alto y nadie lo vigila.",
+      "upright": {
+        "keywords": [
+          "crecimiento, cuidado, abundancia, el cuerpo, la maduración lenta, crear como quien cuida, la comodidad como base"
+        ],
+        "essay": [
+          "Algo en tu vida está creciendo a su propio ritmo, y llevas un tiempo revisándolo cada día como si mirarlo lo hiciera crecer. La Emperatriz es la carta que te quita la regadera de la mano. El trigo no madura más rápido porque lo vigiles, y hay cosas que empeoran cuando las apuras.",
+          "Fíjate en su postura: está reclinada. Es la única figura de los primeros arcanos que está del todo a gusto, y no es pereza. Es la postura de quien sembró, lo hizo bien, y sabe que la parte intermedia del crecer le toca al tiempo, no a ella. Saber dejar las cosas en paz también es una habilidad, aunque desde fuera se confunda con no hacer nada. No es la misma disciplina que insistir, y cuesta mucho más encontrarla.",
+          "Forzar se te da bien. A casi todo el que le sale esta carta se le da: si ha llegado hasta aquí, ha sido a base de forzar. La Emperatriz te enseña la habilidad contraria: cuidar, regar, dejar espacio. No abrirte paso a la fuerza, sino hacer hueco y dejar que la cosa crezca por dentro. Si el plan de las últimas semanas ha sido \"esforzarme más\", la carta te propone bajito otra cosa: dejar de forzar y ponerte a cuidar.",
+          "El cuerpo está en esta carta, y probablemente lleva tiempo pasándote factura: el sueño que recortas, el apetito que va y viene raro, el hombro que aguanta hasta que avisa. La Emperatriz lee todo eso como información, no como debilidad. La comodidad no es el premio que llega después del trabajo, es parte de lo que hace posible el trabajo. Un campo agotado no da nada, por muchas ganas que le eche quien lo cultiva.",
+          "Hay un matiz que conviene ver: quien lo cuida todo puede olvidar que ella también es un campo. Dar puede volverse una identidad que no deja nada desde donde dar, una generosidad que funciona en reserva y se hace llamar amor. El jardín incluye a la jardinera. Eso no es un lujo, es lo mínimo.",
+          "La pregunta de fondo: de todo lo que tienes a tu cargo, ¿qué necesita alimento y no que lo aprieten, y estás tú en esa lista?"
+        ],
+        "work": [
+          "El proyecto que necesita alimento, no fechas límite. El ritmo sostenible como estrategia, no como capricho. El crecimiento que se acumula en silencio mientras aguantas las ganas de desenterrarlo para verle las raíces."
+        ],
+        "love": [
+          "La calidez que hace hueco. El cuidado que se da sin pasar factura; el vínculo como un lugar donde las cosas pueden crecer despacio sin tener que rendir cuentas."
+        ],
+        "self": [
+          "El descanso como crecimiento, no como pausa entre un esfuerzo y otro. El cuerpo readmitido como aliado que te da información. Alimentarte con la misma seriedad con la que alimentas todo lo demás."
+        ],
+        "note": [
+          "No es holgazanear. Cuidar es trabajo, solo que no arma escándalo mientras lo hace."
+        ]
+      },
+      "reversed": {
+        "summary": "El cuidado que se aprieta hasta volverse control, o la fuente de crear, seca. Dar tanto que ya no queda nada desde donde crecer. El cuerpo ignorado mientras riegas a todos los demás. El barbecho confundido con la tierra muerta.",
+        "keywords": [
+          "asfixia, el cuidado apretado hasta volverse control, bloqueo creativo, el cuerpo desatendido, el campo en barbecho, dar en reserva"
+        ],
+        "essay": [
+          "Invertida, la Emperatriz suele ser uno de dos fallos del cuidado, que parecen opuestos y nacen de lo mismo. El primero es el cuidado apretado hasta volverse control: regar cada día algo que se está ahogando, estar encima de lo que necesita aire, querer algo con tanta atención que no lo dejas respirar. Pasada cierta dosis, la atención se vuelve presión, y quien la recibe la siente como desconfianza.",
+          "El segundo es la fuente seca. El bloqueo creativo que marca esta carta casi nunca es falta de talento, es tierra agotada. Llevas cosechándote temporada tras temporada sin un año de descanso, y la tierra, con toda la razón, se ha callado. El barbecho no es una condena. Es una etapa que cumple su función, y se acaba.",
+          "Hay una forma de dar que se ha vuelto tu identidad, y sostener una identidad sale caro. Si tu generosidad ha empezado a tirar de las últimas reservas, si das a tiempo mientras algo en ti se queda sin nada, la carta te está señalando las cuentas, no acusándote. Dar cuando ya no te queda no es más noble que dar cuando estás llena. Solo que calla su precio, hasta que deja de callarlo.",
+          "El cuerpo es lo que lleva la cuenta más honesta de esta carta. Las comidas que saltas para alimentar a otros, el sueño que das por negociable, tu propio campo sin regar mientras acarreas agua a todas partes. Sea lo que sea lo que cuidas, lo cuidas con un cuerpo, y ese cuerpo lleva tiempo dando de sí a base de promesas que empieza a cobrarte.",
+          "Arreglar esto no es meterle más intensidad, porque la intensidad es lo que lo causó. Es barbecho a propósito: descanso sin nada que entregar, tiempo que no produce nada y al que nadie le pide que produzca. La tierra se recupera cuando nadie la pisa. Y tú también."
+        ],
+        "work": [
+          "Controlar al detalle lo que necesita aire, o confundir el agotamiento con pereza. La sequía creativa que es tierra, no talento. Programa el descanso antes de que el campo lo programe por ti."
+        ],
+        "love": [
+          "El cuidado que no suelta; el cariño que aprieta. O el rencor callado de quien da de más, que crece mes a mes. El amor que necesita que el otro siga siendo pequeño para poder cuidarlo."
+        ],
+        "self": [
+          "Funcionar en reserva y llamarlo generosidad. Los avisos del cuerpo que dejas sin leer. Ser el jardín de todos y la jardinera de nadie, tuya incluida."
+        ],
+        "note": [
+          "No es esterilidad para siempre. El barbecho es una etapa. La tierra recuerda cómo crecer, solo espera a que la dejen en paz el tiempo suficiente para demostrarlo."
+        ]
+      }
+    }
+  }
+}

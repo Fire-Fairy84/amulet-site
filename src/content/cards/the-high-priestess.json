@@ -1,0 +1,134 @@
+{
+  "id": "the-high-priestess",
+  "number": 2,
+  "order": 2,
+  "arcana": "major",
+  "suit": null,
+  "rank": null,
+  "image": "/assets/cards/the-high-priestess.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "02-high-priestess.en.md",
+    "es": "02-high-priestess.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "the-high-priestess",
+      "name": "The High Priestess",
+      "seoTitle": "The High Priestess Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "Knowledge that arrives without argument. The answer already present, waiting to be admitted rather than found. Reading the room before acting in it…",
+      "summary": "Knowledge that arrives without argument. The answer already present, waiting to be admitted rather than found. Reading the room before acting in it; keeping counsel; the inner voice heard under the noise. Listening as an act, not an absence.",
+      "imageDescription": "A woman sits between two pillars, one black, one white, and does not lean toward either. Behind her hangs a thin veil stitched with pomegranates — thin being the point. A scroll rests half-hidden in her lap, kept rather than displayed. A crescent moon lies at her feet like a docked boat, and the crown on her head holds a full circle of light between two horns.",
+      "upright": {
+        "keywords": [
+          "intuition, the known-but-unspoken, stillness, what waits behind the veil, keeping counsel, the answer already present"
+        ],
+        "essay": [
+          "You already know. That is the card's entire scandal, and the reason it stares instead of speaking. Somewhere in the last days or weeks the answer arrived — mid-conversation, mid-shower, in the second before sleep — and you have been politely pretending it did not, because it was inconvenient, or early, or unprovable.",
+          "Look at where she sits: exactly between the black pillar and the white one, not touching either. Every argument you have been rehearsing has two columns. Hers is the only seat with a view of both, which is why she does not join the debate. The veil behind her is embroidered with pomegranates and it is thin — the knowledge was never locked away. It is simply quiet, and everything else is loud.",
+          "There is a difference between knowing something and being able to defend it in committee, and this card lives entirely inside that difference. Priestess-knowledge arrives without receipts and turns out to be right anyway — not magic, but pattern recognition running below the level of language, done by the part of you that has been paying attention for years without publishing its findings.",
+          "The scroll in her lap is half-hidden on purpose. Some of what you know is not ready to be said, and some of it is not yours to say, and she is the part of you that can hold information without leaking it — the way water holds temperature, without effort and without announcement. Keeping counsel is not secrecy. It is a container.",
+          "One instruction hides in her stillness: stop polling. Every additional opinion you collect is not more data; it is more static over a signal you received clearly the first time. The survey of friends has become a way of delaying the moment you agree with yourself out loud.",
+          "So the reading is not \"go inward\" as decoration. It is: subtract inputs until what you know admits itself. Then decide what, of that, gets said — and when."
+        ],
+        "work": [
+          "Read the room before acting in it. The data matters, but you have already noticed something the data has not caught up with — the meeting behind the meeting, the real org chart. Trust the noticing; verify on your own schedule."
+        ],
+        "love": [
+          "What you sense but have not been told. The temperature change that predates any conversation. Not an accusation — an instrument reading. Also: what you know and have chosen, for now, not to say."
+        ],
+        "self": [
+          "The inner voice under the noise. Reachable by subtraction, not effort: fewer inputs, fewer opinions, one quiet hour. It has been transmitting the whole time."
+        ],
+        "note": [
+          "Not passivity. Her stillness is load-bearing. Listening this closely is an act, and keeping counsel is a skill, not a silence."
+        ]
+      },
+      "reversed": {
+        "summary": "The gut signal drowned out by other people's voices. Asking everyone but yourself; data collected past the point of use. Or the mirror image: something that needed saying, kept so long it started to ferment. Estrangement from your own knowing — unheard, not absent.",
+        "keywords": [
+          "intuition overridden, the poll instead of the gut, secrets kept past their term, disconnection from the inner read, the unsaid thing growing"
+        ],
+        "essay": [
+          "Reversed, the card is not the loss of intuition. Nothing was lost. It is the override: the signal arrived, and got outvoted. You knew, then you asked six people, and now you know less than when you started — a strange arithmetic that only works with inner knowledge, where every added voice subtracts.",
+          "Check whether the research has changed function. There is a moment when gathering perspectives stops informing the decision and starts postponing it — when the next opinion is not sought for its content but for its delay. The reversed Priestess can tell you the exact hour that switch happened, because she was watching, unheard, from between the pillars.",
+          "The card has a second face: the secret kept past its term. Something that needed saying has been aging in you — a knowing about a person, a situation, a version of yourself — and what began as discretion has quietly become storage. Kept words do not stay fresh. They ferment, and the container starts paying rent on them.",
+          "Estrangement from your own knowing has a recognizable texture: decisions feel like guesses, preferences need consulting, and you catch yourself asking what you think by asking what they think. The instrument is not broken. It has been unplugged in favor of louder equipment.",
+          "The repair is almost embarrassingly small. Not a program — an hour. Inputs subtracted, the poll closed, one question asked of yourself in an empty room with the phone elsewhere. The first answer that arrives before you can argue with it: that one. The signal never stopped; it was waiting for the noise to end its shift."
+        ],
+        "work": [
+          "Data over instinct past the point of use. The dashboard consulted so the noticing can be ignored. Somewhere, you already made this call — check whether the analysis is confirmation or evasion."
+        ],
+        "love": [
+          "The unsaid thing, growing interest. A conversation that was discretion in month one and storage by month six. Or your own read on someone, outvoted by their explanations."
+        ],
+        "self": [
+          "Asking everyone but yourself. Preferences outsourced, the gut treated as a rumor. The voice is not gone — it is unheard, which is a different repair."
+        ],
+        "note": [
+          "Not the absence of intuition. Overridden is not missing. The instrument works the moment it is plugged back in."
+        ]
+      }
+    },
+    "es": {
+      "slug": "la-sacerdotisa",
+      "name": "La Sacerdotisa",
+      "seoTitle": "La Sacerdotisa en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "El saber que llega sin argumentos. La respuesta que ya está ahí, esperando que la admitas más que que la encuentres. Leer el ambiente antes de moverte en…",
+      "summary": "El saber que llega sin argumentos. La respuesta que ya está ahí, esperando que la admitas más que que la encuentres. Leer el ambiente antes de moverte en él, guardarte lo que sabes, oír la voz de dentro por debajo del ruido. Escuchar como acción, no como ausencia.",
+      "imageDescription": "Una mujer sentada entre dos columnas, una negra y una blanca, sin inclinarse hacia ninguna. Detrás cuelga un velo fino bordado de granadas, y que sea fino es lo importante. Un pergamino descansa medio escondido en su regazo, más guardado que mostrado. A sus pies hay una luna creciente, como una barca amarrada, y su corona sostiene un círculo entero de luz entre dos cuernos.",
+      "upright": {
+        "keywords": [
+          "intuición, lo que sabes y no dices, quietud, lo que espera tras el velo, guardarte lo que sabes, la respuesta que ya está ahí"
+        ],
+        "essay": [
+          "Ya lo sabes. Ese es todo el escándalo de la carta, y la razón de que mire en vez de hablar. En algún momento de estos días o semanas la respuesta llegó, a mitad de una conversación, en la ducha, en el segundo antes de dormir, y desde entonces finges educadamente que no, porque venía mal, o venía pronto, o no podías demostrarla.",
+          "Fíjate dónde se sienta: justo entre la columna negra y la blanca, sin tocar ninguna. Cada discusión que llevas ensayando tiene dos bandos. El suyo es el único sitio desde donde se ven los dos, y por eso no entra al debate. El velo a su espalda está bordado de granadas y es fino, porque el saber nunca estuvo bajo llave. Solo es callado, y todo lo demás grita.",
+          "Una cosa es saber algo y otra poder defenderlo delante de un tribunal, y esta carta vive entera en esa distancia. Lo que sabe la Sacerdotisa llega sin pruebas y acaba teniendo razón de todos modos, y no es magia, es tu cabeza reconociendo patrones por debajo de las palabras, el trabajo de esa parte de ti que lleva años observando sin contarle a nadie sus conclusiones.",
+          "El pergamino del regazo está medio escondido a propósito. Parte de lo que sabes aún no está listo para decirse, y otra parte no te toca a ti decirla, y ella es la parte de ti capaz de sostener algo sin que se le escape, como el agua guarda el calor, sin esfuerzo y sin avisar. Guardarte lo que sabes no es andar con secretos, es tener dónde ponerlo.",
+          "En su quietud se esconde una instrucción: deja de preguntar por ahí. Cada nueva opinión que recoges no es más información, es más ruido encima de una señal que oíste clara la primera vez. Consultar a las amigas se te ha vuelto una forma de retrasar el momento de darte la razón en voz alta.",
+          "Así que la lectura no es \"mira hacia dentro\" como frase bonita. Es esto: quita voces hasta que lo que ya sabes se atreva a decirse. Y luego decides qué parte de eso se cuenta, y cuándo."
+        ],
+        "work": [
+          "Lee el ambiente antes de moverte en él. Los datos importan, pero ya notaste algo que los datos todavía no alcanzan: la reunión detrás de la reunión, quién manda de verdad. Fíate de lo que notaste y compruébalo a tu ritmo."
+        ],
+        "love": [
+          "Lo que percibes aunque nadie te lo haya dicho. El cambio de temperatura que llega antes de cualquier conversación. No es una acusación, es la lectura de un instrumento. También lo que sabes y has decidido, por ahora, callar."
+        ],
+        "self": [
+          "La voz de dentro por debajo del ruido. Se llega a ella quitando, no forzando: menos voces, menos opiniones, una hora de silencio. Lleva todo este tiempo emitiendo."
+        ],
+        "note": [
+          "No es pasividad. Su quietud aguanta peso. Escuchar así de cerca es una acción, y guardarte lo que sabes es una destreza, no un silencio."
+        ]
+      },
+      "reversed": {
+        "summary": "La señal del instinto tapada por las voces de los demás. Preguntarle a todo el mundo menos a ti, recoger datos mucho después de que sirvieran. O al revés, algo que había que decir, guardado tanto tiempo que empezó a pudrirse. Alejarte de lo que sabes por dentro, ignorado, no perdido.",
+        "keywords": [
+          "la intuición ignorada, preguntar por ahí en vez de fiarte del instinto, secretos guardados más de la cuenta, desconexión de lo que sabes por dentro, lo callado que crece"
+        ],
+        "essay": [
+          "Invertida, la carta no es que hayas perdido la intuición. No se perdió nada. Es que la ignoraste: la señal llegó, y perdió la votación. Sabías, luego preguntaste a seis personas, y ahora sabes menos que al empezar, una cuenta rara que solo pasa con lo que sabes por dentro, donde cada voz que sumas resta.",
+          "Fíjate en si preguntar ha cambiado de función. Hay un punto en que pedir opiniones deja de ayudarte a decidir y empieza a aplazar la decisión, cuando la siguiente opinión no la buscas por lo que dice, sino por el tiempo que te hace ganar. La Sacerdotisa invertida puede decirte la hora exacta en que pasó eso, porque estaba mirando, sin que la oyeras, desde entre las columnas.",
+          "La carta tiene una segunda cara: el secreto guardado más de la cuenta. Algo que había que decir lleva envejeciendo dentro de ti, algo que sabes de una persona, de una situación, de una versión de ti misma, y lo que empezó como discreción se ha convertido, sin ruido, en almacenaje. Las palabras guardadas no se conservan frescas. Se pudren, y el hueco que ocupan dentro de ti te acaba costando caro.",
+          "Alejarte de lo que sabes por dentro se nota de una forma reconocible: las decisiones te salen como quien adivina, para saber qué prefieres tienes que consultarlo, y te descubres averiguando qué piensas preguntando qué piensan los demás. El instrumento no está roto. Está desenchufado, y en su lugar suenan aparatos más ruidosos.",
+          "Arreglarlo es casi vergonzosamente sencillo. No es un plan, es una hora. Menos voces, dejar de preguntar por ahí, una sola pregunta hecha a ti misma en una habitación vacía con el teléfono en otro cuarto. La primera respuesta que llegue antes de que puedas discutírtela: esa. La señal nunca se paró, esperaba a que el ruido terminara su turno."
+        ],
+        "work": [
+          "Los datos por encima del instinto, mucho después de que sirvieran. El panel de métricas mirado para poder ignorar lo que ya notaste. En el fondo ya tomaste esta decisión, así que mira si el análisis es para confirmarla o para escaparte de ella."
+        ],
+        "love": [
+          "Lo no dicho, acumulando intereses. Una conversación que en el primer mes era discreción y al sexto ya era algo escondido. O lo que tú percibes de alguien, derrotado en la votación por sus explicaciones."
+        ],
+        "self": [
+          "Preguntarle a todo el mundo menos a ti. Delegar en otros lo que prefieres, tratar tu instinto como un simple rumor. La voz no se ha ido, está ignorada, y eso se arregla de otra manera."
+        ],
+        "note": [
+          "No es que falte la intuición. Ignorada no es desaparecida. El instrumento funciona en cuanto lo vuelves a enchufar."
+        ]
+      }
+    }
+  }
+}

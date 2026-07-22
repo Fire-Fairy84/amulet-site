@@ -1,0 +1,128 @@
+{
+  "id": "two-of-cups",
+  "number": 2,
+  "order": 23,
+  "arcana": "minor",
+  "suit": "cups",
+  "rank": 2,
+  "image": "/assets/cards/two-of-cups.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "cups-02.en.md",
+    "es": "cups-02.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "two-of-cups",
+      "name": "Two of Cups",
+      "seoTitle": "Two of Cups Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "The meeting that goes both ways — attraction answered, respect returned, the partnership founded in one honest exchange. Not the crowd's love: one other…",
+      "summary": "The meeting that goes both ways — attraction answered, respect returned, the partnership founded in one honest exchange. Not the crowd's love: one other person, at eye level. Vows in miniature, whatever the container.",
+      "imageDescription": "Two figures face each other, each holding out a cup, caught in the exact moment of exchange. Between and above them, a winged lion's head over twined serpents — passion and healing braided into one emblem. Neither figure is elevated. The cups are at the same height, which is the entire doctrine of the card.",
+      "upright": {
+        "keywords": [
+          "mutual recognition, the exchange of cups, partnership sealed, reciprocity, being seen and seeing back, two sources meeting"
+        ],
+        "essay": [
+          "The ace poured; the Two finds someone to pour toward — and receives a cup coming back. This is the card of reciprocity at its founding moment: the connection where recognition travels both directions at the same height. Its scope is wider than romance and the tradition insists on this: the business partnership sealed on trust, the friendship that crosses from acquaintance into alliance, the therapeutic bond, the reconciliation where two people finally exchange honest cups after years of passing empty ones. What the card certifies is not passion — the lion overhead handles that — but symmetry. Two sources, meeting, each still a source.",
+          "The exchange is the thing to study. Each figure offers and receives in one gesture; neither empties themselves into the other's vessel. This is the Two's quiet correction to most love stories: fusion is not the goal, mirroring is. The connections that carry this card's mark share a specific sensation — being seen accurately and liking what the seeing reflects back, seeing the other accurately and being liked for the accuracy. Not idealization, which is a cup offered to someone's costume. Recognition. If something new in your life has this quality — conversation that builds instead of alternating monologues, disagreement that increases rather than spends trust — the card names it: this is the real architecture, rare enough to be treated as news.",
+          "The caduceus between them — serpents twined up a winged staff — is the old sign of healing, and its placement is deliberate: whatever passes between two people in true exchange has medical properties. Honest mutual recognition repairs things that solitary work cannot reach; there are wounds whose only suture is being accurately seen by another person who stays. The Two of Cups appearing at the start of a bond often means exactly this — the relationship will be, among its other functions, a clinic. Let it.",
+          "Its only warning is scale, and the winged lion carries it: passion presides over this exchange, and passion wants to skip steps. The Two is a founding, not a finished structure — cup one exchange, not a merged cellar. The vows in miniature it contains are real, but they are day-one vows: I see you, the seeing goes both ways, let us proceed. Proceed. Build the rest at the speed trust actually compounds, which is slower than the lion prefers and faster than fear insists."
+        ],
+        "work": [
+          "The partnership founded on symmetric respect — cofounder, ally, the client who sees the work accurately. Seal it explicitly; symmetry stated survives longer than symmetry assumed."
+        ],
+        "love": [
+          "Mutual recognition at eye level — attraction answered, the honest exchange that founds the thing. Not fusion: two sources, meeting. Day-one vows count."
+        ],
+        "self": [
+          "Reconciliation with a person — or a part of yourself long held at arm's length. The exchange heals what solitary work can't reach. Let the bond be a clinic."
+        ],
+        "note": [
+          "Not the crowd's love and not the finished cathedral — one person, one exchange, founding-day scale. The lion wants to skip steps; don't."
+        ]
+      },
+      "reversed": {
+        "summary": "Reciprocity broken or revealed as never-was — the love uneven, the effort one-directional, the partnership where one cup does all the traveling. Or a true bond in disrepair, awaiting the honest exchange that mends it. Measure the heights.",
+        "keywords": [
+          "asymmetry exposed, the one-way cup, broken reciprocity, imbalance called love, the mirror cracked, separation of what was fused"
+        ],
+        "essay": [
+          "Reversed, the Two of Cups is the exchange with one hand missing — and its first job is diagnostic, because asymmetry has two very different origin stories. Either the reciprocity broke, or it was never there and the light has finally caught it.",
+          "The second is the harder reading and the more common one. A connection can run for years on one person's pouring: they initiate, adjust, forgive, translate; the other attends, receives, permits. From inside, the pourer experiences the arrangement as love with a workload — demanding, but love. The reversal is the moment of measurement: the cups held up to the same light, at their actual heights. The test is behavioral and bracingly simple — stop pouring, briefly, and watch. A true partner notices the stillness and reaches across it. A beneficiary notices the service interruption. What arrives in that pause is not cruelty; it is data, and this card exists because the pourer's imagination has been supplying the other cup for so long that only a pause can get an honest reading.",
+          "But the reversal also covers the repairable version: two real sources, temporarily unlevel. Seasons do this — one partner's crisis eats a year, one friend's career floods the channel, illness or grief or a baby redistributes all pouring for a while. Asymmetry with a timestamp is not betrayal; it is weather, and mature bonds carry weather insurance in the form of one sentence: I know it's been uneven — it's on my books. The reversed Two often asks for precisely that exchange — the acknowledgment that restores symmetry as intention while capacity catches up. Most imbalances do not need immediate repayment. They need to be entered in a ledger both people can see.",
+          "And sometimes the card marks the honest end: the recognition that the mirroring has stopped, that the two who exchanged day-one vows have become people who cannot see each other accurately anymore, however long they look. The Two reversed does not force this reading — but where it fits, it offers the same dignity in reverse: part at eye level. The founding exchange deserves an ending of equal craftsmanship — cups set down at the same height, in the open, no one still secretly pouring. What was real is not audited backward by its ending. It was an exchange. It happened. Both hands were full once, and that stays true."
+        ],
+        "work": [
+          "The partnership where one cup does all the traveling — you initiate, adjust, translate. Pause the pouring once and read what arrives. Data, not cruelty."
+        ],
+        "love": [
+          "Uneven with a timestamp, or uneven as architecture — the difference decides everything. Ask for the ledger sentence: \"I know it's been uneven.\" Its absence is also an answer."
+        ],
+        "self": [
+          "Your imagination has been supplying the other cup. Stop writing both sides of the correspondence and see what they actually send."
+        ],
+        "note": [
+          "Not proof the founding was false. Weather and architecture both tilt cups — measure before ruling, and if it ends, end at eye level."
+        ]
+      }
+    },
+    "es": {
+      "slug": "dos-de-copas",
+      "name": "Dos de Copas",
+      "seoTitle": "Dos de Copas en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "El encuentro que va en las dos direcciones: la atracción correspondida, el respeto que vuelve, la sociedad fundada en un solo intercambio honesto. No el…",
+      "summary": "El encuentro que va en las dos direcciones: la atracción correspondida, el respeto que vuelve, la sociedad fundada en un solo intercambio honesto. No el amor de la multitud, sino una sola persona, mirándote a los ojos. Una promesa pequeña, sea cual sea la forma que tome.",
+      "imageDescription": "Dos figuras frente a frente, cada una tendiendo una copa, sorprendidas en el instante justo del intercambio. Entre ellas y por encima, una cabeza de león alada sobre serpientes entrelazadas: pasión y sanación trenzadas en un solo emblema. Ninguna está más alta que la otra. Las copas quedan a la misma altura, y en eso se resume la carta entera.",
+      "upright": {
+        "keywords": [
+          "reconocimiento mutuo, el intercambio de copas, sociedad sellada, reciprocidad, ver y ser vista de vuelta, dos fuentes que se encuentran"
+        ],
+        "essay": [
+          "El as vertía; el Dos encuentra hacia quién verter, y le devuelven una copa. Es la carta de la reciprocidad en el momento en que nace: el vínculo donde el reconocimiento va en las dos direcciones y a la misma altura. Su alcance es más ancho que el romance, y la tradición insiste en ello: la sociedad de negocios sellada con confianza, la amistad que pasa de conocida a aliada, el vínculo terapéutico, la reconciliación donde dos personas por fin se ofrecen copas llenas tras años de pasarse copas vacías. Lo que la carta certifica no es la pasión (de eso se ocupa el león de arriba), sino la simetría. Dos fuentes que se encuentran, y cada una sigue siendo fuente.",
+          "Lo que hay que estudiar es el intercambio. Cada figura ofrece y recibe en un mismo gesto; ninguna se vacía dentro de la copa de la otra. Esta es la corrección callada del Dos a casi todas las historias de amor: la meta no es fundirse, sino reflejarse. Los vínculos que llevan la marca de esta carta comparten una sensación concreta: que te vean tal como eres y que le guste a la otra persona lo que ve, ver a la otra tal como es y que te quiera precisamente por verla así. No es idealización, que es ofrecerle una copa al disfraz de alguien. Es reconocimiento. Si algo nuevo en tu vida tiene esta cualidad (una conversación que construye en vez de dos monólogos alternos, un desacuerdo que aumenta la confianza en vez de gastarla), la carta lo nombra: esto es lo que sostiene de verdad un vínculo, y es raro, así que trátalo como una noticia.",
+          "El caduceo entre las dos, serpientes trenzadas en torno a un bastón alado, es el signo antiguo de la sanación, y su lugar no es casual: lo que pasa entre dos personas en un intercambio verdadero cura. El reconocimiento mutuo y honesto repara cosas que el trabajo en soledad no alcanza; hay heridas que solo cierran cuando otra persona te ve tal como eres y se queda. Que el Dos de Copas aparezca al inicio de un vínculo suele significar exactamente esto: la relación va a ser, entre otras cosas, un lugar donde curarte. Déjala.",
+          "Su único aviso es de escala, y lo trae el león alado: la pasión preside este intercambio, y la pasión quiere saltarse pasos. El Dos es un cimiento, no una casa terminada; un intercambio de copas, no dos bodegas ya unidas en una. Las promesas pequeñas que contiene son reales, pero son promesas de primer día: te veo, la mirada va en las dos direcciones, sigamos. Sigue. Construye lo demás al ritmo al que la confianza crece de verdad, que es más lento de lo que el león quisiera y más rápido de lo que el miedo pretende."
+        ],
+        "work": [
+          "La sociedad fundada en un respeto simétrico: la cofundadora, la aliada, el cliente que ve tu trabajo tal como es. Séllala con palabras claras; la simetría dicha dura más que la simetría dada por hecho."
+        ],
+        "love": [
+          "Reconocimiento mutuo, mirándose a los ojos: la atracción correspondida, el intercambio honesto que funda el vínculo. No se trata de fundirse, sino de que dos fuentes se encuentren. Las promesas del primer día cuentan."
+        ],
+        "self": [
+          "Reconciliación con una persona, o con una parte de ti que llevas mucho tiempo manteniendo a distancia. El intercambio sana lo que el trabajo en soledad no alcanza. Deja que el vínculo también te cure."
+        ],
+        "note": [
+          "No es el amor de la multitud ni la casa ya terminada: es una persona, un intercambio, escala de primer día. El león quiere saltarse pasos; no lo hagas."
+        ]
+      },
+      "reversed": {
+        "summary": "La reciprocidad rota, o que se revela como algo que nunca existió: el amor desigual, el esfuerzo en una sola dirección, la sociedad donde una sola copa hace todo el viaje. O un vínculo verdadero en mal estado, esperando el intercambio honesto que lo repara. Mide las alturas.",
+        "keywords": [
+          "asimetría al descubierto, la copa que solo va, reciprocidad rota, un desequilibrio al que llaman amor, el espejo roto, la separación de lo que estaba unido"
+        ],
+        "essay": [
+          "Invertido, el Dos de Copas es el intercambio al que le falta una mano, y su primer trabajo es diagnosticar, porque la asimetría tiene dos orígenes muy distintos. O la reciprocidad se rompió, o nunca existió y la luz por fin la ha delatado.",
+          "La segunda posibilidad es la lectura más dura y la más común. Un vínculo puede durar años con una sola persona vertiendo: ella inicia, ajusta, perdona, traduce; la otra se deja hacer, recibe, permite. Desde dentro, quien vierte vive el arreglo como un amor que da mucho trabajo, exigente, pero amor. La inversión es el momento de medir: las dos copas alzadas a la misma luz, a la altura real de cada una. La prueba es simple y directa: deja de verter un momento, y observa. Una pareja de verdad nota el silencio y cruza hacia ti. Quien solo salía ganando nota que se cortó el servicio. Lo que aparece en esa pausa no es crueldad; son datos, y esta carta existe porque quien vierte lleva tanto tiempo poniendo también la otra copa con su imaginación que solo una pausa da una lectura honesta.",
+          "Pero la inversión cubre también la versión que sí se arregla: dos fuentes reales, desniveladas por un tiempo. Las épocas hacen esto: la crisis de una pareja se come un año, la carrera de una amiga acapara todo el canal, una enfermedad o un duelo o un bebé lo redistribuyen todo durante una temporada. La asimetría con fecha no es traición; es el clima, y los vínculos maduros se protegen del clima con una sola frase: sé que ha sido desigual, lo tengo presente. El Dos invertido pide muchas veces justo ese intercambio, el reconocimiento que restablece la simetría como intención mientras la capacidad se pone al día. La mayoría de los desequilibrios no piden que se salden ya. Piden quedar anotados en una cuenta que los dos puedan ver.",
+          "Y a veces la carta marca un final honesto: darse cuenta de que el espejo se ha detenido, de que quienes se hicieron promesas al principio se han convertido en personas que ya no pueden verse tal como son, por mucho que se miren. El Dos invertido no impone esta lectura, pero, cuando encaja, ofrece la misma dignidad a la inversa: separarse mirándose a los ojos. El vínculo que nació de ese intercambio merece un final igual de cuidado: las copas a la misma altura, a la vista, sin nadie vertiendo a escondidas. Lo que fue real no deja de serlo por cómo terminó. Fue un intercambio. Ocurrió. Las dos manos estuvieron llenas alguna vez, y eso sigue siendo verdad."
+        ],
+        "work": [
+          "La sociedad donde una sola copa hace todo el viaje: tú inicias, ajustas, traduces. Deja de verter una vez y lee lo que llega. Datos, no crueldad."
+        ],
+        "love": [
+          "Desigual por una temporada, o desigual como forma de ser: la diferencia lo decide todo. Pide la frase que lo pone en claro: \"sé que ha sido desigual\". Que no la digan es también una respuesta."
+        ],
+        "self": [
+          "Llevas tiempo poniendo la otra copa con tu imaginación. Deja de escribir las dos partes de la correspondencia y mira qué te mandan de verdad."
+        ],
+        "note": [
+          "No es prueba de que el cimiento fuera falso. El clima y la forma de ser inclinan copas por igual: mide antes de sentenciar, y si termina, que termine mirándose a los ojos."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "id": "page-of-wands",
+  "number": 11,
+  "order": 74,
+  "arcana": "minor",
+  "suit": "wands",
+  "rank": 11,
+  "image": "/assets/cards/page-of-wands.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "wands-11.en.md",
+    "es": "wands-11.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "page-of-wands",
+      "name": "Page of Wands",
+      "seoTitle": "Page of Wands Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "The new enthusiasm, arriving loud and unaccredited — the idea that won't shut up, the impulse to begin, news of fire coming. Not yet a plan and not…",
+      "summary": "The new enthusiasm, arriving loud and unaccredited — the idea that won't shut up, the impulse to begin, news of fire coming. Not yet a plan and not required to be. The page's job is to say it out loud.",
+      "imageDescription": "A young figure stands in open desert, holding a wand taller than any plan they have, studying its sprouting tip like a letter that just arrived. The clothes are covered in salamanders — fire's emblem worn before fire is mastered. Nothing around for miles. Enthusiasm this early needs no audience.",
+      "upright": {
+        "keywords": [
+          "the spark bearer, enthusiasm before credentials, the message of fire, beginner's audacity, curiosity with a fuse, permission to be new"
+        ],
+        "essay": [
+          "Every suit sends a page first, and fire's page arrives the way fire does: suddenly, and with no paperwork. The Page of Wands is enthusiasm at the stage before it can defend itself — the idea you cannot stop mentioning, the course tab open for a week, the pull toward a thing you have no credentials for. The card's first service is taxonomy: this is a page, not a king. It is not asking you to be qualified. It is asking you to be interested, out loud, which is a different and earlier skill.",
+          "Notice where the figure stands: desert, no roads, no audience, no infrastructure. New fire always lands in exactly this terrain — before the plan, before the mentor, before the market validates anything. The barrenness is not a flaw in the sign; it is the signature. If the ground were already built on, the fire would be someone else's. The page studies the wand's green tip because that is all there is yet: a living thing with no track record. Enthusiasms at this age cannot be evaluated, only fed or starved, and evaluation applied too early is just starving with a clipboard.",
+          "The page is also, traditionally, a messenger — and this card often means literal news: the spark arriving from outside, the invitation, the call for volunteers, the offhand comment that lights something. The message of fire has a short shelf life. It does not require an immediate yes, but it does require an immediate acknowledgment — write it down, say it to one person, take the one small step that keeps it alive past the week's end. Sparks die of administration; they also die of silence. The narrow path between is the page's whole art: small, fast, sincere motion.",
+          "What the card asks of you, finally, is tolerance for your own beginner state. The salamander suit is worn before it is earned — that is how it gets earned. There will be cards later for strategy, endurance, and freight; the suit is full of them, and they are all downstream of this one moment where someone permitted themselves to be publicly, unimpressively new. Do the small audacious thing. Send the message. Ask the naive question in the room of experts. Fire's whole future depends on somebody being willing to look foolish holding a stick in the desert."
+        ],
+        "work": [
+          "The unqualified pull toward the new domain — say it out loud, take one small public step. Interest is the credential at this stage; the rest are earned downstream."
+        ],
+        "love": [
+          "The spark, early and unaccredited — the message sent first, the crush admitted, the honest opening move. Not yet a plan; not required to be one."
+        ],
+        "self": [
+          "Permission to be new. The enthusiasm you keep half-mentioning wants one real act this week — feed it small and fast, or admit you're starving it."
+        ],
+        "note": [
+          "Not a commitment and not a life plan — a page, not a king. Nobody is asking for competence yet. Only for the message, delivered."
+        ]
+      },
+      "reversed": {
+        "summary": "The spark mishandled — swallowed unspoken, or spent in a week of enthusiasm with no second week. Beginnings collected instead of made. Somewhere, an unsent message going stale.",
+        "keywords": [
+          "the spark snuffed or scattered, false starts, enthusiasm without follow-through, the message not sent, novelty addiction, fire embarrassed of itself"
+        ],
+        "essay": [
+          "Reversed, the Page of Wands fails in two directions, and they look like opposites while sharing one root. The spark is either suppressed — the message never delivered — or scattered: delivered constantly, to a new address every week.",
+          "Suppression is the quieter failure. The idea came, and was met immediately by the interior committee: too late to start, too old to be new, too crowded a field, who are you to. The page's enthusiasm cannot out-argue that committee — pages never can; they lack standing. What they can do is act below the committee's radar, and this is the reversed card's practical counsel: shrink the first step until it no longer triggers review. Not the novel — one page. Not the career change — one conversation. The committee convenes only for large motions; sincerity in small denominations passes freely. The message in the bag has no expiry printed on it, but sparks kept in bags do go quietly out, and the going-out is usually mistaken, later, for never having cared.",
+          "Scatter is the louder failure and photographs better: always beginning, never continuing. The new domain every month, the funded enthusiasm abandoned at the first plateau, the identity built around starting because starting supplies what continuing cannot — the pure hit of possibility before reality has voted. This is fire's specific addiction, and the card names it without contempt: novelty is genuinely the page's element; the failure is only in never letting any spark meet its second week. The test for whether an enthusiasm deserves continuation is not intensity — intensity is week-one weather — but this: does it survive being worked on badly? The real ones tolerate your incompetence at them. The decorative ones require you to stay a beginner forever, because beginner is the only role they cast.",
+          "Both failures repair the same way: one spark, chosen, carried one week past comfortable. Past the applause of announcing, past the plateau where newness wears off, into the unglamorous second stretch where pages begin, slowly, to become knights. The desert is patient. The wand is still green. The only thing that expires is the particular hour in which sending the message was easy."
+        ],
+        "work": [
+          "Serial week-one enthusiasm, or the idea swallowed before the meeting. Shrink the step below the inner committee's radar — one conversation, one page, sent."
+        ],
+        "love": [
+          "The opening move not made, staling in the bag — or charm that restarts weekly and never continues. One spark, carried past the announcement, into week two."
+        ],
+        "self": [
+          "Starting as identity, possibility as the drug. Test the enthusiasm: does it survive being done badly? The real ones tolerate your incompetence."
+        ],
+        "note": [
+          "Not proof the spark was false. Mishandled is not mistaken — the wand is still green; what expires is the easy hour for sending."
+        ]
+      }
+    },
+    "es": {
+      "slug": "sota-de-bastos",
+      "name": "Sota de Bastos",
+      "seoTitle": "Sota de Bastos en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "Entusiasmo nuevo y sin experiencia: una idea que no se calla, ganas de empezar, noticias que encienden algo. Todavía no es un plan y no tiene que serlo.…",
+      "summary": "Entusiasmo nuevo y sin experiencia: una idea que no se calla, ganas de empezar, noticias que encienden algo. Todavía no es un plan y no tiene que serlo. La tarea de la sota es decirlo en voz alta.",
+      "imageDescription": "Una figura joven en pleno desierto sostiene un basto más alto que cualquiera de sus planes, estudiando su punta que brota como una carta recién llegada. La ropa está cubierta de salamandras — el emblema del fuego puesto antes de dominar el fuego. Nada alrededor en kilómetros. El entusiasmo tan temprano no necesita público.",
+      "upright": {
+        "keywords": [
+          "portadora de la chispa, entusiasmo antes de la experiencia, el mensaje del fuego, audacia de principiante, curiosidad encendida, permiso para ser nueva"
+        ],
+        "essay": [
+          "Cada palo empieza con una sota, y la del fuego llega de golpe y sin pedir permiso. Representa el entusiasmo que aún no sabe defenderse: la idea de la que no paras de hablar, el curso que llevas una semana mirando, el impulso hacia algo para lo que todavía no tienes experiencia. La carta hace una distinción importante: esto es una sota, no un rey. No te pide que seas experta; te pide que reconozcas tu interés en voz alta.",
+          "Fíjate en dónde está la figura: desierto, sin caminos, sin público, sin infraestructura. El fuego nuevo aterriza siempre en exactamente este terreno — antes del plan, antes del mentor, antes de que el mercado valide nada. La aridez no es un defecto de la señal; es la firma. Si el suelo ya estuviera construido, el fuego sería de otro. La sota estudia la punta verde del basto porque eso es todo lo que hay aún: una cosa viva sin historial. Los entusiasmos a esta edad no pueden evaluarse, solo alimentarse o matarse de hambre, y la evaluación aplicada demasiado pronto es matar de hambre con un portapapeles.",
+          "La sota es también, por tradición, mensajera — y esta carta significa a menudo noticias literales: la chispa llegando de fuera, la invitación, la petición de voluntarios, el comentario suelto que enciende algo. El mensaje del fuego caduca pronto. No exige un sí inmediato, pero sí un acuse de recibo inmediato — escríbelo, díselo a una persona, da el paso pequeño que lo mantenga vivo más allá del fin de semana. Las chispas mueren de administración; también mueren de silencio. El camino estrecho entre ambas es todo el arte de la sota: movimiento pequeño, rápido y sincero.",
+          "Al final, la carta pide tolerancia con tu propio estado de principiante. El traje de salamandras se lleva antes de ganárselo; así se aprende. Más adelante habrá cartas para la estrategia, la resistencia y las responsabilidades. Todas vienen después de este momento en que alguien se permite ser visible y nueva, sin impresionar a nadie todavía. Haz ese pequeño acto de audacia. Envía el mensaje. Formula la pregunta ingenua en una sala de expertas. Todo el futuro del fuego depende de que alguien se atreva a sostener un basto en el desierto."
+        ],
+        "work": [
+          "El tirón sin credenciales hacia el terreno nuevo — dilo en voz alta, da un paso pequeño y público. El interés es la credencial en esta etapa; el resto se gana río abajo."
+        ],
+        "love": [
+          "La chispa temprana: el primer mensaje, un enamoramiento admitido, un gesto de apertura honesto. Todavía no es un plan; no tiene que serlo."
+        ],
+        "self": [
+          "Permiso para ser nueva. El entusiasmo que llevas medio-mencionando quiere un acto real esta semana — aliméntalo pequeño y rápido, o admite que lo estás matando de hambre."
+        ],
+        "note": [
+          "No es un compromiso ni un plan de vida — una sota, no un rey. Nadie pide competencia todavía. Solo el mensaje, entregado."
+        ]
+      },
+      "reversed": {
+        "summary": "La chispa mal llevada — tragada sin decir, o gastada en una semana de entusiasmo sin segunda semana. Comienzos coleccionados en lugar de hechos. En alguna parte, un mensaje sin enviar poniéndose rancio.",
+        "keywords": [
+          "la chispa apagada o dispersa, falsos comienzos, entusiasmo sin continuidad, el mensaje sin enviar, adicción a la novedad, el fuego avergonzado de sí mismo"
+        ],
+        "essay": [
+          "Invertida, la Sota de Bastos falla en dos direcciones que parecen opuestas y comparten raíz. La chispa o se suprime — el mensaje nunca entregado — o se dispersa: entregado constantemente, a una dirección nueva cada semana.",
+          "La supresión es el fallo silencioso. La idea llegó, y la recibió de inmediato el comité interior: demasiado tarde para empezar, demasiado mayor para ser nueva, un campo demasiado lleno, quién eres tú para. El entusiasmo de la sota no puede ganarle el debate a ese comité — las sotas nunca pueden; les falta rango. Lo que sí pueden es actuar por debajo del radar del comité, y ese es el consejo práctico de la carta invertida: encoge el primer paso hasta que deje de activar la revisión. No la novela — una página. No el cambio de carrera — una conversación. El comité solo se reúne para movimientos grandes; la sinceridad en denominaciones pequeñas pasa libre. El mensaje en la bolsa no lleva caducidad impresa, pero las chispas guardadas en bolsas se apagan calladamente, y el apagarse suele confundirse, después, con nunca haber querido.",
+          "La dispersión es el fallo ruidoso y sale mejor en las fotos: siempre empezando, nunca continuando. El terreno nuevo cada mes, el entusiasmo financiado abandonado en la primera meseta, la identidad construida alrededor de empezar porque empezar suministra lo que continuar no puede — el subidón puro de la posibilidad antes de que la realidad haya votado. Esta es la adicción específica del fuego, y la carta la nombra sin desprecio: la novedad es genuinamente el elemento de la sota; el fallo está solo en no dejar nunca que ninguna chispa conozca su segunda semana. La prueba de si un entusiasmo merece continuación no es la intensidad — la intensidad es clima de primera semana — sino esta: ¿sobrevive a que lo trabajes mal? Los de verdad toleran tu incompetencia con ellos. Los decorativos exigen que sigas siendo principiante para siempre, porque principiante es el único papel que reparten.",
+          "Ambos fallos se reparan igual: una chispa, elegida, llevada una semana más allá de lo cómodo. Más allá del aplauso de anunciarla, más allá de la meseta donde lo nuevo se gasta, hasta el segundo tramo sin brillo donde las sotas empiezan, despacio, a volverse caballos. El desierto es paciente. El basto sigue verde. Lo único que caduca es la hora concreta en que enviar el mensaje era fácil."
+        ],
+        "work": [
+          "Entusiasmo en serie de primera semana, o la idea tragada antes de la reunión. Encoge el paso por debajo del radar del comité interior — una conversación, una página, enviada."
+        ],
+        "love": [
+          "La jugada de apertura no hecha, poniéndose rancia en la bolsa — o el encanto que se reinicia cada semana y nunca continúa. Una chispa, llevada más allá del anuncio, hasta la segunda semana."
+        ],
+        "self": [
+          "Empezar como identidad, la posibilidad como droga. Pon a prueba el entusiasmo: ¿sobrevive a hacerse mal? Los de verdad toleran tu incompetencia."
+        ],
+        "note": [
+          "No es prueba de que la chispa fuera falsa. Mal llevada no es equivocada — el basto sigue verde; lo que caduca es la hora fácil para el envío."
+        ]
+      }
+    }
+  }
+}

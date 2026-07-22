@@ -1,0 +1,134 @@
+{
+  "id": "temperance",
+  "number": 14,
+  "order": 14,
+  "arcana": "major",
+  "suit": null,
+  "rank": null,
+  "image": "/assets/cards/temperance.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "14-temperance.en.md",
+    "es": "14-temperance.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "temperance",
+      "name": "Temperance",
+      "seoTitle": "Temperance Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "The middle made actively, not found by splitting the difference. Opposites worked until they combine into a third thing. Healing on its own tempo; the…",
+      "summary": "The middle made actively, not found by splitting the difference. Opposites worked until they combine into a third thing. Healing on its own tempo; the mixture as the art. Integrate the two approaches — the answer is a ratio, not a winner.",
+      "imageDescription": "A winged figure stands with one foot on land and one in water, unbothered by the physics of that. Between two cups flows a stream of water at an angle water does not travel — the card's one open miracle, performed casually. Irises bloom at the bank. Behind, a path runs toward mountains where a crown of light waits, at exactly walking distance.",
+      "upright": {
+        "keywords": [
+          "blending, moderation as craft, the right mixture, patience between poles, integration, healing at its own tempo"
+        ],
+        "essay": [
+          "You have been treating it as a choice, and it is a recipe. The two things pulling at you — the work and the rest, the head and the appetite, this life and that one — have been framed as finalists in a competition where one must lose. Temperance stands in the middle of the frame, pouring one into the other, and the pour is the entire teaching: some oppositions are not resolved. They are blended, and the blend is a third thing better than either ingredient.",
+          "Look at the feet. One on land, one in water — not as compromise but as competence. The figure is not halfway between two places; it is fully in both, which is a skill, and a learnable one. Most people alternate: seasons of all-land, seasons of all-water, calling the alternation balance. The card is stricter. Balance is simultaneous or it is a pendulum, and pendulums are just slow versions of the extremes they swing between.",
+          "The angled pour deserves a long look. Water moving between cups at that diagonal is impossible; the figure does it with the facial expression of someone making tea. This is what practiced integration looks like from outside — miraculous, casual. It was not casual to learn. The blend that seems effortless in anyone you admire was worked, poured, spilled, and repoured for years. The word for that is craft, and craft is available to you at the standard price.",
+          "There is a tempo in this card, and it refuses negotiation. Healing at its own speed; the mixture needing its time to become itself. You cannot rush a blend — hurried mixtures separate. Whatever is currently mending in you or around you is on schedule, its own schedule, and the card's counsel is the hardest kind: keep pouring, at the same steady angle, without checking the result after every pour.",
+          "The path behind runs to a lit crown, and the detail matters: at walking distance. Not a leap, not a summit assault. The route to the shining thing is flat, boring and daily — which is the whole secret, delivered with wings.",
+          "The question underneath: which two things in your life are waiting to be mixed, not chosen between?"
+        ],
+        "work": [
+          "Integrate the two approaches — the rigor and the play, the plan and the improvisation. The ratio is the deliverable. Sustainable cadence beats heroic sprints by boring, compounding margins."
+        ],
+        "love": [
+          "Two lives poured into a shared third, without either cup emptying. The daily small adjustments that make a mixture, as opposed to the grand gesture that makes a scene."
+        ],
+        "self": [
+          "Routine as alchemy. The middle path walked actively, not settled for. What is healing in you gets its own tempo — your job is the steady pour."
+        ],
+        "note": [
+          "Not blandness, not the gray average. The mixture is the art — a third thing, not a compromise between two."
+        ]
+      },
+      "reversed": {
+        "summary": "Extremes alternating and calling themselves balance. Too much, then none; all-in, then gone. The parts refusing to blend — schedules, habits, selves. The correction becoming the next excess.",
+        "keywords": [
+          "imbalance, excess and correction swinging, the mixture split, sprint and crash, moderation practiced immoderately"
+        ],
+        "essay": [
+          "Reversed, Temperance is the pendulum wearing balance's name tag. The week of discipline and the weekend that undoes it. The month of everything and the month of nothing. All-in, then unreachable. Averaged on paper, it looks like moderation; lived, it is two extremes taking turns, and the turns themselves are the exhausting part. A pendulum crosses the middle twice per swing and rests there never.",
+          "Watch the correction, because the correction is the trap. Each excess generates its counter-excess: the crash diet after the indulgence, the digital purge after the binge, the monastic Monday after the lost weekend. The correction feels like virtue — it has virtue's costume and vocabulary — but it is sized by the excess it answers, which makes it the excess's employee. Moderation practiced immoderately is the card's quiet joke, and most driven people are the punchline at least seasonally.",
+          "Somewhere in your arrangement, parts are refusing to blend. The work self and the home self keeping separate books. The schedule that accommodates everything except the two things that matter co-existing. The relationship where both people alternate between too close and too far because the middle distance was never rehearsed. Splitting is always easier than blending in the short term — ingredients keep better than mixtures. But you are not being stored. You are being lived.",
+          "The diagnosis under the swinging is usually impatience. Blending is slow, and the extremes are fast; going all-in produces immediate sensation, while the steady pour produces almost nothing per day. The pendulum is what a mixture attempt looks like when it is graded hourly. The reversed card asks for a different grading period — weeks, not evenings — and predicts, flatly, that the middle will hold once it stops being audited every four hours.",
+          "Begin embarrassingly small: one blend, daily, at a dose too low to fail. The angle of the pour is relearned by pouring. The cups are undamaged. The water, notably, was never the problem."
+        ],
+        "work": [
+          "Sprint-crash cycles wearing productivity's costume. The heroic week billed to the following month. Cadence, not intensity, is the missing technology."
+        ],
+        "love": [
+          "All-in, then gone. The closeness that arrives in floods and droughts, when the irises wanted rain. The middle distance, never yet rehearsed."
+        ],
+        "self": [
+          "Too much, then none — the regime and the rebound taking turns being you. Moderation itself practiced immoderately."
+        ],
+        "note": [
+          "Not a failure of character. A recipe still being learned — the mixture separates a hundred times before it holds. Keep the cups."
+        ]
+      }
+    },
+    "es": {
+      "slug": "la-templanza",
+      "name": "La Templanza",
+      "seoTitle": "La Templanza en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "El punto medio se construye, no se encuentra repartiendo a partes iguales. Opuestos trabajados hasta que se combinan en una tercera cosa. Sanar a su…",
+      "summary": "El punto medio se construye, no se encuentra repartiendo a partes iguales. Opuestos trabajados hasta que se combinan en una tercera cosa. Sanar a su propio ritmo; la mezcla como arte. Integra los dos enfoques: la respuesta es una proporción, no un ganador.",
+      "imageDescription": "Una figura alada, de pie con un pie en la tierra y otro en el agua, sin que le importe que eso no cuadre. Entre dos copas cae un chorro de agua en un ángulo por el que no podría caer: es el único milagro visible de la carta, y lo hace con toda naturalidad. Florecen lirios en la orilla. Detrás, un sendero corre hacia unas montañas donde espera una corona de luz, justo a distancia de caminata.",
+      "upright": {
+        "keywords": [
+          "mezcla, la moderación como oficio, la proporción justa, paciencia entre extremos, integración, sanar a su propio ritmo"
+        ],
+        "essay": [
+          "Lo has estado tratando como una elección, y es una receta. Las dos cosas que tiran de ti (el trabajo y el descanso, la cabeza y el apetito, esta vida y aquella) te las han presentado como finalistas de una competición donde una tiene que perder. La Templanza se planta en medio de la escena, vertiendo la una en la otra, y ese vertido es toda la enseñanza: hay oposiciones que no se resuelven. Se mezclan, y la mezcla es una tercera cosa, mejor que cualquiera de los dos ingredientes.",
+          "Mira los pies. Uno en tierra, otro en el agua, y no como concesión, sino como habilidad. La figura no está a medio camino entre dos lugares: está entera en los dos a la vez, y eso es una destreza que se puede aprender. Casi todo el mundo va alternando: temporadas de solo tierra, temporadas de solo agua, y a esa alternancia la llaman equilibrio. La carta es más exigente. O el equilibrio es simultáneo, o es un péndulo, y los péndulos son solo versiones lentas de los extremos entre los que oscilan.",
+          "El vertido en diagonal merece que lo mires con calma. Que el agua pase de una copa a otra en ese ángulo es imposible, y la figura lo hace con la cara de quien prepara un té. Así se ve desde fuera la integración cuando está practicada: milagrosa, como si nada. Aprenderla no fue como si nada. Esa mezcla que en cualquiera que admiras parece salir sola se trabajó, se vertió, se derramó y se volvió a verter durante años. La palabra para eso es oficio, y el oficio está a tu alcance al precio de siempre.",
+          "Hay un ritmo en esta carta, y no se negocia. Sanar a su propia velocidad; la mezcla necesitando su tiempo para volverse ella misma. Una mezcla no se puede apurar, y las mezclas apuradas se separan. Lo que ahora mismo se esté recomponiendo dentro de ti o a tu alrededor va según lo previsto, según su propio calendario, y el consejo de la carta es del más difícil: sigue vertiendo, en el mismo ángulo constante, sin comprobar el resultado después de cada vertido.",
+          "El sendero del fondo lleva a una corona encendida, y el detalle importa: está a distancia de caminata. No es un salto, no es un asalto a la cumbre. El camino hacia eso que brilla es llano, aburrido y diario, que es todo el secreto, entregado con alas.",
+          "La pregunta de fondo: ¿qué dos cosas de tu vida están esperando a que las mezcles, en lugar de elegir entre ellas?"
+        ],
+        "work": [
+          "Integra los dos enfoques: el rigor y el juego, el plan y la improvisación. La proporción es lo que hay que entregar. La constancia sostenible le gana al esfuerzo heroico por márgenes aburridos que se van acumulando."
+        ],
+        "love": [
+          "Dos vidas vertidas en una tercera compartida, sin que se vacíe ninguna copa. Los pequeños ajustes de cada día, que hacen una mezcla, frente al gran gesto, que hace una escena."
+        ],
+        "self": [
+          "La rutina como alquimia. El camino del medio andado activamente, no aceptado por resignación. Lo que está sanando en ti lleva su propio ritmo; tu trabajo es verter, y verter constante."
+        ],
+        "note": [
+          "No es sosería ni el promedio gris. La mezcla es el arte: una tercera cosa, no una concesión a medias."
+        ]
+      },
+      "reversed": {
+        "summary": "Extremos que se turnan y se llaman equilibrio. Demasiado, y luego nada; todo a tope, y luego desaparecida. Las partes que se niegan a mezclarse: horarios, hábitos, versiones de ti. La corrección que se convierte en el siguiente exceso.",
+        "keywords": [
+          "desequilibrio, el exceso y la corrección oscilando, la mezcla que se separa, sprint y desplome, la moderación practicada sin moderación"
+        ],
+        "essay": [
+          "Invertida, la Templanza es el péndulo con la etiqueta del equilibrio puesta. La semana de disciplina y el fin de semana que la deshace. El mes de todo y el mes de nada. Todo a tope, y luego imposible de encontrar. Sobre el papel, sale la media y parece moderación; vivido, son dos extremos turnándose, y los turnos en sí son la parte que agota. Un péndulo cruza el medio dos veces por oscilación y nunca descansa ahí.",
+          "Vigila la corrección, porque la corrección es la trampa. Cada exceso genera su contraexceso: la dieta severa después del atracón, la desintoxicación del móvil después de horas de pantalla, el lunes de monje después del fin de semana perdido. La corrección se siente como una virtud, lleva su disfraz y su vocabulario, pero su tamaño lo marca el exceso al que responde, lo que la convierte en empleada de ese exceso. La moderación practicada sin moderación es el chiste callado de la carta, y casi toda la gente intensa es el remate al menos una temporada al año.",
+          "En algún punto de cómo te organizas hay partes que se niegan a mezclarse. El tú del trabajo y el tú de casa llevando cuentas separadas. La agenda que le hace hueco a todo menos a que convivan las dos cosas que importan. La relación donde los dos van alternando entre demasiado cerca y demasiado lejos porque nunca practicaron la distancia intermedia. A corto plazo, separar siempre es más fácil que mezclar, porque los ingredientes se conservan mejor que las mezclas. Pero a ti no te están guardando en la despensa. A ti te están viviendo.",
+          "Debajo de la oscilación, el diagnóstico suele ser impaciencia. Mezclar es lento y los extremos son rápidos; ir a tope produce una sensación inmediata, mientras que verter constante casi no produce nada al día. El péndulo es lo que parece un intento de mezcla cuando le pones nota cada hora. La carta invertida pide otro plazo para evaluar (semanas, no tardes) y predice, sin adornos, que el medio aguantará en cuanto dejes de revisarlo cada cuatro horas.",
+          "Empieza por algo vergonzosamente pequeño: una mezcla, diaria, en una dosis demasiado baja para fallar. El ángulo del vertido se reaprende vertiendo. Las copas están intactas. El agua, que quede claro, nunca fue el problema."
+        ],
+        "work": [
+          "Ciclos de sprint y desplome disfrazados de productividad. La semana heroica que se paga el mes siguiente. La constancia, no la intensidad, es la herramienta que falta."
+        ],
+        "love": [
+          "Todo a tope, y luego desaparecida. La cercanía que llega unas veces como inundación y otras como sequía, cuando los lirios solo querían lluvia. La distancia intermedia, aún sin practicar."
+        ],
+        "self": [
+          "Demasiado, y luego nada: el régimen y el rebote turnándose para ser tú. La moderación misma, practicada sin moderación."
+        ],
+        "note": [
+          "No es un fallo de carácter. Es una receta que todavía estás aprendiendo: la mezcla se separa cien veces antes de aguantar. Conserva las copas."
+        ]
+      }
+    }
+  }
+}

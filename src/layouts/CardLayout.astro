@@ -1,0 +1,8 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import type { Language } from '../lib/i18n';
+interface Alternate { language: Language; path: string }
+interface Props { language: Language; title: string; description: string; canonicalPath: string; alternates?: Alternate[]; imagePath?: string; robots?: string; jsonLd?: Record<string, unknown> | Record<string, unknown>[]; ogType?: 'website' | 'article' }
+const props = Astro.props;
+---
+<BaseLayout {...props} bodyClass="card-site"><slot /></BaseLayout>

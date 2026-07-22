@@ -1,0 +1,134 @@
+{
+  "id": "the-hanged-man",
+  "number": 12,
+  "order": 12,
+  "arcana": "major",
+  "suit": null,
+  "rank": null,
+  "image": "/assets/cards/the-hanged-man.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "12-hanged-man.en.md",
+    "es": "12-hanged-man.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "the-hanged-man",
+      "name": "The Hanged Man",
+      "seoTitle": "The Hanged Man Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "Stopping on purpose to see it from the other side. Progress through yielding; the cost accepted in exchange for the new angle. Do not push — reframe. The…",
+      "summary": "Stopping on purpose to see it from the other side. Progress through yielding; the cost accepted in exchange for the new angle. Do not push — reframe. The pause as the most active move available.",
+      "imageDescription": "A man hangs upside down by one ankle from a living tree shaped like a T — the wood still has leaves; nothing here is dead. His free leg crosses behind the bound one, his hands rest behind his back, and his face is unmistakably calm. Around his head, a halo. Nobody put him there. He climbed.",
+      "upright": {
+        "keywords": [
+          "suspension, surrender, the reversed view, willing pause, sacrifice that buys sight, progress through yielding"
+        ],
+        "essay": [
+          "Everything you have tried has one thing in common: it was pushing. Harder, smarter, from new angles, with new tools — but pushing. The Hanged Man is the card of the other physics: some knots do not open under tension. They open when the rope goes slack, and the slack has to be given on purpose, by someone strong enough to look like they are doing nothing.",
+          "Read the detail that changes the whole card: he climbed up there himself. This is not punishment, capture or defeat, whatever the posture suggests to a hurried eye. It is a chosen suspension — the deliberate purchase of a different vantage at the price of looking foolish, losing time, and hanging in public while others walk by upright and certain. The halo is not decoration. It is what the card thinks of that trade.",
+          "Upside down, the world reorganizes. What was urgent sinks to the bottom of the frame; what was background — the person, the detail, the quiet fact you filed away months ago — hangs suddenly at eye level. You do not get this inversion by thinking harder in the standing position. Thinking harder in the standing position is how you got the knot.",
+          "There is a surrender in this card, and it is precise: not surrendering the goal, but the grip. The argument you no longer need to win. The timeline you no longer need to control. The version of events you no longer need everyone to accept. Each of these released returns an astonishing amount of energy, which is how you discover how much they were costing to hold.",
+          "The pause has a term. That matters. The Hanged Man is a stage, not a residence — the card of days or weeks, not of years. The view gets seen, the sight gets paid for, and then the ankle comes untied and the walking resumes, differently. Suspension that has no intention of ending is a different card, and it is this one turned over.",
+          "The question underneath: what would this situation look like if you stopped defending your current view of it for one week?"
+        ],
+        "work": [
+          "Do not push — reframe. The project stuck at the level of effort resolves at the level of framing. Pause the sprint; the answer is visible from the other orientation."
+        ],
+        "love": [
+          "Letting go of winning the argument. Hanging inside the discomfort of not being agreed with, and finding the bond survives it — improved."
+        ],
+        "self": [
+          "Stillness as the move. The willing pause with a term on it. Seeing your own situation upside down, halo optional."
+        ],
+        "note": [
+          "Not defeat, not punishment. He climbed up there himself — the surrender is a technique, not a collapse."
+        ]
+      },
+      "reversed": {
+        "summary": "Waiting that is really avoidance. The noble pause gone stale; things given up with the loss rebranded as wisdom. The view has been seen — hanging longer adds nothing. Martyrdom accruing interest it intends to collect.",
+        "keywords": [
+          "stalling, martyrdom, the pause outstayed, sacrifice without sight, waiting as avoidance, stuck rebranded as patient"
+        ],
+        "essay": [
+          "Reversed, the Hanged Man has outstayed his insight. There was a real pause once, with a real purpose, and it worked — the view was seen, the reframe arrived. But the untying never happened. Somewhere along the way the suspension stopped being a technique and became an address, and \"I am reflecting\" became the most respectable available translation of \"I am afraid to come down.\"",
+          "Check the calendar honestly: how long has this pause lasted, and when did it last produce anything new? Genuine suspension pays out in sight — fresh angles, changed frames, decisions ripening. A pause that has stopped paying is not patience. It is a stall wearing patience's clothes, and the difference is measurable by output, not by how the waiting feels from inside.",
+          "The card's second face is the martyrdom ledger. Sacrifice without sight: things given up — comfort, opportunities, years, versions of yourself — with the loss itself presented as the achievement. But renunciation is a purchase, not a virtue; it is only worth what it buys. If what it bought was mainly the identity of the one who gave things up, the transaction wants reviewing. Suffering displayed is not the same as suffering spent well, and the people around you can tell which one they are watching, even when they are too kind to say.",
+          "There is a quiet manipulation possible from the rope, and the reversed card names it: the visible sacrifice that accrues moral interest, payable by others in guilt. Devotion performed at this angle is not devotion. It is invoicing.",
+          "The hands stay behind the back, and that is the final detail: from where they are, the ankle is reachable. It always was. Nothing external maintains this suspension anymore — no tree, no rope, no circumstance has that kind of budget. The reversed Hanged Man is held up by the holding itself, and comes down the afternoon he decides the view has been sufficiently seen. It has. The ground is closer than the hanging makes it look."
+        ],
+        "work": [
+          "Gathering information as a permanent state. The pause that was strategy in month one and hiding by month six. Decide with what the hanging already taught you."
+        ],
+        "love": [
+          "Suffering displayed as devotion; the sacrifice with an invoice attached. Or waiting for the other person to change as a full-time occupation."
+        ],
+        "self": [
+          "Stuck, rebranded as patient. The loss called wisdom before it bought anything. The ankle within reach of your own hands, and the hands kept busy elsewhere."
+        ],
+        "note": [
+          "Not a demand for action at any cost. The view was real — but it has been seen. Hanging longer adds nothing the first month didn't."
+        ]
+      }
+    },
+    "es": {
+      "slug": "el-colgado",
+      "name": "El Colgado",
+      "seoTitle": "El Colgado en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "Pararte a propósito para verlo desde el otro lado. Avanzar cediendo, el precio que aceptas a cambio del ángulo nuevo. No fuerces, dale la vuelta. La pausa…",
+      "summary": "Pararte a propósito para verlo desde el otro lado. Avanzar cediendo, el precio que aceptas a cambio del ángulo nuevo. No fuerces, dale la vuelta. La pausa como la jugada más activa que tienes.",
+      "imageDescription": "Un hombre cuelga boca abajo, atado por un tobillo a un árbol vivo con forma de T; la madera todavía tiene hojas, y aquí nada está muerto. La pierna libre se cruza tras la atada, las manos descansan a su espalda, y la cara está claramente en calma. Alrededor de la cabeza, un halo. Nadie lo puso ahí. Subió él.",
+      "upright": {
+        "keywords": [
+          "suspensión, entrega, la vista al revés, la pausa elegida, el sacrificio que compra visión, avanzar cediendo"
+        ],
+        "essay": [
+          "Todo lo que has intentado tiene algo en común: era forzar. Con más fuerza, con más cabeza, desde ángulos nuevos, con herramientas nuevas, pero siempre forzando. El Colgado es la carta de la otra física: hay nudos que no se abren por tensión. Se abren cuando la cuerda queda floja, y esa holgura hay que darla a propósito, con la fuerza justa para que parezca que no haces nada.",
+          "Fíjate en el detalle que cambia la carta entera: subió él solo. Esto no es castigo, ni captura, ni derrota, diga lo que diga la postura a un ojo con prisa. Es una suspensión elegida, pagar a propósito por otro punto de vista, y el precio es parecer tonto, perder tiempo y colgar en público mientras los demás pasan de pie y seguros. El halo no es adorno. Es lo que la carta opina de ese trato.",
+          "Boca abajo, el mundo se reordena. Lo urgente se hunde al fondo, y lo que era fondo, la persona, el detalle, el dato callado que archivaste hace meses, cuelga de pronto a la altura de tus ojos. Ese vuelco no se consigue pensando más fuerte de pie. Pensar más fuerte, puesta de pie, es como te hiciste el nudo.",
+          "Hay una entrega en esta carta, y es concreta: no entregas la meta, entregas el control. La discusión que ya no necesitas ganar. Los plazos que ya no necesitas manejar. La versión de los hechos que ya no necesitas que todos acepten. Cada una de estas cosas, al soltarla, te devuelve una cantidad de energía asombrosa, y así descubres cuánto te costaba sostenerla.",
+          "La pausa tiene fecha de fin. Eso importa. El Colgado es una etapa, no una casa, la carta de días o semanas, no de años. Ves la vista, pagas por ella, y después el tobillo se desata y sigues caminando, distinto. La suspensión que no piensa terminar es otra carta: es esta misma, dada la vuelta.",
+          "La pregunta de fondo: ¿cómo se vería esta situación si durante una semana dejaras de defender la forma en que la ves ahora?"
+        ],
+        "work": [
+          "No fuerces, dale la vuelta. El proyecto que se atasca al nivel del esfuerzo se resuelve al nivel del planteamiento. Para el sprint, que la respuesta se ve desde la otra posición."
+        ],
+        "love": [
+          "Soltar el ganar la discusión. Aguantar la incomodidad de que no te den la razón, y descubrir que el vínculo lo sobrevive, y sale mejor."
+        ],
+        "self": [
+          "La quietud como jugada. La pausa elegida con fecha de fin. Ver tu propia situación boca abajo, con el halo opcional."
+        ],
+        "note": [
+          "No es derrota ni castigo. Subió él solo, así que la entrega es una técnica, no un derrumbe."
+        ]
+      },
+      "reversed": {
+        "summary": "La espera que en realidad es huida. La pausa noble ya rancia, cosas entregadas con la pérdida rebautizada como sabiduría. La vista ya se vio, y colgar más no añade nada. El martirio acumulando una deuda que piensa cobrar.",
+        "keywords": [
+          "el estancamiento, el martirio, la pausa que se alargó de más, el sacrificio sin visión, la espera como huida, lo atascado rebautizado como paciencia"
+        ],
+        "essay": [
+          "Invertido, el Colgado se ha quedado colgando más que su propia revelación. Hubo una pausa de verdad, con un propósito de verdad, y funcionó, se vio la vista y llegó el cambio de enfoque. Pero el desatarse nunca ocurrió. En algún momento la suspensión dejó de ser una técnica y se volvió un domicilio, y \"estoy reflexionando\" pasó a ser la forma más digna de decir \"me da miedo bajar\".",
+          "Mira el calendario con honestidad: ¿cuánto lleva esta pausa, y cuándo dio algo nuevo por última vez? La suspensión de verdad paga en visión, o sea ángulos frescos, enfoques que cambian, decisiones que maduran. Una pausa que ya no paga no es paciencia. Es un estancamiento disfrazado de paciencia, y la diferencia se mide en lo que produce, no en cómo se siente la espera por dentro.",
+          "La otra cara de la carta es la cuenta del martirio. Sacrificio sin visión: cosas entregadas, la comodidad, las oportunidades, los años, versiones de ti, con la pérdida misma presentada como el logro. Pero renunciar es una compra, no una virtud, y vale exactamente lo que compra. Si lo que compró fue sobre todo la identidad del que renuncia, la operación pide una revisión. Enseñar el sufrimiento no es lo mismo que gastarlo bien, y la gente a tu alrededor nota cuál de los dos está viendo, aunque sea demasiado amable para decírtelo.",
+          "Desde la cuerda cabe una manipulación silenciosa, y la carta invertida le pone nombre: el sacrificio bien visible que va generando una deuda moral, y que otros pagan en culpa. La devoción actuada desde este ángulo no es devoción. Es pasar factura.",
+          "Las manos siguen a la espalda, y ese es el detalle final: desde donde están, el tobillo queda al alcance. Siempre lo estuvo. Ya no hay nada de fuera que sostenga esta suspensión, ningún árbol, ninguna cuerda, ninguna circunstancia da para tanto. Al Colgado invertido lo sostiene el propio empeño de sostenerse, y baja la tarde en que decide que ya vio bastante. Y ya vio bastante. El suelo está más cerca de lo que aparenta desde ahí colgado."
+        ],
+        "work": [
+          "Reunir información como estado permanente. La pausa que era estrategia el primer mes y escondite en el sexto. Decide con lo que colgar ya te enseñó."
+        ],
+        "love": [
+          "Enseñar el sufrimiento como si fuera devoción, el sacrificio con factura adjunta. O esperar a que la otra persona cambie como si fuera un trabajo a jornada completa."
+        ],
+        "self": [
+          "Atascada, rebautizada como paciencia. La pérdida llamada sabiduría antes de haber comprado nada. El tobillo al alcance de tus propias manos, y las manos ocupadas en otra cosa."
+        ],
+        "note": [
+          "No es una exigencia de actuar cueste lo que cueste. La vista fue real, pero ya se vio. Colgar más no añade nada que el primer mes no diera."
+        ]
+      }
+    }
+  }
+}

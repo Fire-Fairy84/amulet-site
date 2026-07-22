@@ -1,0 +1,126 @@
+{
+  "id": "king-of-cups",
+  "number": 14,
+  "order": 35,
+  "arcana": "minor",
+  "suit": "cups",
+  "rank": 14,
+  "image": "/assets/cards/king-of-cups.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "cups-14.en.md",
+    "es": "cups-14.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "king-of-cups",
+      "name": "King of Cups",
+      "seoTitle": "King of Cups Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "Mastery of feeling in its active form — the person who stays warm and level while the situation pitches; authority that soothes without dismissing.…",
+      "summary": "Mastery of feeling in its active form — the person who stays warm and level while the situation pitches; authority that soothes without dismissing. Emotion fully present, fully governed, spending itself as steadiness for others. The sea never calms in this card. The king does not need it to.",
+      "imageDescription": "A king sits on a stone throne that floats on a rough, gray, open sea — no shoreline anywhere in the card. Behind him a ship rides the swell on one side and a dolphin leaps on the other. He holds a cup he is not looking at and a scepter he is barely gripping. The waves are real. His expression is the single calmest thing in the suit, and it is not effort.",
+      "upright": {
+        "keywords": [
+          "calm on the open sea, feeling governed not suppressed, the steady hand in the storm, compassionate authority, depth worn lightly, the throne that floats"
+        ],
+        "essay": [
+          "The Queen sits at the sea's edge; the King has no edge available. His throne floats on open water — and this is the whole final teaching of the suit: at some point, feeling can no longer be managed by placement, by shorelines, by choosing when to visit the depths. Life eventually assigns the open sea: the crisis that will not localize, the grief and the job on the same day, the family needing steadiness at the exact hour the self has none scheduled. The King of Cups is what the suit's education is for — the capacity to remain warm, present, and functional while the water does whatever it wants.",
+          "Read his details precisely, because the card is routinely mistaken for coldness. The waves in this card are never painted calm; the mastery is not weather control. And the king is not gripping anything — the cup rests, the scepter tilts, the posture is ease, not clench. Suppression looks like this card only in thumbnail: up close, suppression is white knuckles and a flat voice, while the King's register stays full — he can laugh, mourn, and love mid-swell, at slightly reduced amplitude and fully honest content. The difference is that feeling passes through him without seizing the controls. He has been every earlier card of this suit — spilled like the Five, walked away like the Eight, flooded like the reversed Queen — and somewhere in that curriculum the relationship inverted: the emotions became information and company rather than commands.",
+          "This is why the King is the deck's crisis officer: the leader who lowers a room's temperature by entering it, the parent whose steadiness lets the child's storm complete safely, the friend called at terrible hours precisely because his voice does not tighten. His compassion has authority because it is unafraid — he does not need your feeling to be smaller before he can sit with it, and people detect that exemption instantly and unfold. If the card is you, it likely marks either an arrival — this steadiness, noticed or not, is now yours in some province — or an assignment: someone nearby needs not your solutions but your unclenched presence beside their weather.",
+          "Its one standing question is the cup he does not look at: a king spending his depth as steadiness for others must still, somewhere, drink. The card upright assumes he does — privately, adequately, on some rhythm the picture doesn't show. Keep that assumption true of yourself. The floating throne is a masterpiece of the suit; it stays afloat on maintenance the audience never sees."
+        ],
+        "work": [
+          "The crisis officer — enter the pitching room and lower its temperature. Authority here is an unafraid ear: you don't need their alarm to shrink before you can sit with it."
+        ],
+        "love": [
+          "Steadiness that lets the other's storm complete safely — presence without tightening, warmth at full honesty and governed amplitude. Being the calm is a form of love; say the feelings too."
+        ],
+        "self": [
+          "The sea will not calm and doesn't need to. Feeling as information and company, not command. And check the unwatched cup: the steady also drink, privately, on schedule."
+        ],
+        "note": [
+          "Not coldness and not weather control — the waves stay rough and the register stays full. Suppression clenches; this is ease. The difference is visible up close."
+        ]
+      },
+      "reversed": {
+        "summary": "The mastery inverted — calm as costume over churn: repression drinking or leaking its way out; or the emotional skill turned to quiet manipulation. The steadiest person in the room is the one nobody can actually find. Check below the waterline.",
+        "keywords": [
+          "the storm below decks, control curdled into repression, moods governing from behind the calm, manipulation by the trusted, the drinking king, steadiness as performance"
+        ],
+        "essay": [
+          "Reversed, the King of Cups keeps the surface and loses the substance — and the card's two failure modes are both crimes of the waterline: what shows above stays calm; what happens below goes wrong.",
+          "The first mode is repression wearing mastery's uniform. The upright king feels fully and governs the amplitude; the reversed king has quietly canceled the feeling and kept only the governance. From outside, identical for years. From inside: the pressure of everything unfelt accumulating below decks — and pressure in sealed systems always finds its valve. The valves are the card's telltale details: the cup refilled too often (the drink, the scroll, the work, whatever medicates the churn); the disproportionate eruption over the trivial thing, arriving from nowhere because it actually arrived from everywhere; the numbness spreading from the feelings he refused into the ones he wanted to keep, because the sea cannot be selectively frozen. The people around such a king sense the flat sea's wrongness before he does — calm that unsettles instead of soothing, steadiness no one can locate the person inside of. The repair begins embarrassingly small: one true feeling, named to one safe person, at unimpressive volume. The first honest sentence holes the false hull — and discovers the real one underneath, which was always rated for open water.",
+          "The second mode is the skill weaponized: emotional depth used to steer rather than to steady. The reversed king reads everyone — that was always his gift — but now the readings are deployed: the calm that makes others' legitimate anger look hysterical by contrast; the measured voice that wins every argument by tone while losing none by content; the counsel that guides the advisee, unnoticed, toward the king's preferred harbor; care distributed strategically, warmth as policy instrument. This is the suit's subtlest corruption because every visible act remains kind. The test is direction of benefit over time: a true King of Cups leaves people more themselves — clearer, steadier, freer to disagree with him; the reversed one leaves them somehow always agreeing, vaguely smaller, and unable to say why. If you suspect you are near such a king, trust the vagueness; it is data. If you suspect you are one — and the honest occasionally will — the way back is to lose on purpose: one argument conceded genuinely, one room left unguided, one person allowed to sail, visibly and irrevocably, toward a harbor you would not have chosen. The sea beneath a real king was never his. That was the mastery."
+        ],
+        "work": [
+          "Calm that unsettles the room — or the measured voice that wins by tone. Check who benefits from your steadiness over time; teams near a true king get freer, not smaller."
+        ],
+        "love": [
+          "The partner nobody can find inside the steadiness — pressure below decks, valves opening (the drink, the eruption, the numbness). One true feeling to one safe person holes the false hull."
+        ],
+        "self": [
+          "The sea can't be selectively frozen: numb the refused feelings and the kept ones follow. Name the churn at unimpressive volume. The real hull was always rated for open water."
+        ],
+        "note": [
+          "Not proof the depth is gone — the substance is sealed, not absent. And kindness that steers is not kindness yet; direction of benefit is the test."
+        ]
+      }
+    },
+    "es": {
+      "slug": "rey-de-copas",
+      "name": "Rey de Copas",
+      "seoTitle": "Rey de Copas en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "El dominio del sentir en su forma activa — quien se mantiene cálido y en su sitio mientras la situación se sacude; autoridad que calma sin quitarle peso a…",
+      "summary": "El dominio del sentir en su forma activa — quien se mantiene cálido y en su sitio mientras la situación se sacude; autoridad que calma sin quitarle peso a nadie. Emoción del todo presente, del todo gobernada, entregada como firmeza para los demás. El mar nunca se calma en esta carta. El rey no lo necesita.",
+      "imageDescription": "Un rey sentado en un trono de piedra que flota sobre un mar gris, agitado y abierto, sin costa en ninguna parte de la carta. Detrás, un barco cabalga el oleaje a un lado y un delfín salta al otro. Sostiene una copa que no mira y un cetro apenas sujeto. Las olas son de verdad. Su rostro es lo más sereno de todo el palo, y no le cuesta.",
+      "upright": {
+        "keywords": [
+          "calma en mar abierto, el sentir gobernado, no callado, mano firme en la tormenta, autoridad con compasión, hondura llevada sin peso, el trono que flota"
+        ],
+        "essay": [
+          "La Reina se sienta a la orilla; el Rey no tiene orilla a mano. Su trono flota en mar abierto — y esta es la última lección del palo entero: llega un punto en que el sentir ya no se maneja eligiendo dónde ponerse, marcando una costa, decidiendo cuándo bajar a las profundidades. Antes o después la vida te pone en mar abierto: la crisis que no se queda quieta en un rincón, el duelo y el trabajo el mismo día, la familia que necesita firmeza justo a la hora en que tú no tienes ninguna. El Rey de Copas es para lo que sirve toda la educación del palo — la capacidad de seguir cálido, presente y en funcionamiento mientras el agua hace lo que le da la gana.",
+          "Lee sus detalles con cuidado, porque a esta carta se la confunde una y otra vez con frialdad. Las olas de esta carta nunca se pintan en calma; el dominio no es controlar el clima. Y el rey no aprieta nada — la copa reposa, el cetro se ladea, la postura es soltura, no tensión. La represión se parece a esta carta solo vista de lejos: de cerca, la represión son los nudillos blancos y la voz plana, mientras que en el Rey el registro sigue entero — puede reír, llorar y amar en pleno oleaje, con algo menos de volumen y sin fingir nada. La diferencia es que el sentimiento lo atraviesa sin quedarse con los mandos. Ha sido cada carta anterior de este palo — derramado como el Cinco, marchado como el Ocho, desbordado como la Reina invertida — y en algún momento de ese aprendizaje la relación se dio la vuelta: las emociones pasaron a ser información y compañía, ya no órdenes.",
+          "Por eso el Rey es quien lleva las crisis en la baraja: el líder que baja la temperatura de una sala solo con entrar, el padre cuya firmeza deja que la tormenta del hijo pase entera sin peligro, el amigo al que llamas a horas imposibles precisamente porque su voz no se tensa. Su compasión tiene autoridad porque no tiene miedo — no necesita que tu sentimiento sea más pequeño para poder acompañarlo, y la gente nota al instante que ahí no se les va a juzgar y se abre. Si la carta eres tú, seguramente marca una de dos cosas: una llegada — esta firmeza, la notes o no, ya es tuya en alguna parte de tu vida — o un encargo: alguien cerca no necesita tus soluciones sino tu presencia sin tensarse al lado de su tormenta.",
+          "Su única pregunta pendiente es la copa que no mira: un rey que gasta su hondura en dar firmeza a los demás también tiene que beber él, en algún momento. La carta al derecho da por hecho que lo hace — en privado, lo justo, a un ritmo que el dibujo no enseña. Que eso siga siendo verdad en ti. El trono que flota es la obra maestra del palo; se mantiene a flote con un cuidado que el público nunca ve."
+        ],
+        "work": [
+          "Quien lleva las crisis — entra en la sala que se sacude y bájale la temperatura. Aquí la autoridad es saber escuchar sin miedo: no necesitas que su alarma se apague para poder acompañarla."
+        ],
+        "love": [
+          "La firmeza que deja que la tormenta del otro pase entera sin peligro — presencia sin tensarse, calidez sin dejar de ser honesto y con el volumen bajo control. Ser la calma es una forma de amor; di también lo que sientes."
+        ],
+        "self": [
+          "El mar no se va a calmar y no le hace falta. El sentir como información y compañía, no como orden. Y mira la copa que no miras: los que aguantan firmes también beben, en privado, a su ritmo."
+        ],
+        "note": [
+          "No es frialdad ni controlar el clima — las olas siguen bravas y el registro sigue entero. La represión se tensa; esto es soltura. La diferencia se ve de cerca."
+        ]
+      },
+      "reversed": {
+        "summary": "El dominio invertido — la calma como disfraz sobre el remolino: la represión que se bebe o se filtra para salir; o la destreza emocional convertida en manipulación silenciosa. La persona más firme de la sala es a la que nadie consigue encontrar de verdad. Mira debajo de la superficie.",
+        "keywords": [
+          "la tormenta bajo cubierta, el control agriado en represión, los ánimos mandando desde detrás de la calma, manipulación de quien te fías, el rey que bebe, la firmeza como pura fachada"
+        ],
+        "essay": [
+          "Invertido, el Rey de Copas conserva la superficie y pierde el fondo — y las dos formas de fallar de la carta pasan las dos en el mismo sitio, justo bajo la superficie: lo que se ve por arriba sigue en calma; lo que ocurre por debajo se tuerce.",
+          "La primera forma es la represión con el uniforme del dominio. El rey al derecho siente del todo y gobierna el volumen; el invertido ha cancelado el sentimiento por lo bajo y se ha quedado solo con el gobierno. Por fuera, iguales durante años. Por dentro: la presión de todo lo no sentido acumulándose bajo cubierta — y en un sistema cerrado la presión siempre encuentra su escape. Los escapes son los detalles que delatan la carta: la copa rellenada demasiadas veces (la bebida, el móvil, el trabajo, lo que sea que tape el remolino); el estallido desmedido por una tontería, que parece venir de la nada porque en realidad venía de todo; el entumecimiento que se extiende desde los sentimientos que rechazó hasta los que quería conservar, porque el mar no se congela por trozos. La gente alrededor de un rey así nota que ese mar plano no encaja antes que él — una calma que inquieta en vez de tranquilizar, una firmeza dentro de la cual nadie encuentra a la persona. Arreglarlo empieza por algo vergonzosamente pequeño: un sentimiento verdadero, dicho a una persona segura, en voz bajita. La primera frase honesta abre un agujero en el casco falso — y descubre el de verdad debajo, que siempre estuvo hecho para mar abierto.",
+          "La segunda forma es la destreza usada como arma: la hondura emocional puesta a dirigir en vez de a dar firmeza. El rey invertido lee a todo el mundo — ese fue siempre su don — pero ahora usa esas lecturas: la calma que hace que la rabia legítima de los demás parezca histérica al lado; la voz medida que gana todas las discusiones por el tono sin que el contenido le dé la razón; el consejo que lleva al aconsejado, sin que se dé cuenta, justo al puerto que el rey prefería; el cuidado repartido con estrategia, la calidez como herramienta de poder. Esta es la corrupción más sutil del palo, porque cada gesto que se ve sigue siendo amable. La prueba está en hacia dónde va el beneficio con el tiempo: un Rey de Copas de verdad deja a la gente más ella misma — más clara, más firme, más libre para llevarle la contraria; el invertido la deja siempre de acuerdo con él no se sabe cómo, un poco más pequeña, y sin saber decir por qué. Si sospechas que estás cerca de un rey así, fíate de esa sensación difusa; es un dato. Si sospechas que lo eres tú — y los honestos a veces lo van a sospechar — la salida es perder a propósito: una discusión cedida de verdad, una sala dejada sin dirigir, una persona a la que dejas navegar, a la vista de todos y sin marcha atrás, hacia un puerto que tú no habrías elegido. El mar bajo un rey de verdad nunca fue suyo. En eso estaba el dominio."
+        ],
+        "work": [
+          "Calma que inquieta a la sala — o la voz medida que gana por el tono. Mira quién sale ganando con tu firmeza a la larga; los equipos junto a un rey de verdad se vuelven más libres, no más pequeños."
+        ],
+        "love": [
+          "La pareja a la que nadie encuentra dentro de tanta firmeza — presión bajo cubierta, escapes que se abren (la bebida, el estallido, el entumecimiento). Un sentimiento verdadero a una persona segura abre un agujero en el casco falso."
+        ],
+        "self": [
+          "El mar no se congela por trozos: entumece los sentimientos que rechazas y los que guardas van detrás. Nombra el remolino en voz bajita. El casco de verdad siempre estuvo hecho para mar abierto."
+        ],
+        "note": [
+          "No es prueba de que la hondura se haya ido — el fondo está sellado, no ausente. Y la amabilidad que dirige todavía no es amabilidad; la prueba es hacia dónde va el beneficio."
+        ]
+      }
+    }
+  }
+}

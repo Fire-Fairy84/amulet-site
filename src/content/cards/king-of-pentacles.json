@@ -1,0 +1,128 @@
+{
+  "id": "king-of-pentacles",
+  "number": 14,
+  "order": 49,
+  "arcana": "minor",
+  "suit": "pentacles",
+  "rank": 14,
+  "image": "/assets/cards/king-of-pentacles.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "pentacles-14.en.md",
+    "es": "pentacles-14.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "king-of-pentacles",
+      "name": "King of Pentacles",
+      "seoTitle": "King of Pentacles Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "The suit mastered — provision at scale, security so complete it no longer clenches, the builder become indistinguishable from what he built. Wealth run as…",
+      "summary": "The suit mastered — provision at scale, security so complete it no longer clenches, the builder become indistinguishable from what he built. Wealth run as stewardship: the question is what will this feed. The armor under the robe says the peace was won, not given.",
+      "imageDescription": "The king sits on a throne carved with bulls, in a robe so densely embroidered with grapevines that where the garment ends and the garden begins cannot be said — he has become materially indistinguishable from what he grew. One hand rests on a scepter; the other does not grip his coin but rests upon it, lightly, the way a hand rests on the shoulder of a grown child. Behind him, his castle. From under the sumptuous hem, easy to miss: a foot in armor.",
+      "upright": {
+        "keywords": [
+          "the provider at rest, the coin held without grip, robe grown into the vines, steward before owner, the armored foot under the finery, wealth that behaves like an ecosystem"
+        ],
+        "essay": [
+          "The King of Pentacles is the last figure in the deck's longest ledger, and the card announces his mastery in the quietest possible detail: how the coin is held. The Page studied it, the Knight leveled it, the Queen kept it warm; the Four, long ago, clenched it with every limb. The King's hand rests on it — open, weightless, the grip of a man who has finally learned what the whole suit was teaching: that security held tightly is not yet security. He can let the hand lie loose because the wealth no longer lives in the coin; it lives in the system around him — the vines, the castle, the people provided for, the judgment that built it all and could build it again. The robe embroidered into the garden is the deck's portrait of a completed material life: the man and what he grew are no longer separable, and neither is diminished by the merger.",
+          "His office is provision, and the card is careful to draw it at scale and at rest. This is the figure whose competence others live inside, mostly without noticing — the payroll met for twenty years, the tuitions quietly covered, the business that employs the town, the family whose emergencies are absorbed by a solvency someone spent three decades building. The Six of this suit gave coins; the King gives structures that generate coins — the loan that starts the business, the introduction that opens the industry, the steady counsel worth more than the check. And his generosity has the specific temperature of the earth suit: unsentimental, concrete, delivered as terms and opportunities rather than speeches, and famously more reliable than warmer-sounding promises from lighter suits.",
+          "The card plants two warnings inside its own abundance, both easy to miss amid the grapes. The first is the armored foot: this peace was fought for. The serene provider was once the Five's cold walker or the Two's desperate juggler; the calm is not temperament but terrain, taken and held, and those who inherit its shelter — this is the King's one tender grievance, shared with the Ten's old man — tend to mistake the armor for decoration. The second is the throne's carving: bulls, the old symbol of Midas's problem. A king whose touch turns things to gold must watch, forever, what he touches — and the upright King passes the test daily by direction: his hands go to the vines, the projects, the soil, and rest only lightly on the gold itself. The moment the direction reverses — hands on gold, garden untended — is one card away, and he knows it better than anyone.",
+          "His counsel, for anyone standing anywhere in this suit's long arc: run wealth as stewardship, and let the operative question shift from what will this fetch to what will this feed. Fund something young — the apprentice, the venture, the scholarship — not as charity but as the suit's own physics: mature capital's highest yield has always been seedlings. Keep one hand's worth of armor oiled: solvency, not luxury, is the muscle. And practice, deliberately, the King's crowning skill, the one the Four could not imagine: enough. The word said out loud, meant, at the top of the ledger — this is enough — is the only thing in the whole suit that money cannot buy and the King, alone, can afford. The suit began with a coin offered from a cloud. It ends with a hand at rest on one, in a garden it can no longer be told apart from. That is the arc. It was never about the gold."
+        ],
+        "work": [
+          "Build what others live inside — structures that generate, not piles that sit. Mature capital's highest yield is seedlings: fund the apprentice, the venture, on terms, without a speech."
+        ],
+        "love": [
+          "Provision is a love language with a famous translation problem — terms and opportunities instead of words. Read it accurately; and provider, add the sentence the check can't carry."
+        ],
+        "self": [
+          "The coin under a resting hand, not a grip — security that still clenches isn't security yet. Practice the crowning skill out loud: \"this is enough.\" Only you can afford it."
+        ],
+        "note": [
+          "Not born to it — the armored foot under the finery; the peace was terrain, taken. And not Midas: watch the hands' direction. Vines, not gold. That test is passed daily or not at all."
+        ]
+      },
+      "reversed": {
+        "summary": "The measure gone wrong — net worth as self-worth, every relationship priced, the provider present in wire transfers only. Midas at the family table. The gold is real and the food is gone. Convert one asset back into presence before the table empties for good.",
+        "keywords": [
+          "worth measured only in coin, the Midas grip completed, everything priced and nothing valued, the provider absent in person, the garden turned to inventory, gold where the food should be"
+        ],
+        "essay": [
+          "Reversed, the King of Pentacles is Midas past the warning — the direction of the hands finally reversed, gold gripped, garden untended — and the card's first observation is what happens to a mind when one metric wins: everything becomes priced, and pricing, which was a skill, becomes the only sense that still works. The reversed King evaluates the dinner party by the guests' net worth, the suitor by the salary, the child's degree by its earning curve, his own decades by the number at the bottom of the statement — and the sense that once told nourishing from merely expensive has atrophied like any unused muscle. The card is precise about the loss: it is not that he values money too much. It is that he has forgotten money is a converter — stored life, meant to be turned back into life — and a converter that never converts is just weight. Gold where the food should be: the table set, the plate replaced by a stack, the family chewing politely on what everything cost.",
+          "The second face is the absent provider, and it is this card's particular domestic tragedy because it is built from real virtue: he was there, in wire transfers. The tuition paid and the recital missed; every need funded and no question asked that wasn't logistical; love expressed so exclusively through provision that the household learned to read absence as his signature. The reversed King genuinely believes he has been present — the evidence is the ledger, and the ledger is immaculate — and the day the accusation arrives (you were never there) it strikes him as accounting fraud. Both parties hold true books; they were kept in different currencies. The card's counsel to him is a conversion order, urgent and specific: take the asset most defended — the hours — and spend them in person, unmonetized, uninstrumented: the recital attended without checking the phone, the walk with no agenda, the question asked about her life with the follow-up question after it. Provision bought the house. Only presence makes it worth inheriting.",
+          "The third face is corruption of the judgment itself — the suit's master skill bent by appetite: the corner cut at scale, the worker squeezed because the market allows it, the quality shaved where the customer can't see (the Eight's sin, institutionalized), the stubbornness that will not update a thesis because being right about matter is the last identity left. Wealth without stewardship curdles into extraction, and extraction, the suit's long ledger shows, always eventually poisons its own soil — the town that stops trusting, the family that performs affection on schedule, the body, final creditor of every corner cut, presenting its bill.",
+          "The way back exists, because this is still the suit of ground, and ground forgives more than pride expects. It begins with the audit the reversed King has been avoiding, the one no accountant can run: the deathbed inventory. From that bed, the statement's bottom line is famously unrecalled; what is recalled — every study on every dying regret agrees with every folk tale — is presence, made things, meals, the garden, hands held. Run the audit early, while the hands still move. Then convert, at whatever the market charges: sell the asset that owns you; fund the thing that feeds people; put the coin back under a resting hand and the hand back on a shoulder. Midas, the old story is careful to say, was not executed for his error. He was allowed to wash it off in the river — and the river, this suit notes in closing, had been running past his garden, free of charge, the whole golden time."
+        ],
+        "work": [
+          "Extraction poisons its own soil — the squeezed worker, the shaved quality, the town that stops trusting. Stewardship isn't ethics decoration; it's the only model whose yields survive you."
+        ],
+        "love": [
+          "Two immaculate ledgers in different currencies — the tuition paid, the recital missed. Convert the defended asset: hours, in person, uninstrumented, with the follow-up question."
+        ],
+        "self": [
+          "Run the deathbed inventory early: from that bed, nobody recalls the statement's bottom line. What's recalled is presence, made things, held hands. Audit while the hands still move."
+        ],
+        "note": [
+          "Not wealth as guilt — the gold is real and was really built; the error is the unconverted grip. And not too late: Midas was offered the river. It runs past the garden still."
+        ]
+      }
+    },
+    "es": {
+      "slug": "rey-de-oros",
+      "name": "Rey de Oros",
+      "seoTitle": "Rey de Oros en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "El palo dominado: provee a gran escala, con una seguridad tan completa que ya no necesita aferrarse; el que construyó se volvió inseparable de lo…",
+      "summary": "El palo dominado: provee a gran escala, con una seguridad tan completa que ya no necesita aferrarse; el que construyó se volvió inseparable de lo construido. La riqueza llevada como una administración: la pregunta ya no es cuánto vale, sino a quién alimenta. La armadura bajo la túnica dice que esta paz se ganó, no le cayó del cielo.",
+      "imageDescription": "El rey está sentado en un trono tallado con toros, con una túnica tan cargada de vides bordadas que no se sabe dónde acaba la ropa y empieza el jardín: se ha vuelto indistinguible de lo que cultivó. Una mano descansa sobre el cetro; la otra no aprieta su moneda, la roza, ligera, como una mano que se apoya en el hombro de un hijo ya crecido. Detrás, su castillo. Bajo el dobladillo lujoso, fácil de no verlo: un pie con armadura.",
+      "upright": {
+        "keywords": [
+          "el que provee, ahora en calma; la moneda sostenida sin apretar; la túnica que se hizo una con las vides; administra más que posee; el pie con armadura bajo el lujo; una riqueza que funciona como un ecosistema"
+        ],
+        "essay": [
+          "El Rey de Oros cierra la historia más larga de la baraja, y la carta muestra su maestría en el detalle más callado que hay: cómo sostiene la moneda. La Sota la estudió, el Caballero la puso a trabajar, la Reina la mantuvo caliente; el Cuatro, mucho antes, se aferró a ella con las dos manos y los dos pies. La mano del Rey solo se apoya en ella: abierta, sin peso, el gesto de alguien que por fin entendió lo que el palo entero venía enseñando: que la seguridad que se sujeta con fuerza todavía no es seguridad. Puede soltar la mano porque la riqueza ya no está en la moneda; está en todo lo que lo rodea: las vides, el castillo, la gente a la que sostiene, el criterio que lo levantó todo y podría levantarlo otra vez. La túnica fundida con el jardín es el retrato que hace la baraja de una vida material terminada: el hombre y lo que cultivó ya no se pueden separar, y ninguno de los dos pierde nada al fundirse.",
+          "Su oficio es proveer, y la carta se cuida de mostrarlo a gran escala y en calma. Es la figura dentro de cuya solvencia viven otros, casi siempre sin darse cuenta: los sueldos pagados durante veinte años, las matrículas cubiertas sin ruido, el negocio que le da trabajo al pueblo, la familia cuyas emergencias absorbe una solvencia que alguien tardó tres décadas en construir. El Seis de este palo daba monedas; el Rey da estructuras que producen monedas: el préstamo que arranca el negocio, la presentación que abre una puerta, el consejo firme que vale más que el cheque. Y su generosidad tiene la temperatura exacta del palo de tierra: sin sentimentalismo, concreta, entregada en forma de condiciones y oportunidades y no de discursos, y famosa por ser más fiable que las promesas de tono más cálido que llegan de los palos más ligeros.",
+          "La carta esconde dos advertencias dentro de su propia abundancia, las dos fáciles de perder entre las uvas. La primera es el pie con armadura: esta paz se peleó. El que hoy provee tranquilo fue en su día el caminante helado del Cinco o el malabarista al borde del colapso del Dos; la calma no es carácter, es terreno, ganado y defendido, y quienes heredan su abrigo —esta es la única queja tierna del Rey, la misma que la del anciano del Diez— tienden a confundir la armadura con adorno. La segunda es lo que hay tallado en el trono: toros, el viejo símbolo del problema de Midas. Un rey cuyo toque convierte las cosas en oro tiene que vigilar, siempre, qué toca; y el Rey al derecho pasa la prueba a diario por adónde apunta: sus manos van a las vides, a los proyectos, a la tierra, y apenas rozan el oro. El momento en que eso se da vuelta —las manos en el oro, el jardín sin cuidar— está a una sola carta de distancia, y él lo sabe mejor que nadie.",
+          "Su consejo, para quien esté en cualquier punto de este largo recorrido: lleva la riqueza como una administración, y cambia la pregunta de trabajo, de «cuánto puedo sacar por esto» a «a quién alimenta esto». Financia algo joven —el aprendiz, el proyecto, la beca— no como caridad sino como pura física del palo: lo que más rinde un capital maduro siempre han sido las semillas. Mantén a punto una armadura, aunque sea una: el músculo es la solvencia, no el lujo. Y practica, a propósito, la destreza que corona al Rey, la que el Cuatro no era capaz ni de imaginar: basta. La palabra dicha en voz alta, en serio, en lo más alto de la cuenta —con esto ya es suficiente— es lo único en todo el palo que el dinero no compra y que solo el Rey se puede permitir. El palo empezó con una moneda ofrecida desde una nube. Termina con una mano en reposo sobre otra moneda, en un jardín del que ya no se la distingue. Ese es el recorrido. Nunca fue por el oro."
+        ],
+        "work": [
+          "Construye aquello dentro de lo que vive otra gente: estructuras que producen, no montones que solo están ahí. Lo que más rinde un capital maduro son las semillas: financia al aprendiz, al proyecto, con condiciones claras y sin discurso."
+        ],
+        "love": [
+          "Proveer es una forma de decir «te quiero» que casi nunca se entiende bien: llega como condiciones y oportunidades, no como palabras. Apréndete ese idioma; y tú, que provees, di además la frase que el cheque no puede llevar."
+        ],
+        "self": [
+          "La moneda bajo una mano en reposo, no bajo un puño: la seguridad que todavía aprieta aún no es seguridad. Practica en voz alta la destreza que te corona: «con esto ya me basta». Solo tú te la puedes permitir."
+        ],
+        "note": [
+          "No lo heredaste: mira el pie con armadura bajo el lujo; esta paz fue terreno ganado. Y no eres Midas: vigila hacia dónde van las manos. A las vides, no al oro. Esa prueba se pasa cada día o no se pasa."
+        ]
+      },
+      "reversed": {
+        "summary": "El criterio arruinado: el patrimonio confundido con el propio valor, cada relación con su precio, el que provee presente solo a través de transferencias. Midas en la mesa familiar. El oro es real y la comida ya no está. Vuelve a convertir un bien en presencia antes de que la mesa se vacíe del todo.",
+        "keywords": [
+          "el valor de todo medido solo en dinero; el puño de Midas ya cerrado; todo con precio y nada que importe; el que provee, ausente en persona; el jardín vuelto inventario; oro donde tendría que estar la comida"
+        ],
+        "essay": [
+          "Invertido, el Rey de Oros es Midas después de la advertencia —las manos por fin dadas vuelta, el oro apretado, el jardín sin cuidar— y lo primero que observa la carta es qué le pasa a una cabeza cuando una sola medida se lo lleva todo: a todo se le pone precio, y poner precio, que era una habilidad, pasa a ser el único sentido que le sigue funcionando. El Rey invertido evalúa la cena por el patrimonio de los invitados, al pretendiente por su sueldo, la carrera de la hija por cuánto le va a dar, sus propias décadas por el número al pie del extracto; y el sentido que antes distinguía lo que nutre de lo que solo es caro se le atrofió como cualquier músculo que no se usa. La carta es precisa sobre lo que se perdió: no es que valore demasiado el dinero. Es que olvidó que el dinero es un convertidor —vida guardada, hecha para volver a ser vida— y un convertidor que nunca convierte es solo peso muerto. Oro donde tendría que estar la comida: la mesa puesta, el plato reemplazado por una pila de monedas, la familia masticando con educación cuánto costó cada cosa.",
+          "La segunda cara es el que provee y no está, y es la tragedia doméstica propia de esta carta, porque está hecha de virtud de verdad: sí estuvo, a través de transferencias. La matrícula pagada y el recital al que no fue; cada necesidad cubierta y ninguna pregunta que no fuera de logística; el cariño expresado tan solo a través de lo que pagaba que la casa aprendió a leer su ausencia como su forma de firmar. El Rey invertido cree de verdad que estuvo presente —la prueba es la cuenta, y la cuenta está impecable— y el día en que llega el reproche (nunca estuviste) le suena a un error de contabilidad. Los dos llevan cuentas verdaderas; las llevaron en monedas distintas. El consejo de la carta para él es una orden de conversión, urgente y concreta: toma el bien que más defiende —las horas— y pásalas con los suyos, sin convertirlas en rendimiento ni en gestión: el recital visto sin mirar el teléfono, el paseo sin plan, la pregunta por la vida de ella y otra pregunta después. Lo que pagaba compró la casa. Solo la presencia hace que valga la pena heredarla.",
+          "La tercera cara es la corrupción del criterio mismo —la habilidad maestra del palo torcida por la ambición—: el atajo hecho a gran escala, el trabajador exprimido porque el mercado lo permite, la calidad recortada donde el cliente no la ve (el pecado del Ocho, ahora convertido en norma), la terquedad que no corrige una idea porque tener razón sobre lo material es la última identidad que le queda. La riqueza sin administración se pudre y se vuelve pura extracción, y la extracción, lo muestra el largo recorrido del palo, siempre acaba envenenando su propia tierra: el pueblo que deja de confiar, la familia que finge cariño en las fechas señaladas, el cuerpo —el último acreedor de cada atajo— que termina pasando la factura.",
+          "El camino de vuelta existe, porque este sigue siendo el palo de la tierra, y la tierra perdona más de lo que el orgullo cree. Empieza por la cuenta que el Rey invertido lleva evitando, la que ningún contador puede hacer: el balance visto desde el lecho de muerte. Desde esa cama, el número al pie del extracto no lo recuerda nadie; lo que sí se recuerda —cada estudio sobre los arrepentimientos del final coincide con cada cuento de siempre— es la presencia, las cosas hechas con las manos, las comidas, el jardín, las manos que se sostuvieron. Haz esa cuenta pronto, mientras las manos todavía se mueven. Y luego convierte, cueste lo que cueste: vende el bien que te posee a ti; financia lo que alimenta a la gente; devuelve la moneda a una mano en reposo y esa mano a un hombro. A Midas, el cuento viejo se cuida de aclararlo, no lo mataron por su error. Lo dejaron lavárselo en el río; y el río, anota este palo al despedirse, había estado corriendo junto a su jardín, gratis, todo aquel tiempo dorado."
+        ],
+        "work": [
+          "La extracción envenena su propia tierra: el trabajador exprimido, la calidad recortada, el pueblo que deja de confiar. Administrar no es un adorno ético; es el único modelo cuyos frutos te sobreviven."
+        ],
+        "love": [
+          "Dos cuentas impecables, llevadas en monedas distintas: la matrícula pagada, el recital al que no fuiste. Convierte el bien que más defiendes: pasa horas con los tuyos, sin convertirlas en rendimiento ni en gestión. Haz una pregunta y luego otra."
+        ],
+        "self": [
+          "Haz pronto el balance desde el lecho de muerte: desde esa cama nadie recuerda el número del extracto. Se recuerda la presencia, las cosas hechas a mano, las manos que se sostuvieron. Haz esa cuenta mientras las manos todavía se mueven."
+        ],
+        "note": [
+          "No es la riqueza como culpa: el oro es real y lo construiste de verdad; el error es el puño que nunca convierte nada. Y no es tarde: a Midas le ofrecieron el río. Sigue corriendo junto al jardín."
+        ]
+      }
+    }
+  }
+}

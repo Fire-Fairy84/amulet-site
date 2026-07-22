@@ -1,0 +1,136 @@
+{
+  "id": "the-star",
+  "number": 17,
+  "order": 17,
+  "arcana": "major",
+  "suit": null,
+  "rank": null,
+  "image": "/assets/cards/the-star.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "17-star.en.md",
+    "es": "17-star.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "the-star",
+      "name": "The Star",
+      "seoTitle": "The Star Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "The quiet after the storm — not the reward, the repair. Giving back to the source; faith with its armor off. Rebuilding at a humane pace. The practice…",
+      "summary": "The quiet after the storm — not the reward, the repair. Giving back to the source; faith with its armor off. Rebuilding at a humane pace. The practice that refills you, resumed. Guidance visible again, at low light.",
+      "imageDescription": "A naked figure kneels at the edge of a pool, one knee on land, one foot on water that holds her weight — trust, rendered as physics. From two jugs she pours water onto the earth and back into the pool, feeding both. Above, one great star and seven smaller ones. Behind, an ibis waits in a tree, unhurried. Nothing in this card is running, hiding, or performing.",
+      "upright": {
+        "keywords": [
+          "hope, replenishment, honesty without armor, guidance at low light, repair, the quiet after the storm"
+        ],
+        "essay": [
+          "This card comes after the Tower in the deck's order, and the sequence is the meaning: this is what the first quiet night looks like once something has genuinely ended. The storm is over. Not because you won it — storms are not won — but because it passed, and you are still here, kneeling at the water, lighter by exactly the weight of what burned.",
+          "The nakedness is the first instruction. No armor, no title, no story managed for an audience — and, notably, nothing bad happens. The figure is undefended and unharmed, which is the card's central claim about this season of your life: protection is currently optional. There are windows after great disruptions when honesty costs less than it ever has, because there is nothing left standing for the honesty to threaten. This is one. They do not stay open indefinitely.",
+          "Watch the two jugs, because they are a complete economy. One pours into the pool — back to the source, the reserve, the practice that feeds you. One pours onto the land — outward, to the work, the people, the visible life. Both at once, neither emptied. The burnout you may be recovering from had a simpler design: everything outward, source unattended, and then the strange surprise that the well had a bottom. The Star's arithmetic is the correction, demonstrated nightly.",
+          "Repair at this scale is unglamorous, and the card refuses to apologize for that. No fireworks, no announcement, no before-and-after. Water, poured steadily, in the dark, onto ground that shows no immediate gratitude. Healing looks like nothing for weeks. Then the irises. Anyone selling you a faster version is selling the Tower again with better fonts.",
+          "The stars overhead deserve their sentence: they are far, small, and entirely sufficient. Guidance at low light is still guidance. You do not need the whole route illuminated — that was always a control fantasy wearing hope's name. You need the next stretch of ground and one fixed point, and the card confirms, gently, that you currently have both.",
+          "The question underneath: what refills you — actually, measurably — and when did it last appear in your calendar?"
+        ],
+        "work": [
+          "Rebuild at a humane pace. The project after the collapse, restarted small and honest. Sustainable output over heroics — the well is being refilled and the refilling is work too."
+        ],
+        "love": [
+          "Openness after damage — the armor set down on purpose, at the hour it is least required. Being seen without management, and finding it holds."
+        ],
+        "self": [
+          "The practice that refills you, resumed without ceremony. Faith with its clothes off: nothing to prove, nothing performed. The quiet window used, not just admired."
+        ],
+        "note": [
+          "Not rescue, and not a reward for surviving. Repair — steady, unglamorous, self-administered. The stars guide; the pouring is yours."
+        ]
+      },
+      "reversed": {
+        "summary": "Hope thinned by administration rather than tragedy. The replenishing thing abandoned exactly when it was most needed. Despair as a habit rather than a verdict; cynicism doing armor's job at armor's price. The well unvisited, and blamed.",
+        "keywords": [
+          "hope thinned, faith misplaced or drained, the well unvisited, cynicism as armor, going through the motions"
+        ],
+        "essay": [
+          "Reversed, the Star is rarely dramatic. It is the quiet discovery that you have been running on empty for so long that empty started to feel like a personality. Hope did not break — nothing so cinematic. It thinned, the way daylight thins in autumn: gradually, administratively, one skipped replenishment at a time, until the low light became the assumed weather and you stopped mentioning it, even to yourself.",
+          "Find the jugs first. There was a practice — there is always a practice — that used to refill you. The walk, the pages, the pool, the music, the hour of unaccounted time. Trace when it stopped, and notice the correlation the card is pointing at with both hands: it stopped exactly when things got hard, which is exactly when it was load-bearing. The logic that cancels the replenishing thing to save time during a drought is the logic of drinking less to preserve water. The drought is not the well's fault. The well is where it was. It is the visiting that stopped.",
+          "Cynicism deserves its audit here, because it is the reversed Star's favorite armor. It photographs well, sounds intelligent, and protects reliably against disappointment — by prepaying it. The cynic is never caught hoping, which is the whole product. But run the actual books: what has the protection cost in things not attempted, warmth not risked, water not poured? Disappointment insurance, at these premiums, is the most expensive policy sold.",
+          "Despair, this card insists, is currently a habit and not a verdict. The distinction is everything. A verdict is information about the world; a habit is information about a routine — and routines are the most repairable objects in existence. You do not have to believe anything tonight. You have to walk to the pool with the jug. Belief is not a prerequisite for pouring; it is, oddly, a frequent side effect.",
+          "The stars are behind haze, not gone. Check the image: seven small, one great, all present, dimmed by atmosphere — and atmosphere moves. The ibis, who has seen more droughts than you, has not moved from the tree. That is not decoration. That is the forecast.",
+          "The question underneath: which replenishing thing did you cancel first when it got hard — and what would it cost to reinstate it this week?"
+        ],
+        "work": [
+          "Burnout mistaken for the job's nature; the dry spell blamed on the field instead of the fallow. Reinstate the practice before diagnosing the career."
+        ],
+        "love": [
+          "Cynicism as armor — never caught hoping, never quite reached either. Warmth kept in the jug going stale."
+        ],
+        "self": [
+          "The despair that is a habit, not a verdict. The well unvisited and blamed for distance. Pouring resumed at a dose too small to fail."
+        ],
+        "note": [
+          "Not hopeless. The well is where it was; the stars are dimmed by haze, not extinguished. The visiting is the entire variable."
+        ]
+      }
+    },
+    "es": {
+      "slug": "la-estrella",
+      "name": "La Estrella",
+      "seoTitle": "La Estrella en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "La calma después de la tormenta: no el premio, la reparación. Devolver a la fuente; bajar la guardia. Reconstruir a un ritmo humano. Retomar lo que te…",
+      "summary": "La calma después de la tormenta: no el premio, la reparación. Devolver a la fuente; bajar la guardia. Reconstruir a un ritmo humano. Retomar lo que te llena. Volver a ver la guía, aunque sea con poca luz.",
+      "imageDescription": "Una figura desnuda se arrodilla al borde de un estanque: una rodilla en tierra, un pie sobre el agua, y el agua sostiene su peso. Confianza vuelta física. Con dos cántaros vierte agua sobre la tierra y de vuelta al estanque, y alimenta las dos. Arriba, una estrella grande y siete pequeñas. Detrás, un ibis espera en un árbol, sin prisa. Nada en esta carta corre, se esconde ni actúa para nadie.",
+      "upright": {
+        "keywords": [
+          "esperanza, recuperar fuerzas, honestidad sin defensas, guía con poca luz, reparación, la calma después de la tormenta"
+        ],
+        "essay": [
+          "Esta carta viene después de la Torre en el orden de la baraja, y ese orden es el significado: así se ve la primera noche tranquila cuando algo ha terminado de verdad. La tormenta pasó. No porque la ganaras, que las tormentas no se ganan, sino porque pasó, y tú sigues aquí, arrodillada junto al agua, más ligera justo por el peso de lo que ardió.",
+          "Lo primero que te dice la carta es la desnudez. Sin defensas, sin cargo, sin una versión de ti armada para el público, y, fíjate, no pasa nada malo. La figura está expuesta y a salvo a la vez, y esa es la idea central de la carta sobre esta etapa de tu vida: protegerte, por ahora, es opcional. Después de los grandes golpes se abren temporadas en que ser honesta cuesta menos que nunca, porque ya no queda nada en pie a lo que la honestidad pueda hacer daño. Esta es una de esas temporadas. No duran para siempre.",
+          "Mira los dos cántaros, porque entre los dos forman un sistema completo. Uno vierte al estanque, de vuelta a la fuente, a la reserva, a lo que te llena. El otro vierte a la tierra, hacia fuera, al trabajo, a la gente, a la vida que se ve. Los dos a la vez, y ninguno se vacía. El agotamiento del que quizá estés saliendo funcionaba de forma más simple: todo hacia fuera, la fuente desatendida, y luego la sorpresa rara de descubrir que el pozo tenía fondo. La cuenta de la Estrella corrige eso, y lo demuestra cada noche.",
+          "Reparar a esta escala no tiene brillo, y la carta no se disculpa por ello. Sin fuegos artificiales, sin anuncio, sin foto de antes y después. Agua, vertida con constancia, a oscuras, sobre una tierra que no da las gracias enseguida. Sanar no se nota en semanas. Y un día, las flores. Quien te venda una versión más rápida te está vendiendo la Torre otra vez, mejor maquillada.",
+          "Las estrellas de arriba merecen su frase: están lejos, son pequeñas y bastan de sobra. Una guía con poca luz sigue siendo una guía. No necesitas todo el camino iluminado, que eso siempre fue querer controlarlo todo con el nombre de la esperanza puesto encima. Necesitas el siguiente tramo de suelo y un punto fijo, y la carta te confirma, sin dramatismo, que ahora mismo tienes las dos cosas.",
+          "La pregunta de fondo: ¿qué te llena de verdad, algo que puedas medir, y cuándo fue la última vez que le hiciste hueco en tu semana?"
+        ],
+        "work": [
+          "Reconstruye a ritmo humano. El proyecto después del derrumbe, empezado otra vez pequeño y honesto. Producir de forma sostenible antes que hacer heroicidades: el pozo se está volviendo a llenar, y llenarlo también es trabajo."
+        ],
+        "love": [
+          "Abrirte después del daño: dejar la defensa en el suelo a propósito, en el momento en que menos hace falta. Que te vean sin que controles nada, y descubrir que aguanta."
+        ],
+        "self": [
+          "Retomar sin ceremonia lo que te llena. Fe sin ropa: nada que demostrar, nada actuado. La temporada de calma aprovechada, no solo admirada."
+        ],
+        "note": [
+          "No es un rescate ni un premio por sobrevivir. Es reparación: constante, sin brillo, y la haces tú. Las estrellas guían; verter el agua es cosa tuya."
+        ]
+      },
+      "reversed": {
+        "summary": "La esperanza que se afloja por descuido, no por tragedia. Lo que te repone, abandonado justo cuando más falta hacía. La desesperanza como costumbre y no como sentencia; el cinismo haciendo el trabajo del escudo y cobrándote lo mismo. El pozo al que dejaste de ir, y al que ahora echas la culpa.",
+        "keywords": [
+          "la esperanza cada vez más floja, la fe perdida o agotada, el pozo al que no vas, el cinismo como escudo, hacer los gestos con la luz apagada"
+        ],
+        "essay": [
+          "Invertida, la Estrella rara vez es dramática. Es darte cuenta, en silencio, de que llevas tanto tiempo funcionando en vacío que el vacío empezó a parecer tu forma de ser. La esperanza no se rompió, nada tan de película. Se fue aflojando, como afloja la luz en otoño: poco a poco, sin ruido, saltándote una recarga cada vez, hasta que la penumbra se volvió el clima normal y dejaste de mencionarla, incluso a ti misma.",
+          "Busca primero los cántaros. Había una práctica, siempre la hay, que te volvía a llenar. La caminata, escribir, el agua, la música, esa hora que no le debes a nadie. Fíjate cuándo se paró, y mira la relación que la carta te está señalando con las dos manos: se paró justo cuando las cosas se pusieron difíciles, que es justo cuando te sostenía. Cancelar lo que te repone para ahorrar tiempo en plena sequía es la misma lógica que beber menos para que no se acabe el agua. La sequía no es culpa del pozo. El pozo está donde estaba. Lo que se paró fueron tus visitas.",
+          "El cinismo merece aquí su repaso, porque es el escudo favorito de la Estrella invertida. Queda bien en la foto, suena inteligente y protege de la decepción sin fallar, pagándola por adelantado. A la persona cínica nunca la pillan con esperanza, y ese es todo el truco. Pero echa cuentas de verdad: ¿qué te ha costado esa protección en cosas que no intentaste, en cariño que no arriesgaste, en agua que no vertiste? Un seguro contra decepciones, a este precio, es el más caro del mercado.",
+          "La desesperanza, insiste esta carta, ahora mismo es una costumbre y no una sentencia. La diferencia lo es todo. Una sentencia dice algo sobre el mundo; una costumbre solo dice algo sobre una rutina, y las rutinas son lo más fácil de arreglar que existe. No tienes que creer nada esta noche. Solo tienes que caminar hasta el estanque con el cántaro. La fe no hace falta para verter el agua; es, curiosamente, algo que suele venir después.",
+          "Las estrellas están detrás de la bruma, no se han ido. Mira otra vez la imagen: siete pequeñas, una grande, todas ahí, apagadas por el aire, y el aire se mueve. El ibis, que ha visto más sequías que tú, no se ha movido del árbol. Eso no es adorno. Eso es el pronóstico.",
+          "La pregunta de fondo: ¿qué cosa de las que te reponen fue la primera que cancelaste cuando se puso difícil, y qué costaría volver a ella esta semana?"
+        ],
+        "work": [
+          "El agotamiento confundido con lo que el trabajo es de por sí; la mala racha achacada al oficio en lugar de al descanso que no te diste. Recupera la práctica antes de diagnosticar la carrera."
+        ],
+        "love": [
+          "El cinismo como escudo: nunca te pillan con esperanza, pero tampoco te alcanzan del todo. El cariño guardado en el cántaro, poniéndose rancio."
+        ],
+        "self": [
+          "La desesperanza que es costumbre, no sentencia. El pozo al que dejaste de ir y al que culpas de la distancia. Retomar el verter el agua en una dosis tan pequeña que no puede fallar."
+        ],
+        "note": [
+          "No es un caso perdido. El pozo está donde estaba; las estrellas están apagadas por la bruma, no extinguidas. Volver a ir es lo único que cambia la ecuación."
+        ]
+      }
+    }
+  }
+}

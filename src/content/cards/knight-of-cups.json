@@ -1,0 +1,128 @@
+{
+  "id": "knight-of-cups",
+  "number": 12,
+  "order": 33,
+  "arcana": "minor",
+  "suit": "cups",
+  "rank": 12,
+  "image": "/assets/cards/knight-of-cups.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "cups-12.en.md",
+    "es": "cups-12.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "knight-of-cups",
+      "name": "Knight of Cups",
+      "seoTitle": "Knight of Cups Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "The offer on its way — the declaration, the proposal, the invitation with feeling behind it; or you as its carrier. Romance as a genuine mission rather…",
+      "summary": "The offer on its way — the declaration, the proposal, the invitation with feeling behind it; or you as its carrier. Romance as a genuine mission rather than a mood. Graceful, sincere, moving at feeling's proper speed: a walk.",
+      "imageDescription": "A knight rides at a walk — the only knight in the deck not hurrying — cup held out before him like something being delivered, not drunk. His helmet and heels are winged; his armor is decorated with red fish. The horse steps toward a river with the composure of a processional. He is not charging. He is arriving, which is a different art.",
+      "upright": {
+        "keywords": [
+          "the offer carried, romance as a mission, feeling in motion, the invitation arriving, idealism mounted, beauty taken seriously"
+        ],
+        "essay": [
+          "Wands' knight gallops; cups' knight processes. The Knight of Cups is feeling that has found a direction and refuses to spoil it with speed — the suitor actually arriving, the apology actually delivered, the creative vision carried carefully toward its patron, the invitation that took three weeks to word. Where the Page discovered the fish in the cup, the Knight has accepted the consequential next step: feeling, once heard, wants to be taken somewhere. This is the card of emotion in transit — and its whole character is in the pace, because the Knight understands what hastier temperaments never learn: an offer arrives best when the arrival itself says I considered this.",
+          "When the card is someone else, it is usually good news walking: the declaration en route, the proposal forming, the person whose interest in you has organized itself into intention. When the card is you, it is a commission: something felt needs formal delivery. Not the feeling kept privately warm, not the hint dropped and deniable — the cup carried, at a walk, all the way to its recipient: the love named, the apology spoken with both feet in the room, the ask made beautifully because beauty is part of the message. The Knight's specific virtue is taking romance seriously as labor — the belief, increasingly rare and always correct, that how a thing is offered belongs to what is offered.",
+          "The winged helmet carries the card's second theme: imagination in service. This knight is the deck's artist-errant — the one who follows beauty as a vocation, who treats an aesthetic instinct as worthy of a mission, who will cross the river because the vision said so. At its best this is idealism with logistics: the dream given a horse, a route, an arrival date. The card blesses ventures that sensible advisors call unquantifiable — the portfolio, the proposal, the pilgrimage — provided they keep the Knight's signature: moving, at a sustainable walk, toward an actual somewhere.",
+          "Its edge, held but not yet crossed upright, is the enchantment of the mission itself. A knight who carries the cup gorgeously enough can begin to prefer the carrying to the delivering — courtship as a permanent state, vision as a permanent journey. Upright, the card trusts the river gets crossed. It asks only that you check, gently, that your beautiful motion has a destination it still remembers — and then it says: proceed. The offer is good. The pace is right. Deliver the cup."
+        ],
+        "work": [
+          "The vision carried to its patron — pitch, portfolio, proposal — with the offering's form treated as part of its content. Idealism with logistics: route, date, arrival."
+        ],
+        "love": [
+          "The declaration en route — yours or theirs. Feeling wants formal delivery: named, in the room, worded with care. How it's offered belongs to what's offered."
+        ],
+        "self": [
+          "Something felt has been waiting for its mission. Give the dream a horse and an arrival date; beauty taken seriously is a vocation, not an indulgence."
+        ],
+        "note": [
+          "Not a mood — a delivery. And not the gallop: feeling's proper speed is a walk. The only danger is preferring the carrying to the arrival."
+        ]
+      },
+      "reversed": {
+        "summary": "Romance malfunctioning at the delivery stage — the eternal suitor who never lands, charm as performance with nothing in the cup, or idealism curdled into moody disappointment with every actual thing. The offer exists; the arrival keeps not happening.",
+        "keywords": [
+          "the offer that never lands, charm without delivery, moodiness in armor, the professional romantic, seduction as habit, the cup spilled en route"
+        ],
+        "essay": [
+          "Reversed, the Knight of Cups fails between the feeling and its delivery — and the failure wears three costumes, each lovelier than what it hides.",
+          "The first is the eternal approach: the suitor who never arrives. Courtship extended indefinitely because courtship is the comfortable part — the almost-relationship maintained for years, the creative project perpetually in beautiful development, the apology rehearsed until rehearsal becomes its own genre. The knight circles the riverbank because arrival has terms that approach does not: an answer can be no, a delivered work can be judged, a named love can be declined. Circling is unfalsifiable, and that is its entire appeal and entire cost. The reversed card's demand is a landing date: deliver the cup by an actual day, to the actual person, and accept the river's verdict. Three years of gorgeous approach is not devotion. It is a moat.",
+          "The second costume is charm as profession: the delivery mechanism perfected, the cup empty. The person fluent in romance's forms — attentive openings, poetic follow-through, intimacy's complete choreography — deployed serially, because the forms produce the desired effect and the feelings they advertise were never in stock. Sometimes this is cynicism; more often it is a sadder loop: someone who learned early that performed feeling is rewarded and actual feeling is risky, until performance became the only setting. The tell, for the charmer and the charmed alike, is what happens after the delivery succeeds — the attention that evaporates on conquest, the intimacy that cannot survive its own achievement. If you are the audience of such a knight: watch the after, not the approach. If you are the knight: the way back is one undecorated truth, delivered plainly, to someone whose response you cannot choreograph.",
+          "The third is idealism souring in the saddle: the romantic whose standards have become a grievance. Every actual person disappoints the imagined one; every real project insults the envisioned one; the world, insufficiently beautiful, is served the knight's moods as its consequence — the sulk in armor, the melancholy that must be asked about, the disappointment worn as proof of finer sensibility. The reversed card names this precisely: sensitivity has become a tariff others pay rather than a service the knight renders. And the repair is the knight's own oath, read back to him: beauty taken seriously means making some, here, with what exists — the imperfect person loved specifically, the flawed project shipped devotedly. The ideal was never meant to be a customs office at which reality fails inspection. It was meant to be the cup's contents. Fill it again with something real, and ride the last hundred meters — the ones that were always the whole mission."
+        ],
+        "work": [
+          "The project in beautiful development forever — approach is unfalsifiable; delivery has terms. Set the landing date and accept the river's verdict."
+        ],
+        "love": [
+          "The eternal almost, or the choreography with nothing in stock — watch the after, not the approach. One undecorated truth, unchoreographed, is the way back."
+        ],
+        "self": [
+          "Disappointment worn as finer sensibility — the ideal become a customs office where reality fails inspection. Make some beauty with what exists; that was the oath."
+        ],
+        "note": [
+          "Not romance discredited — romance stalled at delivery. The forms are fine; the cup needs contents and a landing date."
+        ]
+      }
+    },
+    "es": {
+      "slug": "caballero-de-copas",
+      "name": "Caballero de Copas",
+      "seoTitle": "Caballero de Copas en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "La oferta en camino — la declaración, la propuesta, la invitación con sentimiento de verdad detrás; o tú, que la llevas. El romance como misión real y no…",
+      "summary": "La oferta en camino — la declaración, la propuesta, la invitación con sentimiento de verdad detrás; o tú, que la llevas. El romance como misión real y no como capricho del día. Elegante, sincero, al ritmo justo del sentir: el paso.",
+      "imageDescription": "Un caballero avanza al paso — el único caballo de la baraja que no corre — con la copa en alto, ofrecida, no para beber. Del yelmo y los talones le salen alas; la armadura lleva peces rojos. El caballo se acerca a un río con la calma de una procesión. No carga. Llega, y llegar es otro arte.",
+      "upright": {
+        "keywords": [
+          "la oferta que se lleva en mano, el romance como misión, el sentir en movimiento, la invitación que llega, el idealismo puesto en marcha, tomarse en serio la belleza"
+        ],
+        "essay": [
+          "El de bastos galopa; el de copas va en procesión. El Caballero de Copas es el sentimiento que ya encontró rumbo y no quiere echarlo a perder por ir deprisa — el pretendiente que por fin se presenta, la disculpa que de verdad se da, la idea creativa que se lleva con cuidado hasta quien puede financiarla, la invitación que costó tres semanas escribir. Donde la Sota encontraba el pez dentro de la copa, el Caballero ya dio el paso siguiente, el que tiene consecuencias: el sentimiento, una vez escuchado, quiere ir a alguna parte. Es la carta de la emoción en tránsito — y todo su carácter está en el ritmo, porque el Caballero sabe lo que los impacientes nunca aprenden: una oferta llega mejor cuando la propia llegada dice pensé bien en esto.",
+          "Cuando la carta es otra persona, suele ser una buena noticia en camino: la declaración de camino a ti, la propuesta tomando forma, alguien cuyo interés por ti ya se ha vuelto decisión. Cuando la carta eres tú, es un encargo: algo que sientes que necesita entregarse con forma. No el sentimiento guardado en calor privado, no la indirecta que luego puedes negar — la copa llevada, al paso, hasta la persona a la que va: el amor dicho por su nombre, la disculpa hecha en persona, la petición hecha con cuidado y belleza porque la belleza también es parte del mensaje. La virtud propia del Caballero es tomarse el romance en serio, como un trabajo — la idea, cada vez más rara y siempre acertada, de que el cómo ofreces algo es parte de lo que ofreces.",
+          "El yelmo alado trae el segundo tema de la carta: la imaginación puesta a servir. Este es el artista andante de la baraja — el que sigue la belleza como oficio, el que trata una corazonada estética como digna de una misión, el que cruza el río porque la visión así lo pidió. En su mejor forma esto es idealismo con logística: al sueño se le da caballo, ruta y fecha de llegada. La carta bendice las empresas que la gente sensata llama imposibles de medir — el portafolio, la propuesta, el viaje largo — mientras conserven la marca del Caballero: en movimiento, a un paso que se puede sostener, hacia un destino que existe de verdad.",
+          "Su riesgo, presente pero aún no cruzado cuando sale al derecho, es enamorarse de la misión en sí. Un caballero que lleva la copa con suficiente hermosura puede empezar a preferir llevarla antes que entregarla — el cortejo como estado permanente, el viaje que no termina nunca. Al derecho, la carta confía en que el río se cruza. Solo te pide que compruebes, con calma, que tu hermoso movimiento aún recuerda adónde va — y entonces dice: adelante. La oferta es buena. El paso es el correcto. Entrega la copa."
+        ],
+        "work": [
+          "La visión llevada hasta quien puede financiarla — presentación, portafolio, propuesta — cuidando la forma de la oferta como parte de la oferta. Idealismo con logística: ruta, fecha, llegada."
+        ],
+        "love": [
+          "La declaración en camino — tuya o suya. El sentimiento quiere entregarse con forma: dicho por su nombre, en persona, escrito con cuidado. El cómo lo ofreces es parte de lo que ofreces."
+        ],
+        "self": [
+          "Algo que sientes llevaba tiempo esperando su misión. Dale al sueño un caballo y una fecha de llegada; tomarse la belleza en serio es un oficio, no un capricho."
+        ],
+        "note": [
+          "No es un capricho del día — es una entrega. Y no es el galope: el ritmo justo del sentir es el paso. El único peligro es preferir el trayecto a la llegada."
+        ]
+      },
+      "reversed": {
+        "summary": "El romance que se atasca justo al entregar — el pretendiente eterno que nunca llega, el encanto puro sin nada dentro de la copa, o el idealismo agriado en un desencanto de mal humor con todo lo que es real. La oferta existe; la llegada sigue sin producirse.",
+        "keywords": [
+          "la oferta que nunca llega, encanto sin entrega, mal humor con armadura, el romántico de profesión, seducir por costumbre, la copa derramada en el camino"
+        ],
+        "essay": [
+          "Invertido, el Caballero de Copas falla en el tramo entre el sentimiento y su entrega — y el fallo se disfraza de tres formas, cada una más bonita que lo que esconde.",
+          "El primero es el acercamiento eterno: el pretendiente que nunca llega. El cortejo alargado sin fin porque el cortejo es la parte cómoda — la casi-relación mantenida durante años, el proyecto creativo eternamente en hermoso desarrollo, la disculpa ensayada hasta que el ensayo se vuelve un género en sí mismo. El caballero da vueltas por la orilla porque llegar tiene condiciones que acercarse no tiene: la respuesta puede ser no, una obra entregada se puede juzgar, un amor dicho por su nombre se puede rechazar. Dar vueltas nunca se pone a prueba, y en eso está todo su atractivo y todo su precio. Lo que pide la carta invertida es una fecha de llegada: entrega la copa un día concreto, a la persona concreta, y acepta lo que diga el río. Tres años de precioso acercamiento no son devoción. Son un foso para no dejar entrar a nadie.",
+          "El segundo disfraz es el encanto como profesión: el mecanismo de entrega perfeccionado, la copa vacía. La persona que domina las formas del romance — aperturas atentas, seguimiento poético, toda la coreografía de la intimidad — y las despliega una y otra vez, porque las formas dan el efecto buscado y los sentimientos que anuncian nunca estuvieron ahí. A veces es cinismo; más a menudo es algo más triste: alguien que aprendió pronto que el sentimiento fingido se premia y el de verdad es arriesgado, hasta que fingir se volvió su único registro. La señal, para quien encanta y para quien cae en el encanto por igual, es lo que pasa después de que la conquista funciona — la atención que se evapora en cuanto gana, la intimidad que no sobrevive a su propio logro. Si eres el público de un caballero así: mira el después, no el cortejo. Si eres el caballero: la salida es una verdad sin adornos, dicha en llano, a alguien cuya respuesta no puedes coreografiar.",
+          "El tercero es el idealismo que se agria sin bajarse del caballo: el romántico cuyas exigencias se han vuelto una queja permanente. Toda persona real decepciona a la imaginada; todo proyecto real insulta al que se había soñado; al mundo, que no es lo bastante bello, se le sirven los humores del caballero como castigo — el enfado con armadura, la melancolía por la que hay que preguntar, el desencanto llevado como prueba de tener más sensibilidad que los demás. La carta invertida lo dice sin rodeos: la sensibilidad se ha vuelto un peaje que pagan otros, no algo que el caballero ofrece. Y el arreglo es su propio juramento, devuelto a él: tomarse la belleza en serio significa hacer algo con ella, aquí, con lo que hay — la persona imperfecta querida tal como es, el proyecto con defectos publicado con entrega. El ideal nunca fue una aduana donde la realidad no pasa el control. Era el contenido de la copa. Vuelve a llenarla con algo real y cabalga los últimos cien metros — los que siempre fueron la misión entera."
+        ],
+        "work": [
+          "El proyecto en hermoso desarrollo para siempre — acercarse no se puede juzgar; entregar tiene condiciones. Pon la fecha de llegada y acepta lo que diga el río."
+        ],
+        "love": [
+          "El casi-eterno, o toda la coreografía sin nada detrás — mira el después, no el cortejo. Una verdad sin adornos, sin coreografía, es la salida."
+        ],
+        "self": [
+          "El desencanto llevado como prueba de más sensibilidad — el ideal vuelto aduana donde la realidad no pasa el control. Haz algo bello con lo que hay; ese era el juramento."
+        ],
+        "note": [
+          "No es el romance desmentido — es el romance atascado al entregar. Las formas están bien; a la copa le falta contenido y una fecha de llegada."
+        ]
+      }
+    }
+  }
+}

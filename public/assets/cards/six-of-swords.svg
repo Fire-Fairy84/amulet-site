@@ -1,0 +1,5 @@
+<svg class="arcana-svg" viewBox="0 0 210 363" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="SIX OF SWORDS">
+  <rect x="1" y="1" width="208" height="361" rx="12" fill="#0B0908" stroke="#A9B2BD" stroke-opacity="0.35"/>
+  <path d="M76.0,124.0 L81.78,141.0 L76.0,158.0 L70.22,141.0 Z" fill="#A9B2BD"/><path d="M134.0,124.0 L139.78,141.0 L134.0,158.0 L128.22,141.0 Z" fill="#A9B2BD"/><path d="M76.0,174.0 L81.78,191.0 L76.0,208.0 L70.22,191.0 Z" fill="#A9B2BD"/><path d="M134.0,174.0 L139.78,191.0 L134.0,208.0 L128.22,191.0 Z" fill="#A9B2BD"/><path d="M76.0,224.0 L81.78,241.0 L76.0,258.0 L70.22,241.0 Z" fill="#A9B2BD"/><path d="M134.0,224.0 L139.78,241.0 L134.0,258.0 L128.22,241.0 Z" fill="#A9B2BD"/>
+  <text x="105" y="334" text-anchor="middle" font-family="system-ui, Helvetica, sans-serif" font-size="9.5" letter-spacing="3.5" fill="#8E877B">SIX OF SWORDS</text>
+</svg>

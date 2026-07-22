@@ -1,0 +1,134 @@
+{
+  "id": "the-hierophant",
+  "number": 5,
+  "order": 5,
+  "arcana": "major",
+  "suit": null,
+  "rank": null,
+  "image": "/assets/cards/the-hierophant.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "05-hierophant.en.md",
+    "es": "05-hierophant.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "the-hierophant",
+      "name": "The Hierophant",
+      "seoTitle": "The Hierophant Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "Wisdom carried by institutions, elders and forms. Joining something older than you; learning the tried way before improvising on it. The teacher, practice…",
+      "summary": "Wisdom carried by institutions, elders and forms. Joining something older than you; learning the tried way before improvising on it. The teacher, practice or lineage worth kneeling to — temporarily, and on purpose.",
+      "imageDescription": "A robed figure sits between two pillars, one hand raised in blessing, the other holding a triple-barred staff. At his feet lie two crossed keys — offered, not held. Before him kneel two students with shaved crowns, close enough to hear the quiet parts. Everything in the scene has been in this arrangement for a very long time, and works.",
+      "upright": {
+        "keywords": [
+          "tradition, teaching, lineage, shared belief, the established path, apprenticeship chosen, keys rather than doors"
+        ],
+        "essay": [
+          "Some knowledge only transfers person to person. It is not in the books, or it is in the books the way swimming is in books — technically complete, practically useless until someone stands in the water with you. The Hierophant is the card of that second kind of learning, and of the humility it charges as tuition.",
+          "You have been trying to derive things from scratch. It is honorable and it is slow, and the card gently points out that the manual exists. Someone already made your next five mistakes, took notes, and turned them into a method — a craft's rules, a tradition's forms, a curriculum. Original suffering is not a virtue. The tried way is tried; that is its entire argument, and it is a better argument than it sounds.",
+          "Look at the keys at his feet: on the floor, crossed, available. The tradition does not open your doors — it hands you keys and lets you find the locks. This is the difference between the Hierophant and a cage: what he teaches is meant to be carried out of the building. The students kneel now so they can stand accurately later.",
+          "There is a quiet relief in this card that independent people rarely admit: the relief of joining. A practice with rules you did not invent. A form — a class, a discipline, a named commitment — that holds you on the days you cannot hold yourself. Belonging to something older than you is not a surrender of self; it is a loan of structure, at reasonable interest.",
+          "The edge to keep in view: rules are scaffolding, and scaffolding is judged by the building it enables. The Hierophant at his best teaches the rules so thoroughly that you eventually earn the right to bend them — and knows that this is the point. Learn the grammar. The poetry comes later and needs it.",
+          "The question underneath: who walked this road before you — and have you actually asked them anything, or only admired the road?"
+        ],
+        "work": [
+          "Learn the craft's rules before bending them. Find the mentor, take the course, read the canon of your field. The shortcut is called apprenticeship; it only looks slow from outside."
+        ],
+        "love": [
+          "Commitment in its public, named forms — the introduction, the declaration, the shared ritual. Some bonds strengthen when they are witnessed. The old forms exist because they carry weight the private versions cannot."
+        ],
+        "self": [
+          "A teacher or practice worth submitting to, temporarily and on purpose. The discipline of a form you did not design. Kneeling as a stage of standing."
+        ],
+        "note": [
+          "Not blind conformity. Apprenticeship, chosen — the keys get handed over precisely so you can leave with them."
+        ]
+      },
+      "reversed": {
+        "summary": "The rules that shaped you no longer fitting. Leaving a church, a school, a family script — or an industry's how-it-is-done. Making your own ritual. An earned graduation, not a tantrum.",
+        "keywords": [
+          "dogma outgrown, the handed-down questioned, leaving the script, personal ritual, authority moving inside"
+        ],
+        "essay": [
+          "Reversed, the Hierophant is the moment the handed-down stops fitting — and the discovery that this is allowed. The rules that raised you did real work: they held you before you could hold yourself. The card does not deny the debt. It notes that scaffolding, left up too long, starts blocking the windows of the building it helped construct.",
+          "Outgrowing a structure is not the same as attacking it. Somewhere in your history there is a script — a family's, a faith's, a profession's, a culture's — that you have been following past the point of belief, out of loyalty, or habit, or fear of the unstructured light outside. The reversed card marks the quiet hour in which compliance became performance. You noticed before the card did.",
+          "Check the motive, though, because the card does. Rebellion for its own sake is still obedience — the institution sets the agenda either way; you have just changed your vote from yes to no on every item. Graduation is different: it keeps what worked. You can leave the building and take the furniture. The discipline the tradition taught you is yours now; the schedule of observances is negotiable; the parts that were always cruelty dressed as order can be left on the floor with the keys.",
+          "What replaces the handed-down, if you do this honestly, is not nothing. It is a practice with your own signature on it — smaller, quieter, harder to defend at family dinners, and actually believed. A ritual kept by one person in earnest outweighs a liturgy attended in absentia.",
+          "The authority you kneeled to is moving inside. That is the whole event of this card. The exam is self-administered now, which means it is finally, inconveniently, real."
+        ],
+        "work": [
+          "The industry's how-it-is-done failing you; the best practice that no longer is. Deviating with knowledge — you learned the rule, you can price the exception."
+        ],
+        "love": [
+          "A bond that does not need the approved form — or a form kept up after the belief left it. The difference matters and you know which one is yours."
+        ],
+        "self": [
+          "Authority moved inside. Your own ritual, built from the salvage of the ones you were given. The teacher's voice replaced, gradually, by a quieter one with your accent."
+        ],
+        "note": [
+          "Not rebellion for its own sake — that still lets the institution write the agenda. An earned graduation, with the transcript to show for it."
+        ]
+      }
+    },
+    "es": {
+      "slug": "el-sumo-sacerdote",
+      "name": "El Sumo Sacerdote",
+      "seoTitle": "El Sumo Sacerdote en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "La sabiduría que guardan las instituciones, los mayores y las formas. Unirte a algo más viejo que tú; aprender el camino probado antes de improvisar sobre…",
+      "summary": "La sabiduría que guardan las instituciones, los mayores y las formas. Unirte a algo más viejo que tú; aprender el camino probado antes de improvisar sobre él. El maestro, la práctica o el linaje ante el que vale la pena arrodillarse, por un tiempo y a propósito.",
+      "imageDescription": "Una figura con túnica sentada entre dos pilares, una mano alzada en bendición, la otra sosteniendo un báculo de tres travesaños. A sus pies, dos llaves cruzadas, ofrecidas y no retenidas. Ante él, dos estudiantes arrodillados con la cabeza rapada, lo bastante cerca para oír lo que se dice en voz baja. Todo en la escena lleva muchísimo tiempo en ese mismo orden, y funciona.",
+      "upright": {
+        "keywords": [
+          "tradición, enseñanza, linaje, creencia compartida, el camino establecido, el aprendizaje elegido, llaves antes que puertas"
+        ],
+        "essay": [
+          "Hay cosas que solo se aprenden de una persona a otra. No están en los libros, o están como está la natación en los libros: la teoría entera, y aun así inservible hasta que alguien se mete al agua contigo. El Hierofante es la carta de ese segundo tipo de aprendizaje, y de la humildad que te cobra por entrar.",
+          "Llevas un tiempo intentando resolverlo todo por tu cuenta, desde cero. Es honorable y es lento, y la carta te recuerda, sin dramatismo, que el manual ya existe. Alguien cometió antes que tú tus próximos cinco errores, tomó notas y los convirtió en método: las reglas de un oficio, las formas de una tradición, un plan de estudios. Sufrir cosas que ya tienen solución no te hace mejor. El camino probado está probado; ese es todo su argumento, y pesa más de lo que parece.",
+          "Mira las llaves a sus pies: en el suelo, cruzadas, a tu alcance. La tradición no te abre las puertas, te da las llaves y deja que encuentres tú las cerraduras. Esa es la diferencia entre el Hierofante y una jaula: lo que enseña está hecho para llevártelo cuando te vayas. Los estudiantes se arrodillan ahora para poder ponerse de pie con precisión más adelante.",
+          "Hay en esta carta un alivio callado que la gente independiente rara vez reconoce: el alivio de sumarte a algo. Una práctica con reglas que no inventaste tú. Una forma, una clase, una disciplina, un compromiso con nombre, que te sostiene los días en que tú no puedes sostenerte. Pertenecer a algo más viejo que tú no es renunciar a quien eres; es que te presten una estructura, a un interés razonable.",
+          "Conviene no perder de vista el límite: las reglas son un andamio, y un andamio se juzga por el edificio que permite levantar. El Hierofante, en su mejor versión, te enseña las reglas tan a fondo que acabas ganándote el derecho a romperlas, y sabe que ese es el objetivo. Aprende la gramática. La poesía viene después, y la necesita.",
+          "La pregunta de fondo: ¿quién recorrió este camino antes que tú, y le has preguntado algo de verdad, o solo te has quedado admirando el camino?"
+        ],
+        "work": [
+          "Aprende las reglas del oficio antes de romperlas. Busca al mentor, haz el curso, lee lo que hay que leer en tu campo. El atajo se llama aprender de alguien; solo parece lento visto desde fuera."
+        ],
+        "love": [
+          "El compromiso en sus formas públicas y con nombre: la presentación, la declaración, el rito compartido. Hay vínculos que se hacen más fuertes cuando alguien los ve. Las formas viejas existen porque cargan un peso que las versiones privadas no aguantan."
+        ],
+        "self": [
+          "Un maestro o una práctica ante la que vale la pena ceder, por un tiempo y a propósito. La disciplina de una forma que no diseñaste tú. Arrodillarte como parte del ponerte de pie."
+        ],
+        "note": [
+          "No es obedecer con los ojos cerrados. Es aprendizaje elegido; te entregan las llaves justamente para que puedas irte con ellas."
+        ]
+      },
+      "reversed": {
+        "summary": "Las reglas que te formaron ya no te quedan. Dejar una iglesia, una escuela, un guion familiar, o el \"esto se hace así\" de un sector. Construir tu propio rito. Una despedida ganada, no un berrinche.",
+        "keywords": [
+          "el dogma que se te quedó pequeño, lo heredado puesto en duda, salirte del guion, el rito propio, la autoridad mudándose adentro"
+        ],
+        "essay": [
+          "Invertido, el Hierofante es el momento en que lo heredado deja de quedarte, y el descubrimiento de que eso está permitido. Las reglas que te criaron hicieron un trabajo real: te sostuvieron antes de que pudieras sostenerte tú. La carta no niega la deuda. Solo advierte que un andamio, si lo dejas demasiado tiempo, empieza a tapar las ventanas del edificio que ayudó a levantar.",
+          "Que una estructura se te quede pequeña no es lo mismo que atacarla. En algún punto de tu historia hay un guion, de una familia, de una fe, de una profesión, de una cultura, que sigues cumpliendo mucho después de haber dejado de creerlo, por lealtad, o por costumbre, o por miedo a esa luz sin estructura de afuera. La carta invertida marca esa hora callada en que cumplir se volvió actuar. Tú lo notaste antes que la carta.",
+          "Revisa el motivo, eso sí, porque la carta lo hace. Llevar la contraria por llevarla sigue siendo obediencia: la institución marca la agenda igual, solo que cambiaste tu voto de sí a no en cada punto. Irte de otra manera es distinto, porque te llevas lo que servía. Puedes dejar el edificio y llevarte los muebles. La disciplina que te enseñó la tradición ya es tuya; qué días celebras qué cosa es negociable; y las partes que siempre fueron crueldad disfrazada de orden pueden quedarse en el suelo, con las llaves.",
+          "Lo que ocupa el lugar de lo heredado, si haces esto con honestidad, no es la nada. Es una práctica con tu firma: más pequeña, más callada, más difícil de defender en la cena familiar, y creída de verdad. Un rito que una sola persona guarda en serio pesa más que una liturgia a la que se va sin estar presente.",
+          "La autoridad ante la que te arrodillabas se está mudando adentro. Ese es todo el acontecimiento de esta carta. El examen ahora te lo pones tú, lo cual significa que por fin, aunque incomode, es de verdad."
+        ],
+        "work": [
+          "El \"esto se hace así\" de tu sector fallándote; la buena práctica que dejó de serlo. Apartarte del método a sabiendas: aprendiste la regla, sabes cuándo sale a cuenta la excepción."
+        ],
+        "love": [
+          "Un vínculo que no necesita la forma aprobada, o una forma que se mantiene después de que la creencia la abandonó. La diferencia importa y tú sabes cuál de las dos es la tuya."
+        ],
+        "self": [
+          "La autoridad mudada adentro. Tu propio rito, hecho con lo que rescataste de quienes te formaron. La voz del maestro reemplazada, poco a poco, por una más baja y con tu acento."
+        ],
+        "note": [
+          "No es llevar la contraria por llevarla, porque eso deja que la institución siga marcando la agenda. Es una despedida ganada, con las pruebas para demostrarlo."
+        ]
+      }
+    }
+  }
+}

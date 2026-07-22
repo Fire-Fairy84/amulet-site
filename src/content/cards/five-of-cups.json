@@ -1,0 +1,128 @@
+{
+  "id": "five-of-cups",
+  "number": 5,
+  "order": 26,
+  "arcana": "minor",
+  "suit": "cups",
+  "rank": 5,
+  "image": "/assets/cards/five-of-cups.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "cups-05.en.md",
+    "es": "cups-05.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "five-of-cups",
+      "name": "Five of Cups",
+      "seoTitle": "Five of Cups Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "Real loss, really grieved — and an accounting problem: three spilled, two standing, attention wholly captured by the spill. Mourn fully; that is the work.…",
+      "summary": "Real loss, really grieved — and an accounting problem: three spilled, two standing, attention wholly captured by the spill. Mourn fully; that is the work. But the card keeps whispering its arithmetic, and the bridge does not cross itself.",
+      "imageDescription": "A figure in a black cloak stands head-bowed before three overturned cups, their contents soaking into the ground. Behind him — precisely where he is not looking — two cups stand full. A river runs past; a bridge crosses it; beyond the bridge, a small castle with lights on. Nothing in this picture is hidden. Everything in it is a matter of where the head is turned.",
+      "upright": {
+        "keywords": [
+          "grief with an inventory error, the three spilled, the two standing, mourning that must run its course, loss magnetizing attention, the bridge home unused"
+        ],
+        "essay": [
+          "The Five of Cups is the tarot's most honest card about grief, because it refuses both consolations on offer. It will not say the loss is smaller than it feels — three cups are down, their contents unrecoverable, and the figure's black cloak is not a costume. And it will not say the loss is everything — two cups stand full at his back, undramatic, patient, real. The card holds both facts at once and asks you to, which is the single hardest cognitive task grief assigns.",
+          "First, the permission, because it is genuine: mourn. Something was lost — the relationship, the version of the future, the person, the self you were inside a thing that ended — and losses metabolize only through grief, not around it. The cloaked pause at the spill is not weakness or wallowing at this stage; it is processing, and cultures and psyches that skip it pay compound interest later. If this card arrives early in a loss, its message is almost entirely soft: stand there as long as the standing is work. No one recovers on schedule, and the river in the picture does not hurry anyone.",
+          "But the card was painted with a geometry, and the geometry is the second message. Attention is the scarce resource in grief, and loss is magnetic: the three spilled cups capture the entire gaze, and the two standing ones survive only as rumor. This is not a moral failing — it is how attention works under pain; the wound runs the searchlight. The card does not scold. It simply, patiently, keeps the two cups in the frame, because someone has to, and the mourner cannot yet. What remains after a loss is usually unglamorous: the friends still calling, the work still standing, the body still functioning, the parts of the life that did not end. Rumor is enough for now. One day the head turns, and the card exists to guarantee that when it does, the cups will be there.",
+          "And then the bridge — the card's quiet third act. The river divides the field of loss from the castle with its lights on, and a bridge already spans it: built, load-tested, waiting. Grief's endpoint is not feeling better; it is crossing — the decision, made while still sad, to walk toward what is still inhabited. The Five of Cups never pushes anyone onto the bridge. It only makes sure you know the whole map: three spilled, two standing, one river, one bridge, one house with the lights left on for you. Mourning is standing at the spill. Recovery is turning around. Living is the walk across — and all three, the card insists, are on the same small map, closer together than they feel."
+        ],
+        "work": [
+          "The failed project, really grieved — but the searchlight is stuck on the spill. Two things still stand; name them out loud. Post-mortems end; check what the mourning is protecting you from restarting."
+        ],
+        "love": [
+          "Loss with its full weight — mourn it, don't negotiate with it. And when the head can turn: two cups at your back, usually the people who stayed through the grieving."
+        ],
+        "self": [
+          "Attention is grief's scarce resource, and the wound runs the searchlight. No schedule for the turning — but keep the two standing cups as rumor until you can look."
+        ],
+        "note": [
+          "Not wallowing — processing, at this stage. And not total loss: three spilled is not five. The arithmetic is the card's stubborn kindness."
+        ]
+      },
+      "reversed": {
+        "summary": "Grief completing its course — the head turning, the standing cups finally counted, the first steps toward the bridge. Acceptance without amnesia. Or the shadow version: mourning become identity, the loss curated instead of crossed.",
+        "keywords": [
+          "the turn, grief releasing, the two cups seen at last, return over the bridge, forgiveness of self — or mourning become residence"
+        ],
+        "essay": [
+          "Reversed, the Five of Cups is the grief at its turning point — and like all turning points, it can be taken or refused, so the card carries one bright reading and one heavy one.",
+          "The bright one is the turn itself, and it deserves precision because it is widely misunderstood. Turning from the spilled cups is not forgetting them, forgiving what caused the spill, or deciding the loss was for the best — the three cups stay spilled forever; nothing in this card ever un-spills. The turn is narrower and more achievable: it is the redirection of the searchlight, the moment attention becomes voluntary again after its long conscription to the wound. The signs are small and unmistakable: a morning where the loss is not the first thought, a laugh that arrives without guilt's countersignature, curiosity about a future event. If these have begun, the card's counsel is to trust them and to walk — toward the two cups, whose contents turn out to be specific (this friend, this work, this still-alive appetite), and then over the bridge, which is shorter than it looked from the spill. Include, on the way, the most overlooked object of grief's forgiveness: yourself — for what you did or missed or could not have known. The figure's bowed head was carrying that weight too, all along.",
+          "The heavy reading is residence: the mourning that has stopped moving and started building. Somewhere past its natural course, grief can convert from a process into a place — the loss becomes the address, the identity, the story told at every table; the spilled cups get a fence, a plaque, a visiting schedule. This is not indulgence, usually; it is fear wearing black. As long as the mourning continues, the mourner cannot be asked to want again, risk again, or be measured against a live future — the loss, honored forever, functions as an exemption from everything the two standing cups would require. The reversed card names this with as much gentleness as the truth allows: at some point, staying at the spill stops being loyalty to what was lost and starts being refusal of what wasn't. The dead thing does not need the vigil. The living things are on their own schedule, and it is running.",
+          "Either way, the reversal points across the river. The castle's lights are still on — the card never turns them off — but lights are maintained by inhabitants, and the house has been holding your place. Acceptance without amnesia; the walk that carries the loss along instead of living in it. Three cups spilled. Two carried, at last, across the bridge."
+        ],
+        "work": [
+          "The post-mortem completed and released — restart with the two assets that survived. Or: the failure become the story you lead with. The exemption it buys is costing more than the loss did."
+        ],
+        "love": [
+          "Grief loosening its grip — laughter without guilt's countersignature, a future tense returning. Forgive yourself on the way out; the bowed head was carrying that too."
+        ],
+        "self": [
+          "The turn: attention voluntary again after its conscription to the wound. Trust the small signs. And if the spill has a fence and a plaque — the vigil became a residence. The living things' schedule is running."
+        ],
+        "note": [
+          "Not forgetting and not \"for the best\" — nothing un-spills. Acceptance without amnesia: the loss carried along, not lived in."
+        ]
+      }
+    },
+    "es": {
+      "slug": "cinco-de-copas",
+      "name": "Cinco de Copas",
+      "seoTitle": "Cinco de Copas en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "Una pérdida real, llorada de verdad — y un error de cuentas: tres derramadas, dos en pie, toda la mirada puesta en lo que se derramó. Haz el duelo entero…",
+      "summary": "Una pérdida real, llorada de verdad — y un error de cuentas: tres derramadas, dos en pie, toda la mirada puesta en lo que se derramó. Haz el duelo entero; ese es el trabajo. Pero la carta insiste con su cuenta, y el puente no se cruza solo.",
+      "imageDescription": "Una figura de capa negra, cabeza gacha, ante tres copas volcadas cuyo contenido se filtra en la tierra. Detrás de ella — justo donde no mira — dos copas de pie, llenas. Pasa un río; un puente lo cruza; más allá del puente, un castillo pequeño con las luces encendidas. Nada se esconde en esta imagen. Todo depende de hacia dónde mira la cabeza.",
+      "upright": {
+        "keywords": [
+          "duelo mal contado, las tres derramadas, las dos que siguen en pie, luto que necesita su tiempo, la pérdida que se lleva toda la mirada, el puente a casa sin cruzar"
+        ],
+        "essay": [
+          "El Cinco de Copas es la carta más honesta del tarot sobre el duelo, porque rechaza los dos consuelos fáciles. No te dirá que la pérdida es menor de lo que se siente — tres copas están volcadas, su contenido no vuelve, y la capa negra de la figura no es un disfraz. Y no te dirá que la pérdida lo es todo — dos copas siguen llenas a su espalda, sin drama, pacientes, reales. La carta sostiene ambas cosas a la vez y te pide que las sostengas tú, que es lo más difícil que el duelo le exige a la cabeza.",
+          "Primero, el permiso, porque es de verdad: llora. Algo se perdió — la relación, el futuro que imaginabas, la persona, la versión de ti que existía dentro de algo que terminó — y las pérdidas solo se digieren pasando por el duelo, no rodeándolo. Detenerse ante lo derramado, cubierta de negro, no es debilidad ni regodeo en esta fase; es procesar, y las culturas y las mentes que se lo saltan lo pagan más caro después. Si esta carta aparece al principio de una pérdida, su mensaje es casi todo suave: quédate ahí de pie mientras seguir en pie ya te cueste. Nadie se recupera en un plazo fijo, y el río de la imagen no mete prisa a nadie.",
+          "Pero la carta se pintó con una geometría, y la geometría es el segundo mensaje. La atención es lo que más escasea en el duelo, y la pérdida tira de ella como un imán: las tres copas derramadas se llevan toda la mirada, y las dos en pie sobreviven apenas como un rumor. No es un defecto moral — así funciona la atención bajo el dolor; la herida decide adónde apunta la luz. La carta no regaña. Solo mantiene, con paciencia, las dos copas dentro del cuadro, porque alguien tiene que hacerlo, y quien está de luto todavía no puede. Lo que queda tras una pérdida suele ser poco vistoso: las amigas que siguen llamando, el trabajo que sigue ahí, el cuerpo que sigue funcionando, las partes de la vida que no terminaron. Con el rumor basta por ahora. Un día la cabeza gira, y la carta existe para que, cuando eso pase, las copas sigan estando ahí.",
+          "Y luego el puente — el tercer gesto callado de la carta. El río separa el campo de la pérdida del castillo con las luces encendidas, y ya hay un puente que lo cruza: construido, probado, esperando. El final del duelo no es sentirse mejor; es cruzar — la decisión, tomada aún con tristeza, de caminar hacia lo que sigue habitado. El Cinco de Copas no empuja a nadie al puente. Solo se asegura de que veas el mapa entero: tres derramadas, dos en pie, un río, un puente, una casa con las luces encendidas para ti. El luto es quedarse ante lo derramado. La recuperación es darse la vuelta. Vivir es hacer el camino al otro lado — y las tres cosas, insiste la carta, están en el mismo mapa pequeño, más cerca entre sí de lo que parecen."
+        ],
+        "work": [
+          "El proyecto fallido, llorado de verdad — pero la mirada se quedó clavada en lo que se derramó. Dos cosas siguen en pie; nómbralas en voz alta. Los análisis de lo que salió mal se acaban; fíjate de qué te está protegiendo el duelo que no cierras."
+        ],
+        "love": [
+          "La pérdida con todo su peso — llórala, no regatees con ella. Y cuando la cabeza pueda girar: dos copas a tu espalda, normalmente las personas que se quedaron mientras lo pasabas mal."
+        ],
+        "self": [
+          "La atención es lo que más escasea en el duelo, y la herida decide adónde apunta la luz. No hay plazo para el giro — pero guarda las dos copas en pie como un rumor hasta que puedas mirarlas."
+        ],
+        "note": [
+          "No es regodeo — es procesar, en esta fase. Y no es pérdida total: tres derramadas no son cinco. Esa cuenta es la ternura tozuda de la carta."
+        ]
+      },
+      "reversed": {
+        "summary": "El duelo llegando a su final — la cabeza gira, las copas en pie por fin contadas, los primeros pasos hacia el puente. Aceptar sin olvidar. O la versión oscura: el luto vuelto identidad, la pérdida montada como museo en vez de cruzada.",
+        "keywords": [
+          "el giro, el duelo que suelta, las dos copas vistas por fin, el regreso por el puente, perdonarte a ti misma — o el luto convertido en hogar"
+        ],
+        "essay": [
+          "Invertido, el Cinco de Copas es el duelo en su punto de giro — y como todo punto de giro, puede tomarse o rechazarse, así que la carta trae una lectura luminosa y una pesada.",
+          "La luminosa es el giro mismo, y merece precisión porque casi siempre se entiende mal. Girarse desde las copas derramadas no es olvidarlas, ni perdonar lo que las volcó, ni decidir que la pérdida fue lo mejor — las tres copas quedan derramadas para siempre; nada en esta carta vuelve a llenarse. El giro es algo más pequeño y más alcanzable: es adónde vuelve a apuntar la luz, el momento en que la atención vuelve a ser tuya después de tanto tiempo al servicio de la herida. Las señales son pequeñas e inconfundibles: una mañana en que la pérdida no es el primer pensamiento, una risa que llega sin que la culpa la firme detrás, curiosidad por algo que aún no ha pasado. Si esto ya empezó, la carta te aconseja fiarte y caminar — hacia las dos copas, cuyo contenido resulta ser concreto (esta amiga, este trabajo, estas ganas que siguen vivas), y luego por el puente, que es más corto de lo que parecía desde el derrame. Incluye, de paso, a quien el duelo casi nunca perdona: a ti misma — por lo que hiciste, o no viste, o no podías saber. La cabeza gacha de la figura cargaba también ese peso, todo este tiempo.",
+          "La lectura pesada es el hogar: el luto que dejó de avanzar y se puso a construir. En algún punto más allá de su curso natural, el duelo puede pasar de proceso a lugar — la pérdida se vuelve la dirección, la identidad, la historia que cuentas en cada mesa; a las copas derramadas se les pone valla, placa y horario de visitas. No suele ser autocomplacencia; es miedo vestido de negro. Mientras el luto siga, a quien lo lleva no se le puede pedir que vuelva a querer, a arriesgarse, ni que se mida con un futuro vivo — la pérdida, honrada para siempre, funciona como excusa para todo lo que exigirían las dos copas en pie. La carta invertida lo dice con toda la delicadeza que la verdad permite: en algún momento, quedarse ante lo derramado deja de ser lealtad a lo que se perdió y empieza a ser rechazo de lo que no. Lo muerto no necesita que lo velen. Lo vivo tiene su propio reloj, y está corriendo.",
+          "En cualquier caso, la inversión señala al otro lado del río. Las luces del castillo siguen encendidas — la carta nunca las apaga — pero las luces las mantienen quienes viven ahí, y la casa te ha estado guardando el sitio. Aceptar sin olvidar; el camino que se lleva la pérdida consigo en vez de vivir dentro de ella. Tres copas derramadas. Dos llevadas, por fin, al otro lado del puente."
+        ],
+        "work": [
+          "El análisis terminado y soltado — vuelve a empezar con las dos cosas que sobrevivieron. O: el fracaso vuelto la historia con la que te presentas. La excusa que te compra ya cuesta más que la propia pérdida."
+        ],
+        "love": [
+          "El duelo empieza a aflojar: aparece la risa sin culpa detrás y vuelve a existir un futuro. Perdónate al salir; la cabeza gacha también cargaba con eso."
+        ],
+        "self": [
+          "El giro: la atención vuelve a ser tuya después de estar al servicio de la herida. Fíate de las señales pequeñas. Y si lo derramado ya tiene valla y placa — el velatorio se hizo hogar. El reloj de lo vivo está corriendo."
+        ],
+        "note": [
+          "No es olvidar ni es \"fue lo mejor\" — nada vuelve a llenarse. Aceptar sin olvidar: la pérdida se lleva consigo, no se habita."
+        ]
+      }
+    }
+  }
+}

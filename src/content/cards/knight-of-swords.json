@@ -1,0 +1,128 @@
+{
+  "id": "knight-of-swords",
+  "number": 12,
+  "order": 61,
+  "arcana": "minor",
+  "suit": "swords",
+  "rank": 12,
+  "image": "/assets/cards/knight-of-swords.svg",
+  "imageWidth": 210,
+  "imageHeight": 363,
+  "relatedCardIds": [],
+  "sourceFiles": {
+    "en": "swords-12.en.md",
+    "es": "swords-12.es.md"
+  },
+  "translations": {
+    "en": {
+      "slug": "knight-of-swords",
+      "name": "Knight of Swords",
+      "seoTitle": "Knight of Swords Tarot Meaning: Upright and Reversed | AMULET",
+      "seoDescription": "The mind at cavalry speed — the case made, the wrong confronted, the decision executed while others are still scheduling the meeting. Conviction that…",
+      "summary": "The mind at cavalry speed — the case made, the wrong confronted, the decision executed while others are still scheduling the meeting. Conviction that moves. Magnificent when the cause is right and the facts are in; check both, because this card never slows down to.",
+      "imageDescription": "A knight charges at full stretch with sword thrust forward, riding not with the storm but into it — the trees bend against him, the clouds run the other way, and neither fact has reached his face. The horse's harness is worked with butterflies and birds: the emblems of the airy mind, strapped, for this hour, to a body built for impact. Nothing in the image doubts. That is its power, and its entire risk.",
+      "upright": {
+        "keywords": [
+          "the argument at full gallop, conviction with cavalry, riding into the wind, the champion summoned, speed as a form of truth, the case made now"
+        ],
+        "essay": [
+          "Where the Page studied the blade, the Knight has drawn it and picked a direction — and the Knight of Swords is what conviction looks like when it acquires a horse. This is the fastest card in the deck: the argument that must be made today, the injustice answered within the hour, the decision that clears a month of committee fog in one pass. Its arrival in a reading almost always means the deliberating is over or being declared over — someone is about to speak, send, confront, file, resign, commit, at full stretch, into the wind. And the wind matters: unlike his brother of Wands, who rides with his fire, this knight rides against the weather. Opposition is not an obstacle to this energy. It is the confirmation it feeds on.",
+          "The card's gift is real and rooms know it when it enters: decisiveness as a service to others. Every group has its fog — the problem everyone describes in the passive voice, the wrong everyone deplores and no one names, the decision orbited for a quarter. The Knight of Swords is the one who says it plainly with a date attached, and the fog's collapse is instant and looks like magic. When the building is actually on fire, no card serves better; the emergency is this knight's native country, and history's necessary charges — the whistle blown, the contract ended, the truth told at cost — were mostly ridden by exactly this energy, into exactly this wind.",
+          "Its risk is structural, and the card wears it openly: at full gallop, the reasoning happened before the ride — nothing further is checked en route. Speed converts opinion into trajectory. The charge that turns out wrong does Knight-scale damage, because arriving at the wrong castle with cavalry is not a rounding error; and even the charge that is right can be lost in the winning, because arguments have two scoreboards — the point, and the person — and this card, unattended, runs up the first while the second quietly forfeits. Being right at speed has casualties that being right slowly does not.",
+          "So the counsel is the pre-flight, not the brake — braking this card is not on offer. Before the charge: three checks, fast ones, in the saddle. The facts — actually confirmed, or confirmed by enthusiasm? The target — the cause, or the argument itself, which for this knight is always the sweeter prize? The aftermath — what should still be standing when you are done, and does the current speed permit it to be? Three honest seconds each. Then, if they hold — and often they do; this card is frequently simply correct — charge, fully, without the half-commitment that gets riders killed at the walls. The Knight of Swords done well is a beautiful, necessary thing: the truth arriving on time, for once. Just remember the wind carries sound both ways, and everything shouted at this speed is on the record."
+        ],
+        "work": [
+          "The month of committee fog cleared in one pass — say it plainly, with a date. Three checks in the saddle first: facts confirmed, target real, aftermath survivable."
+        ],
+        "love": [
+          "The confrontation that finally happens — necessary, maybe overdue. Two scoreboards run in every argument: the point and the person. Winning one can forfeit the other."
+        ],
+        "self": [
+          "Conviction acquired a horse. Make sure the reasoning happened before the ride — nothing gets checked en route, and opinion at this speed becomes trajectory."
+        ],
+        "note": [
+          "Not anger — velocity; the face is clear, not red. And not recklessness when the checks are done: the emergency is this card's native country. Some charges are simply right."
+        ]
+      },
+      "reversed": {
+        "summary": "Speed with the thought removed — the argument picked for sport, the take at full tilt, the confrontation that needed one fact it didn't wait for. Force scattering on contact. Dismount, check the map, and notice who you've been charging: they were probably not the war.",
+        "keywords": [
+          "the charge with nothing under it, argument as appetite, wrong castle at full speed, the crusade revealed as ego, brilliance scattering, words outrunning their rider"
+        ],
+        "essay": [
+          "Reversed, the Knight of Swords is the charge with the reasoning removed — and the card is precise about what remains when thought is subtracted from velocity: appetite. The reversed knight does not ride to settle a question; he rides because riding is the only speed at which he feels like himself. Arguments are picked the way meals are — by hunger, not by merit; the position taken is whichever one the room left undefended; the sword is out before the situation has said what it is. Watch for the tell in yourself and others: the flicker of pleasure when a conflict appears. The upright knight is relieved when the fog clears. The reversed one is disappointed, because the fog was the fun.",
+          "The second face is the wrong castle — the charge whose facts were one check short. The email sent at full conviction and wrong on its central claim; the accusation that felt airtight at speed and had a hole visible to anyone standing still; the cause taken up whole from a headline. What makes this face expensive is cavalry arithmetic: the damage scales with the commitment, and this card commits totally. A wrong opinion mumbled is corrected in a sentence. A wrong opinion ridden through the middle of a team, a family, a comment thread, leaves hoofprints that outlast every retraction. The reversal's cold question: how many of your last five charges would have survived one hour of waiting? The number that would not is the measure of how often the horse — not you — has been choosing the wars.",
+          "The third face is dissipation, subtler and sadder: brilliance scattering across too many fronts. The reversed knight has six crusades running, each at half its needed cavalry, each abandoned at the first counter-charge for a fresher enemy — force everywhere, impact nowhere. Air feeds fire, the suits agree, but air alone cuts nothing at scale: a mind this fast needs one war at a time or it wins none.",
+          "The counsel is dismounting drills, humble by design. The hour rule on everything sharp — sixty minutes between the conviction and the send; what survives the hour was probably yours, what does not was the horse's. One war at a time, chosen while stationary, on paper, with the question what am I actually trying to change — and if the answer is a feeling rather than a state of the world, that war is appetite and gets struck from the list. And the hardest drill: the apology at full gallop-speed when the castle was wrong. The reversed knight's instinct is to argue the granary into having been a fortress all along. The recovered one turns the horse in front of everyone. It is the only maneuver in this card that requires actual courage, and — riders report — the wind, for once, is at your back for it."
+        ],
+        "work": [
+          "Six crusades at half-cavalry each wins none — one war at a time, chosen while stationary. And the hour rule on every sharp send: what survives sixty minutes was yours."
+        ],
+        "love": [
+          "The flicker of pleasure when conflict appears is the tell: the fog was the fun. If the argument is appetite, no resolution will feed it — dismount instead."
+        ],
+        "self": [
+          "How many of your last five charges would have survived one hour's wait? That number says who's been choosing the wars — you, or the horse."
+        ],
+        "note": [
+          "Not passion misfiled — this is argument as sport, cooler than it looks. And not beyond recovery: turning the horse in public is the card's one act of real courage."
+        ]
+      }
+    },
+    "es": {
+      "slug": "caballero-de-espadas",
+      "name": "Caballero de Espadas",
+      "seoTitle": "Caballero de Espadas en el tarot: significado al derecho e invertido | AMULET",
+      "seoDescription": "La mente a velocidad de caballería — el alegato hecho, el agravio confrontado, la decisión ejecutada mientras otros aún le buscan fecha a la reunión.…",
+      "summary": "La mente a velocidad de caballería — el alegato hecho, el agravio confrontado, la decisión ejecutada mientras otros aún le buscan fecha a la reunión. Convicción que se mueve. Magnífica cuando la causa es justa y los hechos están confirmados; comprueba ambas cosas, porque esta carta nunca frena para hacerlo.",
+      "imageDescription": "Un caballero carga estirado al máximo con la espada por delante, cabalgando no con la tormenta sino contra ella — los árboles se doblan en su contra, las nubes corren en dirección opuesta, y ninguno de los dos hechos le ha llegado a la cara. El arnés del caballo lleva labradas mariposas y pájaros: los emblemas de la mente de aire, atados, por esta hora, a un cuerpo hecho para el impacto. Nada en la imagen duda. Ese es su poder, y su riesgo entero.",
+      "upright": {
+        "keywords": [
+          "la discusión a galope tendido, convicción con caballería, cabalgar contra el viento, el campeón convocado, la velocidad como forma de verdad, el alegato hecho ya"
+        ],
+        "essay": [
+          "Donde la Sota estudia la hoja, el Caballero la desenvaina y elige una dirección. Es la carta más rápida de la baraja: la conversación que debe ocurrir hoy, la injusticia que requiere respuesta inmediata, la decisión capaz de despejar un mes de dudas. Cuando aparece, suele indicar que el tiempo de deliberar ha terminado: alguien está a punto de hablar, enviar, confrontar, presentar, renunciar o comprometerse. A diferencia del Caballero de Bastos, que cabalga impulsado por su fuego, este avanza contra el viento. La oposición no lo frena; incluso puede animarlo demasiado.",
+          "El don de esta carta es la decisión puesta al servicio de los demás. Todo grupo tiene una niebla: un problema que todos rodean, un agravio que nadie nombra, una decisión que lleva meses esperando. El Caballero de Espadas dice lo necesario con claridad y fecha, y esa niebla se disipa. En una emergencia real, pocas energías son más útiles: la denuncia presentada, el contrato que hay que terminar o una verdad dicha a costa propia suelen necesitar justamente este impulso.",
+          "Su riesgo es estructural, y la carta lo lleva a la vista: a galope tendido, el razonamiento ocurrió antes de montar — nada más se comprueba en ruta. La velocidad convierte la opinión en trayectoria. La carga que resulta errada hace daño a escala de caballería, porque llegar al castillo equivocado con caballería no es un error de redondeo; y hasta la carga acertada puede perderse en la victoria, porque las discusiones llevan dos marcadores — el argumento y la persona — y esta carta, desatendida, dispara el primero mientras el segundo abandona en silencio. Tener razón a velocidad tiene bajas que tener razón despacio no tiene.",
+          "El consejo es revisar antes de actuar, no paralizarse. Haz tres comprobaciones rápidas: ¿los hechos están confirmados o solo te entusiasman? ¿vas contra el problema real o contra el placer de discutir? ¿qué debería seguir en pie cuando termines? Si las respuestas sostienen la acción, avanza sin medias tintas. El Caballero de Espadas bien encauzado es necesario: una verdad que llega a tiempo. Solo recuerda que todo lo dicho a esta velocidad deja huella."
+        ],
+        "work": [
+          "El mes de niebla de comité despejado en una pasada — dilo claro, con fecha. Antes, tres comprobaciones en la silla: hechos confirmados, blanco real, un después en pie."
+        ],
+        "love": [
+          "La confrontación que por fin ocurre — necesaria, quizá atrasada. Toda discusión lleva dos marcadores: el argumento y la persona. Ganar uno puede perder el otro."
+        ],
+        "self": [
+          "La convicción consiguió montura. Asegúrate de que el razonamiento ocurrió antes de montar — nada se comprueba en ruta, y la opinión a esta velocidad se vuelve trayectoria."
+        ],
+        "note": [
+          "No es rabia — es velocidad; la cara está despejada, no roja. Y no es imprudencia cuando las comprobaciones están hechas: la emergencia es el país natal de esta carta. Algunas cargas sencillamente son justas."
+        ]
+      },
+      "reversed": {
+        "summary": "Velocidad con el pensamiento quitado — la discusión elegida por deporte, la opinión a todo galope, la confrontación a la que le faltó un dato que no quiso esperar. Fuerza que se dispersa al contacto. Desmonta, revisa el mapa, y fíjate contra quién llevas cargando: probablemente no eran la guerra.",
+        "keywords": [
+          "la carga sin nada debajo, la discusión como apetito, castillo equivocado a toda velocidad, la cruzada revelada como ego, brillantez dispersándose, palabras que dejan atrás al jinete"
+        ],
+        "essay": [
+          "Invertido, el Caballero de Espadas carga sin haber pensado. Cuando a la velocidad se le quita la reflexión, queda el impulso. No cabalga para resolver una cuestión, sino porque el conflicto le hace sentir vivo. Elige discusiones por hambre, no porque merezcan la pena; toma la postura que nadie defiende y desenvaina antes de saber qué ocurre. La señal es un placer inmediato ante el conflicto. El Caballero al derecho siente alivio cuando se despeja la niebla; el invertido se decepciona, porque la niebla era la diversión.",
+          "La segunda cara es cargar contra el lugar equivocado por no comprobar los hechos. Un correo enviado con total convicción puede contener un error central; una acusación sólida a primera vista puede desmoronarse al detenerse un minuto. El daño crece con la velocidad y el compromiso: una opinión equivocada se corrige fácilmente en privado, pero una lanzada contra un equipo, una familia o una comunidad deja marcas. Pregúntate cuántas de tus últimas cinco cargas habrían sobrevivido a una hora de espera. Esa respuesta indica quién estaba eligiendo las batallas: tú o tu impulso.",
+          "La tercera cara es la disipación, más sutil y más triste: la brillantez dispersándose en demasiados frentes. El caballero invertido lleva seis cruzadas en marcha, cada una con la mitad de la caballería que necesita, cada una abandonada a la primera contracarga por un enemigo más fresco — fuerza en todas partes, impacto en ninguna. El aire alimenta el fuego, coinciden los palos, pero el aire solo no corta nada a escala: una mente así de rápida necesita una guerra a la vez o no gana ninguna.",
+          "El consejo son ejercicios de desmontar, humildes a propósito. La regla de la hora para todo lo afilado — sesenta minutos entre la convicción y el envío; lo que sobrevive a la hora probablemente era tuyo, lo que no, era del caballo. Una guerra a la vez, elegida en parado, sobre papel, con la pregunta ¿qué intento cambiar en realidad? — y si la respuesta es un sentimiento y no un estado del mundo, esa guerra es apetito y se tacha de la lista. Y el ejercicio más duro: la disculpa a velocidad de galope cuando el castillo era el equivocado. El instinto del caballero invertido es argumentar que el granero fue fortaleza desde siempre. El recuperado gira el caballo delante de todos. Es la única maniobra de esta carta que exige coraje de verdad, y — cuentan los jinetes — el viento, por una vez, sopla a favor para hacerla."
+        ],
+        "work": [
+          "Seis cruzadas con media caballería no ganan ninguna — una guerra a la vez, elegida en parado. Y la regla de la hora para todo envío afilado: lo que sobrevive sesenta minutos era tuyo."
+        ],
+        "love": [
+          "El destello de placer cuando aparece el conflicto es la señal: la niebla era la diversión. Si la discusión es apetito, ninguna resolución lo saciará — desmonta."
+        ],
+        "self": [
+          "¿Cuántas de tus últimas cinco cargas habrían sobrevivido a una hora de espera? Ese número dice quién elige las guerras — tú, o el caballo."
+        ],
+        "note": [
+          "No es pasión mal archivada — es la discusión como deporte, más fría de lo que parece. Y no es irrecuperable: girar el caballo en público es el único acto de coraje real de esta carta."
+        ]
+      }
+    }
+  }
+}
