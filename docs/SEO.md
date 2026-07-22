@@ -25,17 +25,19 @@ La build genera:
 
 `npm run validate:site` compara las canonicals indexables con todas las URLs del sitemap, valida JSON-LD, alternates de cartas, assets, títulos, descriptions, h1 y enlaces internos.
 
+En producción, ambos sitemaps y `robots.txt` se sirven desde Vercel con el dominio canónico. `sitemap-0.xml` contiene 163 URLs HTTPS únicas: portada, landings inglesa y española, ambos índices, 78 cartas inglesas, 78 españolas y las páginas legales. No contiene hostnames `vercel.app` ni `github.io`.
+
 ## Google Search Console
 
-Después del despliegue:
+El cambio de hosting no cambia la propiedad de Search Console y no requiere la herramienta de cambio de dirección. Después del despliegue:
 
-1. Añadir `amulet.cards` como propiedad de dominio.
-2. Verificarla con el TXT DNS que proporcione Google.
+1. Abrir o confirmar `amulet.cards` como propiedad de dominio existente.
+2. Conservar su TXT de verificación; si Google solicita uno nuevo, usar exactamente el que proporcione.
 3. Enviar `https://amulet.cards/sitemap-index.xml`.
 4. Solicitar indexación solo de `/`, `/en/cards/`, `/es/cartas/` y unas pocas cartas representativas.
 5. Dejar que Google descubra el resto mediante sitemap y enlaces internos; no solicitar cientos de URLs manualmente.
 
-Antes de enviar el sitemap hay que confirmar que el dominio ya sirve el build de Vercel y que las antiguas rutas devuelven redirecciones permanentes.
+Durante la auditoría DNS del corte no se observó un TXT de verificación en el apex, por lo que la verificación de la propiedad no pudo confirmarse desde el repositorio. Si Search Console la solicita, hay que añadir exactamente el TXT proporcionado por Google sin modificar los registros web de Vercel.
 
 ## Cambios de slug
 

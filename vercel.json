@@ -6,10 +6,10 @@
   "cleanUrls": true,
   "trailingSlash": true,
   "redirects": [
-    { "source": "/tarot", "destination": "/es/cartas/", "permanent": true },
-    { "source": "/tarot/:slug", "destination": "/es/cartas/:slug/", "permanent": true },
-    { "source": "/en/tarot", "destination": "/en/cards/", "permanent": true },
-    { "source": "/en/tarot/:slug", "destination": "/en/cards/:slug/", "permanent": true }
+    { "source": "/tarot/", "destination": "/es/cartas/", "permanent": true },
+    { "source": "/tarot/:slug/", "destination": "/es/cartas/:slug/", "permanent": true },
+    { "source": "/en/tarot/", "destination": "/en/cards/", "permanent": true },
+    { "source": "/en/tarot/:slug/", "destination": "/en/cards/:slug/", "permanent": true }
   ],
   "headers": [
     {

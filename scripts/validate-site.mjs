@@ -104,8 +104,8 @@ for (const card of cards) {
 const vercel = JSON.parse(fs.readFileSync(path.join(root, 'vercel.json'), 'utf8'));
 const redirectSignature = new Set(vercel.redirects.map((redirect) => `${redirect.source}|${redirect.destination}|${redirect.permanent}`));
 for (const signature of [
-  '/tarot|/es/cartas/|true', '/tarot/:slug|/es/cartas/:slug/|true',
-  '/en/tarot|/en/cards/|true', '/en/tarot/:slug|/en/cards/:slug/|true',
+  '/tarot/|/es/cartas/|true', '/tarot/:slug/|/es/cartas/:slug/|true',
+  '/en/tarot/|/en/cards/|true', '/en/tarot/:slug/|/en/cards/:slug/|true',
 ]) if (!redirectSignature.has(signature)) errors.push(`missing historical Vercel redirect: ${signature}`);
 
 const sitemapIndex = path.join(dist, 'sitemap-index.xml');
@@ -113,16 +113,35 @@ if (!isFile(sitemapIndex)) errors.push('missing sitemap-index.xml');
 const sitemapFiles = fs.existsSync(sitemapIndex)
   ? matches(fs.readFileSync(sitemapIndex, 'utf8'), /<loc>([^<]+\.xml)<\/loc>/g).map((match) => path.join(dist, new URL(match[1]).pathname.slice(1)))
   : [];
+const sitemapUrlList = [];
 const sitemapUrls = new Set();
 for (const file of sitemapFiles) {
   if (!isFile(file)) errors.push(`missing sitemap child ${file}`);
-  else for (const match of matches(fs.readFileSync(file, 'utf8'), /<loc>(https:\/\/amulet\.cards\/[^<]*)<\/loc>/g)) sitemapUrls.add(match[1]);
+  else for (const match of matches(fs.readFileSync(file, 'utf8'), /<loc>([^<]+)<\/loc>/g)) {
+    sitemapUrlList.push(match[1]);
+    sitemapUrls.add(match[1]);
+    if (!match[1].startsWith(`${site}/`)) errors.push(`sitemap contains a non-production URL: ${match[1]}`);
+  }
 }
+if (sitemapUrlList.length !== sitemapUrls.size) errors.push(`sitemap contains ${sitemapUrlList.length - sitemapUrls.size} duplicate URL(s)`);
+const indexableCanonicals = new Set();
+const noindexRoutes = [];
 for (const page of pages) {
   const robots = attr(page.html, /<meta name="robots" content="([^"]+)"/i) ?? '';
   const canonical = attr(page.html, /<link rel="canonical" href="([^"]+)"/i);
-  if (!robots.includes('noindex') && canonical && !sitemapUrls.has(canonical)) errors.push(`${page.route}: public canonical absent from sitemap`);
-  if (robots.includes('noindex') && canonical && sitemapUrls.has(canonical)) errors.push(`${page.route}: noindex URL present in sitemap`);
+  if (!robots.includes('noindex') && canonical) {
+    indexableCanonicals.add(canonical);
+    if (!sitemapUrls.has(canonical)) errors.push(`${page.route}: public canonical absent from sitemap`);
+  } else if (robots.includes('noindex')) {
+    noindexRoutes.push(page.route);
+    if (canonical && sitemapUrls.has(canonical)) errors.push(`${page.route}: noindex URL present in sitemap`);
+  }
+}
+for (const url of sitemapUrls) if (!indexableCanonicals.has(url)) errors.push(`sitemap URL has no indexable canonical page: ${url}`);
+if (sitemapUrls.size !== indexableCanonicals.size) errors.push(`sitemap count ${sitemapUrls.size} differs from indexable canonical count ${indexableCanonicals.size}`);
+const expectedNoindexRoutes = ['/404/', '/en/guides/', '/es/guias/', '/proximamente/'];
+if (noindexRoutes.sort().join('|') !== expectedNoindexRoutes.sort().join('|')) {
+  errors.push(`unexpected noindex routes: ${noindexRoutes.join(', ') || 'none'}`);
 }
 const robotsText = fs.readFileSync(path.join(dist, 'robots.txt'), 'utf8');
 if (!robotsText.includes('Sitemap: https://amulet.cards/sitemap-index.xml')) errors.push('robots.txt does not point to the real sitemap');
@@ -134,3 +153,4 @@ if (errors.length) {
   process.exit(1);
 }
 console.log(`Validated ${pages.length} HTML pages, ${cards.length} cards, ${sitemapUrls.size} sitemap URLs, canonicals, hreflang, JSON-LD, assets and internal links.`);
+console.log(`Excluded noindex routes: ${noindexRoutes.join(', ')}.`);

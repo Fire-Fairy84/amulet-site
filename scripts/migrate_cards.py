@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """Migrate Amulet's canonical bilingual ArcanaCorpus into Astro JSON entries.
 
-The app corpus is read-only. Run `npm run migrate:cards` after changing it, or
-`npm run validate:content` to verify that committed JSON and SVG assets are in sync.
+The app corpus is read-only. Run `npm run migrate:cards` after changing it,
+`npm run validate:content` to validate committed JSON and SVG assets, or
+`npm run validate:source` to compare committed output with the optional app checkout.
 """
 
 from __future__ import annotations
@@ -246,10 +247,13 @@ def serialized(card: dict) -> str:
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--check", action="store_true", help="validate committed output without writing")
+    parser.add_argument("--check-source", action="store_true", help="compare committed output with the app source without writing")
     parser.add_argument("--limit", type=int, help="write only the first N cards for architecture tests")
     args = parser.parse_args()
     try:
-        if args.check and not CORPUS.is_dir():
+        if args.check and args.check_source:
+            raise ValueError("Use either --check or --check-source, not both")
+        if args.check:
             committed = [(json.loads(path.read_text(encoding="utf-8")), Path()) for path in sorted(CONTENT.glob("*.json"))]
             validate(committed)
             if not committed:
@@ -258,12 +262,14 @@ def main() -> int:
                 image = ROOT / "public" / card["image"].lstrip("/")
                 if not image.is_file():
                     raise ValueError(f"Missing copied image: {image}")
-            print(f"Validated {len(committed)} committed cards without the optional app source checkout.")
+            print(f"Validated {len(committed)} committed cards and copied images.")
             return 0
+        if args.check_source and not CORPUS.is_dir():
+            raise ValueError(f"Optional app source checkout not found: {CORPUS}")
         cards = make_cards()
         validate(cards)
         selected = cards[: args.limit] if args.limit else cards
-        if args.check:
+        if args.check_source:
             problems = []
             expected_names = {f"{card['id']}.json" for card, _ in cards}
             actual_names = {path.name for path in CONTENT.glob("*.json")} if CONTENT.is_dir() else set()

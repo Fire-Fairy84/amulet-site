@@ -11,7 +11,9 @@
     "lint": "ASTRO_TELEMETRY_DISABLED=1 astro check",
     "migrate:cards": "python3 scripts/migrate_cards.py",
     "validate:content": "python3 scripts/migrate_cards.py --check",
-    "validate:site": "node scripts/validate-site.mjs"
+    "validate:source": "python3 scripts/migrate_cards.py --check-source",
+    "validate:site": "node scripts/validate-site.mjs",
+    "validate:production": "node scripts/validate-production.mjs"
   },
   "engines": {
     "node": ">=22.12.0"
