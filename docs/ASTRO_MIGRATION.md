@@ -65,6 +65,8 @@ Antes de cambiar DNS:
 5. Cambiar los registros DNS siguiendo los valores exactos que muestre Vercel.
 6. Esperar certificado TLS y verificar `https://amulet.cards` antes de desactivar GitHub Pages.
 
+Mientras el DNS siga apuntando a GitHub Pages, `.github/workflows/deploy-pages.yml` conserva el sistema de publicación actual: instala con `npm ci`, construye Astro y publica `dist` como artefacto de Pages. `public/CNAME` mantiene `amulet.cards` dentro del artefacto. El cambio a Vercel no debe hacerse hasta enlazar un proyecto, configurar el dominio y actualizar DNS de forma explícita.
+
 El dominio no puede migrarse solo con cambios de código. No hay variables de entorno web actuales que conservar; `APP_STORE_URL` pertenecía al generador antiguo y la web sigue mostrando el estado real “próximamente”.
 
 ## Guías futuras
