@@ -15,8 +15,10 @@ Uso:  python3 generate_blog.py            # 78 cartas ES+EN + índices
 """
 import os
 import re
+from datetime import date
 from pathlib import Path
 
+SITE = "https://amulet.cards"
 ROOT = Path(__file__).resolve().parent
 CORPUS = Path(os.environ.get("CORPUS", ROOT.parent / "amulet" / "Resources" / "ArcanaCorpus"))
 APP_STORE_URL = os.environ.get("APP_STORE_URL", "")  # vacío = estado "próximamente"
@@ -314,6 +316,28 @@ def index(lang, groups):
 </div></body></html>"""
 
 
+def sitemap(pairs, singles):
+    """pairs: [(es_path, en_path, xdefault_path)] con alternates hreflang.
+    singles: [path] sin traducción. Devuelve XML."""
+    lastmod = date.today().isoformat()
+    out = ['<?xml version="1.0" encoding="UTF-8"?>',
+           '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" '
+           'xmlns:xhtml="http://www.w3.org/1999/xhtml">']
+
+    def alts(es, en, xd):
+        return (f'<xhtml:link rel="alternate" hreflang="es" href="{SITE}{es}"/>'
+                f'<xhtml:link rel="alternate" hreflang="en" href="{SITE}{en}"/>'
+                f'<xhtml:link rel="alternate" hreflang="x-default" href="{SITE}{xd}"/>')
+    for es, en, xd in pairs:
+        block = alts(es, en, xd)
+        for loc in (es, en):
+            out.append(f'<url><loc>{SITE}{loc}</loc><lastmod>{lastmod}</lastmod>{block}</url>')
+    for s in singles:
+        out.append(f'<url><loc>{SITE}{s}</loc><lastmod>{lastmod}</lastmod></url>')
+    out.append('</urlset>')
+    return "".join(out)
+
+
 def load(f_es):
     """Devuelve (name_es, data_es, name_en, data_en) o None si falta el par EN."""
     f_en = f_es.with_name(f_es.name.replace(".es.md", ".en.md"))
@@ -346,6 +370,7 @@ def write(num_or_none, name_es, slug_es, data_es, name_en, slug_en, data_en,
 def main():
     made = 0
     grp_es, grp_en = [], []
+    pairs = []  # (es_path, en_path, xdefault_path) para el sitemap
 
     # ── Arcanos mayores ──
     files = {int(f.name[:2]): f for f in CORPUS.glob("[0-9][0-9]-*.es.md")}
@@ -366,6 +391,8 @@ def main():
                    [(str(m[0]), m[1], m[2]) for m in majors]))
     grp_en.append((STR["en"]["majors"], "0 – 21",
                    [(str(m[0]), m[4], m[5]) for m in majors]))
+    for m in majors:
+        pairs.append((f"/tarot/{m[2]}/", f"/en/tarot/{m[5]}/", f"/tarot/{m[2]}/"))
 
     # ── Arcanos menores, por palo ──
     for prefix, suit_es, suit_en, name_es_suit, name_en_suit, accent in SUITS:
@@ -390,12 +417,23 @@ def main():
                        [("", c[1], c[2]) for c in cards]))
         grp_en.append((name_en_suit, STR["en"]["minors"],
                        [("", c[4], c[5]) for c in cards]))
+        for c in cards:
+            pairs.append((f"/tarot/{c[2]}/", f"/en/tarot/{c[5]}/", f"/tarot/{c[2]}/"))
 
     (ROOT / "tarot").mkdir(exist_ok=True)
     (ROOT / "en/tarot").mkdir(parents=True, exist_ok=True)
     (ROOT / "tarot/index.html").write_text(index("es", grp_es))
     (ROOT / "en/tarot/index.html").write_text(index("en", grp_en))
-    print(f"{made} cartas × 2 idiomas + 2 índices · corpus: {CORPUS}")
+
+    # ── sitemap.xml + robots.txt ──
+    # homes (x-default = EN root, igual que su <link>) e índices del blog (x-default = ES)
+    top = [("/es/", "/", "/"),
+           ("/tarot/", "/en/tarot/", "/tarot/")]
+    singles = ["/privacy/", "/terms/"]
+    (ROOT / "sitemap.xml").write_text(sitemap(top + pairs, singles))
+    (ROOT / "robots.txt").write_text(
+        "User-agent: *\nAllow: /\n\nSitemap: " + SITE + "/sitemap.xml\n")
+    print(f"{made} cartas × 2 idiomas + 2 índices · {len(top)+len(pairs)} pares en sitemap · corpus: {CORPUS}")
 
 
 if __name__ == "__main__":
